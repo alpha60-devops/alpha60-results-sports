@@ -35,7 +35,6 @@ description: "Analysis of Sports-genre peer-to-peer distribution"
 </script>
 
 
-{% include animation-graph-table.html %}
 <div style="height: 50px;"></div>
 
 
