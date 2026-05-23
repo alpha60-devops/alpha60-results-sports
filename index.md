@@ -25,8 +25,8 @@ Sample dates: 2026
 
 
 ## Results, Commentary
-- [Sporting Universe](/docs/sports.md)
-- Olympics
+- Sporting Universe
+- [Olympics 2026](/docs/olympics.md)
 <div style="height: 50px;"></div>
 
 
