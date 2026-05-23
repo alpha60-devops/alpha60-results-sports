@@ -567,7 +567,7 @@ Line graph of one media object, itemized by sub-component (BTIH), as peer swarms
  </g>
  </g>
 <g id="composite-chart">
-<g id="line-graph-1-18.02.2026.Winter Olympics.Men's Hockey.Quaterfinals.SVK-GER.Okko.RUS.mkv">
+<g id="line-graph-1">
  <g id="polyline-18.02.2026.Winter Olympics.Men's Hockey.Quaterfinals.SVK-GER.Okko.RUS.mkv">
 <polyline points="200,880 308.571,843.352 417.143,775.867 525.714,725.159 634.286,665.993 742.857,612.144 851.429,546.868 960,491.592 1068.57,433.376 1177.14,375.199 1285.71,324.916 1394.29,280.566 1502.86,237.761 1611.43,207.003 1720,200 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -680,7 +680,7 @@ week: 15
  </g>
 <text x="1720.000000" y="193.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 18.02.2026.Winter Olympics.Men's Hockey.Quaterfinals.SVK-GER.Okko.RUS.mkv</text>
  </g>
-<g id="line-graph-2-2026.02.07. Snowboard OWG. Milano-Cortina (ITA). Men's Big Air (LRT Plius).mkv">
+<g id="line-graph-2">
  <g id="polyline-2026.02.07. Snowboard OWG. Milano-Cortina (ITA). Men's Big Air (LRT Plius).mkv">
 <polyline points="200,843.238 308.571,786.336 417.143,721.945 525.714,675.309 634.286,630.526 742.857,577.309 851.429,532.23 960,492.073 1068.57,451.126 1177.14,407.79 1285.71,369 1394.29,321.075 1502.86,284.586 1611.43,246.316 1720,231.716 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -793,7 +793,7 @@ week: 15
  </g>
 <text x="1720.000000" y="224.715562" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 2026.02.07. Snowboard OWG. Milano-Cortina (ITA). Men's Big Air (LRT Plius).mkv</text>
  </g>
-<g id="line-graph-3-Winter Olympic Snowboard Men's Slopestyle 18.02.2026.mkv">
+<g id="line-graph-3">
  <g id="polyline-Winter Olympic Snowboard Men's Slopestyle 18.02.2026.mkv">
 <polyline points="200,880 308.571,880 417.143,824.943 525.714,766.226 634.286,708.391 742.857,674.345 851.429,637.521 960,593.885 1068.57,551.986 1177.14,502.191 1285.71,456.135 1394.29,420.982 1502.86,387.211 1611.43,362.58 1720,359.037 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -906,7 +906,7 @@ week: 15
  </g>
 <text x="1720.000000" y="352.036558" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> Winter Olympic Snowboard Men's Slopestyle 18.02.2026.mkv</text>
  </g>
-<g id="line-graph-4-Winter Olympic Hockey Men Denmark vs Latvia 15.02.2026.mkv">
+<g id="line-graph-4">
  <g id="polyline-Winter Olympic Hockey Men Denmark vs Latvia 15.02.2026.mkv">
 <polyline points="200,880 308.571,860.209 417.143,819.277 525.714,776.668 634.286,730.81 742.857,684.854 851.429,632.071 960,579.017 1068.57,524.934 1177.14,476.325 1285.71,441.457 1394.29,419.189 1502.86,400.959 1611.43,384.853 1720,377.947 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -1019,7 +1019,7 @@ week: 15
  </g>
 <text x="1720.000000" y="370.946868" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> Winter Olympic Hockey Men Denmark vs Latvia 15.02.2026.mkv</text>
  </g>
-<g id="line-graph-5-10.02.2026.Winter Olympics. Cross-Country Skiing. Sprint">
+<g id="line-graph-5">
  <g id="polyline-10.02.2026.Winter Olympics. Cross-Country Skiing. Sprint">
 <polyline points="200,827.916 308.571,768.274 417.143,704.672 525.714,647.41 634.286,599.234 742.857,550.024 851.429,538.791 960,526.497 1068.57,515.164 1177.14,489.194 1285.71,466.522 1394.29,458.414 1502.86,442.556 1611.43,420.479 1720,413.975 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -1132,7 +1132,7 @@ week: 15
  </g>
 <text x="1720.000000" y="406.974656" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 10.02.2026.Winter Olympics. Cross-Country Skiing. Sprint</text>
  </g>
-<g id="line-graph-6-2026.02.09. Alpine Skiing OWG. Milano-Cortina (ITA). Men's Team Combined">
+<g id="line-graph-6">
  <g id="polyline-2026.02.09. Alpine Skiing OWG. Milano-Cortina (ITA). Men's Team Combined">
 <polyline points="200,850.834 308.571,809.308 417.143,771.872 525.714,730.042 634.286,697.781 742.857,643.524 851.429,594.833 960,566.046 1068.57,542.868 1177.14,521.344 1285.71,508.69 1394.29,469.897 1502.86,438.918 1611.43,419.703 1720,416.174 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -1245,7 +1245,7 @@ week: 15
  </g>
 <text x="1720.000000" y="409.174164" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 2026.02.09. Alpine Skiing OWG. Milano-Cortina (ITA). Men's Team Combined</text>
  </g>
-<g id="line-graph-7-2026.02.18. Curling OWG. Milano-Cortina (ITA). Women. Round Robin Session 11. CHN v SWE.mkv">
+<g id="line-graph-7">
  <g id="polyline-2026.02.18. Curling OWG. Milano-Cortina (ITA). Women. Round Robin Session 11. CHN v SWE.mkv">
 <polyline points="200,880 308.571,880 417.143,868.67 525.714,838.772 634.286,804.537 742.857,750.179 851.429,700.327 960,641.568 1068.57,583.503 1177.14,546.843 1285.71,514.668 1394.29,493.854 1502.86,470.906 1611.43,457.702 1720,450.56 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -1358,7 +1358,7 @@ week: 15
  </g>
 <text x="1720.000000" y="443.560379" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 2026.02.18. Curling OWG. Milano-Cortina (ITA). Women. Round Robin Session 11. CHN v SWE.mkv</text>
  </g>
-<g id="line-graph-8-2026.02.13. Curling OWG. Milano-Cortina (ITA). Men. Round Robin Session 4. CZE v NOR.mkv">
+<g id="line-graph-8">
  <g id="polyline-2026.02.13. Curling OWG. Milano-Cortina (ITA). Men. Round Robin Session 4. CZE v NOR.mkv">
 <polyline points="200,880 308.571,876.102 417.143,856.629 525.714,832.818 634.286,812.929 742.857,790.991 851.429,765.479 960,731.991 1068.57,682.597 1177.14,632.591 1285.71,584.644 1394.29,544.227 1502.86,510.091 1611.43,467.782 1720,459.954 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -1471,7 +1471,7 @@ week: 15
  </g>
 <text x="1720.000000" y="452.953542" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 2026.02.13. Curling OWG. Milano-Cortina (ITA). Men. Round Robin Session 4. CZE v NOR.mkv</text>
  </g>
-<g id="line-graph-9-14.02.2026.Winter Olympics.Hockey.Men.USA-DEN.Okko.RUS.mkv">
+<g id="line-graph-9">
  <g id="polyline-14.02.2026.Winter Olympics.Hockey.Men.USA-DEN.Okko.RUS.mkv">
 <polyline points="200,880 308.571,854.628 417.143,804.577 525.714,778.547 634.286,735.591 742.857,674.875 851.429,645.349 960,625.896 1068.57,583.61 1177.14,563.705 1285.71,553.637 1394.29,519.618 1502.86,483.967 1611.43,468.419 1720,464.236 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -1584,7 +1584,7 @@ week: 15
  </g>
 <text x="1720.000000" y="457.236011" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 14.02.2026.Winter Olympics.Hockey.Men.USA-DEN.Okko.RUS.mkv</text>
  </g>
-<g id="line-graph-10-2026.02.07. Curling OWG. Milano-Cortina (ITA). Mixed Doubles. Round Robin Session 8. SWE v ITA (ARD).mkv">
+<g id="line-graph-10">
  <g id="polyline-2026.02.07. Curling OWG. Milano-Cortina (ITA). Mixed Doubles. Round Robin Session 8. SWE v ITA (ARD).mkv">
 <polyline points="200,846.859 308.571,807.493 417.143,785.29 525.714,769.348 634.286,735.415 742.857,716.872 851.429,695.983 960,673.293 1068.57,645.067 1177.14,611.459 1285.71,581.177 1394.29,555.207 1502.86,522.985 1611.43,475.385 1720,464.266 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -1697,7 +1697,7 @@ week: 15
  </g>
 <text x="1720.000000" y="457.265767" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 2026.02.07. Curling OWG. Milano-Cortina (ITA). Mixed Doubles. Round Robin Session 8. SWE v ITA (ARD).mkv</text>
  </g>
-<g id="line-graph-11-21.02.2026.Winter Olympics.Curling.Women.Bronze Medal Game.Okko.RUS.mkv">
+<g id="line-graph-11">
  <g id="polyline-21.02.2026.Winter Olympics.Curling.Women.Bronze Medal Game.Okko.RUS.mkv">
 <polyline points="200,880 308.571,880 417.143,853.903 525.714,808.619 634.286,731.914 742.857,665.304 851.429,604.523 960,571.752 1068.57,560.89 1177.14,529.314 1285.71,504.856 1394.29,494.471 1502.86,482.908 1611.43,469.327 1720,465.144 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -1810,7 +1810,7 @@ week: 15
  </g>
 <text x="1720.000000" y="458.143586" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 21.02.2026.Winter Olympics.Curling.Women.Bronze Medal Game.Okko.RUS.mkv</text>
  </g>
-<g id="line-graph-12-20.02.2026.Winter Olympics.Freestyle Skiing. Men's Aerials Final.Okko.RUS.mkv">
+<g id="line-graph-12">
  <g id="polyline-20.02.2026.Winter Olympics.Freestyle Skiing. Men's Aerials Final.Okko.RUS.mkv">
 <polyline points="200,880 308.571,876.156 417.143,855.116 525.714,826.131 634.286,798.782 742.857,718.278 851.429,649.205 960,606.926 1068.57,592.467 1177.14,570.145 1285.71,545.722 1394.29,518.956 1502.86,508.368 1611.43,480.667 1720,473.257 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -1923,7 +1923,7 @@ week: 15
  </g>
 <text x="1720.000000" y="466.257216" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 20.02.2026.Winter Olympics.Freestyle Skiing. Men's Aerials Final.Okko.RUS.mkv</text>
  </g>
-<g id="line-graph-13-16.02.2026.Winter Olympics.Curling.Women.DEN-GBR.TNT.mkv">
+<g id="line-graph-13">
  <g id="polyline-16.02.2026.Winter Olympics.Curling.Women.DEN-GBR.TNT.mkv">
 <polyline points="200,880 308.571,836.704 417.143,781.55 525.714,733.064 634.286,688.444 742.857,638.677 851.429,621.242 960,591.974 1068.57,556.424 1177.14,539.48 1285.71,527.191 1394.29,512.977 1502.86,504.09 1611.43,482.809 1720,478.105 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -2036,7 +2036,7 @@ week: 15
  </g>
 <text x="1720.000000" y="471.105060" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 16.02.2026.Winter Olympics.Curling.Women.DEN-GBR.TNT.mkv</text>
  </g>
-<g id="line-graph-14-06_02_2026_Winter_Olympics_Opening_Ceremony_Okko_mkv">
+<g id="line-graph-14">
  <g id="polyline-06_02_2026_Winter_Olympics_Opening_Ceremony_Okko_mkv">
 <polyline points="200,876.938 308.571,834.688 417.143,816.212 525.714,758.12 634.286,723.47 742.857,703.858 851.429,656.124 960,611.32 1068.57,584.847 1177.14,561.609 1285.71,532.741 1394.29,518.939 1502.86,505.201 1611.43,488.525 1720,478.809 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -2149,7 +2149,7 @@ week: 15
  </g>
 <text x="1720.000000" y="471.809299" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 06_02_2026_Winter_Olympics_Opening_Ceremony_Okko_mkv</text>
  </g>
-<g id="line-graph-15-15.02.2026.Winter Olympics.Curling.Men.GER-GBR.TNT.mkv">
+<g id="line-graph-15">
  <g id="polyline-15.02.2026.Winter Olympics.Curling.Men.GER-GBR.TNT.mkv">
 <polyline points="200,880 308.571,861.749 417.143,803.838 525.714,739.494 634.286,681.194 742.857,624.569 851.429,606.773 960,589.836 1068.57,569.259 1177.14,556.764 1285.71,550.069 1394.29,520.999 1502.86,507.574 1611.43,491.272 1720,484.468 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -2262,7 +2262,7 @@ week: 15
  </g>
 <text x="1720.000000" y="477.468010" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 15.02.2026.Winter Olympics.Curling.Men.GER-GBR.TNT.mkv</text>
  </g>
-<g id="line-graph-16-www.UIndex.org    -    Milano.Cortina.Winter.Olympics.2026.BBC.Live.Coverage.Day.09.Part.04.720p.HEVC.x265-MeGusta">
+<g id="line-graph-16">
  <g id="polyline-www.UIndex.org    -    Milano.Cortina.Winter.Olympics.2026.BBC.Live.Coverage.Day.09.Part.04.720p.HEVC.x265-MeGusta">
 <polyline points="200,880 308.571,864.026 417.143,849.142 525.714,835.318 634.286,813.99 742.857,789.109 851.429,772.876 960,749.18 1068.57,705.391 1177.14,648.042 1285.71,615.868 1394.29,579.022 1502.86,529.963 1611.43,491.823 1720,484.681 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -2375,7 +2375,7 @@ week: 15
  </g>
 <text x="1720.000000" y="477.681265" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> www.UIndex.org    -    Milano.Cortina.Winter.Olympics.2026.BBC.Live.Coverage.Day.09.Part.04.720p.HEVC.x265-MeGusta</text>
  </g>
-<g id="line-graph-17-2026.02.04. Curling OWG. Milano-Cortina (ITA). Mixed Doubles. Round Robin Session 1. GBR v NOR.mkv">
+<g id="line-graph-17">
  <g id="polyline-2026.02.04. Curling OWG. Milano-Cortina (ITA). Mixed Doubles. Round Robin Session 1. GBR v NOR.mkv">
 <polyline points="200,850.415 308.571,812.073 417.143,795.943 525.714,765.182 634.286,739.97 742.857,716.959 851.429,677.675 960,622.129 1068.57,581.544 1177.14,552.876 1285.71,540.433 1394.29,526.274 1502.86,504.107 1611.43,490.722 1720,487.583 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -2488,7 +2488,7 @@ week: 15
  </g>
 <text x="1720.000000" y="480.582533" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 2026.02.04. Curling OWG. Milano-Cortina (ITA). Mixed Doubles. Round Robin Session 1. GBR v NOR.mkv</text>
  </g>
-<g id="line-graph-18-2026.02.05. Curling OWG. Milano-Cortina (ITA). Mixed Doubles. Round Robin Session 2. NOR v USA (ARD).mkv">
+<g id="line-graph-18">
  <g id="polyline-2026.02.05. Curling OWG. Milano-Cortina (ITA). Mixed Doubles. Round Robin Session 2. NOR v USA (ARD).mkv">
 <polyline points="200,857.888 308.571,824.536 417.143,795.732 525.714,780.482 634.286,741.503 742.857,705.552 851.429,641.273 960,604.268 1068.57,586.474 1177.14,562.056 1285.71,546.674 1394.29,534.409 1502.86,514.77 1611.43,498.377 1720,489.723 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -2601,7 +2601,7 @@ week: 15
  </g>
 <text x="1720.000000" y="482.722527" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 2026.02.05. Curling OWG. Milano-Cortina (ITA). Mixed Doubles. Round Robin Session 2. NOR v USA (ARD).mkv</text>
  </g>
-<g id="line-graph-19-2026.02.07. Ski Jumping OWG. Milano-Cortina (ITA). HS 107.  Women's Trial Round.mkv">
+<g id="line-graph-19">
  <g id="polyline-2026.02.07. Ski Jumping OWG. Milano-Cortina (ITA). HS 107.  Women's Trial Round.mkv">
 <polyline points="200,872.343 308.571,853.638 417.143,843.779 525.714,813.179 634.286,766.432 742.857,706.608 851.429,665.996 960,636.475 1068.57,584.44 1177.14,547.723 1285.71,535.461 1394.29,525.718 1502.86,514.408 1611.43,496.777 1720,492.897 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -2714,7 +2714,7 @@ week: 15
  </g>
 <text x="1720.000000" y="485.896563" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 2026.02.07. Ski Jumping OWG. Milano-Cortina (ITA). HS 107.  Women's Trial Round.mkv</text>
  </g>
-<g id="line-graph-20-06.02.2026.Winter Olympics.Hockey.Women.FRA-JPN.mkv">
+<g id="line-graph-20">
  <g id="polyline-06.02.2026.Winter Olympics.Hockey.Women.FRA-JPN.mkv">
 <polyline points="200,860.155 308.571,823.72 417.143,798.016 525.714,773.873 634.286,732.157 742.857,689.717 851.429,661.795 960,638.927 1068.57,612.337 1177.14,568.409 1285.71,551.532 1394.29,530.573 1502.86,512.065 1611.43,496.033 1720,493.844 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -2827,7 +2827,7 @@ week: 15
  </g>
 <text x="1720.000000" y="486.843814" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 06.02.2026.Winter Olympics.Hockey.Women.FRA-JPN.mkv</text>
  </g>
-<g id="line-graph-21-14.02.2026.Winter Olympics.Hockey.Men.SVK-SWE-(proxy.kazaa).mkv">
+<g id="line-graph-21">
  <g id="polyline-14.02.2026.Winter Olympics.Hockey.Men.SVK-SWE-(proxy.kazaa).mkv">
 <polyline points="200,880 308.571,866.659 417.143,844.257 525.714,819.426 634.286,772.286 742.857,714.003 851.429,667.074 960,631.895 1068.57,604.129 1177.14,585.278 1285.71,571.171 1394.29,550.562 1502.86,530.043 1611.43,506.659 1720,499.093 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -2940,7 +2940,7 @@ week: 15
  </g>
 <text x="1720.000000" y="492.093372" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 14.02.2026.Winter Olympics.Hockey.Men.SVK-SWE-(proxy.kazaa).mkv</text>
  </g>
-<g id="line-graph-22-2026.02.13. Snowboard OWG. Milano-Cortina (ITA). Men's Halfpipe (BBC).mkv">
+<g id="line-graph-22">
  <g id="polyline-2026.02.13. Snowboard OWG. Milano-Cortina (ITA). Men's Halfpipe (BBC).mkv">
 <polyline points="200,880 308.571,854.69 417.143,816.782 525.714,800.285 634.286,780.496 742.857,738.16 851.429,705.059 960,672.577 1068.57,645.607 1177.14,627.741 1285.71,604.528 1394.29,556.618 1502.86,525.13 1611.43,505.568 1720,499.227 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -3053,7 +3053,7 @@ week: 15
  </g>
 <text x="1720.000000" y="492.227277" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 2026.02.13. Snowboard OWG. Milano-Cortina (ITA). Men's Halfpipe (BBC).mkv</text>
  </g>
-<g id="line-graph-23-14.02.2026.Winter Olympics.Hockey.Men.FIN-ITA.Okko.RUS.mkv">
+<g id="line-graph-23">
  <g id="polyline-14.02.2026.Winter Olympics.Hockey.Men.FIN-ITA.Okko.RUS.mkv">
 <polyline points="200,880 308.571,849.395 417.143,835.112 525.714,817.038 634.286,790.306 742.857,759.912 851.429,737.109 960,716.103 1068.57,673.167 1177.14,634.897 1285.71,606.128 1394.29,587.213 1502.86,560.223 1611.43,519.933 1720,502.996 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -3166,7 +3166,7 @@ week: 15
  </g>
 <text x="1720.000000" y="495.996445" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> 14.02.2026.Winter Olympics.Hockey.Men.FIN-ITA.Okko.RUS.mkv</text>
  </g>
-<g id="line-graph-24-MilanoCortinaWinterOlympics2026BBCLiveCoverageDay03Part06720pH">
+<g id="line-graph-24">
  <g id="polyline-MilanoCortinaWinterOlympics2026BBCLiveCoverageDay03Part06720pH">
 <polyline points="200,877.257 308.571,855.438 417.143,831.884 525.714,796.362 634.286,772.594 742.857,749.946 851.429,718.469 960,686.379 1068.57,661.973 1177.14,629.65 1285.71,608.285 1394.29,580.842 1502.86,553.486 1611.43,522.041 1720,507.996 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -3279,7 +3279,7 @@ week: 15
  </g>
 <text x="1720.000000" y="500.995551" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> MilanoCortinaWinterOlympics2026BBCLiveCoverageDay03Part06720pH</text>
  </g>
-<g id="line-graph-25-19.02.2026.Winter Olympics.Curling.Men.Semifinal 2.Okko.RUS.mkv">
+<g id="line-graph-25">
  <g id="polyline-19.02.2026.Winter Olympics.Curling.Men.Semifinal 2.Okko.RUS.mkv">
 <polyline points="200,880 308.571,872.328 417.143,844.23 525.714,817.102 634.286,783.504 742.857,738.18 851.429,698.75 960,678.394 1068.57,651.76 1177.14,631.463 1285.71,607.69 1394.29,581.797 1502.86,554.314 1611.43,517.086 1720,508.097 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
