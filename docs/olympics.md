@@ -91,9 +91,41 @@ description: "Analysis of Olympics 2026 peer-to-peer distribution"
 
 ## Commentary, Questions
 
+### USA vs. International Downloaders
+
+At five percent of all downloaders, the USA is not a dominant force in
+this swarm distribution.
+
+This may mean that the USA audience is elsewhere; watching live on
+terrestrial broadcast stations, on paid cable subscriptions
+expressedly for the Olympics, watching on YouTube, or otherwise
+adequetly serviced for media using exising platforms.
+
+See the graph above for swarm composition by country. Russia, China, Korea, Turkey all are bigger parts of the global swarm than the USA.
+
+### USA vs. International by Uploaded Media
+
+The Olympics experiment used 684 input sources and sampled each for 15 weeks.
+Of these input sources, the originating creator can be indentified as:
+
+1. 277 BBC (UK), 40%
+2. XXX Global (Canada), ~30%
+3. 45 ARD (Germany), 6.5%
+4. 24 Russian, 3.5%
+5. 21 Eurosport, 3%
+
+The absence of content from USA and Japanese sources may indicate that broadcasters in these regions took legal action to take down unauthorized content.
+
+
+
 ### Men vs. Women
 
-### Does sports media "decay" faster then film/tv? Is there a sharper decrease in interest as the results become known?
+### Does sports media "decay" faster then film/tv? Is there a sharper decrease in interest as the results of the sporting event become known?
+
+The research team's initial assumption was that sporting events on the internet were "quick" events, events that in real life are at a paricular Monday night, or game day, match day, event day. And then faded quickly.
+
+But this does not seem to be the case.
+
 
 
 
