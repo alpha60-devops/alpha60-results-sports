@@ -106,7 +106,7 @@ See the graph above for swarm composition by country. Russia, China, Korea, Turk
 ### USA vs. International by Uploaded Media
 
 The Olympics experiment used 684 input sources and sampled each for 15 weeks.
-Of these input sources, the originating creator can be indentified as:
+Of these input sources, the originating creator can be identified as:
 
 1. 277 BBC (UK), 40%
 2. XXX Global (Canada), ~30%
@@ -117,17 +117,44 @@ Of these input sources, the originating creator can be indentified as:
 The absence of content from USA and Japanese sources may indicate that broadcasters in these regions took legal action to take down unauthorized content.
 
 
-
 ### Men vs. Women
+
+
 
 ### Does sports media "decay" faster then film/tv? Is there a sharper decrease in interest as the results of the sporting event become known?
 
-The research team's initial assumption was that sporting events on the internet were "quick" events, events that in real life are at a paricular Monday night, or game day, match day, event day. And then faded quickly.
+The research team's initial assumption was that sporting events on the internet were "quick" events, events that in real life are at a particular Monday night, or game day, match day, event day. And then faded quickly.
 
 But this does not seem to be the case.
 
+For context, here is the Olympics sample put in with all the other Alpha60 sampling completed in the years 2025 and 2026.
+
+{::nomarkdown}
+{% include open-sample-downloads-by-week-normalized-start-2025.svg %}
+{:/}
+
+<div style="height: 25px;"></div>
+
+{::nomarkdown}
+{% include open-sample-downloads-by-week-normalized-start-2026.svg %}
+{:/}
+
+<div style="height: 25px;"></div>
+
+What do these graphs show? The Olympics sampled at the top of the media heap, along with such streaming stars as Fallout, Stranger Things, etc.
+
+If the Olympics curve in the graph above flattened, then that would mean that it became gradually less popular over time compared to the rest of the media objects. But this did not happen: sports, drama, comedy, animation look to have similar patterns over time.
 
 
+### If sports content has a long-tail in practice, why don't any platforms support this kind of viewing?
+
+Could USA platforms gain international market share by creating long-tail platforms that provide a canonical URL that is durable over time?
+
+AKA, use pirate archival techniques to organize content and use something like
+
+https://ioc.org/2026
+
+as the canonical root for streaming media in perpetuity?
 
 {::nomarkdown}
 <svg width="100" height=100>
