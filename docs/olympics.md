@@ -153,7 +153,7 @@ https://ioc.org/2026
 as the canonical root for streaming media in perpetuity?
 
 
-### Men vs. Women
+### By Gender: Open vs. Men vs. Women
 
 The Olympics experiment used 684 input sources and sampled each for 15
 weeks.  Each of the input sources was hand-tagged to fit into one of
