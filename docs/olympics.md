@@ -45,7 +45,7 @@ description: "Analysis of Olympics 2026 peer-to-peer distribution"
 {:/}
 <div style="height: 25px;"></div>
 
-### Graph by Individual Leak
+### Graph by Event
 {::nomarkdown}
 {% include olympics-2026-downloads-by-btiha.svg %}
 {:/}
