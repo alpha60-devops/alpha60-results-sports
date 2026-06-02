@@ -163,7 +163,12 @@ three categories: men, women, and open.
 2. [men](/resources/slice-gender/olympics-2026-179-btiha-names.men.txt), 179 (26%)
 2. [women](/resources/slice-gender/olympics-2026-127-btiha-names.women.txt) 127 (19%)
 
-These results can be graphed (for the largest 100 objects in the slice) as:
+These results can be graphed (for the largest 100 objects in the slice) as Men in blue, Women in green, and Other as gray as:
+
+{::nomarkdown}
+{% include composite-gender-slices.svg %}
+{:/}
+<div style="height: 25px;"></div>
 
 
 One question that remains is how these media objects differ by country. Does the USA watch the same women's sports as Sweden or Japan?
