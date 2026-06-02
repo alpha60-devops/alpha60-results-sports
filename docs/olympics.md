@@ -155,6 +155,18 @@ as the canonical root for streaming media in perpetuity?
 
 ### Men vs. Women
 
+The Olympics experiment used 684 input sources and sampled each for 15
+weeks.  Each of the input sources was hand-tagged to fit into one of
+three categories: men, women, and open.
+
+1. [open](/resources/slice-gender/olympics-2026-378-btiha-names.open.txt), 378 (55%)
+2. [men](/resources/slice-gender/olympics-2026-179-btiha-names.men.txt), 179 (26%)
+2. [women](/resources/slice-gender/olympics-2026-127-btiha-names.women.txt) 127 (19%)
+
+These results can be graphed (for the largest 100 objects in the slice) as:
+
+
+One question that remains is how these media objects differ by country. Does the USA watch the same women's sports as Sweden or Japan?
 
 
 ### Olympics as a useful baseline for comparisons with other media
