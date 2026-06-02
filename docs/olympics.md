@@ -103,7 +103,7 @@ adequetly serviced for media using exising platforms.
 
 See the graph above for swarm composition by country. Russia, China, Korea, Turkey all are bigger parts of the global swarm than the USA.
 
-### USA vs. International by Uploaded Media
+### USA vs. International by Content Creation
 
 The Olympics experiment used 684 input sources and sampled each for 15 weeks.
 Of these input sources, the originating creator can be identified as:
@@ -117,11 +117,7 @@ Of these input sources, the originating creator can be identified as:
 The absence of content from USA and Japanese sources may indicate that broadcasters in these regions took legal action to take down unauthorized content.
 
 
-### Men vs. Women
-
-
-
-### Does sports media "decay" faster then film/tv? Is there a sharper decrease in interest as the results of the sporting event become known?
+### Does sports media "decay" faster then film/tv media? Is there a sharper decrease in interest as the results of the sporting event become known?
 
 The research team's initial assumption was that sporting events on the internet were "quick" events, events that in real life are at a particular Monday night, or game day, match day, event day. And then faded quickly.
 
@@ -155,6 +151,19 @@ AKA, use pirate archival techniques to organize content and use something like
 https://ioc.org/2026
 
 as the canonical root for streaming media in perpetuity?
+
+
+### Men vs. Women
+
+
+
+### Olympics as a useful baseline for comparisons with other media
+
+The Olympics should be sampled at every opportunity as a big media event that is global in nature. This swarm can be used as a reference swarm to see how the composition of the interent is changing, and how different parts of iternet infracture are emerging and becoming more important.
+
+Here is a reference table for the 2026 Olympics, itemized by internet infrastructure: fiber, wireless, satellite, and two categories of network privacy: hosted (hosting on another machine), and service (using VPN, proxy, or other privaccy-forward services.)
+
+{% include olympics-2026-network-carto-table.html %}
 
 {::nomarkdown}
 <svg width="100" height=100>
