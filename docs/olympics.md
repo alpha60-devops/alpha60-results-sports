@@ -123,11 +123,11 @@ The absence of content from USA and Japanese sources may indicate that broadcast
 IOC licenses the media feed for the Olympics to each national body? Can you detail the licensing of media for the Olympics? Is it a set licene fee per country or is it negotiated per-country? What countries pay? Some color please.
 
 #### Action item 2 ATDK
-Metadata analysis of BTIHA sample set, looking for host languages, subtitles, resolution, creation time, originating source. Frame analysis for watermarks. Can IOC loops be detected with computer vision, ML, AI techniques? TBD. This is a suitable project for University of California (or other) Data Discovery.
+Metadata analysis of BTIHA sample set, looking for host languages, subtitles, resolution, creation time, originating source. Frame analysis for watermarks. Can IOC loops be detected with computer vision, ML, AI techniques? TBD. This is a suitable project for University of California (or other) Data Discovery. Do athelete-specific features and intros only appear on USA platforms? Do other countries have region-specific content creation traditions?
 
 
 <div style="height: 50px;"></div>
-### Does sports media "decay" faster then film/tv media? <br>Is there a sharper decrease in interest as the results of the sporting event become known?
+### Does media of sporting events "decay" faster then film/tv media? <br>Is there a sharper decrease in audience as the results of the sporting event become known?
 
 The research team's initial assumption was that sporting events on the internet were "quick" events, events that in real life are at a particular Monday night, or game day, match day, event day. And then faded quickly.
 
@@ -153,10 +153,9 @@ If the Olympics curve in the graph above flattened, then that would mean that it
 
 
 <div style="height: 50px;"></div>
-### If sports content is a combintation of both event day and long-tail duration in practice, why don't any streaming platforms support this kind of viewing?
+### If the audience for sports content is a combintation of both event day and long-tail days in practice, why don't any streaming platforms support this kind of viewing?
 
-
-Could USA platforms gain international market share by creating long-tail platforms that provide a canonical URL that is durable over time?
+Just curious. Could USA platforms gain international market share by creating long-tail platforms that provide a canonical URL that is durable over time?
 
 AKA, use pirate archival techniques to organize content and use something like
 
