@@ -93,6 +93,7 @@ description: "Analysis of Olympics 2026 peer-to-peer distribution"
 The Olympics 2026 sample used 684 input sources and sampled each for 15 weeks,
 from 2026-02-08 to 2026-05-25.
 
+<div style="height: 50px;"></div>
 ### USA vs. International Downloaders
 
 At five percent of all downloaders, the USA is not a dominant force in
@@ -105,6 +106,7 @@ adequetly serviced for media using exising platforms.
 
 See the graph above for swarm composition by country. Russia, China, Korea, Turkey all are bigger parts of the global swarm than the USA.
 
+<div style="height: 50px;"></div>
 ### USA vs. International by Content Creation
 
 Of these input sources, the originating creator can be identified as:
@@ -124,6 +126,7 @@ IOC licenses the media feed for the Olympics to each national body? Can you deta
 Metadata analysis of BTIHA sample set, looking for host languages, subtitles, resolution, creation time, originating source. Frame analysis for watermarks. Can IOC loops be detected with computer vision, ML, AI techniques? TBD. This is a suitable project for University of California (or other) Data Discovery.
 
 
+<div style="height: 50px;"></div>
 ### Does sports media "decay" faster then film/tv media? <br>Is there a sharper decrease in interest as the results of the sporting event become known?
 
 The research team's initial assumption was that sporting events on the internet were "quick" events, events that in real life are at a particular Monday night, or game day, match day, event day. And then faded quickly.
@@ -149,6 +152,7 @@ What do these graphs show? The Olympics sampled at the top of the media heap, al
 If the Olympics curve in the graph above flattened, then that would mean that it became gradually less popular over time compared to the rest of the media objects. But this did not happen: sports, drama, comedy, animation look to have similar patterns over time.
 
 
+<div style="height: 50px;"></div>
 ### If sports content has a long-tail in practice, why don't any platforms support this kind of viewing?
 
 Could USA platforms gain international market share by creating long-tail platforms that provide a canonical URL that is durable over time?
@@ -160,6 +164,7 @@ https://ioc.org/2026
 as the canonical root for streaming media in perpetuity?
 
 
+<div style="height: 50px;"></div>
 ### By Gender: Open vs. Men vs. Women
 
 Each of the Olympics 2026 input sources was hand-tagged to fit into one of
@@ -184,18 +189,19 @@ These results can be graphed (for the largest 5 objects in the slice) as Men in 
 A follow-up question that remains is how these media objects differ by country. Does the USA watch the same women's sports as Sweden or Japan? Eileen Gu in CHN and Alyssa Liu in USA? Or does Curling really take it all for women?
 
 
+<div style="height: 50px;"></div>
 ### Olympics as a baseline for comparisons with other media
 
-The Olympics should be sampled at every opportunity as a big media event that is global in nature. This swarm can be used as a reference swarm to see how the composition of the interent is changing, and how different parts of iternet infracture are emerging and becoming more important.
+The Olympics dataset is useful. And more useful over time, with repeated samples every two years providing data about how the internet infrasture is changing year over year. Because of this, the Olympics should be sampled at every opportunity as a big media event that is global in nature. This archival swarm data can be used as a reference swarm to see how the composition of the interent is changing, and how different parts of iternet infracture are emerging and becoming more important.
 
-Here is a reference table for the 2026 Olympics, itemized by internet infrastructure: fiber, wireless, satellite, and two categories of network privacy: hosted (hosting on another machine), and service (using VPN, proxy, or other privaccy-forward services.)
+Here is the reference table for the 2026 Olympics, itemized by internet infrastructure: fiber, wireless, satellite, and two categories of network privacy: hosted (hosting on another machine), and service (using VPN, proxy, or other privaccy-forward services.)
 
 {% include olympics-2026-network-carto-table.html %}
 <div style="height: 25px;"></div>
 
 Using the Olympics 2026 sample as the origin data point for
 comparisons with streaming media objects like *Stranger Things 5.1*
-and the Epstein leaks hosted by the Internet Archive and Distributed
+and the *Epstein Leaks* hosted by the Internet Archive and Distributed
 Denial of Secrets, some immediate observations:
 
 - Lack of participation in Africa, Brazil, India.
@@ -203,6 +209,7 @@ Denial of Secrets, some immediate observations:
 - Mobile big in Seoul x Japan x Vancouver and Europe.
 - Privacy methods being used in USA/Europe mostly, biggest difference is with leaks dataset, again.
 
+<div style="height: 50px;"></div>
 {::nomarkdown}
 <svg width="100" height=100>
 	<circle cx="20" cy="50" r="10" fill="black"/>
