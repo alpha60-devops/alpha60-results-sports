@@ -153,7 +153,8 @@ If the Olympics curve in the graph above flattened, then that would mean that it
 
 
 <div style="height: 50px;"></div>
-### If sports content has a long-tail in practice, why don't any platforms support this kind of viewing?
+### If sports content has a long-tail in practice, why don't any streaming platforms support this kind of viewing?
+
 
 Could USA platforms gain international market share by creating long-tail platforms that provide a canonical URL that is durable over time?
 
@@ -162,6 +163,8 @@ AKA, use pirate archival techniques to organize content and use something like
 https://ioc.org/2026
 
 as the canonical root for streaming media in perpetuity?
+
+The biggest win for this approach would seem to be in the field of collegiate atheletics. Given the social media and AI harm pressures on students, leaving harm-reduction in the hands of streaming platforms or network administrators seems foolish. Also given the trade portal and increasing commercialization and regulation of student atheletes, a concept for a solution that provided per-school cannonical clips of sporting events, by school athelete (knowing that 4 years in one place will be considerably more rare going forward), and ways to verify of authentic conntent as becoming more and more important as AI deepfakery evolves in sophistication in the future.
 
 
 <div style="height: 50px;"></div>
