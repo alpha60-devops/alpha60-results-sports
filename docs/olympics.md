@@ -124,7 +124,7 @@ IOC licenses the media feed for the Olympics to each national body? Can you deta
 Metadata analysis of BTIHA sample set, looking for host languages, subtitles, resolution, creation time, originating source. Frame analysis for watermarks. Can IOC loops be detected with computer vision, ML, AI techniques? TBD. This is a suitable project for University of California (or other) Data Discovery.
 
 
-### Does sports media "decay" faster then film/tv media? Is there a sharper decrease in interest as the results of the sporting event become known?
+### Does sports media "decay" faster then film/tv media? <br>Is there a sharper decrease in interest as the results of the sporting event become known?
 
 The research team's initial assumption was that sporting events on the internet were "quick" events, events that in real life are at a particular Monday night, or game day, match day, event day. And then faded quickly.
 
