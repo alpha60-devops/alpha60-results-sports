@@ -90,6 +90,9 @@ description: "Analysis of Olympics 2026 peer-to-peer distribution"
 
 ## Commentary, Questions
 
+The Olympics 2026 sampling used 684 input sources and sampled each for 15 weeks,
+from 2026-02-08 to 2026-05-25.
+
 ### USA vs. International Downloaders
 
 At five percent of all downloaders, the USA is not a dominant force in
@@ -104,7 +107,6 @@ See the graph above for swarm composition by country. Russia, China, Korea, Turk
 
 ### USA vs. International by Content Creation
 
-The Olympics experiment used 684 input sources and sampled each for 15 weeks.
 Of these input sources, the originating creator can be identified as:
 
 1. 277 BBC (UK), 40%
@@ -114,6 +116,12 @@ Of these input sources, the originating creator can be identified as:
 5. 21 Eurosport, 3%
 
 The absence of content from USA and Japanese sources may indicate that broadcasters in these regions took legal action to take down unauthorized content.
+
+#### Action item 1 ATDK
+IOC licenses the media feed for the Olympics to each national body? Can you detail the licensing of media for the Olympics? Is it a set licene fee per country or is it negotiated per-country? What countries pay? Some color please.
+
+#### Action item 2 ATDK
+Metadata analysis of BTIHA sample set, looking for host languages, subtitles, resolution, creation time, originating source. Frame analysis for watermarks. Can IOC loops be detected with computer vision, ML, AI techniques? TBD. This is a suitable project for University of California (or other) Data Discovery.
 
 
 ### Does sports media "decay" faster then film/tv media? Is there a sharper decrease in interest as the results of the sporting event become known?
@@ -154,15 +162,14 @@ as the canonical root for streaming media in perpetuity?
 
 ### By Gender: Open vs. Men vs. Women
 
-The Olympics experiment used 684 input sources and sampled each for 15
-weeks.  Each of the input sources was hand-tagged to fit into one of
-three categories: men, women, and open.
+Each of the Olympics 2026 input sources was hand-tagged to fit into one of
+three categories gender: men, women, and open.
 
 1. [open](/resources/slice-gender/olympics-2026-378-btiha-names.open.txt), 378 (55%)
 2. [men](/resources/slice-gender/olympics-2026-179-btiha-names.men.txt), 179 (26%)
 2. [women](/resources/slice-gender/olympics-2026-127-btiha-names.women.txt) 127 (19%)
 
-These results can be graphed (for the largest 100 objects in the slice) as Men in blue, Women in green, and Other as gray as:
+These results can be graphed (for the largest 5 objects in the slice) as Men in blue, Women in green, and Other as gray for the global data set as:
 
 {::nomarkdown}
 {% include global-men-slices-top-5.svg  %}
@@ -173,18 +180,28 @@ These results can be graphed (for the largest 100 objects in the slice) as Men i
 <div style="height: 25px;"></div>
 {:/}
 
+#### Action item 1 BTDK
+A follow-up question that remains is how these media objects differ by country. Does the USA watch the same women's sports as Sweden or Japan? Eileen Gu in CHN and Alyssa Liu in USA? Or does Curling really take it all for women?
 
 
-One question that remains is how these media objects differ by country. Does the USA watch the same women's sports as Sweden or Japan?
-
-
-### Olympics as a useful baseline for comparisons with other media
+### Olympics as a baseline for comparisons with other media
 
 The Olympics should be sampled at every opportunity as a big media event that is global in nature. This swarm can be used as a reference swarm to see how the composition of the interent is changing, and how different parts of iternet infracture are emerging and becoming more important.
 
 Here is a reference table for the 2026 Olympics, itemized by internet infrastructure: fiber, wireless, satellite, and two categories of network privacy: hosted (hosting on another machine), and service (using VPN, proxy, or other privaccy-forward services.)
 
 {% include olympics-2026-network-carto-table.html %}
+<div style="height: 25px;"></div>
+
+Using the Olympics 2026 sample as the origin data point for
+comparisons with streaming media objects like *Stranger Things 5.1*
+and the Epstein leaks hosted by the Internet Archive and Distributed
+Denial of Secrets, some immediate observations:
+
+- Lack of participation in Africa, Brazil, India.
+- China based Olympics swarm smaller than Epstein leaks, which is a pattern also seen in other leak data sets (UKR-RUS Cyberwar).
+- Mobile big in Seoul x Japan x Vancouver and Europe.
+- Privacy methods being used in USA/Europe mostly, biggest difference is with leaks dataset, again.
 
 {::nomarkdown}
 <svg width="100" height=100>
