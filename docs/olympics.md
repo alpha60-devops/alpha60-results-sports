@@ -90,7 +90,7 @@ description: "Analysis of Olympics 2026 peer-to-peer distribution"
 
 ## Commentary, Questions
 
-The Olympics 2026 sampling used 684 input sources and sampled each for 15 weeks,
+The Olympics 2026 sample used 684 input sources and sampled each for 15 weeks,
 from 2026-02-08 to 2026-05-25.
 
 ### USA vs. International Downloaders
