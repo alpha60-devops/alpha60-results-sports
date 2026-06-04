@@ -166,9 +166,14 @@ three categories: men, women, and open.
 These results can be graphed (for the largest 100 objects in the slice) as Men in blue, Women in green, and Other as gray as:
 
 {::nomarkdown}
-{% include composite-gender-slices.svg %}
-{:/}
+{% include global-men-slices-top-5.svg  %}
 <div style="height: 25px;"></div>
+{% include global-women-slices-top-5.svg  %}
+<div style="height: 25px;"></div>
+{% include global-open-slices-top-5.svg  %}
+<div style="height: 25px;"></div>
+{:/}
+
 
 
 One question that remains is how these media objects differ by country. Does the USA watch the same women's sports as Sweden or Japan?

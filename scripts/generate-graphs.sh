@@ -6,7 +6,7 @@
 
 ./a60-meta-collection.btiha.exe ../data/olympics-2026-week.json "Olympics 2026"
 
-./a60-meta-collection.slices.exe ../data/olympics-2026-week.json "Olympics 2026"
+./a60-meta-collection.slices.exe ../data/olympics-2026-week.json "Olympics 2026" 5
 
 
 ./a60-carto-geo.exe ../data/olympics-2026-week-00001.geojson
