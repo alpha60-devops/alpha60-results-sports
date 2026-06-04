@@ -39,17 +39,16 @@ description: "Analysis of Olympics 2026 peer-to-peer distribution"
 {:/}
 <div style="height: 25px;"></div>
 
-### Graph by Top Country Downloaders
-{::nomarkdown}
-{% include olympics-2026-downloads-by-country.svg %}
-{:/}
-<div style="height: 25px;"></div>
-
 ### Graph by Event
 {::nomarkdown}
 {% include olympics-2026-downloads-by-btiha.svg %}
 {:/}
+<div style="height: 25px;"></div>
 
+### Graph by Top Country Downloaders
+{::nomarkdown}
+{% include olympics-2026-downloads-by-country.svg %}
+{:/}
 <div style="height: 50px;"></div>
 
 
