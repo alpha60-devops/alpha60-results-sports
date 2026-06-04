@@ -153,7 +153,7 @@ If the Olympics curve in the graph above flattened, then that would mean that it
 
 
 <div style="height: 50px;"></div>
-### If sports content has a long-tail in practice, why don't any streaming platforms support this kind of viewing?
+### If sports content is a combintation of both event day and long-tail duration in practice, why don't any streaming platforms support this kind of viewing?
 
 
 Could USA platforms gain international market share by creating long-tail platforms that provide a canonical URL that is durable over time?
