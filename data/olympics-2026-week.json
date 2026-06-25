@@ -6,6 +6,12 @@
     "data_version": "2025-09-22",
     "data_btiha_sort": 1,
     "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2026-02-08-to-2026-05-25",
+    "sample_days": 107,
+    "sample_year_start": 2026,
+    "sample_year_end": 2026,
+    "sample_day_year_start": 39,
+    "sample_day_year_end": 145,
     "collection_week": [
         {
             "number": "week-00001",
