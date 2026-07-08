@@ -1,0 +1,1433 @@
+<svg xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:html="http://www.w3.org/1999/xhtml"
+id="olympics-2026-downloads-by-country" x="0px" y="0px"
+width="100%"
+viewBox="0 0 1920.000000 1080.000000" enable-background="new 0 0 1920.000000 1080.000000" role="img">
+s
+<title>
+olympics-2026-downloads-by-country
+</title>
+<desc>
+Line graph of one media object, itemized by country, as peer swarms over time, from week 1 to week 26. The y-xis is the number of downloaders in millions. The x-axis is the week number of the sample, starting at 1 and ending at or before 26.
+</desc>
+ <g id="annotations">
+<text x="960.000000" y="126.000000" font-family="Apercu" font-size="26.000000pt" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> </text>
+ <g id="axes-lines">
+<text x="960.000000" y="1007.000000" font-family="Apercu" font-size="18.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> WEEKS</text>
+<text x="73.000000" y="540.000000" font-family="Apercu" font-size="18.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="500" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5" transform="rotate(-90,73,540)"> DOWNLOADERS</text>
+ </g>
+ <g id="tic-y-label-lines">
+<line x1="218.000000" y1="811.000000" x2="1702.000000" y2="811.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:2" />
+<text x="402.666667" y="812.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="504.000000" y="812.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="605.333333" y="812.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="706.666667" y="812.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="808.000000" y="812.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="909.333333" y="812.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1010.666667" y="812.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1112.000000" y="812.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1213.333333" y="812.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1314.666667" y="812.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1416.000000" y="812.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1517.333333" y="812.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1618.666667" y="812.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<line x1="218.000000" y1="743.000000" x2="1702.000000" y2="743.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:2" />
+<text x="402.666667" y="744.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="504.000000" y="744.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="605.333333" y="744.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="706.666667" y="744.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="808.000000" y="744.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="909.333333" y="744.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1010.666667" y="744.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1112.000000" y="744.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1213.333333" y="744.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1314.666667" y="744.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1416.000000" y="744.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1517.333333" y="744.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1618.666667" y="744.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<line x1="218.000000" y1="675.000000" x2="1702.000000" y2="675.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:2" />
+<text x="402.666667" y="676.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="504.000000" y="676.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="605.333333" y="676.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="706.666667" y="676.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="808.000000" y="676.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="909.333333" y="676.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1010.666667" y="676.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1112.000000" y="676.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1213.333333" y="676.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1314.666667" y="676.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1416.000000" y="676.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1517.333333" y="676.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1618.666667" y="676.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<line x1="218.000000" y1="607.000000" x2="1702.000000" y2="607.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:2" />
+<text x="402.666667" y="608.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="504.000000" y="608.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="605.333333" y="608.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="706.666667" y="608.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="808.000000" y="608.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="909.333333" y="608.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1010.666667" y="608.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1112.000000" y="608.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1213.333333" y="608.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1314.666667" y="608.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1416.000000" y="608.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1517.333333" y="608.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1618.666667" y="608.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<line x1="218.000000" y1="539.000000" x2="1702.000000" y2="539.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:2" />
+<text x="402.666667" y="540.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="504.000000" y="540.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="605.333333" y="540.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="706.666667" y="540.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="808.000000" y="540.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="909.333333" y="540.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1010.666667" y="540.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1112.000000" y="540.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1213.333333" y="540.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1314.666667" y="540.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1416.000000" y="540.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1517.333333" y="540.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1618.666667" y="540.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<line x1="218.000000" y1="471.000000" x2="1702.000000" y2="471.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:2" />
+<text x="402.666667" y="472.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="504.000000" y="472.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="605.333333" y="472.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="706.666667" y="472.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="808.000000" y="472.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="909.333333" y="472.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1010.666667" y="472.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1112.000000" y="472.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1213.333333" y="472.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1314.666667" y="472.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1416.000000" y="472.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1517.333333" y="472.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1618.666667" y="472.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<line x1="218.000000" y1="403.000000" x2="1702.000000" y2="403.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:2" />
+<text x="402.666667" y="404.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="504.000000" y="404.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="605.333333" y="404.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="706.666667" y="404.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="808.000000" y="404.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="909.333333" y="404.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1010.666667" y="404.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1112.000000" y="404.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1213.333333" y="404.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1314.666667" y="404.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1416.000000" y="404.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1517.333333" y="404.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1618.666667" y="404.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<line x1="218.000000" y1="335.000000" x2="1702.000000" y2="335.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:2" />
+<text x="402.666667" y="336.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="504.000000" y="336.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="605.333333" y="336.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="706.666667" y="336.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="808.000000" y="336.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="909.333333" y="336.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1010.666667" y="336.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1112.000000" y="336.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1213.333333" y="336.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1314.666667" y="336.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1416.000000" y="336.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1517.333333" y="336.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<text x="1618.666667" y="336.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0M</text>
+<line x1="218.000000" y1="267.000000" x2="1702.000000" y2="267.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:2" />
+<text x="402.666667" y="268.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="504.000000" y="268.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="605.333333" y="268.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="706.666667" y="268.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="808.000000" y="268.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="909.333333" y="268.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1010.666667" y="268.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1112.000000" y="268.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1213.333333" y="268.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1314.666667" y="268.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1416.000000" y="268.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1517.333333" y="268.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1618.666667" y="268.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<line x1="218.000000" y1="199.000000" x2="1702.000000" y2="199.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:2" />
+<text x="402.666667" y="200.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="504.000000" y="200.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="605.333333" y="200.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="706.666667" y="200.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="808.000000" y="200.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="909.333333" y="200.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1010.666667" y="200.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1112.000000" y="200.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1213.333333" y="200.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1314.666667" y="200.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1416.000000" y="200.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1517.333333" y="200.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+<text x="1618.666667" y="200.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1M</text>
+ </g>
+ <g id="tic-x-labels">
+<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="308.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="417.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="525.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="634.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="742.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
+<text x="851.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
+<text x="960.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
+<text x="1068.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<text x="1177.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
+<text x="1285.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 11</text>
+<text x="1394.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 12</text>
+<text x="1502.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 13</text>
+<text x="1611.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 14</text>
+<text x="1720.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 15</text>
+<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="308.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="417.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="525.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="634.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="742.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
+<text x="851.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
+<text x="960.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
+<text x="1068.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<text x="1177.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
+<text x="1285.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 11</text>
+<text x="1394.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 12</text>
+<text x="1502.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 13</text>
+<text x="1611.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 14</text>
+<text x="1720.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 15</text>
+<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="308.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="417.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="525.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="634.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="742.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
+<text x="851.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
+<text x="960.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
+<text x="1068.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<text x="1177.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
+<text x="1285.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 11</text>
+<text x="1394.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 12</text>
+<text x="1502.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 13</text>
+<text x="1611.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 14</text>
+<text x="1720.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 15</text>
+<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="308.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="417.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="525.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="634.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="742.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
+<text x="851.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
+<text x="960.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
+<text x="1068.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<text x="1177.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
+<text x="1285.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 11</text>
+<text x="1394.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 12</text>
+<text x="1502.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 13</text>
+<text x="1611.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 14</text>
+<text x="1720.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 15</text>
+<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="308.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="417.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="525.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="634.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="742.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
+<text x="851.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
+<text x="960.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
+<text x="1068.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<text x="1177.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
+<text x="1285.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 11</text>
+<text x="1394.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 12</text>
+<text x="1502.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 13</text>
+<text x="1611.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 14</text>
+<text x="1720.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 15</text>
+<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="308.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="417.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="525.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="634.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="742.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
+<text x="851.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
+<text x="960.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
+<text x="1068.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<text x="1177.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
+<text x="1285.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 11</text>
+<text x="1394.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 12</text>
+<text x="1502.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 13</text>
+<text x="1611.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 14</text>
+<text x="1720.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 15</text>
+<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="308.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="417.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="525.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="634.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="742.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
+<text x="851.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
+<text x="960.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
+<text x="1068.571429" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<text x="1177.142857" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
+<text x="1285.714286" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 11</text>
+<text x="1394.285714" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 12</text>
+<text x="1502.857143" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 13</text>
+<text x="1611.428571" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 14</text>
+<text x="1720.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 15</text>
+<text x="1720.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 15</text>
+ </g>
+ <g id="tic-y-labels">
+<text x="164.000000" y="812.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.1M</text>
+<text x="1756.000000" y="812.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.1M</text>
+<text x="164.000000" y="744.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.2M</text>
+<text x="1756.000000" y="744.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.2M</text>
+<text x="164.000000" y="676.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.4M</text>
+<text x="1756.000000" y="676.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.4M</text>
+<text x="164.000000" y="608.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.5M</text>
+<text x="1756.000000" y="608.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.5M</text>
+<text x="164.000000" y="540.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.6M</text>
+<text x="1756.000000" y="540.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.6M</text>
+<text x="164.000000" y="472.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.7M</text>
+<text x="1756.000000" y="472.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.7M</text>
+<text x="164.000000" y="404.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.9M</text>
+<text x="1756.000000" y="404.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 0.9M</text>
+<text x="164.000000" y="336.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1.0M</text>
+<text x="1756.000000" y="336.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1.0M</text>
+<text x="164.000000" y="268.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1.1M</text>
+<text x="1756.000000" y="268.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1.1M</text>
+<text x="164.000000" y="200.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1.2M</text>
+<text x="1756.000000" y="200.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1.2M</text>
+ </g>
+ </g>
+<g id="composite-chart">
+<g id="line-graph-1">
+ <g id="polyline-KOR">
+<polyline points="200,838.782 308.571,636.172 417.143,561.351 525.714,507.356 634.286,372.858 742.857,347.72 851.429,362.572 960,356.672 1068.57,399.598 1177.14,473.162 1285.71,577.092 1394.29,543.494 1502.86,487.742 1611.43,478.298 1720,417.387 " stroke-linecap="round"  style="fill:rgb(76,175,80); fill-opacity:0; stroke:rgb(76,175,80); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="markers-KOR">
+ <g id="sunburst-11-6.000000" transform="translate(200,838)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 1
+75,309
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(308,636)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 2
+445,501
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(417,561)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 3
+582,207
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(525,507)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 4
+680,862
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(634,372)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 5
+926,603
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(742,347)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 6
+972,534
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(851,362)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 7
+945,398
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(960,356)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 8
+956,177
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(1068,399)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 9
+877,747
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(1177,473)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 10
+743,337
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(1285,577)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 11
+553,446
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(1394,543)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 12
+614,833
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(1502,487)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 13
+716,698
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(1611,478)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 14
+733,954
+</title>
+</g>
+<g id="sunburst-11-6.000000" transform="translate(1720,417)">
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(3,0) rotate(0)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,1) rotate(32)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,2) rotate(65)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,2) rotate(98)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,2) rotate(130)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(163)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-2,0) rotate(196)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(-1,-2) rotate(229)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(0,-2) rotate(261)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(1,-2) rotate(294)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<rect x="-1.000000" y="-6.000000" width="1.000000" height="6.000000"
+ transform="translate(2,-1) rotate(327)" style="fill:rgb(76,175,80); fill-opacity:1; stroke:rgb(76,175,80); stroke-opacity:0; stroke-width:2" />
+<title>
+KOR
+week: 15
+845,244
+</title>
+</g>
+ </g>
+<text x="1720.000000" y="410.387161" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> KOR</text>
+ </g>
+<g id="line-graph-2">
+ <g id="polyline-RUS">
+<polyline points="200,813.867 308.571,569.098 417.143,440.35 525.714,362.988 634.286,200 742.857,243.709 851.429,275.422 960,312.232 1068.57,337.413 1177.14,435.993 1285.71,468.472 1394.29,512.163 1502.86,534.925 1611.43,546.584 1720,501.933 " stroke-linecap="round"  style="fill:rgb(255,107,107); fill-opacity:0; stroke:rgb(255,107,107); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="markers-RUS">
+ <circle cx="200.000000" cy="813.867103" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 1
+120,832
+</title>
+ </circle>
+<circle cx="308.571429" cy="569.097884" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 2
+568,052
+</title>
+ </circle>
+<circle cx="417.142857" cy="440.349668" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 3
+803,289
+</title>
+ </circle>
+<circle cx="525.714286" cy="362.987555" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 4
+944,638
+</title>
+ </circle>
+<circle cx="634.285714" cy="200.000000" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 5
+1,242,434
+</title>
+ </circle>
+<circle cx="742.857143" cy="243.708946" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 6
+1,162,573
+</title>
+ </circle>
+<circle cx="851.428571" cy="275.422437" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 7
+1,104,629
+</title>
+ </circle>
+<circle cx="960.000000" cy="312.231958" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 8
+1,037,374
+</title>
+ </circle>
+<circle cx="1068.571429" cy="337.412724" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 9
+991,366
+</title>
+ </circle>
+<circle cx="1177.142857" cy="435.992511" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 10
+811,250
+</title>
+ </circle>
+<circle cx="1285.714286" cy="468.471693" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 11
+751,907
+</title>
+ </circle>
+<circle cx="1394.285714" cy="512.162578" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 12
+672,079
+</title>
+ </circle>
+<circle cx="1502.857143" cy="534.925316" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 13
+630,489
+</title>
+ </circle>
+<circle cx="1611.428571" cy="546.583625" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 14
+609,188
+</title>
+ </circle>
+<circle cx="1720.000000" cy="501.933302" r="6.000000" style="fill:rgb(255,107,107); fill-opacity:1; stroke:rgb(255,107,107); stroke-opacity:0; stroke-width:2"  >
+<title>
+RUS
+week: 15
+690,769
+</title>
+ </circle>
+ </g>
+<text x="1720.000000" y="494.933302" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> RUS</text>
+ </g>
+<g id="line-graph-3">
+ <g id="polyline-CHN">
+<polyline points="200,850.243 308.571,719.774 417.143,654.648 525.714,640.63 634.286,569.363 742.857,553.636 851.429,528.434 960,521.979 1068.57,547.151 1177.14,588.953 1285.71,651.107 1394.29,639.616 1502.86,617.891 1611.43,601.852 1720,578.831 " stroke-linecap="round"  style="fill:rgb(0,188,212); fill-opacity:0; stroke:rgb(0,188,212); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="markers-CHN">
+ <path id="center-mark-2-6" d="M 199,849.243 H 194 V 851.243 H 199 V 856.243 H 201 V 851.243 H 206 V 849.243 H 201 V 844.243 H 199 V 849.243 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,200,850)"  >
+<title>
+CHN
+week: 1
+54,370
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 307.571,718.774 H 302.571 V 720.774 H 307.571 V 725.774 H 309.571 V 720.774 H 314.571 V 718.774 H 309.571 V 713.774 H 307.571 V 718.774 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,308,719)"  >
+<title>
+CHN
+week: 2
+292,750
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 416.143,653.648 H 411.143 V 655.648 H 416.143 V 660.648 H 418.143 V 655.648 H 423.143 V 653.648 H 418.143 V 648.648 H 416.143 V 653.648 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,417,654)"  >
+<title>
+CHN
+week: 3
+411,743
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 524.714,639.63 H 519.714 V 641.63 H 524.714 V 646.63 H 526.714 V 641.63 H 531.714 V 639.63 H 526.714 V 634.63 H 524.714 V 639.63 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,525,640)"  >
+<title>
+CHN
+week: 4
+437,355
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 633.286,568.363 H 628.286 V 570.363 H 633.286 V 575.363 H 635.286 V 570.363 H 640.286 V 568.363 H 635.286 V 563.363 H 633.286 V 568.363 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,634,569)"  >
+<title>
+CHN
+week: 5
+567,567
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 741.857,552.636 H 736.857 V 554.636 H 741.857 V 559.636 H 743.857 V 554.636 H 748.857 V 552.636 H 743.857 V 547.636 H 741.857 V 552.636 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,742,553)"  >
+<title>
+CHN
+week: 6
+596,303
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 850.429,527.434 H 845.429 V 529.434 H 850.429 V 534.434 H 852.429 V 529.434 H 857.429 V 527.434 H 852.429 V 522.434 H 850.429 V 527.434 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,851,528)"  >
+<title>
+CHN
+week: 7
+642,350
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 959,520.979 H 954 V 522.979 H 959 V 527.979 H 961 V 522.979 H 966 V 520.979 H 961 V 515.979 H 959 V 520.979 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,960,521)"  >
+<title>
+CHN
+week: 8
+654,143
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 1067.57,546.151 H 1062.57 V 548.151 H 1067.57 V 553.151 H 1069.57 V 548.151 H 1074.57 V 546.151 H 1069.57 V 541.151 H 1067.57 V 546.151 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,1068,547)"  >
+<title>
+CHN
+week: 9
+608,151
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 1176.14,587.953 H 1171.14 V 589.953 H 1176.14 V 594.953 H 1178.14 V 589.953 H 1183.14 V 587.953 H 1178.14 V 582.953 H 1176.14 V 587.953 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,1177,588)"  >
+<title>
+CHN
+week: 10
+531,774
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 1284.71,650.107 H 1279.71 V 652.107 H 1284.71 V 657.107 H 1286.71 V 652.107 H 1291.71 V 650.107 H 1286.71 V 645.107 H 1284.71 V 650.107 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,1285,651)"  >
+<title>
+CHN
+week: 11
+418,212
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 1393.29,638.616 H 1388.29 V 640.616 H 1393.29 V 645.616 H 1395.29 V 640.616 H 1400.29 V 638.616 H 1395.29 V 633.616 H 1393.29 V 638.616 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,1394,639)"  >
+<title>
+CHN
+week: 12
+439,207
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 1501.86,616.891 H 1496.86 V 618.891 H 1501.86 V 623.891 H 1503.86 V 618.891 H 1508.86 V 616.891 H 1503.86 V 611.891 H 1501.86 V 616.891 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,1502,617)"  >
+<title>
+CHN
+week: 13
+478,902
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 1610.43,600.852 H 1605.43 V 602.852 H 1610.43 V 607.852 H 1612.43 V 602.852 H 1617.43 V 600.852 H 1612.43 V 595.852 H 1610.43 V 600.852 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,1611,601)"  >
+<title>
+CHN
+week: 14
+508,207
+</title>
+ </path>
+<path id="center-mark-2-6" d="M 1719,577.831 H 1714 V 579.831 H 1719 V 584.831 H 1721 V 579.831 H 1726 V 577.831 H 1721 V 572.831 H 1719 V 577.831 " style="fill:rgb(0,188,212); fill-opacity:1; stroke:rgb(0,188,212); stroke-opacity:0; stroke-width:2"  transform="rotate(45,1720,578)"  >
+<title>
+CHN
+week: 15
+550,269
+</title>
+ </path>
+ </g>
+<text x="1720.000000" y="571.830747" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> CHN</text>
+ </g>
+<g id="line-graph-4">
+ <g id="polyline-TUR">
+<polyline points="200,849.101 308.571,791.636 417.143,654.116 525.714,665.238 634.286,764.145 742.857,745.914 851.429,759.514 960,783.884 1068.57,737.936 1177.14,650.663 1285.71,636.987 1394.29,673.698 1502.86,688.431 1611.43,689.318 1720,681.226 " stroke-linecap="round"  style="fill:rgb(33,150,243); fill-opacity:0; stroke:rgb(33,150,243); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="markers-TUR">
+ <rect x="194.000000" y="843.100910" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 1
+56,456
+</title>
+ </rect>
+<rect x="302.571429" y="785.635805" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 2
+161,451
+</title>
+ </rect>
+<rect x="411.142857" y="648.116355" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 3
+412,714
+</title>
+ </rect>
+<rect x="519.714286" y="659.237751" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 4
+392,394
+</title>
+ </rect>
+<rect x="628.285714" y="758.144832" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 5
+211,680
+</title>
+ </rect>
+<rect x="736.857143" y="739.913843" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 6
+244,990
+</title>
+ </rect>
+<rect x="845.428571" y="753.514018" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 7
+220,141
+</title>
+ </rect>
+<rect x="954.000000" y="777.884214" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 8
+175,614
+</title>
+ </rect>
+<rect x="1062.571429" y="731.936212" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 9
+259,566
+</title>
+ </rect>
+<rect x="1171.142857" y="644.662812" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 10
+419,024
+</title>
+ </rect>
+<rect x="1279.714286" y="630.986560" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 11
+444,012
+</title>
+ </rect>
+<rect x="1388.285714" y="667.697565" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 12
+376,937
+</title>
+ </rect>
+<rect x="1496.857143" y="682.431225" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 13
+350,017
+</title>
+ </rect>
+<rect x="1605.428571" y="683.318419" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 14
+348,396
+</title>
+ </rect>
+<rect x="1714.000000" y="675.226399" width="12.000000" height="12.000000"
+ style="fill:rgb(33,150,243); fill-opacity:1; stroke:rgb(33,150,243); stroke-opacity:0; stroke-width:2"  >
+<title>
+TUR
+week: 15
+363,181
+</title>
+ </rect>
+ </g>
+<text x="1720.000000" y="674.226399" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> TUR</text>
+ </g>
+<g id="line-graph-5">
+ <g id="polyline-USA">
+<polyline points="200,860.28 308.571,785.93 417.143,734.557 525.714,725.921 634.286,700.83 742.857,700.117 851.429,698.224 960,679.005 1068.57,706.947 1177.14,724.356 1285.71,743.247 1394.29,741.179 1502.86,735.508 1611.43,723.43 1720,715.393 " stroke-linecap="round"  style="fill:rgb(255,165,0); fill-opacity:0; stroke:rgb(255,165,0); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="markers-USA">
+ <path id="polygon-n3-r6.000000" d="M 205.196 863.28 L 200 854.28 L 194.804 863.28 L 205.196 863.28 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 1
+36,031
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 313.768 788.93 L 308.571 779.93 L 303.375 788.93 L 313.768 788.93 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 2
+171,877
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 422.339 737.557 L 417.143 728.557 L 411.947 737.557 L 422.339 737.557 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 3
+265,740
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 530.91 728.921 L 525.714 719.921 L 520.518 728.921 L 530.91 728.921 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 4
+281,520
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 639.482 703.83 L 634.286 694.83 L 629.09 703.83 L 639.482 703.83 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 5
+327,363
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 748.053 703.117 L 742.857 694.117 L 737.661 703.117 L 748.053 703.117 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 6
+328,666
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 856.625 701.224 L 851.429 692.224 L 846.232 701.224 L 856.625 701.224 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 7
+332,125
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 965.196 682.005 L 960 673.005 L 954.804 682.005 L 965.196 682.005 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 8
+367,239
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 1073.77 709.947 L 1068.57 700.947 L 1063.38 709.947 L 1073.77 709.947 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 9
+316,187
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 1182.34 727.356 L 1177.14 718.356 L 1171.95 727.356 L 1182.34 727.356 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 10
+284,378
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 1290.91 746.247 L 1285.71 737.247 L 1280.52 746.247 L 1290.91 746.247 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 11
+249,862
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 1399.48 744.179 L 1394.29 735.179 L 1389.09 744.179 L 1399.48 744.179 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 12
+253,641
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 1508.05 738.508 L 1502.86 729.508 L 1497.66 738.508 L 1508.05 738.508 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 13
+264,002
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 1616.62 726.43 L 1611.43 717.43 L 1606.23 726.43 L 1616.62 726.43 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 14
+286,071
+</title>
+ </path>
+<path id="polygon-n3-r6.000000" d="M 1725.2 718.393 L 1720 709.393 L 1714.8 718.393 L 1725.2 718.393 " style="fill:rgb(255,165,0); fill-opacity:1; stroke:rgb(255,165,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+USA
+week: 15
+300,754
+</title>
+ </path>
+ </g>
+<text x="1720.000000" y="708.393494" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> USA</text>
+ </g>
+<g id="line-graph-6">
+ <g id="polyline-BRA">
+<polyline points="200,869.761 308.571,838.415 417.143,795.389 525.714,798.59 634.286,814.519 742.857,818.496 851.429,817.75 960,826.176 1068.57,819.3 1177.14,800.983 1285.71,791.502 1394.29,802.58 1502.86,804.269 1611.43,791.287 1720,789.606 " stroke-linecap="round"  style="fill:rgb(156,39,176); fill-opacity:0; stroke:rgb(156,39,176); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="markers-BRA">
+ <path id="blob-6.000000" d="M204.44,869.761  Q200.761,873.37 202.614,877.807 Q197.095,872.062 195.243,873.218 Q197.296,867.934 193.884,865.318 Q200.366,866.803 201.947,863.77 Q202.337,869.333 204.44,869.761 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 1
+18,707
+</title>
+ </path>
+<path id="blob-6.000000" d="M313.011,838.415  Q309.333,842.023 311.186,846.461 Q305.666,840.715 303.814,841.871 Q305.867,836.587 302.455,833.971 Q308.937,835.456 310.518,832.423 Q310.909,837.987 313.011,838.415 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 2
+75,981
+</title>
+ </path>
+<path id="blob-6.000000" d="M421.583,795.389  Q417.904,798.997 419.757,803.435 Q414.238,797.689 412.386,798.845 Q414.439,793.562 411.027,790.945 Q417.509,792.43 419.09,789.397 Q419.48,794.961 421.583,795.389 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 3
+154,594
+</title>
+ </path>
+<path id="blob-6.000000" d="M530.154,798.59  Q526.475,802.199 528.329,806.636 Q522.809,800.89 520.957,802.046 Q523.01,796.763 519.598,794.146 Q526.08,795.631 527.661,792.598 Q528.052,798.162 530.154,798.59 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 4
+148,745
+</title>
+ </path>
+<path id="blob-6.000000" d="M638.726,814.519  Q635.047,818.128 636.9,822.565 Q631.38,816.819 629.529,817.975 Q631.582,812.692 628.17,810.075 Q634.652,811.56 636.233,808.527 Q636.623,814.091 638.726,814.519 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 5
+119,641
+</title>
+ </path>
+<path id="blob-6.000000" d="M747.297,818.496  Q743.618,822.104 745.471,826.542 Q739.952,820.796 738.1,821.952 Q740.153,816.669 736.741,814.052 Q743.223,815.537 744.804,812.504 Q745.195,818.068 747.297,818.496 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 6
+112,375
+</title>
+ </path>
+<path id="blob-6.000000" d="M855.869,817.75  Q852.19,821.358 854.043,825.796 Q848.523,820.05 846.672,821.206 Q848.724,815.923 845.312,813.306 Q851.795,814.791 853.375,811.758 Q853.766,817.322 855.869,817.75 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 7
+113,738
+</title>
+ </path>
+<path id="blob-6.000000" d="M964.44,826.176  Q960.761,829.784 962.614,834.222 Q957.095,828.476 955.243,829.632 Q957.296,824.348 953.884,821.732 Q960.366,823.217 961.947,820.184 Q962.337,825.748 964.44,826.176 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 8
+98,343
+</title>
+ </path>
+<path id="blob-6.000000" d="M1073.01,819.3  Q1069.33,822.908 1071.19,827.346 Q1065.67,821.6 1063.81,822.756 Q1065.87,817.473 1062.46,814.856 Q1068.94,816.341 1070.52,813.308 Q1070.91,818.872 1073.01,819.3 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 9
+110,906
+</title>
+ </path>
+<path id="blob-6.000000" d="M1181.58,800.983  Q1177.9,804.592 1179.76,809.029 Q1174.24,803.283 1172.39,804.439 Q1174.44,799.156 1171.03,796.539 Q1177.51,798.024 1179.09,794.991 Q1179.48,800.555 1181.58,800.983 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 10
+144,373
+</title>
+ </path>
+<path id="blob-6.000000" d="M1290.15,791.502  Q1286.48,795.111 1288.33,799.548 Q1282.81,793.803 1280.96,794.958 Q1283.01,789.675 1279.6,787.059 Q1286.08,788.543 1287.66,785.511 Q1288.05,791.074 1290.15,791.502 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 11
+161,695
+</title>
+ </path>
+<path id="blob-6.000000" d="M1398.73,802.58  Q1395.05,806.189 1396.9,810.626 Q1391.38,804.88 1389.53,806.036 Q1391.58,800.753 1388.17,798.136 Q1394.65,799.621 1396.23,796.588 Q1396.62,802.152 1398.73,802.58 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 12
+141,455
+</title>
+ </path>
+<path id="blob-6.000000" d="M1507.3,804.269  Q1503.62,807.878 1505.47,812.315 Q1499.95,806.569 1498.1,807.725 Q1500.15,802.442 1496.74,799.825 Q1503.22,801.31 1504.8,798.277 Q1505.19,803.841 1507.3,804.269 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 13
+138,369
+</title>
+ </path>
+<path id="blob-6.000000" d="M1615.87,791.287  Q1612.19,794.895 1614.04,799.333 Q1608.52,793.587 1606.67,794.743 Q1608.72,789.459 1605.31,786.843 Q1611.79,788.328 1613.38,785.295 Q1613.77,790.859 1615.87,791.287 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 14
+162,089
+</title>
+ </path>
+<path id="blob-6.000000" d="M1724.44,789.606  Q1720.76,793.215 1722.61,797.652 Q1717.09,791.906 1715.24,793.062 Q1717.3,787.779 1713.88,785.162 Q1720.37,786.647 1721.95,783.614 Q1722.34,789.178 1724.44,789.606 Z" style="fill:rgb(156,39,176); fill-opacity:1; stroke:rgb(156,39,176); stroke-opacity:0; stroke-width:2"  >
+<title>
+BRA
+week: 15
+165,160
+</title>
+ </path>
+ </g>
+<text x="1720.000000" y="782.605822" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> BRA</text>
+ </g>
+<g id="line-graph-7">
+ <g id="polyline-UKR">
+<polyline points="200,875.462 308.571,859.62 417.143,844.372 525.714,837.785 634.286,835.921 742.857,836.483 851.429,834.319 960,837.867 1068.57,839.36 1177.14,833.752 1285.71,835.179 1394.29,836.676 1502.86,838.461 1611.43,832.288 1720,834.116 " stroke-linecap="round"  style="fill:rgb(233,30,99); fill-opacity:0; stroke:rgb(233,30,99); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="markers-UKR">
+ <path id="lauburu-2.000000" d="M201.41,874.05 Q201.18,874.90 200.67,875.46 Q200.24,875.37 199.53,874.99 Q199.91,874.37 200.00,873.46 Q201.32,873.42 202.36,873.10 Q203.65,874.42 204.67,875.46 Q204.60,877.72 204.24,879.70 Q200.57,876.64 200.00,876.13 Q200.09,875.70 200.47,874.99 Q201.09,875.37 202.00,875.46 Q202.04,876.78 202.36,877.82 Q201.04,879.11 200.00,880.13 Q197.74,880.06 195.76,879.70 Q198.82,876.03 199.33,875.46 Q199.76,875.56 200.47,875.93 Q200.09,876.56 200.00,877.46 Q198.68,877.50 197.64,877.82 Q196.35,876.50 195.33,875.46 Q195.40,873.20 195.76,871.22 Q199.43,874.28 200.00,874.80 Q199.91,875.22 199.53,875.93 Q198.91,875.56 198.00,875.46 Q197.96,874.14 197.64,873.10 Q198.96,871.81 200.00,870.80 Q202.26,870.87 204.24,871.22 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 1
+8,292
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M309.99,858.21 Q309.75,859.05 309.24,859.62 Q308.81,859.53 308.10,859.15 Q308.48,858.53 308.57,857.62 Q309.89,857.58 310.93,857.26 Q312.22,858.58 313.24,859.62 Q313.17,861.88 312.81,863.86 Q309.14,860.80 308.57,860.29 Q308.67,859.86 309.04,859.15 Q309.67,859.53 310.57,859.62 Q310.61,860.94 310.93,861.98 Q309.61,863.27 308.57,864.29 Q306.31,864.22 304.33,863.86 Q307.39,860.19 307.90,859.62 Q308.33,859.71 309.04,860.09 Q308.67,860.71 308.57,861.62 Q307.25,861.66 306.21,861.98 Q304.92,860.66 303.90,859.62 Q303.98,857.36 304.33,855.38 Q308.01,858.44 308.57,858.95 Q308.48,859.38 308.10,860.09 Q307.48,859.71 306.57,859.62 Q306.53,858.30 306.21,857.26 Q307.53,855.97 308.57,854.95 Q310.83,855.02 312.81,855.38 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 2
+37,236
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M418.56,842.96 Q418.32,843.81 417.81,844.37 Q417.38,844.28 416.67,843.90 Q417.05,843.28 417.14,842.37 Q418.46,842.34 419.50,842.02 Q420.80,843.34 421.81,844.37 Q421.74,846.63 421.39,848.61 Q417.71,845.55 417.14,845.04 Q417.24,844.61 417.61,843.90 Q418.24,844.28 419.14,844.37 Q419.18,845.69 419.50,846.73 Q418.18,848.03 417.14,849.04 Q414.88,848.97 412.90,848.61 Q415.96,844.94 416.48,844.37 Q416.90,844.47 417.61,844.84 Q417.24,845.47 417.14,846.37 Q415.82,846.41 414.79,846.73 Q413.49,845.41 412.48,844.37 Q412.55,842.11 412.90,840.13 Q416.58,843.19 417.14,843.71 Q417.05,844.13 416.67,844.84 Q416.05,844.47 415.14,844.37 Q415.11,843.05 414.79,842.02 Q416.11,840.72 417.14,839.71 Q419.41,839.78 421.39,840.13 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 3
+65,096
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M527.13,836.37 Q526.90,837.22 526.38,837.79 Q525.95,837.69 525.24,837.31 Q525.62,836.69 525.71,835.79 Q527.03,835.75 528.07,835.43 Q529.37,836.75 530.38,837.79 Q530.31,840.05 529.96,842.03 Q526.28,838.97 525.71,838.45 Q525.81,838.02 526.19,837.31 Q526.81,837.69 527.71,837.79 Q527.75,839.11 528.07,840.14 Q526.75,841.44 525.71,842.45 Q523.45,842.38 521.47,842.03 Q524.53,838.35 525.05,837.79 Q525.48,837.88 526.19,838.26 Q525.81,838.88 525.71,839.79 Q524.39,839.82 523.36,840.14 Q522.06,838.82 521.05,837.79 Q521.12,835.52 521.47,833.54 Q525.15,836.60 525.71,837.12 Q525.62,837.55 525.24,838.26 Q524.62,837.88 523.71,837.79 Q523.68,836.47 523.36,835.43 Q524.68,834.13 525.71,833.12 Q527.98,833.19 529.96,833.54 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 4
+77,131
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M635.70,834.51 Q635.47,835.35 634.95,835.92 Q634.52,835.83 633.81,835.45 Q634.19,834.83 634.29,833.92 Q635.61,833.88 636.64,833.56 Q637.94,834.88 638.95,835.92 Q638.88,838.18 638.53,840.16 Q634.85,837.10 634.29,836.59 Q634.38,836.16 634.76,835.45 Q635.38,835.83 636.29,835.92 Q636.32,837.24 636.64,838.28 Q635.32,839.57 634.29,840.59 Q632.02,840.52 630.04,840.16 Q633.10,836.49 633.62,835.92 Q634.05,836.01 634.76,836.39 Q634.38,837.01 634.29,837.92 Q632.97,837.96 631.93,838.28 Q630.63,836.96 629.62,835.92 Q629.69,833.66 630.04,831.68 Q633.72,834.74 634.29,835.25 Q634.19,835.68 633.81,836.39 Q633.19,836.01 632.29,835.92 Q632.25,834.60 631.93,833.56 Q633.25,832.27 634.29,831.25 Q636.55,831.32 638.53,831.68 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 5
+80,538
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M744.27,835.07 Q744.04,835.92 743.52,836.48 Q743.10,836.39 742.39,836.01 Q742.76,835.39 742.86,834.48 Q744.18,834.45 745.21,834.13 Q746.51,835.45 747.52,836.48 Q747.45,838.75 747.10,840.73 Q743.42,837.67 742.86,837.15 Q742.95,836.72 743.33,836.01 Q743.95,836.39 744.86,836.48 Q744.89,837.80 745.21,838.84 Q743.89,840.14 742.86,841.15 Q740.59,841.08 738.61,840.73 Q741.68,837.05 742.19,836.48 Q742.62,836.58 743.33,836.95 Q742.95,837.58 742.86,838.48 Q741.54,838.52 740.50,838.84 Q739.20,837.52 738.19,836.48 Q738.26,834.22 738.61,832.24 Q742.29,835.30 742.86,835.82 Q742.76,836.24 742.39,836.95 Q741.76,836.58 740.86,836.48 Q740.82,835.16 740.50,834.13 Q741.82,832.83 742.86,831.82 Q745.12,831.89 747.10,832.24 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 6
+79,510
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M852.84,832.90 Q852.61,833.75 852.10,834.32 Q851.67,834.22 850.96,833.85 Q851.33,833.22 851.43,832.32 Q852.75,832.28 853.79,831.96 Q855.08,833.28 856.10,834.32 Q856.02,836.58 855.67,838.56 Q851.99,835.50 851.43,834.99 Q851.52,834.56 851.90,833.85 Q852.52,834.22 853.43,834.32 Q853.47,835.64 853.79,836.68 Q852.47,837.97 851.43,838.99 Q849.17,838.92 847.19,838.56 Q850.25,834.88 850.76,834.32 Q851.19,834.41 851.90,834.79 Q851.52,835.41 851.43,836.32 Q850.11,836.36 849.07,836.68 Q847.78,835.36 846.76,834.32 Q846.83,832.06 847.19,830.08 Q850.86,833.14 851.43,833.65 Q851.33,834.08 850.96,834.79 Q850.33,834.41 849.43,834.32 Q849.39,833.00 849.07,831.96 Q850.39,830.67 851.43,829.65 Q853.69,829.72 855.67,830.08 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 7
+83,464
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M961.41,836.45 Q961.18,837.30 960.67,837.87 Q960.24,837.77 959.53,837.40 Q959.91,836.77 960.00,835.87 Q961.32,835.83 962.36,835.51 Q963.65,836.83 964.67,837.87 Q964.60,840.13 964.24,842.11 Q960.57,839.05 960.00,838.53 Q960.09,838.11 960.47,837.40 Q961.09,837.77 962.00,837.87 Q962.04,839.19 962.36,840.22 Q961.04,841.52 960.00,842.53 Q957.74,842.46 955.76,842.11 Q958.82,838.43 959.33,837.87 Q959.76,837.96 960.47,838.34 Q960.09,838.96 960.00,839.87 Q958.68,839.90 957.64,840.22 Q956.35,838.90 955.33,837.87 Q955.40,835.60 955.76,833.62 Q959.43,836.69 960.00,837.20 Q959.91,837.63 959.53,838.34 Q958.91,837.96 958.00,837.87 Q957.96,836.55 957.64,835.51 Q958.96,834.21 960.00,833.20 Q962.26,833.27 964.24,833.62 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 8
+76,981
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M1069.99,837.95 Q1069.75,838.79 1069.24,839.36 Q1068.81,839.27 1068.10,838.89 Q1068.48,838.27 1068.57,837.36 Q1069.89,837.32 1070.93,837.00 Q1072.22,838.32 1073.24,839.36 Q1073.17,841.62 1072.81,843.60 Q1069.14,840.54 1068.57,840.03 Q1068.67,839.60 1069.04,838.89 Q1069.67,839.27 1070.57,839.36 Q1070.61,840.68 1070.93,841.72 Q1069.61,843.01 1068.57,844.03 Q1066.31,843.96 1064.33,843.60 Q1067.39,839.93 1067.90,839.36 Q1068.33,839.45 1069.04,839.83 Q1068.67,840.45 1068.57,841.36 Q1067.25,841.40 1066.21,841.72 Q1064.92,840.40 1063.90,839.36 Q1063.98,837.10 1064.33,835.12 Q1068.01,838.18 1068.57,838.69 Q1068.48,839.12 1068.10,839.83 Q1067.48,839.45 1066.57,839.36 Q1066.53,838.04 1066.21,837.00 Q1067.53,835.71 1068.57,834.69 Q1070.83,834.76 1072.81,835.12 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 9
+74,253
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M1178.56,832.34 Q1178.32,833.19 1177.81,833.75 Q1177.38,833.66 1176.67,833.28 Q1177.05,832.66 1177.14,831.75 Q1178.46,831.71 1179.50,831.40 Q1180.80,832.71 1181.81,833.75 Q1181.74,836.01 1181.39,837.99 Q1177.71,834.93 1177.14,834.42 Q1177.24,833.99 1177.61,833.28 Q1178.24,833.66 1179.14,833.75 Q1179.18,835.07 1179.50,836.11 Q1178.18,837.41 1177.14,838.42 Q1174.88,838.35 1172.90,837.99 Q1175.96,834.32 1176.48,833.75 Q1176.90,833.85 1177.61,834.22 Q1177.24,834.85 1177.14,835.75 Q1175.82,835.79 1174.79,836.11 Q1173.49,834.79 1172.48,833.75 Q1172.55,831.49 1172.90,829.51 Q1176.58,832.57 1177.14,833.09 Q1177.05,833.51 1176.67,834.22 Q1176.05,833.85 1175.14,833.75 Q1175.11,832.43 1174.79,831.40 Q1176.11,830.10 1177.14,829.09 Q1179.41,829.16 1181.39,829.51 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 10
+84,500
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M1287.13,833.76 Q1286.90,834.61 1286.38,835.18 Q1285.95,835.08 1285.24,834.71 Q1285.62,834.08 1285.71,833.18 Q1287.03,833.14 1288.07,832.82 Q1289.37,834.14 1290.38,835.18 Q1290.31,837.44 1289.96,839.42 Q1286.28,836.36 1285.71,835.85 Q1285.81,835.42 1286.19,834.71 Q1286.81,835.08 1287.71,835.18 Q1287.75,836.50 1288.07,837.54 Q1286.75,838.83 1285.71,839.85 Q1283.45,839.77 1281.47,839.42 Q1284.53,835.74 1285.05,835.18 Q1285.48,835.27 1286.19,835.65 Q1285.81,836.27 1285.71,837.18 Q1284.39,837.22 1283.36,837.54 Q1282.06,836.22 1281.05,835.18 Q1281.12,832.92 1281.47,830.94 Q1285.15,834.00 1285.71,834.51 Q1285.62,834.94 1285.24,835.65 Q1284.62,835.27 1283.71,835.18 Q1283.68,833.86 1283.36,832.82 Q1284.68,831.53 1285.71,830.51 Q1287.98,830.58 1289.96,830.94 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 11
+81,893
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M1395.70,835.26 Q1395.47,836.11 1394.95,836.68 Q1394.52,836.58 1393.81,836.20 Q1394.19,835.58 1394.29,834.68 Q1395.61,834.64 1396.64,834.32 Q1397.94,835.64 1398.95,836.68 Q1398.88,838.94 1398.53,840.92 Q1394.85,837.86 1394.29,837.34 Q1394.38,836.91 1394.76,836.20 Q1395.38,836.58 1396.29,836.68 Q1396.32,838.00 1396.64,839.03 Q1395.32,840.33 1394.29,841.34 Q1392.02,841.27 1390.04,840.92 Q1393.10,837.24 1393.62,836.68 Q1394.05,836.77 1394.76,837.15 Q1394.38,837.77 1394.29,838.68 Q1392.97,838.71 1391.93,839.03 Q1390.63,837.71 1389.62,836.68 Q1389.69,834.41 1390.04,832.43 Q1393.72,835.49 1394.29,836.01 Q1394.19,836.44 1393.81,837.15 Q1393.19,836.77 1392.29,836.68 Q1392.25,835.36 1391.93,834.32 Q1393.25,833.02 1394.29,832.01 Q1396.55,832.08 1398.53,832.43 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 12
+79,158
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M1504.27,837.05 Q1504.04,837.89 1503.52,838.46 Q1503.10,838.37 1502.39,837.99 Q1502.76,837.37 1502.86,836.46 Q1504.18,836.42 1505.21,836.10 Q1506.51,837.42 1507.52,838.46 Q1507.45,840.72 1507.10,842.70 Q1503.42,839.64 1502.86,839.13 Q1502.95,838.70 1503.33,837.99 Q1503.95,838.37 1504.86,838.46 Q1504.89,839.78 1505.21,840.82 Q1503.89,842.11 1502.86,843.13 Q1500.59,843.06 1498.61,842.70 Q1501.68,839.03 1502.19,838.46 Q1502.62,838.55 1503.33,838.93 Q1502.95,839.55 1502.86,840.46 Q1501.54,840.50 1500.50,840.82 Q1499.20,839.50 1498.19,838.46 Q1498.26,836.20 1498.61,834.22 Q1502.29,837.28 1502.86,837.79 Q1502.76,838.22 1502.39,838.93 Q1501.76,838.55 1500.86,838.46 Q1500.82,837.14 1500.50,836.10 Q1501.82,834.81 1502.86,833.79 Q1505.12,833.86 1507.10,834.22 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 13
+75,897
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M1612.84,830.87 Q1612.61,831.72 1612.10,832.29 Q1611.67,832.19 1610.96,831.82 Q1611.33,831.19 1611.43,830.29 Q1612.75,830.25 1613.79,829.93 Q1615.08,831.25 1616.10,832.29 Q1616.02,834.55 1615.67,836.53 Q1611.99,833.47 1611.43,832.95 Q1611.52,832.53 1611.90,831.82 Q1612.52,832.19 1613.43,832.29 Q1613.47,833.61 1613.79,834.65 Q1612.47,835.94 1611.43,836.95 Q1609.17,836.88 1607.19,836.53 Q1610.25,832.85 1610.76,832.29 Q1611.19,832.38 1611.90,832.76 Q1611.52,833.38 1611.43,834.29 Q1610.11,834.33 1609.07,834.65 Q1607.78,833.33 1606.76,832.29 Q1606.83,830.03 1607.19,828.05 Q1610.86,831.11 1611.43,831.62 Q1611.33,832.05 1610.96,832.76 Q1610.33,832.38 1609.43,832.29 Q1609.39,830.97 1609.07,829.93 Q1610.39,828.63 1611.43,827.62 Q1613.69,827.69 1615.67,828.05 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 14
+87,175
+</title>
+ </path>
+<path id="lauburu-2.000000" d="M1721.41,832.70 Q1721.18,833.55 1720.67,834.12 Q1720.24,834.02 1719.53,833.64 Q1719.91,833.02 1720.00,832.12 Q1721.32,832.08 1722.36,831.76 Q1723.65,833.08 1724.67,834.12 Q1724.60,836.38 1724.24,838.36 Q1720.57,835.30 1720.00,834.78 Q1720.09,834.36 1720.47,833.64 Q1721.09,834.02 1722.00,834.12 Q1722.04,835.44 1722.36,836.47 Q1721.04,837.77 1720.00,838.78 Q1717.74,838.71 1715.76,838.36 Q1718.82,834.68 1719.33,834.12 Q1719.76,834.21 1720.47,834.59 Q1720.09,835.21 1720.00,836.12 Q1718.68,836.15 1717.64,836.47 Q1716.35,835.15 1715.33,834.12 Q1715.40,831.85 1715.76,829.87 Q1719.43,832.93 1720.00,833.45 Q1719.91,833.88 1719.53,834.59 Q1718.91,834.21 1718.00,834.12 Q1717.96,832.80 1717.64,831.76 Q1718.96,830.46 1720.00,829.45 Q1722.26,829.52 1724.24,829.87 Z" style="fill:rgb(233,30,99); fill-opacity:1; stroke:rgb(233,30,99); stroke-opacity:0; stroke-width:2"  >
+<title>
+UKR
+week: 15
+83,835
+</title>
+ </path>
+ </g>
+<text x="1720.000000" y="827.116034" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> UKR</text>
+ </g>
+ </g>
+</svg>
+
