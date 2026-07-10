@@ -27,6 +27,12 @@ description: "Analysis of World Cup 2026 peer-to-peer distribution"
 
 ## Commentary, Questions
 
+- MEX v GBR
+  Mexico vs. England sets new record for most-watched soccer game in US
+  [NYT](https://www.nytimes.com/athletic/7432616/2026/07/08/england-mexico-world-cup-tv-ratings/). 2026-07-08
+  
+  Audience estimates: >44M watched, 23.2M telemundo + 21.742M fox
+
 
 <div style="height: 50px;"></div>
 {::nomarkdown}
