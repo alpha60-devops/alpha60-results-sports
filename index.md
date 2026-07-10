@@ -27,7 +27,7 @@ Sample dates: 2026
 ## Results, Commentary
 - Sporting Universe
 - [Olympics 2026](/docs/olympics.md)
-- World Cup 2026
+- [World Cup 2026](/docs/world-cup.md)
 <div style="height: 50px;"></div>
 
 
