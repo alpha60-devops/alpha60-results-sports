@@ -30,11 +30,14 @@ description: "Analysis of World Cup 2026 peer-to-peer distribution"
 - MEX v GBR
   Mexico vs. England sets new record for most-watched soccer game in US
   [NYT](https://www.nytimes.com/athletic/7432616/2026/07/08/england-mexico-world-cup-tv-ratings/). 2026-07-08
-  
   Audience estimates: >44M watched, 23.2M telemundo + 21.742M fox
 
+- Erling Haaland x China.
+  [NYT](https://www.nytimes.com/2026/07/14/sports/soccer/erling-haaland-world-cup-china.html) 2026-06-14 
+  Baby Ha designation, meme culture
 
 <div style="height: 50px;"></div>
+
 {::nomarkdown}
 <svg width="100" height=100>
 	<circle cx="20" cy="50" r="10" fill="black"/>
