@@ -45,6 +45,10 @@ description: "Analysis of World Cup 2026 peer-to-peer distribution"
 
   -- English-language speakers, Spanish-language viewers. 2026-07-10. [San Antonio Express-News](https://www.expressnews.com/sports/article/in-any-language-english-speakers-are-tuning-into-22339950.php).
 
+- Quarterfinal Ratings. 2026-07-11 [THR](https://www.hollywoodreporter.com/tv/tv-news/world-cup-2026-quarterfinals-tv-ratings-1236648290/).
+  Audience estimates GBR v NOR: + 21.8M fox
+  Historical compare: GBR v FRA 2022 8.86M fox 
+
 <div style="height: 50px;"></div>
 
 {::nomarkdown}
