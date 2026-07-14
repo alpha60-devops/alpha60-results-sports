@@ -36,6 +36,10 @@ description: "Analysis of World Cup 2026 peer-to-peer distribution"
   [NYT](https://www.nytimes.com/2026/07/14/sports/soccer/erling-haaland-world-cup-china.html) 2026-06-14 
   Baby Ha designation, meme culture
 
+- English v Spanish, Fox v Telemundo content in the USA
+  Brodie Brazil [YT](https://www.youtube.com/watch?v=R-83F3ea4qc&t=21s) 
+  English-language speakers, Spanish-language viewers. 2026-07-10. [San Antonio Express-News](https://www.expressnews.com/sports/article/in-any-language-english-speakers-are-tuning-into-22339950.php).
+
 <div style="height: 50px;"></div>
 
 {::nomarkdown}
