@@ -32,6 +32,9 @@ description: "Analysis of World Cup 2026 peer-to-peer distribution"
   [NYT](https://www.nytimes.com/athletic/7432616/2026/07/08/england-mexico-world-cup-tv-ratings/). 2026-07-08
   Audience estimates: >44M watched, 23.2M telemundo + 21.742M fox
 
+- USA v BEL
+  Audience estimates: >42M watched, 12M telemundo + 30M fox
+
 - Erling Haaland x China.
   [NYT](https://www.nytimes.com/2026/07/14/sports/soccer/erling-haaland-world-cup-china.html) 2026-06-14 
   Baby Ha designation, meme culture
