@@ -35,9 +35,11 @@ description: "Analysis of World Cup 2026 peer-to-peer distribution"
 - USA v BEL
   Audience estimates: >42M watched, 12M telemundo + 30M fox
 
-- Erling Haaland x China.
+- China
+  - Erling Haaland x China.
   [NYT](https://www.nytimes.com/2026/07/14/sports/soccer/erling-haaland-world-cup-china.html) 2026-06-14 
   Baby Ha designation, meme culture
+  - China fandom for JPN team
 
 - English v Spanish, Fox v Telemundo content in the USA
   
