@@ -49,6 +49,7 @@ description: "Analysis of World Cup 2026 peer-to-peer distribution"
   Audience estimates GBR v NOR: + 21.8M fox
   Historical compare: GBR v FRA 2022 8.86M fox 
 
+- [LAT](https://www.latimes.com/sports/soccer/story/2026-07-20/despite-some-irritating-flaws-2026-world-cup-rousing-success) 2026-07-20
 <div style="height: 50px;"></div>
 
 {::nomarkdown}
