@@ -54,6 +54,8 @@ description: "Analysis of World Cup 2026 peer-to-peer distribution"
 - [LAT](https://www.latimes.com/sports/soccer/story/2026-07-20/despite-some-irritating-flaws-2026-world-cup-rousing-success) 2026-07-20
 <div style="height: 50px;"></div>
 
+- [Operation Offsides/Operation Red Card](https://torrentfreak.com/fifa-world-cup-triggers-a-global-anti-piracy-crackdown/)
+
 {::nomarkdown}
 <svg width="100" height=100>
 	<circle cx="20" cy="50" r="10" fill="black"/>
