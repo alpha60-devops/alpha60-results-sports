@@ -52,9 +52,12 @@ description: "Analysis of World Cup 2026 peer-to-peer distribution"
   Historical compare: GBR v FRA 2022 8.86M fox 
 
 - [LAT](https://www.latimes.com/sports/soccer/story/2026-07-20/despite-some-irritating-flaws-2026-world-cup-rousing-success) 2026-07-20
-<div style="height: 50px;"></div>
+
 
 - [Operation Offsides/Operation Red Card](https://torrentfreak.com/fifa-world-cup-triggers-a-global-anti-piracy-crackdown/)
+
+- [THR](https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-tv-ratings-fox-telemundo-1236652686/) 2026-07-21 63M+ USA Viewers for Final
+<div style="height: 50px;"></div>
 
 {::nomarkdown}
 <svg width="100" height=100>
