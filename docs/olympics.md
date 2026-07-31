@@ -10,7 +10,7 @@ description: "Analysis of Olympics 2026 peer-to-peer distribution"
 {:/}
 
 <script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-	src="../resources/izzi-map-leaflet-geojson-v7.3.js">
+	src="../resources/izzi-map-leaflet-geojson-v7.4.js">
 </script>
 
 <!-- Preload the CSS without blocking rendering -->
