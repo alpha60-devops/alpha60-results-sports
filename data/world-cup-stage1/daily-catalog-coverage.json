@@ -1,0 +1,517 @@
+{
+  "counting_unit": "Canonical torrents with at least one daily cache file, regardless of peer count",
+  "days": [
+    {
+      "date": "2026-06-29",
+      "canonical_torrents_with_cache": 2
+    },
+    {
+      "date": "2026-06-30",
+      "canonical_torrents_with_cache": 13
+    },
+    {
+      "date": "2026-07-01",
+      "canonical_torrents_with_cache": 23
+    },
+    {
+      "date": "2026-07-02",
+      "canonical_torrents_with_cache": 64
+    },
+    {
+      "date": "2026-07-03",
+      "canonical_torrents_with_cache": 116
+    },
+    {
+      "date": "2026-07-04",
+      "canonical_torrents_with_cache": 116
+    },
+    {
+      "date": "2026-07-05",
+      "canonical_torrents_with_cache": 193
+    },
+    {
+      "date": "2026-07-06",
+      "canonical_torrents_with_cache": 223
+    },
+    {
+      "date": "2026-07-07",
+      "canonical_torrents_with_cache": 271
+    },
+    {
+      "date": "2026-07-08",
+      "canonical_torrents_with_cache": 292
+    },
+    {
+      "date": "2026-07-09",
+      "canonical_torrents_with_cache": 297
+    },
+    {
+      "date": "2026-07-10",
+      "canonical_torrents_with_cache": 305
+    },
+    {
+      "date": "2026-07-11",
+      "canonical_torrents_with_cache": 305
+    },
+    {
+      "date": "2026-07-12",
+      "canonical_torrents_with_cache": 323
+    },
+    {
+      "date": "2026-07-13",
+      "canonical_torrents_with_cache": 373
+    },
+    {
+      "date": "2026-07-14",
+      "canonical_torrents_with_cache": 385
+    },
+    {
+      "date": "2026-07-15",
+      "canonical_torrents_with_cache": 390
+    },
+    {
+      "date": "2026-07-16",
+      "canonical_torrents_with_cache": 403
+    },
+    {
+      "date": "2026-07-17",
+      "canonical_torrents_with_cache": 403
+    },
+    {
+      "date": "2026-07-18",
+      "canonical_torrents_with_cache": 416
+    },
+    {
+      "date": "2026-07-19",
+      "canonical_torrents_with_cache": 416
+    },
+    {
+      "date": "2026-07-20",
+      "canonical_torrents_with_cache": 469
+    },
+    {
+      "date": "2026-07-21",
+      "canonical_torrents_with_cache": 477
+    },
+    {
+      "date": "2026-07-22",
+      "canonical_torrents_with_cache": 480
+    },
+    {
+      "date": "2026-07-23",
+      "canonical_torrents_with_cache": 480
+    },
+    {
+      "date": "2026-07-24",
+      "canonical_torrents_with_cache": 480
+    },
+    {
+      "date": "2026-07-25",
+      "canonical_torrents_with_cache": 482
+    },
+    {
+      "date": "2026-07-26",
+      "canonical_torrents_with_cache": 482
+    },
+    {
+      "date": "2026-07-27",
+      "canonical_torrents_with_cache": 492
+    },
+    {
+      "date": "2026-07-28",
+      "canonical_torrents_with_cache": 492
+    },
+    {
+      "date": "2026-07-29",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-07-30",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-07-31",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-01",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-02",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-03",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-04",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-05",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-06",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-07",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-08",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-09",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-10",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-11",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-12",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-13",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-14",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-15",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-16",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-17",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-18",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-19",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-20",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-21",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-22",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-23",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-24",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-25",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-26",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-27",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-28",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-29",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-30",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-08-31",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-01",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-02",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-03",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-04",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-05",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-06",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-07",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-08",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-09",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-10",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-11",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-12",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-13",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-14",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-15",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-16",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-17",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-18",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-19",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-20",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-21",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-22",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-23",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-24",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-25",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-26",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-27",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-28",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-29",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-09-30",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-01",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-02",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-03",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-04",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-05",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-06",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-07",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-08",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-09",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-10",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-11",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-12",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-13",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-14",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-15",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-16",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-17",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-18",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-19",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-20",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-21",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-22",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-23",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-24",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-25",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-26",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-27",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-28",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-29",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-30",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-10-31",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-11-01",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-11-02",
+      "canonical_torrents_with_cache": 493
+    },
+    {
+      "date": "2026-11-03",
+      "canonical_torrents_with_cache": 491
+    }
+  ]
+}

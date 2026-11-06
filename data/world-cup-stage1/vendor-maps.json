@@ -1,0 +1,781 @@
+{
+  "maps": [
+    {
+      "vendor": "Match TV",
+      "slug": "match-tv",
+      "torrents": 129,
+      "cells": 14358,
+      "total": {
+        "downloaders": {
+          "size": 17154428,
+          "mobile": 694420,
+          "satellite": 15333,
+          "tor": 3607,
+          "tor_exit_nodes": 1281,
+          "vpn": 1134197,
+          "relay": 11093,
+          "proxy": 9744,
+          "hosting": 2010047,
+          "service": 821934
+        },
+        "uploaders": {
+          "size": 170483,
+          "mobile": 15974,
+          "satellite": 276,
+          "tor": 131,
+          "tor_exit_nodes": 39,
+          "vpn": 17797,
+          "relay": 942,
+          "proxy": 111,
+          "hosting": 34577,
+          "service": 16459
+        }
+      },
+      "geojson_sha256": "fb177a0f405d12a89adf8ce16db5489e519935dbdc351565787738c379989e5d",
+      "svg_sha256": "baccc6a76a12ebb5097ea8e809223d61e369e24e4bfa9476a210c354ed160e60",
+      "webp_sha256": "e0e451146c9dcc4e64ce4f4331e37dc4c920a31f5b418feb31afedc5a06a829e"
+    },
+    {
+      "vendor": "FOX",
+      "slug": "fox",
+      "torrents": 51,
+      "cells": 12413,
+      "total": {
+        "downloaders": {
+          "size": 6346065,
+          "mobile": 251317,
+          "satellite": 5539,
+          "tor": 1156,
+          "tor_exit_nodes": 381,
+          "vpn": 412405,
+          "relay": 3387,
+          "proxy": 3558,
+          "hosting": 723781,
+          "service": 297045
+        },
+        "uploaders": {
+          "size": 39979,
+          "mobile": 3660,
+          "satellite": 72,
+          "tor": 29,
+          "tor_exit_nodes": 15,
+          "vpn": 6114,
+          "relay": 142,
+          "proxy": 15,
+          "hosting": 12458,
+          "service": 5681
+        }
+      },
+      "geojson_sha256": "aea5c4836987f6f64248d27ff259139575451f11de80f948ed6ec479d5186dd2",
+      "svg_sha256": "66802de1cd7e4accc2531884a2126e1949e4a3a7286782834b33a76cf3c88d1b",
+      "webp_sha256": "60be5092e37b03ccb889a33f8e0d208886760caee937ba52d93f4d024894a099"
+    },
+    {
+      "vendor": "BBC",
+      "slug": "bbc",
+      "torrents": 46,
+      "cells": 11510,
+      "total": {
+        "downloaders": {
+          "size": 5477453,
+          "mobile": 215205,
+          "satellite": 5185,
+          "tor": 1145,
+          "tor_exit_nodes": 369,
+          "vpn": 387821,
+          "relay": 2884,
+          "proxy": 3146,
+          "hosting": 687133,
+          "service": 286785
+        },
+        "uploaders": {
+          "size": 51834,
+          "mobile": 3663,
+          "satellite": 131,
+          "tor": 50,
+          "tor_exit_nodes": 23,
+          "vpn": 10810,
+          "relay": 157,
+          "proxy": 29,
+          "hosting": 22536,
+          "service": 10148
+        }
+      },
+      "geojson_sha256": "2ad2e65ee1a9bd03c3dda44564fb359c6c056e8302d1eed2cd624ee9bca32481",
+      "svg_sha256": "2bb2abbe6f6e6267daae50352660df9a058c4abe564c5c794e3cd026fba8d69a",
+      "webp_sha256": "d49f2fb6f76fd66c3ba630bf8a74b69c552b1cec15b6ed1a26aa0bca36bb68d5"
+    },
+    {
+      "vendor": "TSN",
+      "slug": "tsn",
+      "torrents": 21,
+      "cells": 11136,
+      "total": {
+        "downloaders": {
+          "size": 2891497,
+          "mobile": 113702,
+          "satellite": 2588,
+          "tor": 529,
+          "tor_exit_nodes": 172,
+          "vpn": 190519,
+          "relay": 1456,
+          "proxy": 1630,
+          "hosting": 330695,
+          "service": 136959
+        },
+        "uploaders": {
+          "size": 12930,
+          "mobile": 1327,
+          "satellite": 62,
+          "tor": 13,
+          "tor_exit_nodes": 4,
+          "vpn": 2420,
+          "relay": 50,
+          "proxy": 9,
+          "hosting": 4216,
+          "service": 2217
+        }
+      },
+      "geojson_sha256": "2e713fb1075e865589658af0065d5095906f3e1c03e9b5a5bb93ad6e47063756",
+      "svg_sha256": "5d614da56fe0086c5054b82e3d43ba5bd400056b2aaeba1e11f7438d61760694",
+      "webp_sha256": "6a71c38bace582330efbfaeb6c97276250937ea69767afc9f33a9548e6fa79d0"
+    },
+    {
+      "vendor": "BNT",
+      "slug": "bnt",
+      "torrents": 20,
+      "cells": 8621,
+      "total": {
+        "downloaders": {
+          "size": 2030496,
+          "mobile": 77970,
+          "satellite": 1683,
+          "tor": 423,
+          "tor_exit_nodes": 150,
+          "vpn": 134481,
+          "relay": 851,
+          "proxy": 1214,
+          "hosting": 245746,
+          "service": 97297
+        },
+        "uploaders": {
+          "size": 6953,
+          "mobile": 696,
+          "satellite": 14,
+          "tor": 9,
+          "tor_exit_nodes": 3,
+          "vpn": 1066,
+          "relay": 4,
+          "proxy": 3,
+          "hosting": 2342,
+          "service": 938
+        }
+      },
+      "geojson_sha256": "a9afc666c80cd686d7c1fab5d0c102a4edf4b14aef10d8e2fe0ee68673af685a",
+      "svg_sha256": "fee5cdac89c090f49af6d2b3c1b5192678584c38472e0cc1aa6db9c4c942ba23",
+      "webp_sha256": "8682503a6f453cc870c68a8429bcba5ad6709120be6991609bfb9fa9ffab3f21"
+    },
+    {
+      "vendor": "ITV",
+      "slug": "itv",
+      "torrents": 20,
+      "cells": 8644,
+      "total": {
+        "downloaders": {
+          "size": 1476594,
+          "mobile": 57756,
+          "satellite": 1553,
+          "tor": 342,
+          "tor_exit_nodes": 113,
+          "vpn": 107901,
+          "relay": 851,
+          "proxy": 881,
+          "hosting": 191591,
+          "service": 81242
+        },
+        "uploaders": {
+          "size": 22847,
+          "mobile": 1265,
+          "satellite": 99,
+          "tor": 15,
+          "tor_exit_nodes": 11,
+          "vpn": 4294,
+          "relay": 67,
+          "proxy": 16,
+          "hosting": 8895,
+          "service": 4042
+        }
+      },
+      "geojson_sha256": "f147177772168c56ee7620161911f9316c8e342a46eaedbad0a0ecb9fec88061",
+      "svg_sha256": "8020d85daee6da3f1e660429925bbedf39f30ff50d2088b676cbb26d72c43fd9",
+      "webp_sha256": "99fbeaf7aa7b7521ecc3d5eab7f161b441b7fd0b39cab7e29fa726c2e08691ce"
+    },
+    {
+      "vendor": "Sport TV (Cyrillic label)",
+      "slug": "sport-tv-cyrillic-label",
+      "torrents": 16,
+      "cells": 8779,
+      "total": {
+        "downloaders": {
+          "size": 1834376,
+          "mobile": 71744,
+          "satellite": 1771,
+          "tor": 452,
+          "tor_exit_nodes": 158,
+          "vpn": 128732,
+          "relay": 941,
+          "proxy": 1076,
+          "hosting": 226309,
+          "service": 94712
+        },
+        "uploaders": {
+          "size": 11434,
+          "mobile": 765,
+          "satellite": 47,
+          "tor": 10,
+          "tor_exit_nodes": 4,
+          "vpn": 1920,
+          "relay": 44,
+          "proxy": 7,
+          "hosting": 3253,
+          "service": 1747
+        }
+      },
+      "geojson_sha256": "067caf113bb9e20622f88e2f53099e84ebc9f332cf411dec3b310f97f601be09",
+      "svg_sha256": "52d064eae07edcf1a63a2150afb1a249d1e1a6387bd45710d12779255fbdea95",
+      "webp_sha256": "e46fa5bfc0fab28117b37e9b385968f4f17036a340ce5c1a0117f1bd65e01c83"
+    },
+    {
+      "vendor": "FUSSBALL.TV 1",
+      "slug": "fussball-tv-1",
+      "torrents": 9,
+      "cells": 8504,
+      "total": {
+        "downloaders": {
+          "size": 1118998,
+          "mobile": 43516,
+          "satellite": 1008,
+          "tor": 224,
+          "tor_exit_nodes": 69,
+          "vpn": 71096,
+          "relay": 498,
+          "proxy": 601,
+          "hosting": 126720,
+          "service": 51382
+        },
+        "uploaders": {
+          "size": 4733,
+          "mobile": 278,
+          "satellite": 15,
+          "tor": 7,
+          "tor_exit_nodes": 1,
+          "vpn": 1133,
+          "relay": 21,
+          "proxy": 4,
+          "hosting": 1965,
+          "service": 1046
+        }
+      },
+      "geojson_sha256": "c3267186c7d5deaa361c1fb8ff95903816752bed4c5a3a79e52ae6917b696dd1",
+      "svg_sha256": "d42cc2a3a127b9a47e9662edf3557a39de2a58349352c7148dab1d0a774f0326",
+      "webp_sha256": "a65e5c396f9a58722571aa2e39c62712646d0da723ea0f4f36798e1363934de3"
+    },
+    {
+      "vendor": "MEGOGO",
+      "slug": "megogo",
+      "torrents": 9,
+      "cells": 7794,
+      "total": {
+        "downloaders": {
+          "size": 1057847,
+          "mobile": 40702,
+          "satellite": 1136,
+          "tor": 230,
+          "tor_exit_nodes": 76,
+          "vpn": 78164,
+          "relay": 460,
+          "proxy": 593,
+          "hosting": 133822,
+          "service": 58586
+        },
+        "uploaders": {
+          "size": 6376,
+          "mobile": 263,
+          "satellite": 26,
+          "tor": 10,
+          "tor_exit_nodes": 2,
+          "vpn": 1709,
+          "relay": 6,
+          "proxy": 2,
+          "hosting": 2595,
+          "service": 1569
+        }
+      },
+      "geojson_sha256": "2df036bb1a8f7910c86e352a0348f6018aa3eedeabc5cb98bbc6a3fbf092703a",
+      "svg_sha256": "3f4138715a86b9f2d80fa457733a96e540e34da01d88c109819624c988b7b9da",
+      "webp_sha256": "3afa18ee886a15ed4138b51cb8f5195938e90eb51bfb1d0975b5ad6c22105849"
+    },
+    {
+      "vendor": "TVRI",
+      "slug": "tvri",
+      "torrents": 8,
+      "cells": 6779,
+      "total": {
+        "downloaders": {
+          "size": 797782,
+          "mobile": 38681,
+          "satellite": 1262,
+          "tor": 180,
+          "tor_exit_nodes": 54,
+          "vpn": 56012,
+          "relay": 837,
+          "proxy": 536,
+          "hosting": 118500,
+          "service": 42865
+        },
+        "uploaders": {
+          "size": 30474,
+          "mobile": 3382,
+          "satellite": 223,
+          "tor": 2,
+          "tor_exit_nodes": 4,
+          "vpn": 3671,
+          "relay": 120,
+          "proxy": 53,
+          "hosting": 13370,
+          "service": 3600
+        }
+      },
+      "geojson_sha256": "6f79059843cc8a49448670f103d32dda584bd558d1f565d7b00736ba1832c0f4",
+      "svg_sha256": "6263c102e4c12ee7f91a291d957f500159353c656a9f1bb27802364522e98150",
+      "webp_sha256": "57f8b76c26be71c1d00440eb2026b21e441eb0d6c8b00829c4939ff8b892e84f"
+    },
+    {
+      "vendor": "Antena / AntenaPlay",
+      "slug": "antena-antenaplay",
+      "torrents": 7,
+      "cells": 4758,
+      "total": {
+        "downloaders": {
+          "size": 197223,
+          "mobile": 8229,
+          "satellite": 229,
+          "tor": 44,
+          "tor_exit_nodes": 11,
+          "vpn": 14098,
+          "relay": 139,
+          "proxy": 116,
+          "hosting": 29918,
+          "service": 10698
+        },
+        "uploaders": {
+          "size": 5105,
+          "mobile": 329,
+          "satellite": 29,
+          "tor": 0,
+          "tor_exit_nodes": 1,
+          "vpn": 838,
+          "relay": 21,
+          "proxy": 19,
+          "hosting": 3265,
+          "service": 829
+        }
+      },
+      "geojson_sha256": "349f03fa65866aa477de51961e69ff20625ca54c4075a1e53b428faa24b42178",
+      "svg_sha256": "1b91ca2b5e5d246adcf601c2e4dc544f1bdb90f21985aff18553a012690f0221",
+      "webp_sha256": "5afe15c52d454aaceba6b175ab797d0f569635990f644c4691c18c3f90f06ca4"
+    },
+    {
+      "vendor": "ETV+",
+      "slug": "etv",
+      "torrents": 6,
+      "cells": 6856,
+      "total": {
+        "downloaders": {
+          "size": 648766,
+          "mobile": 24913,
+          "satellite": 629,
+          "tor": 148,
+          "tor_exit_nodes": 46,
+          "vpn": 45891,
+          "relay": 364,
+          "proxy": 386,
+          "hosting": 81394,
+          "service": 33931
+        },
+        "uploaders": {
+          "size": 3753,
+          "mobile": 182,
+          "satellite": 9,
+          "tor": 2,
+          "tor_exit_nodes": 0,
+          "vpn": 787,
+          "relay": 21,
+          "proxy": 3,
+          "hosting": 1425,
+          "service": 725
+        }
+      },
+      "geojson_sha256": "63cc5c0ad81348c51eed7fd763b6042875c9570e9b14cf361007562abe55ef52",
+      "svg_sha256": "bdfd74ac6bdfe4a60b8fcbc77121a051d46b226be77b9d3cb25594f0fcc33fdf",
+      "webp_sha256": "4670ac54fb8db30dca7fd648fcaf7252546e41732d0d3c80dcebfa94010d9e82"
+    },
+    {
+      "vendor": "M6",
+      "slug": "m6",
+      "torrents": 4,
+      "cells": 7235,
+      "total": {
+        "downloaders": {
+          "size": 538403,
+          "mobile": 20592,
+          "satellite": 658,
+          "tor": 112,
+          "tor_exit_nodes": 35,
+          "vpn": 43808,
+          "relay": 294,
+          "proxy": 305,
+          "hosting": 70381,
+          "service": 33597
+        },
+        "uploaders": {
+          "size": 4989,
+          "mobile": 193,
+          "satellite": 29,
+          "tor": 12,
+          "tor_exit_nodes": 2,
+          "vpn": 1727,
+          "relay": 7,
+          "proxy": 1,
+          "hosting": 2229,
+          "service": 1577
+        }
+      },
+      "geojson_sha256": "3acad0faf6a37b935233a59c4a3fbe00baaba72fc4809d34a637bf3433d59551",
+      "svg_sha256": "a8dd19227b7991787dfe3d48b88d406be7a74154859cce8fbe20d08ab78b1597",
+      "webp_sha256": "d8de4ad7300a08bdfaa3896078f1d273fe4c81c4c0732042b580c9fdd141859f"
+    },
+    {
+      "vendor": "DAZN",
+      "slug": "dazn",
+      "torrents": 3,
+      "cells": 5584,
+      "total": {
+        "downloaders": {
+          "size": 313784,
+          "mobile": 11976,
+          "satellite": 349,
+          "tor": 74,
+          "tor_exit_nodes": 25,
+          "vpn": 23700,
+          "relay": 170,
+          "proxy": 205,
+          "hosting": 41068,
+          "service": 17915
+        },
+        "uploaders": {
+          "size": 2010,
+          "mobile": 60,
+          "satellite": 12,
+          "tor": 1,
+          "tor_exit_nodes": 0,
+          "vpn": 591,
+          "relay": 8,
+          "proxy": 0,
+          "hosting": 962,
+          "service": 546
+        }
+      },
+      "geojson_sha256": "18fdae44e45fbf7c09abfc7acdf1876da14cc5e2121ffd66c24ded08ae88daca",
+      "svg_sha256": "774b0e5355826c4a9733113cba30bac4f5ea3d4a8aef66825a521ac775220c0e",
+      "webp_sha256": "709226db974a17db3c8cc0d2ccf0c0b4badbc6d7f15c34d7d6d188a47ee2dd20"
+    },
+    {
+      "vendor": "Rai",
+      "slug": "rai",
+      "torrents": 3,
+      "cells": 6763,
+      "total": {
+        "downloaders": {
+          "size": 408884,
+          "mobile": 15659,
+          "satellite": 461,
+          "tor": 80,
+          "tor_exit_nodes": 31,
+          "vpn": 29132,
+          "relay": 235,
+          "proxy": 238,
+          "hosting": 49360,
+          "service": 21632
+        },
+        "uploaders": {
+          "size": 3033,
+          "mobile": 78,
+          "satellite": 9,
+          "tor": 4,
+          "tor_exit_nodes": 1,
+          "vpn": 826,
+          "relay": 7,
+          "proxy": 2,
+          "hosting": 1204,
+          "service": 756
+        }
+      },
+      "geojson_sha256": "ef13a45513b094fe966062b5dee8c0766e99e7f63c6e80722066c8bb0a110dbe",
+      "svg_sha256": "5cb3e05522b16d343c791e3af94c9bed1794503757c230eff231a9487cdba47a",
+      "webp_sha256": "e2a95ac7645b8c6c0ab5b7f0733777298d720b41504136814d0f88e2499fcc34"
+    },
+    {
+      "vendor": "RTVE",
+      "slug": "rtve",
+      "torrents": 2,
+      "cells": 6528,
+      "total": {
+        "downloaders": {
+          "size": 334583,
+          "mobile": 13015,
+          "satellite": 385,
+          "tor": 64,
+          "tor_exit_nodes": 19,
+          "vpn": 24163,
+          "relay": 166,
+          "proxy": 161,
+          "hosting": 39290,
+          "service": 18001
+        },
+        "uploaders": {
+          "size": 2284,
+          "mobile": 60,
+          "satellite": 12,
+          "tor": 4,
+          "tor_exit_nodes": 2,
+          "vpn": 815,
+          "relay": 9,
+          "proxy": 0,
+          "hosting": 1083,
+          "service": 753
+        }
+      },
+      "geojson_sha256": "6f451b8ba234341bae78f23d05da56c84d9cfbb1453630739a3f24e50926650e",
+      "svg_sha256": "fc2a44ec65705df354751fcda160d3858e98cc01bf80b70ee7c644d2f386f221",
+      "webp_sha256": "28b1913f54f9947c7a3ea8a9947a8854efb4be0e2964ebbfe9a2aac869123c93"
+    },
+    {
+      "vendor": "SBS",
+      "slug": "sbs",
+      "torrents": 2,
+      "cells": 6358,
+      "total": {
+        "downloaders": {
+          "size": 311241,
+          "mobile": 12175,
+          "satellite": 363,
+          "tor": 65,
+          "tor_exit_nodes": 17,
+          "vpn": 22516,
+          "relay": 156,
+          "proxy": 162,
+          "hosting": 37440,
+          "service": 16678
+        },
+        "uploaders": {
+          "size": 2889,
+          "mobile": 90,
+          "satellite": 10,
+          "tor": 4,
+          "tor_exit_nodes": 0,
+          "vpn": 702,
+          "relay": 5,
+          "proxy": 2,
+          "hosting": 1087,
+          "service": 637
+        }
+      },
+      "geojson_sha256": "fc8ff5ffda048d290e67ae7487aa644225c9d7a197a86629322374cc4f7c46ea",
+      "svg_sha256": "25ab98205c5bc00a0db2df37631ebc1677402ba7f6b43b232e2be8da50e5c19b",
+      "webp_sha256": "085dd1137a985410b07f3a8c5a4799a77c164ede04849969a0d6c029afa00bea"
+    },
+    {
+      "vendor": "ARD",
+      "slug": "ard",
+      "torrents": 1,
+      "cells": 4082,
+      "total": {
+        "downloaders": {
+          "size": 116292,
+          "mobile": 4453,
+          "satellite": 182,
+          "tor": 31,
+          "tor_exit_nodes": 9,
+          "vpn": 10581,
+          "relay": 81,
+          "proxy": 60,
+          "hosting": 16826,
+          "service": 8284
+        },
+        "uploaders": {
+          "size": 1779,
+          "mobile": 44,
+          "satellite": 7,
+          "tor": 1,
+          "tor_exit_nodes": 1,
+          "vpn": 607,
+          "relay": 5,
+          "proxy": 0,
+          "hosting": 816,
+          "service": 555
+        }
+      },
+      "geojson_sha256": "155c7c8823b2c09d6121516dd702cbd42e24b53c36c929018e98a915afc82024",
+      "svg_sha256": "56374245376e15d3a1cd2fe39d15ab0035fd9118ab183a3ff550c0ffc6dbb1a7",
+      "webp_sha256": "cdc5efce455ed5af7798a09f297eb8ed54961dcf6637d09c2426fe61e12a6664"
+    },
+    {
+      "vendor": "NHK",
+      "slug": "nhk",
+      "torrents": 1,
+      "cells": 3605,
+      "total": {
+        "downloaders": {
+          "size": 93516,
+          "mobile": 3727,
+          "satellite": 70,
+          "tor": 19,
+          "tor_exit_nodes": 7,
+          "vpn": 6364,
+          "relay": 78,
+          "proxy": 60,
+          "hosting": 11985,
+          "service": 4653
+        },
+        "uploaders": {
+          "size": 596,
+          "mobile": 115,
+          "satellite": 0,
+          "tor": 0,
+          "tor_exit_nodes": 0,
+          "vpn": 37,
+          "relay": 6,
+          "proxy": 0,
+          "hosting": 141,
+          "service": 31
+        }
+      },
+      "geojson_sha256": "2bceb7cce51122ca1a4dc31029444ebb35f4760b707df517ca6ff6aaf95519fc",
+      "svg_sha256": "bca3c62c7d63faccf2aa71a85465eaf13d015c76e9a27c8e3b49ca55b1549c83",
+      "webp_sha256": "2ec771392c16b5fb8635dc6bed5bfa159aef01e431cf0af018e3353bc6e734b7"
+    },
+    {
+      "vendor": "Now TV",
+      "slug": "now-tv",
+      "torrents": 1,
+      "cells": 3,
+      "total": {
+        "downloaders": {
+          "size": 12,
+          "mobile": 2,
+          "satellite": 0,
+          "tor": 0,
+          "tor_exit_nodes": 0,
+          "vpn": 1,
+          "relay": 0,
+          "proxy": 0,
+          "hosting": 7,
+          "service": 0
+        },
+        "uploaders": {
+          "size": 9,
+          "mobile": 0,
+          "satellite": 0,
+          "tor": 0,
+          "tor_exit_nodes": 0,
+          "vpn": 1,
+          "relay": 0,
+          "proxy": 0,
+          "hosting": 6,
+          "service": 0
+        }
+      },
+      "geojson_sha256": "b2998d53b1388779ab72382cc8114b77aec5c1e94adf3e6d3678766bbe539f85",
+      "svg_sha256": "d1f735e1ed8a9ee885e07d8398226ba9f98fbb1b005a3635329369c943cfb42c",
+      "webp_sha256": "cd5d9cc870ec80f1fbdd11a9fefc6c8c84d48cef14cbac95f5a280489869c340"
+    },
+    {
+      "vendor": "ZDF",
+      "slug": "zdf",
+      "torrents": 1,
+      "cells": 4380,
+      "total": {
+        "downloaders": {
+          "size": 129017,
+          "mobile": 4819,
+          "satellite": 145,
+          "tor": 30,
+          "tor_exit_nodes": 8,
+          "vpn": 9895,
+          "relay": 55,
+          "proxy": 72,
+          "hosting": 16617,
+          "service": 7448
+        },
+        "uploaders": {
+          "size": 1344,
+          "mobile": 39,
+          "satellite": 5,
+          "tor": 4,
+          "tor_exit_nodes": 2,
+          "vpn": 411,
+          "relay": 2,
+          "proxy": 0,
+          "hosting": 564,
+          "service": 376
+        }
+      },
+      "geojson_sha256": "3b27a7f95d9c35f51f83217d4c709254c8569f476faa3fd928b74d723747f390",
+      "svg_sha256": "5d77d1587f33f8bcf5b810675be41ce3402d28976e8f786844a658d8039a5a05",
+      "webp_sha256": "8553d8128f1891b70fb0d713337069a942296ad7760b5a7f17d2ea895a587f7b"
+    },
+    {
+      "vendor": "unknown-or-conflicting",
+      "slug": "unknown-or-conflicting",
+      "torrents": 133,
+      "cells": 12315,
+      "total": {
+        "downloaders": {
+          "size": 9056183,
+          "mobile": 360655,
+          "satellite": 9460,
+          "tor": 1861,
+          "tor_exit_nodes": 614,
+          "vpn": 651107,
+          "relay": 5090,
+          "proxy": 5198,
+          "hosting": 1194815,
+          "service": 487966
+        },
+        "uploaders": {
+          "size": 133207,
+          "mobile": 9252,
+          "satellite": 630,
+          "tor": 84,
+          "tor_exit_nodes": 38,
+          "vpn": 25016,
+          "relay": 407,
+          "proxy": 115,
+          "hosting": 65234,
+          "service": 23840
+        }
+      },
+      "geojson_sha256": "447b6f8259fa3f90575924e664ab48bcd9b4e7cce5078e21ce6ee8aab6c46342",
+      "svg_sha256": "144731178685fb64279ab5a6de45155ffb6faf47545d943068ea9c62ae051363",
+      "webp_sha256": "b5d5bd6aa6f943e63938b9aa692e65858ae39f4c53fcac27002c352cb9dbe35d"
+    }
+  ],
+  "h3_resolution": 8,
+  "projection": "Cahill–Keyes",
+  "analysis_sha256": "a5c94b02df39034ffd3b260ebbce89fdfe61bd9e0b36e11387f3bb2e0b1fd668",
+  "render_input_analysis_sha256": "f49beb3088ee38e3c8aafef2fdebba3e1ce3c5ad6c033a1ac51295bafc20f9f7",
+  "native_source_sha256": "073e8dcafc00d3faaf0fb6c4e2027649788f187fdfa38ef429859f5747aade9d",
+  "renderer_sha256": "50f1cd7e7e421a397b057b6d5e6a96b227fd0184d7d34c1d1b08c8cc6bbe0830",
+  "validation": "All vendor memberships and totals reconciled to the final analysis; later analytical additions did not change these map cohorts."
+}

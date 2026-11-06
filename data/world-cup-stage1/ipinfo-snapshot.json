@@ -1,0 +1,36 @@
+{
+  "provider": "IPinfo",
+  "backend_mode": 6,
+  "files": [
+    {
+      "source": "/home/bkoz/src/geoip-databases/ipinfo/standard_location.mmdb",
+      "snapshot": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/ipinfo/standard_location.mmdb",
+      "bytes": 681895124,
+      "sha256": "038a11d61822a80c92ee53f0bce7889a5ebee5bd5379006e847be50e8d939928"
+    },
+    {
+      "source": "/home/bkoz/src/geoip-databases/ipinfo/standard_carrier.mmdb",
+      "snapshot": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/ipinfo/standard_carrier.mmdb",
+      "bytes": 18529845,
+      "sha256": "83912117e2cee4e864ee1cde4f80eb0a0d3826b921a221537ca4664e4fdbaf02"
+    },
+    {
+      "source": "/home/bkoz/src/geoip-databases/ipinfo/standard_company.mmdb",
+      "snapshot": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/ipinfo/standard_company.mmdb",
+      "bytes": 390981582,
+      "sha256": "a91d43d45fcd3d3c6f308c911fc4c2fd2249488a884153a2df38a1840f413438"
+    },
+    {
+      "source": "/home/bkoz/src/geoip-databases/ipinfo/standard_privacy.mmdb",
+      "snapshot": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/ipinfo/standard_privacy.mmdb",
+      "bytes": 292493511,
+      "sha256": "5bf50f6ddd3b9a18de87a9fe76de6714dd30c58a901d98263ea0aca9a6f6fca9"
+    },
+    {
+      "source": "/home/bkoz/src/geoip-databases/ipinfo/tags_satellite.mmdb",
+      "snapshot": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/ipinfo/tags_satellite.mmdb",
+      "bytes": 883295,
+      "sha256": "0ff2433554f43f41dfec2bb9683a036b7f13e63dd1eb301f043c93077b103809"
+    }
+  ]
+}

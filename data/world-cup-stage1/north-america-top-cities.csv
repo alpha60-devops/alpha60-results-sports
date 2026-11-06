@@ -1,0 +1,31 @@
+country,role,rank,city_key,cumulative_memberships,hosting_flagged,usa_bel_7day,mex_eng_7day
+USA,downloaders,1,USA|4744870|Ashburn,265432,262433,759,537
+USA,downloaders,2,USA|5128581|New York City,233391,126715,675,749
+USA,downloaders,3,USA|5368361|Los Angeles,153438,116137,651,510
+USA,downloaders,4,USA|4887398|Chicago,123716,91043,346,254
+USA,downloaders,5,USA|4684888|Dallas,86231,72589,291,246
+USA,uploaders,1,USA|4744870|Ashburn,63000,62961,187,120
+USA,uploaders,2,USA|5368361|Los Angeles,8222,7189,50,72
+USA,uploaders,3,USA|5392171|San Jose,7502,1710,23,16
+USA,uploaders,4,USA|5128581|New York City,4774,3676,35,69
+USA,uploaders,5,USA|4684888|Dallas,2258,2066,21,18
+MEX,downloaders,1,MEX|3530597|Mexico City,316449,4029,545,424
+MEX,downloaders,2,MEX|4005539|Guadalajara,60307,4,106,89
+MEX,downloaders,3,MEX|3995465|Monterrey,49992,11,86,62
+MEX,downloaders,4,MEX|4013708|Ciudad Juárez,39514,0,67,36
+MEX,downloaders,5,MEX|3981609|Tijuana,31548,0,58,37
+MEX,uploaders,1,MEX|3530597|Mexico City,1364,319,5,31
+MEX,uploaders,2,MEX|3991164|Santiago de Querétaro,239,182,4,11
+MEX,uploaders,3,MEX|3985606|San Luis Potosí,209,0,3,5
+MEX,uploaders,4,MEX|3521081|Puebla,179,0,1,6
+MEX,uploaders,5,MEX|3995465|Monterrey,164,0,0,4
+CAN,downloaders,1,CAN|6077243|Montréal,371561,112753,1232,878
+CAN,downloaders,2,CAN|6167865|Toronto,274660,135407,1028,785
+CAN,downloaders,3,CAN|6173331|Vancouver,166894,42224,429,346
+CAN,downloaders,4,CAN|5896495|Beauharnois,37197,37030,183,164
+CAN,downloaders,5,CAN|5946768|Edmonton,35700,131,83,54
+CAN,uploaders,1,CAN|6167865|Toronto,6597,4665,51,69
+CAN,uploaders,2,CAN|6077243|Montréal,4175,2683,27,33
+CAN,uploaders,3,CAN|6173331|Vancouver,3241,1334,20,29
+CAN,uploaders,4,CAN|5896495|Beauharnois,1498,1498,17,17
+CAN,uploaders,5,CAN|5913490|Calgary,478,38,9,5

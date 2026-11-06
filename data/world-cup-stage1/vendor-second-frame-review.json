@@ -1,0 +1,1623 @@
+{
+  "schema": "alpha60-vendor-second-frame-review/1",
+  "selection": "Visual-only assignments and conflicting filename/visual cases with at least two decoded frames. Earliest decoded frame compared with the latest-frame review.",
+  "reviewed_frames": 115,
+  "same_brand_mark": 98,
+  "inconclusive": 17,
+  "new_conflicts": 0,
+  "qualification": "Two observations within a bounded fragment do not establish persistence over a full broadcast.",
+  "channel_family_source": "https://www.telekom.com/de/newsroom/aktuelles/medieninformationen/2026/05/fifa-wm-2026",
+  "records": [
+    {
+      "btih": "670a6714c88bd7ca077074e68e8758efcc8d9e28",
+      "review_index": 19,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/670a6714c88bd7ca077074e68e8758efcc8d9e28/7cb757394648/frame-000.5.jpg",
+        "sha256": "b6eb4596892d2a5a38138aebbdfc3d0df8088fe012146a866a2cedf963b06f61",
+        "ocr": "mMaTH:\n\n+"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "43f766318a8fdf2cbca8cd3db8c9d87dcbabc751",
+      "review_index": 174,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/43f766318a8fdf2cbca8cd3db8c9d87dcbabc751/f8d028c7eddb/frame-000.5.jpg",
+        "sha256": "16281293c5c372d676dd15ddb52c9e751ad905412ff08241c6b09ab064f04ee0",
+        "ocr": "die\n\neo Ban\n\n%\n\nJ\n\nSOW\n\n>\n\n(C.\n\n1 Te"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "024565fa712e2f24dd91d62040b8f5fb4cbbe6cc",
+      "review_index": 218,
+      "brand": [
+        "AntenaPlay"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/024565fa712e2f24dd91d62040b8f5fb4cbbe6cc/ca4938524f8a/frame-000.5.jpg",
+        "sha256": "85f22f58a6c827ac7d7baff995c5ceeb7fbc4656bf03060f962760e9ac32710d",
+        "ocr": "(KS"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "06ef868121d1fd7d41718e110043895c0dc5a80f",
+      "review_index": 223,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/06ef868121d1fd7d41718e110043895c0dc5a80f/2f2033d55561/frame-000.5.jpg",
+        "sha256": "de69c5b7d6a684a014566aabb1950182f2a4eff48ee9fd51e04d43b2304a7ebb",
+        "ocr": "i .\n\nae\n\n(4 Sa,\n\nfle\n\nWj"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "07712660538a9c9107ee7458d403c199d104d8a8",
+      "review_index": 224,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/07712660538a9c9107ee7458d403c199d104d8a8/0cd10b58ee4d/frame-000.5.jpg",
+        "sha256": "612a966cd1c93e6a3ed30692a82986e6c1bb15fe858fa4668e18f24967020e92",
+        "ocr": "Nill, A\n\nWe\n\nVa\n\ni)\n\n=|\n\nLi\n\nae\n\nSie\n\nrs\n\n(\n\naL\n\n\\\n\nac\n\n4\n\nSSS\n\n@3\n\n4 0 te"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "0ab3771f74d80c62b4e7b5b083219d70c9f15a4c",
+      "review_index": 226,
+      "brand": [
+        "ETV+"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/0ab3771f74d80c62b4e7b5b083219d70c9f15a4c/e2b8bf08213c/frame-000.5.jpg",
+        "sha256": "904d5544f10ff5fb9afd527f6ec5dfd3960d92b768de628b4780dc9e3c2d2820",
+        "ocr": "etv\n\nm,\n\niI\n\nrs"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "0be31b898b55d7b8b12ec4f80573234f8b6b8b71",
+      "review_index": 227,
+      "brand": [
+        "AntenaPlay"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/0be31b898b55d7b8b12ec4f80573234f8b6b8b71/3b8ffe11b4ce/frame-000.5.jpg",
+        "sha256": "8d1a132dd696ed49999d76c52c17cf7f519b8102532ac51f35682ddf104f4013",
+        "ocr": "antenaPLay\n\nFIFA\n\nLD cUP"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "0c067e9977a26419814012edd6a12b3af06b6c29",
+      "review_index": 228,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/0c067e9977a26419814012edd6a12b3af06b6c29/bc649637cb12/frame-000.5.jpg",
+        "sha256": "ef6ab34a8292a994a922436f9e93e03924ab01d1f8479d0fe636fc23062f0651",
+        "ocr": "WORLD CUP\n\nDUDA\n\nYEMMNUOHAT"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "0cf111fe1356c1cc6befde350dbc5747dfd4bbc3",
+      "review_index": 229,
+      "brand": [
+        "TSN"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/0cf111fe1356c1cc6befde350dbc5747dfd4bbc3/787e7a9f6fa4/frame-000.5.jpg",
+        "sha256": "2f6676caa23484b71109a60967716a9e8fa392e2fa3b8388cb62cc00f9e4d3a7",
+        "ocr": "‘3\n\na.\n\nca\n\naa\n\noe"
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "0d8b5e078d9fda9f0c278a425c75b85cfdbd28ab",
+      "review_index": 230,
+      "brand": [
+        "TVRI"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/0d8b5e078d9fda9f0c278a425c75b85cfdbd28ab/f1fd03963d87/frame-000.5.jpg",
+        "sha256": "21af2143930dfb4da631c0da53bb2cca2134de64635f08fd236afda45ac70a23",
+        "ocr": "Bi\n\nYee\n\nach\n\nNe\n\nHawa\n\nss\n\nSet 3\n\nSS\n\n=\n\n——\n\nEa\n\n=\n\na\n\noe\n\nSBA\n\n~~\n\nvad,\n\nay a\n\nact\n\n<\n\nA\n\na3\n\nee\n\nue\n\n~\n\nyh\n\nT\n\ngre\n\nSse Ti feats\n\nSS\n\n——\n\nee\n\n—\n\none\n\ns\n\n<a\n\nfa\n\neis’\n\ni\n\nee\n\nco\n\nyy\n\nYe\n\nMy"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "1247cf4b3886d7eae695d6e2d26d7824cf1ebcf6",
+      "review_index": 232,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/1247cf4b3886d7eae695d6e2d26d7824cf1ebcf6/da74ddc7a643/frame-000.5.jpg",
+        "sha256": "b5d1b1345ff40787e197aac4aac1fb647de06207a9813f81944f1b35b3e37dfe",
+        "ocr": "i 2\n\narn\n\n«\n\n:\n\nx\n\ngt\n\n>”\n\nee EN\n\nze\n\nat le\n\nra\n\n=\n\nve\n\n7 |"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "13eeea35adc1ace4c08c252469f9a709ca96d68f",
+      "review_index": 233,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/13eeea35adc1ace4c08c252469f9a709ca96d68f/0de6718ce5d6/frame-000.5.jpg",
+        "sha256": "e0b80d72f283d1a4cf10130b10a3c113f5d5ea29594637d45c47f0790f307a0e",
+        "ocr": "26 itv1\n\n¥:\n\n2\n\nws"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "16646d347f30f1bab13e841eb14caacbedcbb700",
+      "review_index": 236,
+      "brand": [
+        "BBC"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/16646d347f30f1bab13e841eb14caacbedcbb700/817fd370ef1c/frame-000.5.jpg",
+        "sha256": "2e19f4ad07441286b457a018245243c4523db9623bdf3e8802b10a4dc0168a4c",
+        "ocr": "ms capt\n\neT Eze:\n\nEsa\n\na\n\n4\n\nva\n\nKite\n\n5\n\nPt Day oe\n\nas.\n\nWei\n\n22,\n\nFay,\n\nFIFA WORLD CUP 20)\n\nai\n\nss\n\n7\n\nf\n\ns\n\nWORLD Cur\n\ni\n\n4\n\ny\n\ni\n\n|\n\nff"
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "17840a7189e5e99d4e2e272bc24950b38a59fc80",
+      "review_index": 237,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/17840a7189e5e99d4e2e272bc24950b38a59fc80/12c9028fba11/frame-000.5.jpg",
+        "sha256": "8d38a06f55976a7a6eee4500ced11eb2a84641c0ac4920f2468ad9a3ab6c0691",
+        "ocr": "maT:"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "17927e4230512f4f27b26dba7a2256ec251b402e",
+      "review_index": 238,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/17927e4230512f4f27b26dba7a2256ec251b402e/675748f5acaf/frame-000.5.jpg",
+        "sha256": "29f008d9d00c631ffbd4348ad5fa665c1011f3cfd1ba2bba4c45bf9acd6b7d1c",
+        "ocr": "=~\n\n= | @)\n\nfy"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "1a7e4f8012ac72c3a873a73bf3b8cc9916731c35",
+      "review_index": 240,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/1a7e4f8012ac72c3a873a73bf3b8cc9916731c35/1e52ad5acd4a/frame-000.5.jpg",
+        "sha256": "64f88bd729467b4188560ce496cb17cc3e3542a17fc2966eaea2efa599c1c286",
+        "ocr": "=\n\neae\n\n~\n\nS<\n\nES\n\ntie\n\nGt\n\nLp\n\nLiz\n\nti,\n\n=~ . Ww"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "2097121256f2decf886b748d2783d582d19d061b",
+      "review_index": 243,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/2097121256f2decf886b748d2783d582d19d061b/fe187d717e3c/frame-000.5.jpg",
+        "sha256": "c3c9b8bb17b623ed233c07d6bd3b7b9e05979d93b691d04d6c625a646953ab7b",
+        "ocr": "MATH! Cis"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "20c3c0d623c23412e24cc4779faae2806b599afa",
+      "review_index": 245,
+      "brand": [
+        "AntenaPlay"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/20c3c0d623c23412e24cc4779faae2806b599afa/d0f1bb672b19/frame-000.5.jpg",
+        "sha256": "85f22f58a6c827ac7d7baff995c5ceeb7fbc4656bf03060f962760e9ac32710d",
+        "ocr": "(KS"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "20f2dd163899127108d0845542ad6e8b6e1fc91e",
+      "review_index": 246,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/20f2dd163899127108d0845542ad6e8b6e1fc91e/f88c8952aa9c/frame-000.5.jpg",
+        "sha256": "e11ece7ba8b6d613d159cb6c8e6f6a32d433da7e42135553a0cffbf541ba4b31",
+        "ocr": "MaTu:"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "22515a3a10568d1d1ca86e859c761080bf3526cf",
+      "review_index": 247,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/22515a3a10568d1d1ca86e859c761080bf3526cf/e3f909f0d11a/frame-000.5.jpg",
+        "sha256": "1e413dcb8abd620b0d0d90f05b1fdd8705a002409bc489987b74a40a15381658",
+        "ocr": "MATH:\n\na\n\na"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "23c5fbec1e00ba3c0d4a644eced968cca8fc78d2",
+      "review_index": 248,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/23c5fbec1e00ba3c0d4a644eced968cca8fc78d2/acb049839c75/frame-000.5.jpg",
+        "sha256": "ad795b431e84ed47b804b7b41be93792da222028be09a88c0293d482da8d482c",
+        "ocr": "=f 8\n\n48\n\nee\n\noa el\n\nvs\n\nae ti aN\n\ney\n\neo\n\nus\n\na\n\ne:\n\nA\n\nAG\n\naye\n\n7\n\nae\n\n-_\n\na\n\n“4\n\n_—\n\nat\n\nc #\n\nSS\n\nfare\n\nLip\n\n=a 2\n\nMMe»\n\nae\n\n— fr"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "23ff621b7503008cf54a8369add5afabae88ab77",
+      "review_index": 249,
+      "brand": [
+        "ETV+"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/23ff621b7503008cf54a8369add5afabae88ab77/d889da084536/frame-000.5.jpg",
+        "sha256": "7d3cbbbf85531eb26b62332c1ff4832326a4e174cb6a2a2b73770bd338e66e5d",
+        "ocr": "a wee\n\n1 Saeed\n\nPa\n\nos\n\nres\n\nwe\n\nate\n\n|\n\nve\n\nSee ee ee er eee\n\n—\n\nee\n\nTA\n\n=\n\n\\—\n\noe a neo ele tlie a Scr\n\nami a\n\n= oe oP\n\nSea\n\n-\n\n48\n\nNJ\n\nte\n\nAG\n\nTPS | ey,\n\nWa mi ey\n\nres\n\nss"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "255cdac759dd105371931f1d9aedfd8d6fc020b9",
+      "review_index": 250,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/255cdac759dd105371931f1d9aedfd8d6fc020b9/df2df70a350d/frame-000.5.jpg",
+        "sha256": "d9ded31af9f586992441b9fafd3dbfe22509eae4562c7e57290bcde9a1b8f661",
+        "ocr": "ee"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "258249b0170975edeb347cc199ce7fc05895e86e",
+      "review_index": 251,
+      "brand": [
+        "FUSSBALL.TV 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/258249b0170975edeb347cc199ce7fc05895e86e/31db0e878173/frame-000.5.jpg",
+        "sha256": "82d13f83bc703f9125edb689fe2174cc8a8d399663b678f3de7d8b19a3d78172",
+        "ocr": "-MAGENTAT\n\nMAGENTA TV"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame",
+      "additional_observation": "MagentaTV wordmark also visible. Deutsche Telekom identifies FUSSBALL.TV 1 as a MagentaTV World Cup channel."
+    },
+    {
+      "btih": "25b7e03686b1ef55a5f5c1867d2e606f1305a7cb",
+      "review_index": 252,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/25b7e03686b1ef55a5f5c1867d2e606f1305a7cb/4b0b5d3923cd/frame-000.5.jpg",
+        "sha256": "a0bc720d6aa4d1e8aecf0e3e8bf892c847b2667d3524f1255be4695b19895eb2",
+        "ocr": "tr"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "267a5589ad6cf54706e8e6c8b82d114d3ff9ef2e",
+      "review_index": 253,
+      "brand": [
+        "TVRI"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/267a5589ad6cf54706e8e6c8b82d114d3ff9ef2e/09a2704f102b/frame-000.5.jpg",
+        "sha256": "b2cd89013db1dfe27fb621476bfe49445f407e848d65ab6efc85d5e0d404d23c",
+        "ocr": "ae\n\nwert\n\n5. “a\n\nOe\n\nie\n\nrR\n\n*a¢\n\nsin\n\nyt\n\nire\n\nia\n\n\")\n\nA ee hate\n\nae\n\npin ears\n\n5\n\n“LANGSUNG!-\n\nty\n\nfe ween\n\nais\n\nih\n\nhe\n\nee\n\n‘we\n\nany\n\na a\n\na\n\nate, Te ee\n\nr\n\none\n\nie:\n\nh Lee\n\npet\n\nx Gad\n\nbor\n\nye ys\n\n”\n\nai\n\n&\n\nRS\n\noe\n\nye\n\n3:\n\nit\n\nch\n\ni\n\niu)\n\nihe\n\nis\n\na\n\ni\n\nFi\n\nwey\n\nie\n\nipl\n\nnes\n\nans\n\ni\n\nik\n\nir’\n\na\n\nNe\n\nSr\n\ntie\n\nat\n\nwe\n\nSe\n\nen\n\n‘4\n\ni\n\n(\n\n_~\n\nae\n\n{ie\n\ni ene tne t,o Le\n\nSSS sy ree Se Te WU ie cee"
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "26e301ff43b813272a74e7f172e212185b5fda7a",
+      "review_index": 255,
+      "brand": [
+        "TVRI"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/26e301ff43b813272a74e7f172e212185b5fda7a/4737ce4f4b1c/frame-000.5.jpg",
+        "sha256": "f9d5b6235221ff5137a02f087af5c29b96c5975e446f7ce50224d437d8d19385",
+        "ocr": "XY,\n\nBie,\n\non\n\nany\n\nof ol\n\nper\n\noe\n\nWe\n\ni\n\niH\n\n“i\n\nte\n\ni\n\n‘;\n\nee\n\nhi\n\niy\n\nwij\n\nba\n\nNa\n\ni\n\nar\n\nHt!\n\ni\n\nat\n\nCan\n\n*\n\ninh\n\nheer\n\na\n\nCOs\n\ntk\n\n5\n\nies\n\nny\n\ni\n\n‘i\n\ni\n\n\"i\n\nAy\n\nI.\n\noF\n\nsh\n\nyim\n\nw\n\neee\n\nstp\n\nBy\n\nue al\n\n3\n\naaa\n\nit\n\nOe at\n\noo\n\net\n\nwin\n\na\n\nase\n\n‘aie oes\n\n‘an. ae\n\nSe\n\nrot\n\nnf\n\nih\n\ni\n\niis\n\n‘ah\n\nifs\n\nge\n\nvi\n\na\n\nrn\n\nYe\n\n*.\n\na\n\ni\n\nty.\n\nie\n\nrence \"amen teat\"  remena\n\nor\n\nmses “Sram! arama * grea oN\n\ni ae\n\n|\n\n=—\n\nEC\n\nk\n\n4\n\nee,\n\n=\n\n——-\n\nihe\n\n“ting\n\nPTs\n\nOre.\n\nig\n\nis\n\nPi\n\nwe\n\nwel\n\nae\n\nay\n\nnes\n\n*\n\nve\n\nY¥\n\nooh,\n\nhy\n\nion\n\nfe\n\nfy\n\nSyl\n\nDea\n\n4 Be\n\nWe.\n\nBa\n\nye!\n\nae\n\nery\n\nnk af\n\nae,\n\nny\n\nig\n\n~"
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "2a64f0f4ce3f10ca1d196a4753924037832362fb",
+      "review_index": 258,
+      "brand": [
+        "BBC"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/2a64f0f4ce3f10ca1d196a4753924037832362fb/ab08514189df/frame-000.5.jpg",
+        "sha256": "476a917f675ba7abc21fa962f3d011c9186cef6613ceb00cd281e90f27b7fd74",
+        "ocr": "a\n\n=A\n\nee nich\n\nSS\n\nNz\n\nFay.\n\n\\}\n\n=a\n\n—A—\n\ns\n\na\n\n/ORLD CU\n\n=\n\nla\n\n@’"
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "303071c8e157dc03fab5281f474adc8b983164a0",
+      "review_index": 262,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/303071c8e157dc03fab5281f474adc8b983164a0/2b7547e5ac21/frame-000.5.jpg",
+        "sha256": "88186310e9390a751eaa210b880add5a3449a92150ba1ed0c31f6fb14c833b34",
+        "ocr": "5\n\n4\n\n/y\n\neg\n\nA, /"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "30c07329bc58b11d37005e1349bebe3f6fbfc029",
+      "review_index": 265,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/30c07329bc58b11d37005e1349bebe3f6fbfc029/d26624d6e3b4/frame-000.5.jpg",
+        "sha256": "46db09d4cedc3db1a1e05aa61e4e87d4d01f75aa884779a97b9cdaf32b923386",
+        "ocr": "MATH?"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "30eec1de6e59769c3591df2a11b7f76989ca3c66",
+      "review_index": 266,
+      "brand": [
+        "FUSSBALL.TV 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/30eec1de6e59769c3591df2a11b7f76989ca3c66/2b546ef72547/frame-000.5.jpg",
+        "sha256": "5e27848331fa09bed8c965574261708c662f3ca113a24b0e40f8b10bfc0dd545",
+        "ocr": "="
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "329ec4676b14e0b666bfe75a5126f429c94101d4",
+      "review_index": 268,
+      "brand": [
+        "ETV+"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/329ec4676b14e0b666bfe75a5126f429c94101d4/3a8da5c16e27/frame-000.5.jpg",
+        "sha256": "193c8e8b906521f7fc9f439ab3d6424b2494c7cef17b3b479e162ded069ac8e4",
+        "ocr": "™t\n\na\n\n=\n\nvy\n\n+,\n\nma\n\nied\n\nnd\n\n* ety\n\n‘. «=\n\n“=\n\n*s\n\nSf\n\n«*\n\nSe\n\n=:\n\neM\n\n9\n\nset a\n\nne\n\nra\n\n9%\n\nwe\n\niy\n\nwre\n\n¥\n\n7\n\nite\n\nPo\n\nUg pe\n\nUy\n\nae\n\n2.\n\nAN\n\na\n\n“3\n\nas\n\nwe\n\ncad\n\nvA\n\nof\n\nin\n\nwie\n\nAs\n\nad,\n\npy\n\n2\n\nvA\n\noN"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "35b3b3689f423499359a80454617d28f9514b7c9",
+      "review_index": 269,
+      "brand": [
+        "BBC"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/35b3b3689f423499359a80454617d28f9514b7c9/264c264d7d23/frame-000.5.jpg",
+        "sha256": "845ed7c4ef002d03b646e07d3bdb1c9a6252c228109f9e578c95c2023bacd08c",
+        "ocr": "26.\n\nSEMI-FINALS"
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "37049007164f55fdb57f5aa046038550b02f606e",
+      "review_index": 270,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/37049007164f55fdb57f5aa046038550b02f606e/0b57dc021774/frame-000.5.jpg",
+        "sha256": "e0a77bf1181ce3e0bd6110aa7908bc055411795b6c7a616238319c07d86e20d4",
+        "ocr": "MATH:\n\n%)"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "3817c225c93d67725f91539c505638517c840dc8",
+      "review_index": 271,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/3817c225c93d67725f91539c505638517c840dc8/674cfb6c3563/frame-000.5.jpg",
+        "sha256": "612a966cd1c93e6a3ed30692a82986e6c1bb15fe858fa4668e18f24967020e92",
+        "ocr": "Nill, A\n\nWe\n\nVa\n\ni)\n\n=|\n\nLi\n\nae\n\nSie\n\nrs\n\n(\n\naL\n\n\\\n\nac\n\n4\n\nSSS\n\n@3\n\n4 0 te"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "388df8113a6c92c65ba7d6230dc93228363453f9",
+      "review_index": 272,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/388df8113a6c92c65ba7d6230dc93228363453f9/21dccdc0067a/frame-000.5.jpg",
+        "sha256": "47e688645aa33ace70c7f59ec48bf40152eca8fc6719cf4e21c9f9afe8ef8820",
+        "ocr": "ae\n\na ter:\n\nPX\n\nne Kei\n\n“ee\n\ni\n\n‘ ‘pe! ay a we\n\n9\n\ns\n\nmb\n\nar al\n\n°\n\nEN >\n\na\n\npar\n\no\n\n\"ye 2.\n\ncup f 3\n\n*,\n\niS\n\n“i\n\nley cae Ata"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "3997a56c45c5064434401f27cb9fa5364c33de8e",
+      "review_index": 273,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/3997a56c45c5064434401f27cb9fa5364c33de8e/a15c201ebb47/frame-000.5.jpg",
+        "sha256": "b1162323b4c00ad652797ec54eb6345c1d3adee3b5f6ba5d0009fcdb52bd5745",
+        "ocr": "ne a3\n\nwy /\n\nsa!)"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "3e5cc54dfa9218d85217ff59e43ce39f503458ad",
+      "review_index": 274,
+      "brand": [
+        "MEGOGO"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/3e5cc54dfa9218d85217ff59e43ce39f503458ad/d572107c7238/frame-000.5.jpg",
+        "sha256": "6e7d8cde5e5afd8a27a7b074d82844a43a19016d67ccb09b1648e52d6f85ebb4",
+        "ocr": "1 new han\n\nSeon ninok ae\n\nan\n\nMEGOGO\n\nparamo mieTy Knesy\n\nn My\n\neo\n\na\n\n\\\\\n\nra\n\n~~\n\nry\n\n¥;\n\nTe ee\n\n—\n\n'e\n\ni\n\nix\n\n2\n\n‘ea\n\na Pal eg\n\nwile\n\na &\n\n- +R\n\nig."
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "3fde5e702cd1481f30cd83413141d6b429d22384",
+      "review_index": 275,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/3fde5e702cd1481f30cd83413141d6b429d22384/14ad010813f7/frame-000.5.jpg",
+        "sha256": "ea9d8706426211ad3d81b10cb328e0aafc2202ca2ef7cecfa6bf7ad33f7b50d1",
+        "ocr": "WORLD CUP\n\nDUDA\n\nYEMNNOHA'"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "433e2523246a884257a364e9d62c7e4ea1dad273",
+      "review_index": 281,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/433e2523246a884257a364e9d62c7e4ea1dad273/bd8c3eca7ac9/frame-000.5.jpg",
+        "sha256": "d3602f419b51c5f953346cdb9300c0c533ab35054f390041dc5720d15be9a9ad",
+        "ocr": "ZX XX XI\n\n26 uv\n\nree a\n\na\n\naf\n\n‘es\n\n—\n\nMh\n\n= 23\n\na}\n\nar"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "45a8f8652a938e1f39fdb1eb570bc8dd723af005",
+      "review_index": 283,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/45a8f8652a938e1f39fdb1eb570bc8dd723af005/4b37b59c73c9/frame-000.5.jpg",
+        "sha256": "daf879db80cf22aa51f2fde338adda15ef906238c60cbfc5ce83b13045583ede",
+        "ocr": "maTu:\n\n»"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "4807c9e979b926c120ef09d8331c3dfd0b717f42",
+      "review_index": 285,
+      "brand": [
+        "TSN"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/4807c9e979b926c120ef09d8331c3dfd0b717f42/6371f8db26b8/frame-000.5.jpg",
+        "sha256": "129a82cc51506cb0b7f15a7fff0a5532af644badb84a1f731484f40c1e3c09d3",
+        "ocr": ""
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "4ba1c1e5693faad50c201ad6e0b21d738946d875",
+      "review_index": 290,
+      "brand": [
+        "MEGOGO"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/4ba1c1e5693faad50c201ad6e0b21d738946d875/3795bbaf8d1f/frame-000.5.jpg",
+        "sha256": "b4ab004f96bd8333094d06dea2756e06535b3fa04e8b103e73443c85df281723",
+        "ocr": "MEGOGO\n\n\"4\n\ncnopT\n\n»\n\n*\n\nae\n\nv\n\nWNL\n\nPe\n\nVile\n\n-)\n\nSA\n\na"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "4c10b6ec77a72fa3208c31d405f087bf993416bf",
+      "review_index": 291,
+      "brand": [
+        "TVRI"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/4c10b6ec77a72fa3208c31d405f087bf993416bf/26ba60632eb5/frame-000.5.jpg",
+        "sha256": "c6c7201829af5e9d9bc6a5669d1e4ac6836fc21fe1150f848aee44290917fd44",
+        "ocr": "eh\")\n\nNG\n\nWa ies\n\nlel\n\nini\n\n|, airs\n\n—\n\n===\n\nNBL\n\ntO)\n\ngt\n\nyh\n\nUb\n\n=\n\nli\n\nih\n\nom:\n\n=)\n\nS|\n\n=\n\n=>\n\nrH)\n\n=e\n\neat\n\nay\n\nik\n\n=e\n\na |\n\nFey\n\nhe\n\n5 eer\n\na\n\n3\n\nalienate\n\n-\n\n7,\n\n{5\n\ni\n\nAe\n\n‘iy\n\nLl\n\nis\n\niN\n\nNy"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "4da474388b5e46d669288f864efebd443ac398cc",
+      "review_index": 293,
+      "brand": [
+        "MEGOGO"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/4da474388b5e46d669288f864efebd443ac398cc/63745da3ca8c/frame-000.5.jpg",
+        "sha256": "e4ab33a5c89fb3d4450b67b266dc7c7f7c64eb14fb59ceafa9b8b4b7129a6c23",
+        "ocr": "MEGOGO\n\na\n\nan\n\ngn\n\nfou\n\n_*\n\n.\n\n«at\n\n~~\n\n‘-\n\n.\n\near\n\nts\n\nyo\n\nPel\n\nYond\n\nWie\n\nRY Ae\n\n“a\n\nfe\n\nbse\n\ney,\n\n%,\n\nae\n\nois\n\ngat"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "4fd812062951b7deaa999476b6fb4a40db22c514",
+      "review_index": 296,
+      "brand": [
+        "ETV+"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/4fd812062951b7deaa999476b6fb4a40db22c514/ef2698ba3a9e/frame-000.5.jpg",
+        "sha256": "bd76ca9015f249b99401fc782b4f48981aae9b18d01ffbf69acdcea75072f13d",
+        "ocr": "etv +\n\n> *\n\n~\n\n*"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "517620be6428383e84312acb5fe5edaa747d8893",
+      "review_index": 298,
+      "brand": [
+        "MEGOGO"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/517620be6428383e84312acb5fe5edaa747d8893/d08379dbb724/frame-000.5.jpg",
+        "sha256": "50adc56cf05d76a7e95be1926241b47c9ffdef076fc6b75ac4c7ee3a105320cd",
+        "ocr": "MEGOGO\n\nye."
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "51a742437750be3635a05a1ecfbf462ada8ebf85",
+      "review_index": 299,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/51a742437750be3635a05a1ecfbf462ada8ebf85/c6c5a57da3ba/frame-000.5.jpg",
+        "sha256": "8511855c0d3f31c9c351fdee66283c8eb37f50eb35300043951d027c458497c8",
+        "ocr": "mMaTy\n\nee"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "52a881cc9c13909038870137e45044cd7c17b2c5",
+      "review_index": 300,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/52a881cc9c13909038870137e45044cd7c17b2c5/ef28face2c3c/frame-000.5.jpg",
+        "sha256": "b7160979b0fefdb02644098e02c25eff6cbd3761b946722b31fc78d9c1f8648b",
+        "ocr": "em]\n\n»®\n\nwy\n\nwas\n\nais\n\niy"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "53cc9e3a94eef6f76ec00983e4a189d7aba4abe8",
+      "review_index": 302,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/53cc9e3a94eef6f76ec00983e4a189d7aba4abe8/13daa4b730a3/frame-000.5.jpg",
+        "sha256": "e0b80d72f283d1a4cf10130b10a3c113f5d5ea29594637d45c47f0790f307a0e",
+        "ocr": "26 itv1\n\n¥:\n\n2\n\nws"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "558fa9f56d6a1776fcd70264689f1f30e98623c7",
+      "review_index": 304,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/558fa9f56d6a1776fcd70264689f1f30e98623c7/c3af17f66a4d/frame-000.5.jpg",
+        "sha256": "e5169dbf2bbb36158525c7fdfbdaab50bf74e00728acec0bc144c72dc18d02af",
+        "ocr": ""
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "559b0700b9a5bd3bcc36a9bebfb4738340df7dbe",
+      "review_index": 306,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/559b0700b9a5bd3bcc36a9bebfb4738340df7dbe/4bbd242ba860/frame-000.5.jpg",
+        "sha256": "73d2a7a5b6cd274c8cb12663ef4407d106d44492a2915a6d67188d210f0b09a8",
+        "ocr": "IMG\n\nTI\n\nfi\n\n(((\n\n-\n\nMh"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "56816310fa77c2008689700aed7762c9b2d9974a",
+      "review_index": 307,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/56816310fa77c2008689700aed7762c9b2d9974a/b74cf26c1100/frame-000.5.jpg",
+        "sha256": "346a9d63ad39c00d32811a78fd9c9eb99dc55ca4b5f42f902f6578e2b079d5a9",
+        "ocr": ""
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "5b8318a9558ebc997fe78300f311cecbff87c935",
+      "review_index": 309,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/5b8318a9558ebc997fe78300f311cecbff87c935/c6cf7701ae0e/frame-000.5.jpg",
+        "sha256": "8080df8831f10c9f3741b1aee22a8280764e80c386414e6a91a2286561bd7011",
+        "ocr": "MATE"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "6711fdabec818c8b7ba3a829c71b724dda5b5be1",
+      "review_index": 312,
+      "brand": [
+        "RTVE"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/6711fdabec818c8b7ba3a829c71b724dda5b5be1/745a0ed9a47d/frame-000.5.jpg",
+        "sha256": "4943cc344845445425e548b9adf521b2e1f17e1302833d3bc50b864144cfd3f0",
+        "ocr": "(pe\n\nyi\n\nFIFA"
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "6aaf91458124af0942879438b4344d5b6b4c9bce",
+      "review_index": 315,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/6aaf91458124af0942879438b4344d5b6b4c9bce/1869c2edfcac/frame-000.5.jpg",
+        "sha256": "e27044a54b4b58e7221f062500c200144b6ee274631a47f3beff7d767bd3c55b",
+        "ocr": "MATH:\n\na\n\n-"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "6b21891c0f3f08574e94b7138c123bcca29f5c42",
+      "review_index": 316,
+      "brand": [
+        "ETV+"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/6b21891c0f3f08574e94b7138c123bcca29f5c42/ecc0ef5d82ad/frame-000.5.jpg",
+        "sha256": "ea94adb5e88e9a204a4479947a92f03bd6294113799e4dbdf1a26f1673f40167",
+        "ocr": "ime\n\nf\n\n8 /\n\na\n\n‘\n\npo 6\n\nai\n\nce\n\nMS\n\nigh\n\n7h"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "6b43ed6df2ff23f84e39c40c94214d372cf68907",
+      "review_index": 318,
+      "brand": [
+        "AntenaPlay"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/6b43ed6df2ff23f84e39c40c94214d372cf68907/0dacb46258e2/frame-000.5.jpg",
+        "sha256": "8d1a132dd696ed49999d76c52c17cf7f519b8102532ac51f35682ddf104f4013",
+        "ocr": "antenaPLay\n\nFIFA\n\nLD cUP"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "70b31cb193c77c3433d065ed02db7b986f04911f",
+      "review_index": 320,
+      "brand": [
+        "MEGOGO"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/70b31cb193c77c3433d065ed02db7b986f04911f/f31d82adbfae/frame-000.5.jpg",
+        "sha256": "fb53d5349cec7473e2973a1c682fc57328ce67fc67e1e48e5f768e27dd752567",
+        "ocr": "MEGOGO\n\n_ *\n\n= 5\n\n\\|\n\n™\\\n\no\n\n_\n\nMe\n\nis\n\nitt\n\nC)\n\n»\n\nFb\n\nroy"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "714463bc3439d9fe71089207fdee526d84b6ad7c",
+      "review_index": 321,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/714463bc3439d9fe71089207fdee526d84b6ad7c/2bacc85872c3/frame-000.5.jpg",
+        "sha256": "00c0cb1282d453629b16913635c46e690698407a89e089c14aba091c3c7abfa7",
+        "ocr": "268 itv\n\nsei ee De\n\ni\n\n2 ee\n\n~ y\n\n¥y\n\npoe:\n\neu\n\nFy,\n\n&\n\nCity.\n\n“\n\nhalt\n\neh\n\nRest\n\naan ¥\n\n(aa ioe\n\nBi goth\n\na\n\n4\n\n$3\n\na\n\n——\n\n‘nmwonwon some\n\ncS\n\nawe\n\n= ya\n\nay\n\n“i\n\niti\n\nee\n\nxp\n\ney\n\nSf\n\nBe\n\n——\n\nDs\n\na\n\nrIiIrFA\n\n——\n\nhe"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "7615748a18416ec66dc148b4ccc5eba936aed9dc",
+      "review_index": 328,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/7615748a18416ec66dc148b4ccc5eba936aed9dc/6488742bd1b4/frame-000.5.jpg",
+        "sha256": "b160da374d3b3d9a7ecb33edecce12f4b75d4292fc2318a5e886efb060eb378a",
+        "ocr": "(KS"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "764ee40df585d011d957adf9f4081c8a4cc63786",
+      "review_index": 329,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/764ee40df585d011d957adf9f4081c8a4cc63786/959533dff5b7/frame-000.5.jpg",
+        "sha256": "6fce3df9973d0895cf1840ef4819639ec2f0e7f87fb5dfd2c8a2529186b1ad52",
+        "ocr": "Hi\n\nTl"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "76df564143fa474cadc49d5341a5342105637514",
+      "review_index": 330,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/76df564143fa474cadc49d5341a5342105637514/26ba52ae636d/frame-000.5.jpg",
+        "sha256": "a2ce038a8689974797d6ffce1f8a6f04a72e187c3d816f03d09374348b162846",
+        "ocr": "a =\n\nhee\n\n—\n\n=O.\n\nXO\n\nys\n\nitis \\\n\nFy\n\nAs\n\n_f\n\nss\n\nN\n\n\\\n\n2— ==\n\n9)\n\ny j"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "7744fe4ca6e88f1cc6c7864ad09a228d1ce7cf55",
+      "review_index": 331,
+      "brand": [
+        "BBC"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/7744fe4ca6e88f1cc6c7864ad09a228d1ce7cf55/fb949ee23f6a/frame-000.5.jpg",
+        "sha256": "9ba006c970d0103bfa0515e01fe6ea78de9e79ef7f6c2bda9d5de1e02a10d2d4",
+        "ocr": "SEMI-FINALS\n\n“a"
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "7c9c59155ab57ea5a688c784a3c918916e776a46",
+      "review_index": 333,
+      "brand": [
+        "BBC"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/7c9c59155ab57ea5a688c784a3c918916e776a46/613d695d856c/frame-000.5.jpg",
+        "sha256": "b032d1fd66d61394c0ec71dcfb5a369c30f24fe6ece37b13be56225500636a2c",
+        "ocr": "— —— a\n\n——\n\n_\n\n=\n\n—\n\n——\n\n——__~\n\n=\n\nFa"
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "7d8c7ebef997dd40fb66d7813a4eb3ea292e3221",
+      "review_index": 335,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/7d8c7ebef997dd40fb66d7813a4eb3ea292e3221/3a7b747abec3/frame-000.5.jpg",
+        "sha256": "af57bca3b89c6e0ca114f4d8f143eb5caea8abe0c4a3f6a8d0b6918c8a38498f",
+        "ocr": "Marr\n\nDae\n\nDe\n\n~\n\na\n\naft\n\nje\n\ni.\n\n*y."
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "7f0304700b4a5cce1a33dce87a85e960fd581da9",
+      "review_index": 336,
+      "brand": [
+        "TVRI"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/7f0304700b4a5cce1a33dce87a85e960fd581da9/3ea3a95b67e5/frame-000.5.jpg",
+        "sha256": "cea9cebc3ee4ec6c9c5a0ab2b8abe5cccd1b72244e3f5037f158ecb935f148a0",
+        "ocr": "\\_]\n\n“AL\n\nWw\n\nVANVARVANYA,\n\nVI\n\nSS OSRRRE’ “IPRS\n\nNae,\n\nwim\n\n\\,\n\n\\y\n\n=e\n\naah\n\nen\n\na a\n\nwan\n\nwae\n\nmy\n\nvem\n\nme\n\nine\n\nhater\n\nAy\n\noes\n\nmS\n\nios\n\ns\n\nfe,\n\nit\n\npies\n\n1 Sue\n\nai\n\n, Zo\n\nap\n\nan\n\na mm\n\nevylen, ql\n\nwr"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "815c6a93aa4a5b80aa3e326a683981eb17b2c3d8",
+      "review_index": 339,
+      "brand": [
+        "AntenaPlay"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/815c6a93aa4a5b80aa3e326a683981eb17b2c3d8/f05f3ec65591/frame-000.5.jpg",
+        "sha256": "85f22f58a6c827ac7d7baff995c5ceeb7fbc4656bf03060f962760e9ac32710d",
+        "ocr": "(KS"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "82ce7861102274958afd8659926a369c76420189",
+      "review_index": 340,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/82ce7861102274958afd8659926a369c76420189/d06001f1885e/frame-000.5.jpg",
+        "sha256": "46cb709894de3da23796b986df5600f7480b2e5459e1d40a3c0b89c3297279ce",
+        "ocr": "SY\n\nTe\n\nss\n\n=<\n\na\n\n3\n\n*°\n\nPa\n\nwe\n\n~ay\n\n<{7-,\\\n\nio\n\nDae)\n\nway\n\nee ee"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "88a2d569115a668cca4e7aa17e2b57ed33791077",
+      "review_index": 343,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/88a2d569115a668cca4e7aa17e2b57ed33791077/f3c34a88b3c8/frame-000.5.jpg",
+        "sha256": "a0bc720d6aa4d1e8aecf0e3e8bf892c847b2667d3524f1255be4695b19895eb2",
+        "ocr": "tr"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "89ab91be9a3e2c273266ce9ba81673544862e995",
+      "review_index": 345,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/89ab91be9a3e2c273266ce9ba81673544862e995/9fab7ec47cd2/frame-000.5.jpg",
+        "sha256": "cd858aa40435ebd5161274dcf431434a2be4214d6c9bc6cbebce2d0b7a6b2f6f",
+        "ocr": "=\n\n—- **\n\n=—\n\n3\n\n——\n\nSs\n\nwe\n\n4\n\na\n\n—\n\na aS\n\nsome.\n\n—\n\n=\n\na ~\n\nre:\n\n——\n\ne toy i =\n\na\n\nee\n\n<> —\"\""
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "8c7fc5c7aa0a3531b6d5e2464633126350b79c95",
+      "review_index": 346,
+      "brand": [
+        "FUSSBALL.TV 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/8c7fc5c7aa0a3531b6d5e2464633126350b79c95/9ea593cacb40/frame-000.5.jpg",
+        "sha256": "5c25b9288b532af90f202f2170aa019f8496bc5a88b0d23398ba7b4a03589428",
+        "ocr": "wi\n\n7\n\n= _ , ie\n\nFUSSBALLTV.1 FF\n\nenw\n\n*\n\nF\n\nte\n\n<>\n\n“al\n\nar\n\na\n\n—\n\n4\n\na\n\n* my) Sa\n\na"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "907d024366d7b1fc0300d999cda109146ee94da6",
+      "review_index": 347,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/907d024366d7b1fc0300d999cda109146ee94da6/fdffb57ab63e/frame-000.5.jpg",
+        "sha256": "5dac0b2cb3297985fa6358e9c125fb1f4458019c077e049e0d0bab82119b3c77",
+        "ocr": "Sd"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "94378afd451d2d2f74ac6c7c9e1240325d99471d",
+      "review_index": 350,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/94378afd451d2d2f74ac6c7c9e1240325d99471d/57cee730a791/frame-000.5.jpg",
+        "sha256": "06cb91317df6a21266da38f3d443f07490d0681011719834e2f946c141a832b3",
+        "ocr": "<4"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "95b5068380a60af2707a00aae462f23472dfb0f7",
+      "review_index": 352,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/95b5068380a60af2707a00aae462f23472dfb0f7/a3f6bf3399ea/frame-000.5.jpg",
+        "sha256": "d3602f419b51c5f953346cdb9300c0c533ab35054f390041dc5720d15be9a9ad",
+        "ocr": "ZX XX XI\n\n26 uv\n\nree a\n\na\n\naf\n\n‘es\n\n—\n\nMh\n\n= 23\n\na}\n\nar"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "a0fc5028ee73e0c5baf45d0d4cf967c491357108",
+      "review_index": 356,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/a0fc5028ee73e0c5baf45d0d4cf967c491357108/1baf8a1de92a/frame-000.5.jpg",
+        "sha256": "110f528dd3df87f22b9728ed57c9cfeb6b4043cd89bdd7a6acffb490c1cf5cdd",
+        "ocr": "toma 1a\n\nfi]\n\na\n\n. Je\n\nS\n\nva}\n\nKS\n\nN\n\n‘-\n\ng\n\n—\n\nA fyi\n\n2\n\nan ©\n\nAi 4\n\n—\n\n—"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "a14d4a948cfbfbd1cce90eacddbeda70013904d4",
+      "review_index": 357,
+      "brand": [
+        "FUSSBALL.TV 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/a14d4a948cfbfbd1cce90eacddbeda70013904d4/4be922b6b109/frame-000.5.jpg",
+        "sha256": "f5780c09a5074cc04c362a798cf953bc4a161ad3b0328a55b463d7db6858a69d",
+        "ocr": "a\n\nyi)\n\nacre\n\na aon\n\naS\n\n=\n\nyy &\n\n=I\n\n= &\n\nwe\n\n> hes\n\n7a* XS,\n\n—..\n\na>\n\nPoy\n\nre\n\n—_\n\n4\n\nXe\n\nae\n\n<S\n\n=.\n\nBok\n\n7,\n\nat\n\na) ae\n\n<a\n\na\n\n3\n\ngl\n\n~\n\npod\n\n“h\n\n°@ oe\n\n%\n\nar\n\n%\n\nfae\n\n\\y\n\nae \\\n\n5\n\nP:\n\n\\e\n\n2\n\nNes"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "a189cdd798be753699982b2816cf7de0fc5f8ca0",
+      "review_index": 358,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/a189cdd798be753699982b2816cf7de0fc5f8ca0/5a17ea4e3ae4/frame-000.5.jpg",
+        "sha256": "134bc18fbc72286c2d1b5f349c507c59be8fac0f2e036a27af6ee460e423f013",
+        "ocr": "TPRMOR 3OMP.\n\n=<\n\na ‘iL\n\naS ¢\n\ni"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "a4cd1a1ae043f28991549276239fdac5c9427df1",
+      "review_index": 360,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/a4cd1a1ae043f28991549276239fdac5c9427df1/f1fbe42f4f97/frame-000.5.jpg",
+        "sha256": "945c125528f1eeb4e0e870738ca4563d3c664e8e75ea3a7b1aa253c2e989cab8",
+        "ocr": "fg\n\n=\n\n$s\n\nn\n\nma\n\n|\n\nme\n\nYat\n\nZZ\n\nae\n\nA\n\nce\n\nate\n\noS\n\nri\n\ni\n\nLES\n\nSNS\n\nee\n\nat\n\nye\n\n4%\n\ndace\n\nne top\n\nPs\n\nwy\n\nes\n\nEirias\n\nYa)\n\na\n\naie\n\noe\n\nSisal eae\n\net\n\nne\n\ner\n\neae\n\nhis\n\non\n\n=,\n\neigsttae\n\nSia\n\nrr\n\nhh\n\npee)\n\n=\n\nyn\n\ni\n\n*"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "a7afd8a984302055324914f0678a02c217c5ffe1",
+      "review_index": 361,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/a7afd8a984302055324914f0678a02c217c5ffe1/adc98a94cbf5/frame-000.5.jpg",
+        "sha256": "86b1607222a6f6f024bca36a0df5064dca797df6e8a243398783951ff5e2722d",
+        "ocr": "KR =\n\n1 3\n\na,\n\noer on He\n\na\n\naes\n\nTe:\n\na\n\na\n\nRe\n\noll\n\nCw\n\nao\n\npy\n\n4\n\nte <2) 20,\n\nrae,\n\nng\n\n==\n\nAAs\n\n=\n\n;"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "a93c76785fbc8945801b8a1df80c8cc0bbab8cb3",
+      "review_index": 363,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/a93c76785fbc8945801b8a1df80c8cc0bbab8cb3/63773ef1c06a/frame-000.5.jpg",
+        "sha256": "a2f06cd9b088c1fb2280e52b965678ad9745bbfa22c39dcca10c759dc996eef3",
+        "ocr": "=,"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "a984f5edfa256a7a1e8c49f433d7a531a6a8e8ed",
+      "review_index": 364,
+      "brand": [
+        "AntenaPlay"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/a984f5edfa256a7a1e8c49f433d7a531a6a8e8ed/aeba0c4ffdac/frame-000.5.jpg",
+        "sha256": "85f22f58a6c827ac7d7baff995c5ceeb7fbc4656bf03060f962760e9ac32710d",
+        "ocr": "(KS"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "a98a8885f833aebe9828402cecbe2dd1a32522cf",
+      "review_index": 365,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/a98a8885f833aebe9828402cecbe2dd1a32522cf/b63083bdca78/frame-000.5.jpg",
+        "sha256": "9212b3217cdc8d0e9dc4ac980e4b5dc9d72071742bec3b2986b46829fc65bf2c",
+        "ocr": ""
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "a9fd0b4e57249328a4508651121906fa7124d175",
+      "review_index": 366,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/a9fd0b4e57249328a4508651121906fa7124d175/50f957f2a633/frame-000.5.jpg",
+        "sha256": "aa1ee1a50eb25b8e13c26e79f48149dbeab83976ca1c6adda19e1f28a4f8c866",
+        "ocr": ""
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "ad69f7ac7db579ab15da96a28f0b3dea77edd92a",
+      "review_index": 368,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/ad69f7ac7db579ab15da96a28f0b3dea77edd92a/f4153e21b9ed/frame-000.5.jpg",
+        "sha256": "9245836b8733af8613ff52b425c18896a30361cea33738bf16d601a5f4a592b7",
+        "ocr": "“GHll\n\nTh\n\n/\n\n=\n\nes"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "b11496e65e19a395462ac6739675fde0fdbe5d58",
+      "review_index": 369,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/b11496e65e19a395462ac6739675fde0fdbe5d58/28167d6420bf/frame-000.5.jpg",
+        "sha256": "f1d69cbfd79af83b2ebfef70fe998aac8822e7dc5b60604de4b0c43d9d4c9603",
+        "ocr": "es\n\nee\n\nred. away\n\n>\n\nA\n\nAG\n\nQ\n\nwa\n\nww\n\nhe\n\nNy\n\nLe\n\nY\n\nis"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "b8db69f16496dae690bed6a1e8dd750d0df6f710",
+      "review_index": 372,
+      "brand": [
+        "FUSSBALL.TV 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/b8db69f16496dae690bed6a1e8dd750d0df6f710/b65e6533087a/frame-000.5.jpg",
+        "sha256": "72a6b50164d709cbbc76d69d78b25ca408c47465bb71092b1ce85f8fc64916f0",
+        "ocr": "v\n\nea\n\n¥\n\n<>"
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "b9ce130664e06e44a217c0f5ac1983c6411fd865",
+      "review_index": 373,
+      "brand": [
+        "BBC"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/b9ce130664e06e44a217c0f5ac1983c6411fd865/53feaaef3b94/frame-000.5.jpg",
+        "sha256": "b032d1fd66d61394c0ec71dcfb5a369c30f24fe6ece37b13be56225500636a2c",
+        "ocr": "— —— a\n\n——\n\n_\n\n=\n\n—\n\n——\n\n——__~\n\n=\n\nFa"
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "bb43537115f18a8c4fed2836b66aa83ed131b05d",
+      "review_index": 374,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/bb43537115f18a8c4fed2836b66aa83ed131b05d/cc466634a5ca/frame-000.5.jpg",
+        "sha256": "e0b80d72f283d1a4cf10130b10a3c113f5d5ea29594637d45c47f0790f307a0e",
+        "ocr": "26 itv1\n\n¥:\n\n2\n\nws"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "bc7afc9172121339ea70df36a77d086daec578b2",
+      "review_index": 375,
+      "brand": [
+        "TVRI"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/bc7afc9172121339ea70df36a77d086daec578b2/635967605253/frame-000.5.jpg",
+        "sha256": "429916ba487a2abf8bc45c25f85d6401aa96f969e0ae3de7a1b3c8603771db49",
+        "ocr": "— oe\n\nRa Ni\n\n——\n\n3S Sy s\n\nis\n\ncu)\n\nyp 2\n\nyy ah\n\nSRER RS\n\n<u Bowe\n\nie\n\nLe\n\n(cnet ilies\n\nJ day\n\ntay\n\nx\n\nLiss"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "be6879dec09a5bc8bf6523f11e818afb29fe0039",
+      "review_index": 377,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/be6879dec09a5bc8bf6523f11e818afb29fe0039/1e923c6c3b2d/frame-000.5.jpg",
+        "sha256": "a2601dfbdde3755393779535d415ce6e047f11379af47f48406d52a7a4a43746",
+        "ocr": ""
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "c11256b43bd68ff77b3e691fa59c21cd7ec3100f",
+      "review_index": 378,
+      "brand": [
+        "ETV+"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/c11256b43bd68ff77b3e691fa59c21cd7ec3100f/450a4913a7bb/frame-000.5.jpg",
+        "sha256": "eeb000ce428d32b0cfc36254f5191aaaf05d62a157e278977222dd270ef7b730",
+        "ocr": "er\n\nwma\n\nP|\n\n~\n\nlly"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "c1275d23b535e491408f0c0dbcad3731b64d7cd7",
+      "review_index": 379,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/c1275d23b535e491408f0c0dbcad3731b64d7cd7/ba690193bc90/frame-000.5.jpg",
+        "sha256": "004959f4cc6b9e3eed23a00851d55c23a452ef2a525b7bb05b9d1b9d1e4c94a6",
+        "ocr": "— %\n\nwot ate ty\n\n—\n\na\n\nSe\n\nBs\n\n“Ss\n\n“Ef"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "c12b561b04fec24f1cdca88aa7044e5fddeef368",
+      "review_index": 380,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/c12b561b04fec24f1cdca88aa7044e5fddeef368/1f1c91c66059/frame-000.5.jpg",
+        "sha256": "80c8a79fe4518de81702ced3f13d0fd2e7b6e66a806d2ae72047303b1ebeddfd",
+        "ocr": "oy:\n\nbee\n\nee\n\n‘FIFAWORLD\n\nir —\n\nSSS a\n\n=\n\nfet\n\nP\n\nMS\n\nay\n\nSy)\n\n| a et\n\nLeiba.\n\naT.\n\nng\n\nae\n\noy\n\npatmhs\n\nTeg\n\nPose\n\n&\n\ncS\n\n6\n\nwe\n\nHe\n\nSit\n\nfi\n\nyee\n\n©,\n\na. om\n\nie\n\nee\n\nSES,\n\nA\n\nDE VE 2\n\nice:\n\nate\n\n3.\n\nre,\n\nPo te\n\n, ade\n\n<*\n\nna\n\nee\n\nee\n\nwae\n\n7\n\na.\n\n>\n\nshe,\n\nrss\n\nGat I\n\nTai\n\n%\n\nta\n\n#\n\n2m\n\nm4\n\nSy,\n\naE Sal Tad\n\nae\n\n“ta4\n\nCee ee\n\neX\n\n.\n\n«o®\n\nte Tae\n\nae\n\nee\n\n“2\n\ntye\n\nSs\n\nTop © Tae\n\naa\n\noY:\n\nsear\n\ntes ®\n\nfas\n\nYi;\n\nae\n\n¥e\n\nh\n\nayn\n\nwoes\n\no\n\ne?.\n\n¥s\n\nKe Py,\n\nhe\n\n‘\n\na,\n\nca\n\na\n\n* us:\n\nwi\n\nA\n\nRe\n\n—\n\ni\n\n~\n\nce\n\n~\n\nbe\n\n§\n\nPe\n\nCee N\n\na a\n\n—)\n\nir"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "c294f015ef60db9e6aaff610f389bfa4341b6d4b",
+      "review_index": 381,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/c294f015ef60db9e6aaff610f389bfa4341b6d4b/96e1d94125b4/frame-000.5.jpg",
+        "sha256": "00c0cb1282d453629b16913635c46e690698407a89e089c14aba091c3c7abfa7",
+        "ocr": "268 itv\n\nsei ee De\n\ni\n\n2 ee\n\n~ y\n\n¥y\n\npoe:\n\neu\n\nFy,\n\n&\n\nCity.\n\n“\n\nhalt\n\neh\n\nRest\n\naan ¥\n\n(aa ioe\n\nBi goth\n\na\n\n4\n\n$3\n\na\n\n——\n\n‘nmwonwon some\n\ncS\n\nawe\n\n= ya\n\nay\n\n“i\n\niti\n\nee\n\nxp\n\ney\n\nSf\n\nBe\n\n——\n\nDs\n\na\n\nrIiIrFA\n\n——\n\nhe"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "c486ff2e55a916f676f55be529f2bf1799a2aaeb",
+      "review_index": 383,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/c486ff2e55a916f676f55be529f2bf1799a2aaeb/502ab55f5abf/frame-000.5.jpg",
+        "sha256": "0794734da03d0f72decbd945571590473263b702e6dea1b3929e1d4cfe67808f",
+        "ocr": "a\n\n>».\n\n1)\n\nak\n\nte\n\nwr\n\n“we\n\ni |\n\nA\n\nAtt,\n\nae\n\nace ene\n\nNe\n\noO peta en a\n\nae\n\neo\n\nI—7—4\n\nsre\n\na _ FESS:"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "cc02aaf2d621ae73b9e0cdc3202b2a253a9eb5d9",
+      "review_index": 387,
+      "brand": [
+        "MEGOGO"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/cc02aaf2d621ae73b9e0cdc3202b2a253a9eb5d9/4e90edda88e8/frame-000.5.jpg",
+        "sha256": "7c3be849247862effd1e99b86a571a70a3870c36361fd54e62085def66741bbe",
+        "ocr": "———E—_—"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "d38e6ef5f33090c9aeb368e2324835c93f235877",
+      "review_index": 392,
+      "brand": [
+        "MEGOGO"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/d38e6ef5f33090c9aeb368e2324835c93f235877/0b39dfb7d90e/frame-000.5.jpg",
+        "sha256": "ec717c36b1b716c185385019ad3f8a75b6db66150443dba57e11d1d872bb5cd7",
+        "ocr": "Sila Duar\n\nMEGOGO\n\njacninokeMac\n\n‘s9pora fo:\n\ns\n\n.™\n\nPt\n\nwe\n\nS\n\nae\n\na\n\n1\n\nnae\n\n_\n\naL}\n\na\n\nMe\n\nPN\n\noF\n\n“A\n\nee ae"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "d403dc0d90c33505b31929ff8d90aecd01549f0d",
+      "review_index": 394,
+      "brand": [
+        "Antena 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/d403dc0d90c33505b31929ff8d90aecd01549f0d/ab623ed33a6b/frame-000.5.jpg",
+        "sha256": "d7351e80e57891506fb2cc4c3c13f3dfb95192182f6f097a5301b6e5dc375a7c",
+        "ocr": "Of\n\n&\n\nFIFA\n\nLD CUP"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "d742d9b5f8b5f3b11288cee4a50ea37c1dc31f87",
+      "review_index": 395,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/d742d9b5f8b5f3b11288cee4a50ea37c1dc31f87/b3c7f68f64d8/frame-000.5.jpg",
+        "sha256": "4dc14fdbac3b83c63e61aa176bf35e7745c7a5cb7f9b6ddd7c13cb2f083cc9c6",
+        "ocr": "=~.\n\nMarne\n\naw\n\nra\n\nLOM fd\n\n-\n\ndebe\n\nCT Lod\n\naf\n\nmii ®\n\n= nn\n\nae\n\nfi\n\nb"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "d7b65f30f1d428246009b40ac7e641b5c34185e5",
+      "review_index": 396,
+      "brand": [
+        "TSN"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/d7b65f30f1d428246009b40ac7e641b5c34185e5/57d26e65f3a8/frame-000.5.jpg",
+        "sha256": "9eed12bc808086a0b458abf3875ebac62e7a7675572f115dfa2f6be8eca06e1c",
+        "ocr": "a\n\nq\n\na8.\n\ny"
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "d823f8df5685e3ed6ca2cc76959b3e5271e760bf",
+      "review_index": 397,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/d823f8df5685e3ed6ca2cc76959b3e5271e760bf/a7c933463bc2/frame-000.5.jpg",
+        "sha256": "ce16514b137520a9d8c1c4c0a0e86082a376f9ba885e7893c5ebca5ec50618f9",
+        "ocr": ""
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "de8545ecf4eaa02a3483e8b57e586af001a322e6",
+      "review_index": 403,
+      "brand": [
+        "MEGOGO"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/de8545ecf4eaa02a3483e8b57e586af001a322e6/aee50304b128/frame-000.5.jpg",
+        "sha256": "855c7333d323ba7b118e44557b5c7ae651f6aabdc442841bc9b18c2215ddb524",
+        "ocr": "MEGOGO\n\na?\n\nBs\n\nPf as\n\nmo\"\n\neal\n\ner\n\n=\n\nprt\n\n+0\n\n-«\n\nte\n\nyet et lh eet\n\nNy\n\nre\n\n“Al\n\nSeog\n\n$,\n\n%\n\noY\n\nvon\n\nCs\n\ntd\n\n%\n\n| oa\n\nSet\n\nba\n\nay\n\nJa\n\n2\n\nti\n\nye\n\n>\n\nXt\n\nbes\n\nhae cage"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "e5e43178a6592d6db44520ea68db280eddb4a47d",
+      "review_index": 407,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/e5e43178a6592d6db44520ea68db280eddb4a47d/c792525e92ca/frame-000.5.jpg",
+        "sha256": "50a646d0d1c267ba46f17b4616044e99b890cb56a1e935b568e4f81336131f89",
+        "ocr": "MaTu:\n\na"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "ed109cdc34bb54a168fd9da05e6627339a418810",
+      "review_index": 413,
+      "brand": [
+        "BNT 3"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/ed109cdc34bb54a168fd9da05e6627339a418810/74c5b8c2277a/frame-000.5.jpg",
+        "sha256": "3c5abbed6337e3c4cbd382773609228c47c14b21dae64b5848df45a3aebe624b",
+        "ocr": "re\n\nTas\n\na\n\nSR\n\nwe\n\na\n\ney\n\n-"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "ed4ff38dc9a71f555e5ea0682c8e7f9db77f9642",
+      "review_index": 414,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/ed4ff38dc9a71f555e5ea0682c8e7f9db77f9642/4786669ac874/frame-000.5.jpg",
+        "sha256": "4972b3d28d34ec1097b1e33902a75af0bae9ade96b0854c1344ff9d93de12e76",
+        "ocr": "MATH:\n\nViet\n\n»\n\neRe"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "ef02d0235b4f6df0d857a97873b61753c41bd52c",
+      "review_index": 415,
+      "brand": [
+        "MEGOGO"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/ef02d0235b4f6df0d857a97873b61753c41bd52c/b25c3c2a12cb/frame-000.5.jpg",
+        "sha256": "f9de2aca3fcf2d32f1a38ba08a99c19a6183f325c3850192d86b593832b34ca5",
+        "ocr": "MEGOGO\n\na\n\nsy\n\n\"\n\na\n\nae"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "ef0d70fdeecedebf70fc1df33b0727718d89d200",
+      "review_index": 416,
+      "brand": [
+        "Match TV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/ef0d70fdeecedebf70fc1df33b0727718d89d200/796fb6990cf7/frame-000.5.jpg",
+        "sha256": "dabb42129270a6813df1b56050adef1e0884367ea76507003f82fbe65940acfa",
+        "ocr": "y\n\no\n\nWORLD CUP\n\nDUDA\n\nYEMNUOHA'"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "f1e825b57dbf81201b56f5e1ef42541030a341b3",
+      "review_index": 417,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/f1e825b57dbf81201b56f5e1ef42541030a341b3/45634c7b1c5e/frame-000.5.jpg",
+        "sha256": "924da697a8717c60f3d3d52c8f5749c94158f69634325da40fd85c1578ae2020",
+        "ocr": "_ ==\n\ne\n\nan"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "f2d1fd9ba3ee09e39ef0b291103e5e14fa18f126",
+      "review_index": 418,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/f2d1fd9ba3ee09e39ef0b291103e5e14fa18f126/17d9a089e2d4/frame-000.5.jpg",
+        "sha256": "cd858aa40435ebd5161274dcf431434a2be4214d6c9bc6cbebce2d0b7a6b2f6f",
+        "ocr": "=\n\n—- **\n\n=—\n\n3\n\n——\n\nSs\n\nwe\n\n4\n\na\n\n—\n\na aS\n\nsome.\n\n—\n\n=\n\na ~\n\nre:\n\n——\n\ne toy i =\n\na\n\nee\n\n<> —\"\""
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "f60054dbddbcbc75f50a58ac842003538d8cbed1",
+      "review_index": 419,
+      "brand": [
+        "ITV"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/f60054dbddbcbc75f50a58ac842003538d8cbed1/73e5bfb57acc/frame-000.5.jpg",
+        "sha256": "86b1607222a6f6f024bca36a0df5064dca797df6e8a243398783951ff5e2722d",
+        "ocr": "KR =\n\n1 3\n\na,\n\noer on He\n\na\n\naes\n\nTe:\n\na\n\na\n\nRe\n\noll\n\nCw\n\nao\n\npy\n\n4\n\nte <2) 20,\n\nrae,\n\nng\n\n==\n\nAAs\n\n=\n\n;"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "f7987a10167fb8e1c50665446cea368e893ff98e",
+      "review_index": 420,
+      "brand": [
+        "TVRI"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/f7987a10167fb8e1c50665446cea368e893ff98e/cf2eca240076/frame-000.5.jpg",
+        "sha256": "fc44ffe127fc62c16ed0a77bea6412bbf56ed438302f8e8fa7a27784a4e6c5d3",
+        "ocr": "if\n\nlf\n\n3\n\nZ\n\nores\n\ninsta\n\nae\n\n1\n\nis\n\n‘or ae\n\nii\n\nte\n\nfog iia Atl\n\n2\n\nBde\n\nmt\n\nOT\n\ni)\n\nrma}\n\nie\n\nUR\n\n‘\n\n7\n\nCae\n\n”\n\na\n\nSs\n\n‘y)\n\nvas\n\nA )\n\nSe\n\nww.\n\ny\n\n=,\n\nHis\n\not\n\njy\n\nseed\n\nGA\n\nAsses\n\nty\n\ni\n\nm4\n\nrg\n\nCee\n\ntee\n\n*\n\nfd\n\neet\n\nras\n\noe\n\nDe tah,\n\na rat\n\nif\n\nae\n\ni\n\nLunas\n\nay\n\ntn\n\nule Ce\n\nue\n\nHt\n\n4 ™,\n\nDy\n\ngt"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "f920ef0433d33d779848d580ca7e78d08debc9a1",
+      "review_index": 421,
+      "brand": [
+        "BNT 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/f920ef0433d33d779848d580ca7e78d08debc9a1/8618502de585/frame-000.5.jpg",
+        "sha256": "ffa1eccc80912b7225eb73ac24e18f90ae7c86d7d6d079f35752fb03a55d189a",
+        "ocr": "->|\n\nee\n\nag\n\nte)\n\na4\n\n——\n\n=\n\n=\n\n=\n\neee\n\n—\n\n=\n\nee oo aS\n\n=\n\nae\n\nae\n\nEs\n\n~o\n\nFi\n\n=\n\n2%\n\n&\n\n=\n\n2.5\n\nai\n\n—\n\n—\n\n—."
+      },
+      "result": "inconclusive-earlier-frame"
+    },
+    {
+      "btih": "fd9e92c56c2811d93c39d32e7053e46816363cb3",
+      "review_index": 422,
+      "brand": [
+        "FUSSBALL.TV 1"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/fd9e92c56c2811d93c39d32e7053e46816363cb3/942aacab6c3a/frame-000.5.jpg",
+        "sha256": "63a28cc2438b94f1892e8f39723ddb16ae56d709b292b66c27f3e27d26f80a89",
+        "ocr": "FUSSBALLTV1 fF}\n\nawe\n\n,\n\nas"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    },
+    {
+      "btih": "ff412280540ed500d73d84c6b358f868efe1846e",
+      "review_index": 424,
+      "brand": [
+        "TVRI"
+      ],
+      "frame": {
+        "seconds_in_cached_fragment": 0.5,
+        "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/ff412280540ed500d73d84c6b358f868efe1846e/74704edaf086/frame-000.5.jpg",
+        "sha256": "9e32930daf6c502d43b4f85d55bb8ef85fb95f8b395fc587f6df4808d7468eb4",
+        "ocr": "OS ‘\n\n4\n\n4s\n\nye\n\noS\n\nN\\\n\na\n\n» *\n\n—_— ll"
+      },
+      "result": "same-brand-mark-visible-in-earlier-frame"
+    }
+  ]
+}

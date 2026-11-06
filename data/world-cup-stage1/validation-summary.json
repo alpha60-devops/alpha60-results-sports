@@ -1,0 +1,267 @@
+{
+  "H3r5": {
+    "status": "passed",
+    "products": 149,
+    "duration_files": {
+      "cumulative": 2,
+      "day": 128,
+      "week": 19
+    },
+    "validation_sha256": "03b28f11ac26a0b478c4b1ef0933165407957f47cd74a53345bb1e5133569852",
+    "generation_metrics": {
+      "schema_version": 1,
+      "h3_resolution": 5,
+      "workers_requested": 2,
+      "enriched_distinct_ips": 10361212,
+      "duplicate_inventory_runs": 1,
+      "duplicate_groups": 80,
+      "duration_models": 148,
+      "candidate_cache_files": 78196,
+      "selected_cache_files": 78196,
+      "parsed_cache_files": 78196,
+      "ip_occurrences": 199758772,
+      "enrichment_cache_hits": 52417494,
+      "enrichment_cache_misses": 10361212,
+      "ipinfo_failures": 0,
+      "cluster_cells": 50481434,
+      "output_files": 149,
+      "output_bytes": 3038162782,
+      "enrichment_executor": {
+        "workers": 2,
+        "queue_capacity": 2,
+        "tasks_submitted": 62778706,
+        "tasks_completed": 62778706,
+        "maximum_queue_depth": 2,
+        "maximum_active_tasks": 2,
+        "worker_waits": 27257487
+      },
+      "aggregation_executor": {
+        "workers": 2,
+        "queue_capacity": 2,
+        "tasks_submitted": 67277,
+        "tasks_completed": 67277,
+        "maximum_queue_depth": 2,
+        "maximum_active_tasks": 2,
+        "worker_waits": 860
+      },
+      "timings_us": {
+        "duplicate_inventory": 138587,
+        "coalesce": 861014878,
+        "enrichment": 323017356,
+        "aggregation": 64374667,
+        "serialization": 25365974,
+        "total": 1311975902
+      },
+      "ipinfo_backends_us": {
+        "location": 35127993,
+        "privacy": 28044121,
+        "carrier": 22123294,
+        "satellite": 21079871
+      }
+    }
+  },
+  "H3r8": {
+    "status": "passed",
+    "products": 149,
+    "duration_files": {
+      "cumulative": 2,
+      "day": 128,
+      "week": 19
+    },
+    "validation_sha256": "417cf2c938faad3f30e5c55e32334aa862ab033b2e5710245105f717a24299a1",
+    "generation_metrics": {
+      "schema_version": 1,
+      "h3_resolution": 8,
+      "workers_requested": 2,
+      "enriched_distinct_ips": 10361212,
+      "duplicate_inventory_runs": 1,
+      "duplicate_groups": 80,
+      "duration_models": 148,
+      "candidate_cache_files": 78196,
+      "selected_cache_files": 78196,
+      "parsed_cache_files": 78196,
+      "ip_occurrences": 199758772,
+      "enrichment_cache_hits": 52417494,
+      "enrichment_cache_misses": 10361212,
+      "ipinfo_failures": 0,
+      "cluster_cells": 55191159,
+      "output_files": 149,
+      "output_bytes": 3197489297,
+      "enrichment_executor": {
+        "workers": 2,
+        "queue_capacity": 2,
+        "tasks_submitted": 62778706,
+        "tasks_completed": 62778706,
+        "maximum_queue_depth": 2,
+        "maximum_active_tasks": 2,
+        "worker_waits": 26695366
+      },
+      "aggregation_executor": {
+        "workers": 2,
+        "queue_capacity": 2,
+        "tasks_submitted": 67277,
+        "tasks_completed": 67277,
+        "maximum_queue_depth": 2,
+        "maximum_active_tasks": 2,
+        "worker_waits": 817
+      },
+      "timings_us": {
+        "duplicate_inventory": 54913,
+        "coalesce": 945475408,
+        "enrichment": 345590179,
+        "aggregation": 66582880,
+        "serialization": 31628869,
+        "total": 1429199561
+      },
+      "ipinfo_backends_us": {
+        "location": 62909348,
+        "privacy": 36519286,
+        "carrier": 23688581,
+        "satellite": 21393284
+      }
+    }
+  },
+  "canonical_geography_join": {
+    "status": "passed",
+    "torrents": 493,
+    "checks": [
+      "canonical ID coverage",
+      "exact source name",
+      "unfiltered downloader total",
+      "unfiltered uploader total"
+    ],
+    "source_totals": {
+      "downloaders": 56594924,
+      "uploaders": 539766
+    }
+  },
+  "independent-language-probe": {
+    "additional_language_records": [],
+    "different_known_sets": 0,
+    "tag_counts": {
+      "audio": {
+        "fra": 1,
+        "spa": 7,
+        "und": 17,
+        "eng": 208,
+        "rus": 110,
+        "own": 15,
+        "ukr": 9,
+        "fre": 1,
+        "ger": 3,
+        "swe": 1,
+        "bul": 22,
+        "deu": 2,
+        "est": 5,
+        "nld": 4,
+        "lit": 1,
+        "???": 1,
+        "dut": 1
+      },
+      "subtitle": {
+        "spa": 1,
+        "eng": 93,
+        "glg": 1,
+        "cat": 1,
+        "eus": 1,
+        "und": 1,
+        "rus,rus": 1,
+        "est": 2,
+        "rus": 1,
+        "nld": 1
+      }
+    }
+  },
+  "historical-threshold-check": {
+    "status": "consistent with downloader-threshold in serialized cells; original policy not recorded in header",
+    "stats": {
+      "cells": 47218,
+      "zero_uploaders": 14760,
+      "uploaders_below3": 30878,
+      "downloaders_below3": 0
+    },
+    "sources": [
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00001.geojson.gz",
+        "sha256": "08c3c3e15fd3836e979d0265645c9687cebda2dd155e135ea2c0f4b03bf1cd5c"
+      },
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00002.geojson.gz",
+        "sha256": "97f44a21cef2c2dab6b3f1f4233099d2996ec6e07503293c3ca63ff1d8867d44"
+      },
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00003.geojson.gz",
+        "sha256": "de09e1b2e617b4a616ead6443c6e8c455014343da558aa9777e9574a664fbcd7"
+      },
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00004.geojson.gz",
+        "sha256": "2cb449082f417d1a92f051c47af5dbffba14c631cbf5354e63868bc8ab484600"
+      },
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00005.geojson.gz",
+        "sha256": "35caee33ffe7fa7b45b5be7cec84c0e4fc8e91445940aaf23d6ebc9cd4adbb1e"
+      },
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00006.geojson.gz",
+        "sha256": "ec3451e3d9174b31f14efebc5ef0c5e06a6ee554e5a19881e63bd6b7d5fef067"
+      },
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00007.geojson.gz",
+        "sha256": "9bffefd11185d54161be173c49ebc8d01cf64697fd3b2bb0f81865cdbc8764c0"
+      },
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00008.geojson.gz",
+        "sha256": "2a455734513dcbd1ff6f316aa5493c319a74ab577cfe27e98bf88bee36c1436a"
+      },
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00009.geojson.gz",
+        "sha256": "b5cc8670606095d1e2d1815db0cd27789bb5b02b8768b6bcbb4db37d48454c22"
+      },
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00010.geojson.gz",
+        "sha256": "d2dae22484f479bdc62266b2049b5ae3daea6376303742d86851d84ca3d366c4"
+      },
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00011.geojson.gz",
+        "sha256": "e4dabc24ad6b05b0475525682b8e5a75b23a1bfe580ca3c08bcc09d2f9eeda11"
+      },
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00012.geojson.gz",
+        "sha256": "3e3482f38f7a7afd4f6cc3b2696d348d6b471716ff1590db5457a24846be4bba"
+      },
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00013.geojson.gz",
+        "sha256": "253a6e7ddb1c98ea5f733ea53d1a2533550156b502f26a584ec2cedc77eeaf63"
+      },
+      {
+        "path": "/home/bkoz/src/alpha60-results-2025/data/geojson.day/dan-da-dan-210-day-00014.geojson.gz",
+        "sha256": "c65a6e2d6fee10ec7053b934d986ffb47cbca09041258cae37e697145eb3d7c0"
+      }
+    ]
+  },
+  "cohort-provenance": {
+    "status": "passed",
+    "source_summaries": {
+      "kung-fu-soccer-2026": {
+        "source": "/tmp/alpha60-results-pages-20261105/alpha60-results-2026/data/json/kung-fu-soccer-2026-cumulative.json",
+        "sha256": "d87d26861235bd29041856cc3bc3967a64c7314415ba5b229d3db6ba7fd929bc",
+        "ip_geolocation_version": "6:1777968300"
+      },
+      "crew-girl-01": {
+        "source": "/tmp/alpha60-results-pages-20261105/alpha60-results-2026/data/json/crew-girl-01-cumulative.json",
+        "sha256": "037ff3ead8e9d4e21275a2ef151f1aaa0eb58903a03a4992be48183285681711",
+        "ip_geolocation_version": "6:1777968300"
+      },
+      "dan-da-dan-210": {
+        "source": "/home/bkoz/src/alpha60-results-2025/data/json/dan-da-dan-210-cumulative.json",
+        "sha256": "76d24accceeb8b15e2551604055e0b7417b7ec4284fe461f4c0a63930ef8f936",
+        "ip_geolocation_version": "6:1777968300"
+      }
+    },
+    "interpretation": "Collection summaries record IPinfo mode 6 and location database epoch 1777968300, matching the World Cup snapshot. Daily GeoJSON headers separately verify H3r5 and minimum size three. Historical companion-database checksums are not available; the historical data was not regenerated in this task."
+  },
+  "vendor_maps": {
+    "maps": 22,
+    "all_group_totals_reconciled": true
+  }
+}

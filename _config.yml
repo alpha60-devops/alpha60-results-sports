@@ -1,4 +1,6 @@
 title: " "
+url: "https://alpha60-devops.github.io"
+baseurl: "/alpha60-results-sports"
 theme: jekyll-theme-minimal
 show_downloads: false
 sass:
