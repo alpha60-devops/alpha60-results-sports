@@ -1,0 +1,159 @@
+{
+  "schema": "izzi.visualization/1",
+  "kind": "bar-graph",
+  "title": "South America · top ten countries and areas",
+  "description": "Cumulative H3r8 aggregate memberships. Bars use the whole region as denominator, including places outside the top ten.",
+  "source": "../data/world-cup-followups/analysis.json.gz",
+  "x_label": "Share of regional downloader memberships (%)",
+  "y_label": "Country or area",
+  "viewport": [
+    1280,
+    740
+  ],
+  "bars": [
+    [
+      "Brazil",
+      70.51871286338671
+    ],
+    [
+      "Argentina",
+      12.901288957269644
+    ],
+    [
+      "Colombia",
+      5.041672801079806
+    ],
+    [
+      "Chile",
+      3.797417140468133
+    ],
+    [
+      "Peru",
+      1.657303023525802
+    ],
+    [
+      "Venezuela",
+      1.6060830151867465
+    ],
+    [
+      "Ecuador",
+      1.309130591634646
+    ],
+    [
+      "Uruguay",
+      1.268306306326556
+    ],
+    [
+      "Paraguay",
+      0.955844587874204
+    ],
+    [
+      "Bolivia",
+      0.44934810387631224
+    ]
+  ],
+  "observations": [
+    {
+      "label": "Brazil",
+      "share": 0.7051871286338671,
+      "memberships": 2509871,
+      "denominator": 3559156,
+      "region": "south",
+      "country": "BRA",
+      "role": "downloaders"
+    },
+    {
+      "label": "Argentina",
+      "share": 0.12901288957269644,
+      "memberships": 459177,
+      "denominator": 3559156,
+      "region": "south",
+      "country": "ARG",
+      "role": "downloaders"
+    },
+    {
+      "label": "Colombia",
+      "share": 0.050416728010798065,
+      "memberships": 179441,
+      "denominator": 3559156,
+      "region": "south",
+      "country": "COL",
+      "role": "downloaders"
+    },
+    {
+      "label": "Chile",
+      "share": 0.03797417140468133,
+      "memberships": 135156,
+      "denominator": 3559156,
+      "region": "south",
+      "country": "CHL",
+      "role": "downloaders"
+    },
+    {
+      "label": "Peru",
+      "share": 0.01657303023525802,
+      "memberships": 58986,
+      "denominator": 3559156,
+      "region": "south",
+      "country": "PER",
+      "role": "downloaders"
+    },
+    {
+      "label": "Venezuela",
+      "share": 0.016060830151867465,
+      "memberships": 57163,
+      "denominator": 3559156,
+      "region": "south",
+      "country": "VEN",
+      "role": "downloaders"
+    },
+    {
+      "label": "Ecuador",
+      "share": 0.01309130591634646,
+      "memberships": 46594,
+      "denominator": 3559156,
+      "region": "south",
+      "country": "ECU",
+      "role": "downloaders"
+    },
+    {
+      "label": "Uruguay",
+      "share": 0.01268306306326556,
+      "memberships": 45141,
+      "denominator": 3559156,
+      "region": "south",
+      "country": "URY",
+      "role": "downloaders"
+    },
+    {
+      "label": "Paraguay",
+      "share": 0.00955844587874204,
+      "memberships": 34020,
+      "denominator": 3559156,
+      "region": "south",
+      "country": "PRY",
+      "role": "downloaders"
+    },
+    {
+      "label": "Bolivia",
+      "share": 0.004493481038763123,
+      "memberships": 15993,
+      "denominator": 3559156,
+      "region": "south",
+      "country": "BOL",
+      "role": "downloaders"
+    }
+  ],
+  "renderer": {
+    "library": "Izzi",
+    "functions": [
+      "svg::emit_bar_graph"
+    ],
+    "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+    "bar_header_sha256": "6a064f6a7ce1ac8544684c1179bf2f40284ca253258d5f898bbe143b79135a5e",
+    "renderer_sha256": "abdc56a156258e5fd882b1637daf74a9d8936120ea82acc95199036e73cf97fb",
+    "wrapper_sha256": "945ca09872a1bcdd789ea4528a74ebaa59dbcb9d0396a055203e696040fa3685",
+    "axis_policy": "Native zero baseline and automatic maximum; shared across collections within each chart.",
+    "postprocessing": "Accessible metadata, collection colors, and percentage precision; native geometry retained."
+  }
+}

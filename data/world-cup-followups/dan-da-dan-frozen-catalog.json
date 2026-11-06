@@ -1,0 +1,2315 @@
+{
+  "schema": "alpha60-frozen-cohort-catalog/1",
+  "status": "passed",
+  "collection": "dan-da-dan-210",
+  "source_roster": "/home/bkoz/src/alpha60-results-2025/data/json/dan-da-dan-210-cumulative-btiha-media-objects.json",
+  "source_sha256": "d978a3381edc39e4a78a43b02d3d910844219037e75cea26f01baa7c87d5343d",
+  "frozen_data_root": "/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/dan-da-dan-210/frozen-data",
+  "git_revision": null,
+  "original_torrent_files": 383,
+  "canonical_torrents": 301,
+  "observed_raw_indices": 186,
+  "metadata_names_excluded_by_snapshot": [],
+  "roster_only_identities": [],
+  "metainfo": [
+    {
+      "tid": 1,
+      "name": "2[Breeze] DAN DA DAN - S02 [1080p AV1][Dual Audio] (1)",
+      "canonical_btiha": "54ccecfd96dd655387346354171a5b6c4a0b9798",
+      "sha256": "9e50406cd1797dca9ffb29d568213deadb2b45c8d21d4c01c153eec5e85401dd"
+    },
+    {
+      "tid": 2,
+      "name": "[ANi] Dan Da Dan S02 - 膽大黨 第二季 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT]",
+      "canonical_btiha": "5316623dbbf81eb0043ef3c1ab92e230543f3dac",
+      "sha256": "f0bd32e0d0e8e68f7795233f9c589c4f54ea94c2c7f1852d5c898b614266d037"
+    },
+    {
+      "tid": 3,
+      "name": "[ANi] Dan Da Dan S02 - 膽大黨 第二季 - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT]",
+      "canonical_btiha": "51729c04ecb48a800d1ccc6adb933f7e8fe783cb",
+      "sha256": "d500146bab3c3df524e6db147245df37c5871c8f990a4115cc364fc426c85ffa"
+    },
+    {
+      "tid": 4,
+      "name": "[ANi] Dan Da Dan S02 - 膽大黨 第二季 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT]",
+      "canonical_btiha": "5b7bee8db4aa8e66e6e580621895dc5afbb5b70c",
+      "sha256": "77436d58af7dc41f558ba0573b050e5c52ab59d3aabe054ad43346f00f717b93"
+    },
+    {
+      "tid": 5,
+      "name": "[ANi] 膽大黨 第二季 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4",
+      "canonical_btiha": "5316623dbbf81eb0043ef3c1ab92e230543f3dac",
+      "sha256": "bf8059b4e2edf553390b58732fbedfbac43111b61e59f2a1105b41daa6f81ae1"
+    },
+    {
+      "tid": 6,
+      "name": "[Anime Time] Dandadan (Season 02) [Dual Audio][1080p][HEVC 10bit x265][AAC][Multi Sub]",
+      "canonical_btiha": "7970e641aafb2fc28b4609b58cc8e3ee53379612",
+      "sha256": "7a8b67d243630854cf28ca2dd51553f7868c7282f3a99fcf4cde731e2c5f7239"
+    },
+    {
+      "tid": 7,
+      "name": "[AsukaRaws] Dandadan - 22 (WEB-DL 1280x720 x264 AAC).mp4",
+      "canonical_btiha": "cee251e63b636bca504bb93e3f4ae7d5d88a954f",
+      "sha256": "7ef70e3a9837bdb2fce7201469319e084744f2d2f891e5437fb15e53c5f49511"
+    },
+    {
+      "tid": 8,
+      "name": "[AsukaRaws] Dandadan - 23 (WEB-DL 1280x720 x264 AAC).mp4",
+      "canonical_btiha": "60f932fff774fc5a9660862bb37269b8a4133106",
+      "sha256": "72214b3c576b3f38e9b835a0196747515ca09e6e6c5338971118bcf74fcf3485"
+    },
+    {
+      "tid": 9,
+      "name": "[AsukaRaws] Dandadan - 24 END (WEB-DL 1280x720 x264 AAC).mp4",
+      "canonical_btiha": "7331be5525337d99449c6ebf0608bab888e79df1",
+      "sha256": "7d981544846c0fb71c13e8f3353b282351bf1556af9095c4668e618c8bd45260"
+    },
+    {
+      "tid": 10,
+      "name": "[ASW] Dandadan - 22 [1080p HEVC][6D1ED6C3].mkv",
+      "canonical_btiha": "9e478a4ad90195d22fb181bee5d1622196ef4cd9",
+      "sha256": "575733e1f0b7f092ffce414dc54c3e1f1fac58e766b5cf93433a952aecc09966"
+    },
+    {
+      "tid": 11,
+      "name": "[ASW] Dandadan - 23 [1080p HEVC][099ADC77].mkv",
+      "canonical_btiha": "330c4f945dab63a3ae3a17ac1c915aa76094c768",
+      "sha256": "15943ebc0fe275678612517c21ab32805c1055567c2f02afed7cfabff1135dbc"
+    },
+    {
+      "tid": 12,
+      "name": "[ASW] Dandadan - 24 [1080p HEVC][43228C72].mkv",
+      "canonical_btiha": "df110cd3d58d0e1e230cd5b36bb194de4471550b",
+      "sha256": "97257aa2b686c090ffa3a1000ec7ccffbd6684812feb22dc4a4ebfc78065f447"
+    },
+    {
+      "tid": 13,
+      "name": "[Bitsearch.to] [Breeze] DAN DA DAN - S02 [1080p AV1][Dual Audio]",
+      "canonical_btiha": "d40dbed561fc90ce3e61f66a6c2f3cc50dc9268e",
+      "sha256": "e50ab77ee466097b53383add340f0064c5b2aeec203d8fe67032b86400b3cb58"
+    },
+    {
+      "tid": 14,
+      "name": "[Bitsearch.to] [Erai-raws] Dan Da Dan Season 2 - 12 [1080p CR WEB-DL AVC AAC][MultiSub][7FA0B3E7].mkv",
+      "canonical_btiha": "66f1bc62a17c78634c0dc01660cf0d2550353f99",
+      "sha256": "8f108ff924cadf905666b1719b2842c5f96181fd1dfdac46a64201ad3a0b727d"
+    },
+    {
+      "tid": 15,
+      "name": "[Bitsearch.to] [Erai-raws] Dan Da Dan Season 2 - 12 [1080p NF WEBRip HEVC AAC][MultiSub][CA6312D3].mkv",
+      "canonical_btiha": "e2583e626f65dcc54b7667526f133c685da114bc",
+      "sha256": "2735b0907d6b574d4a5d29624d6df35a4bcd05a386f79cc85e2c0c8a5741ed07"
+    },
+    {
+      "tid": 16,
+      "name": "[Bitsearch.to] [Feibanyama] Dan Da Dan S2 [CR WebRip 1080p HEVC-10bit OPUS Multi-Subs]",
+      "canonical_btiha": "758918de42770ad5b99aff4d92eaa2081e6fb892",
+      "sha256": "16168794879772cd3b7dc80f9cf2bda9c5581c31023c394fb54719867744bf03"
+    },
+    {
+      "tid": 17,
+      "name": "[Bitsearch.to] [VARYG] Dan Da Dan 2 (2025) [WEB-DL 1080p x264 AAC]",
+      "canonical_btiha": "89175ea06a9a0f545c0337a36e991de9fef63d67",
+      "sha256": "34ed034cb3b406ea2fa8bdac36a37a2d5d3074d75756df93baa7ffa2f2143de1"
+    },
+    {
+      "tid": 18,
+      "name": "[Bitsearch.to] DAN DA DAN (2024) S02 (1080p CR WEB-DL H264 AAC 2.0 Dual-Audio) [Cytox]",
+      "canonical_btiha": "753b63b9c5141d9e8ff3b6232277461b0a87b755",
+      "sha256": "40dde578a0bf8ba904edfc85ea06933f6d958c9b98c99095bd777676af1992f7"
+    },
+    {
+      "tid": 19,
+      "name": "[Bitsearch.to] DAN DA DAN - S02E12 - Clash! Space Kaiju vs. Giant Robot!.mkv",
+      "canonical_btiha": "c03a7f40ae079e2bcdd1a021e4676c65fefee12f",
+      "sha256": "917c3409a416d73505a1f17daea1206ca35be39e3538f1a295259dea22c601b1"
+    },
+    {
+      "tid": 20,
+      "name": "[Bitsearch.to] DAN DA DAN - Season 2 [Dual Audio]",
+      "canonical_btiha": "ef20048d865d9667ae50384537e2f4aba58f90e8",
+      "sha256": "81fd11ade73d8b5ac5c781b268054cbbbc31b09a47d63cba25db7cfa4859c595"
+    },
+    {
+      "tid": 21,
+      "name": "[Bitsearch.to] Dan da Dan 2X12 HDTV XviD Castellano",
+      "canonical_btiha": "e1bd22b2e45a2e8b23868bea2095700dfd664311",
+      "sha256": "284cfbbaecd01ff9976517f48e655f0e6a33c4b31fb73ba7506883c7bd43cac3"
+    },
+    {
+      "tid": 22,
+      "name": "[Bitsearch.to] DAN DA DAN S02E12 MULTi 1080p WEB x264 AAC -Tsundere-Raws (CUSTOM).mkv",
+      "canonical_btiha": "9296aa84837ac1a558123409eaba1f50f9dd8d20",
+      "sha256": "f2c9276cc5af242aa8f0b4938823ed8cc28b614adf7e550cb5e97db35bc8d67c"
+    },
+    {
+      "tid": 23,
+      "name": "[Bitsearch.to] Dan.Da.Dan.S02.400p.Ultradox",
+      "canonical_btiha": "00c8e4961c169d771a078c1453fa4bf89b0ba716",
+      "sha256": "44a1676c6300811f21f3fe4d03fbbe93bb32535d953af3aa6ac047985f75191b"
+    },
+    {
+      "tid": 24,
+      "name": "[Bitsearch.to] Dan.Da.Dan.S02E11.DUAL-AUDIO.JAP-ENG.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+      "canonical_btiha": "27f8e39a30364741102d9ac37898670e722449af",
+      "sha256": "4f1b837795a4aab0a38e27655fca5cf29615076f3f6216e5d73fb07819b58f98"
+    },
+    {
+      "tid": 25,
+      "name": "[Bitsearch.to] Dan.Da.Dan.S02E12.FiNAL.VOSTFR.1080p.WEBRiP.x265-KAF.mkv",
+      "canonical_btiha": "a1b652b63adf69230d372c26ffd064b602dcbdce",
+      "sha256": "baf2312395b29036225919049cb2f735285dac7f9d6d9531469a69ff77b82ed8"
+    },
+    {
+      "tid": 26,
+      "name": "[Bitsearch.to] www.UIndex.org - DAN DA DAN S02E12 Clash Space Kaiju vs Giant Robot 1080p CR WEB-DL DUAL DDP2 0 H 264-Kitsune",
+      "canonical_btiha": "337edcb6742f2339643cbe6f3545e89deeaba196",
+      "sha256": "fdf8ac2f19205736cd3a53f0db77db25eef62b01d11e5aeb5bef38dd8f2c7f78"
+    },
+    {
+      "tid": 27,
+      "name": "[Breeze] DAN DA DAN - S02E10 [1080p AV1][Dual Audio].mkv",
+      "canonical_btiha": "5281d9f1c449a88fd3be9c914e0e6c6757ccef97",
+      "sha256": "2dc86c7f4e70ff29519662d68194d31a68b9cf4d2b9d011859d35f505382b9e5"
+    },
+    {
+      "tid": 28,
+      "name": "[Breeze] DAN DA DAN - S02E11 [1080p AV1][Dual Audio].mkv",
+      "canonical_btiha": "55f16d37d296569fc93633a467e93e675ea9cc50",
+      "sha256": "bb765b0d33c670c5c61421fb39bfbc2251048d3f79088d0525629f2a66899c6e"
+    },
+    {
+      "tid": 29,
+      "name": "[Breeze] DAN DA DAN - S02E12 [1080p AV1][Dual Audio].mkv",
+      "canonical_btiha": "e8b8348efe1fc85708df47094f30bc30ee0b4bda",
+      "sha256": "8716aacb862d9629a6aaa267c5e37a98f3a39914633767e18a1f8f165ab8cab0"
+    },
+    {
+      "tid": 30,
+      "name": "[DantalianSubs] Yofukashi no Uta - S02E11 [1080p HEVC] [D773D910]",
+      "canonical_btiha": "67230d78be479a51a4b25c2e7723d987d5bcc878",
+      "sha256": "1cd3c338c3aadf65f754b47a25b047193d2b528a0c3d97dd239cf4904eefc138"
+    },
+    {
+      "tid": 31,
+      "name": "[DBD-Raws][胆大党][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV]",
+      "canonical_btiha": "b6c5d3ed8d0e9c599f0dbf73c1c9b3ff344c0be8",
+      "sha256": "4666c6cb1de7baf3183b58fa4cdbc6f5be171cdf0e0915c5cd70f6b6589e8917"
+    },
+    {
+      "tid": 32,
+      "name": "[DKB] Dandadan - S02E10 [1080p][HEVC x265 10bit][Multi-Subs][04FAD90E].mkv",
+      "canonical_btiha": "4ab8a4b8da2ef02be053282f37aa32e3ef58750b",
+      "sha256": "cf52018b49e57daca3163a601350a1231e25df52e88721e8b58a095bb9dfdd52"
+    },
+    {
+      "tid": 33,
+      "name": "[DKB] Dandadan - S02E11 [1080p][HEVC x265 10bit][Multi-Subs][5C7D09A1].mkv",
+      "canonical_btiha": "105e1fa14c45063f566d792b2f0ba75fe22243da",
+      "sha256": "d679ba627182f100b801d4b281b6b4a2afe377c75b3b43da57f9756eebcf8fec"
+    },
+    {
+      "tid": 34,
+      "name": "[DKB] Dandadan - S02E12 [1080p][HEVC x265 10bit][Multi-Subs][98ECF8E5].mkv",
+      "canonical_btiha": "08f1325d79cb5f30f86d20d3105ad9b5a23ab32c",
+      "sha256": "42fa830c2fcecd1db27dd41099930b8312cf735a9333098c617d1a85c99e21fe"
+    },
+    {
+      "tid": 35,
+      "name": "[EMBER] Dandadan - 22.mkv",
+      "canonical_btiha": "e1006d44665b57a3c1b071fedd2159f766421a93",
+      "sha256": "9bacda146a46a91e805894b594715c8b1aa925da120ffe9ac5b3da736285404f"
+    },
+    {
+      "tid": 36,
+      "name": "[EMBER] Dandadan - 23.mkv",
+      "canonical_btiha": "8d13f3af869f33310b3fc77bdd0db8d8385851e2",
+      "sha256": "7fd49d0871da9a64230471173f5f899185329e2d4903d285dc111ed99e9b0c83"
+    },
+    {
+      "tid": 37,
+      "name": "[EMBER] Dandadan - 24.mkv",
+      "canonical_btiha": "d3e62fabd6949b54a8f1a7e35e015c8e30cfa711",
+      "sha256": "8402e0d5d69c9effb964cc24a8d3b7278330a7c64d0e79c4bec52c7c8386a034"
+    },
+    {
+      "tid": 38,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 10 [1080p CR WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "6d3af4df94e5b34cb2b8e3d36a3977067056a62d",
+      "sha256": "3acc405e99bbbb6967e027da85206dfd8d315914d75526cdd1515fb100fb3725"
+    },
+    {
+      "tid": 39,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 10 [1080p CR WEB-DL AVC AAC][MultiSub][CA2B5C00].mkv",
+      "canonical_btiha": "6d3af4df94e5b34cb2b8e3d36a3977067056a62d",
+      "sha256": "bebea9a4a332e4e1a2d6fbe4bcb4097945f8d741178e0501e07ae5f3d6a47491"
+    },
+    {
+      "tid": 40,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 10 [1080p CR WEBRip HEVC AAC][MultiSub].mkv",
+      "canonical_btiha": "b598d2bfc3aa644de964240fe4caec09bfd55f32",
+      "sha256": "cd7b8b93011baa9d242c76328009c2c77feacc3771cc3076b270f79ae49259bc"
+    },
+    {
+      "tid": 41,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 10 [1080p NF WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "cba94aa535f74d16c0bdffa40cd08ff561534006",
+      "sha256": "da9eff52a45450bc85de921c4d0957cfbaf5632cac21a10c0878b820641ae0c5"
+    },
+    {
+      "tid": 42,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 10 [1080p NF WEBRip HEVC AAC][MultiSub].mkv",
+      "canonical_btiha": "db09a031a26e8730a77b5bc45a0d42e5a103eb5f",
+      "sha256": "b7f78900535d0e36bc4059fd1357fc3b8a23113e17e1c5c9f572ae0d69ee4454"
+    },
+    {
+      "tid": 43,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 10 [1080p NF WEBRip HEVC AAC][MultiSub][5F66C8F4].mkv",
+      "canonical_btiha": "db09a031a26e8730a77b5bc45a0d42e5a103eb5f",
+      "sha256": "7a3fe2cc072cc56296ab04a6766cc3ec5cef3a03f4280e49e99dd6434595fcca"
+    },
+    {
+      "tid": 44,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 10 [480p CR WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "dd5e56b727d8451cfeec2aa0065086c17c05b29a",
+      "sha256": "61742f09628673a08b8b09966e760e85aabfdf1b57e6602a3599bd23a576b04a"
+    },
+    {
+      "tid": 45,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 10 [480p CR WEB-DL AVC AAC][MultiSub][4B5D7C7F].mkv",
+      "canonical_btiha": "dd5e56b727d8451cfeec2aa0065086c17c05b29a",
+      "sha256": "ec1326ab9a31a0c43396e8c59617aabcfc840dcd000ba0c8da628c0f46ba5488"
+    },
+    {
+      "tid": 46,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 10 [720p CR WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "fbb6b59628be45cf0e059a12285c5e5da8a31799",
+      "sha256": "669415c9b9b90f4ef1e4686883b7807bb83285e687a6d06b90996d98d1675d71"
+    },
+    {
+      "tid": 47,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 10 [720p NF WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "dab25a17eed7597bca4f7cfa391b40b62b93aae9",
+      "sha256": "63b3acd27588360f5a7728c87a00da6d1c520e3022a0d1e415f567a48a6d23d4"
+    },
+    {
+      "tid": 48,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 11 [1080p CR WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "5525b735a2147c51ab54e466b7939e664645e81c",
+      "sha256": "0619c6faf1f97f2d1759c033654535318d0f783059e857b06d8624661838eb8c"
+    },
+    {
+      "tid": 49,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 11 [1080p CR WEB-DL AVC AAC][MultiSub][0EA1821C].mkv",
+      "canonical_btiha": "5525b735a2147c51ab54e466b7939e664645e81c",
+      "sha256": "36a8a7d7738764bce2d46a8347006ddd72fb2eb6b8ca371fca4d158ff202bd50"
+    },
+    {
+      "tid": 50,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 11 [1080p CR WEBRip HEVC AAC][MultiSub].mkv",
+      "canonical_btiha": "02affb3d727deb26a20eae4ad73275821635819e",
+      "sha256": "78a5b2033d8f68c88fbfb880dfefd9354e0f6166747e7b98a8601d38d089ea85"
+    },
+    {
+      "tid": 51,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 11 [1080p CR WEBRip HEVC AAC][MultiSub][E2B9B5A7].mkv",
+      "canonical_btiha": "02affb3d727deb26a20eae4ad73275821635819e",
+      "sha256": "81e8df32461a062331fb88e832edc220fc89a544e259f65a2027ca2151f8c4e2"
+    },
+    {
+      "tid": 52,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 11 [1080p NF WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "c80ff35359b12a8a952d738f0202bef034d6b6ad",
+      "sha256": "11ebcf33cb92d80f579e579cca194a713b59eff8f550f13bf9dcfb6821999937"
+    },
+    {
+      "tid": 53,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 11 [1080p NF WEBRip HEVC AAC][MultiSub].mkv",
+      "canonical_btiha": "d270263e3cc0f2431cb58357dd95f8f9c38aeae6",
+      "sha256": "e6aaf94cf0767ff85f9f55956db7d94741b1ee9f5f0e8ee7ec8318e41b32cdf4"
+    },
+    {
+      "tid": 54,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 11 [1080p NF WEBRip HEVC AAC][MultiSub][197D4E2A].mkv",
+      "canonical_btiha": "d270263e3cc0f2431cb58357dd95f8f9c38aeae6",
+      "sha256": "2164abd420280492201f6bc2b679a3540ef7c49171ba0b269689e8ff7f24a74d"
+    },
+    {
+      "tid": 55,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 11 [480p CR WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "057bc46fd392de58f3d85201c54278d42eb40f30",
+      "sha256": "9eb45ae9e75f07ec8381f264d344981f203a1dc9ba98aa7cfd9c119ccf3a6682"
+    },
+    {
+      "tid": 56,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 11 [480p CR WEB-DL AVC AAC][MultiSub][A27E476B].mkv",
+      "canonical_btiha": "057bc46fd392de58f3d85201c54278d42eb40f30",
+      "sha256": "9cecd13128035a412b9b4f31558b8025b7518d0b11ac6f247ef8996f7841c271"
+    },
+    {
+      "tid": 57,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 11 [720p CR WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "84baad22265b2c9a125f2cc9c94976845abc3152",
+      "sha256": "9cf3464c986620e04745d07ee973e09ead8e27238b8401b95bd57045ce4ee473"
+    },
+    {
+      "tid": 58,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 11 [720p NF WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "1a6f8a651d722230fc6bcc3f56763366e946ef63",
+      "sha256": "f64c870627fcebed616d0eea5047de315cefa1bd0eacc5982ac2cf3085c83784"
+    },
+    {
+      "tid": 59,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 11 [720p NF WEB-DL AVC AAC][MultiSub][8CFF48AE].mkv",
+      "canonical_btiha": "1a6f8a651d722230fc6bcc3f56763366e946ef63",
+      "sha256": "5dec5cdd3e12c6ee6c4f9d725c790f0812f9d44f5f3dae49135dd006a8c32ffa"
+    },
+    {
+      "tid": 60,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [1080p CR WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "66f1bc62a17c78634c0dc01660cf0d2550353f99",
+      "sha256": "1c7cb8e266051696d0438a1ee40610dea52d04fa85170182fc8258b4c353b659"
+    },
+    {
+      "tid": 61,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [1080p CR WEB-DL AVC AAC][MultiSub][7FA0B3E7].mkv",
+      "canonical_btiha": "66f1bc62a17c78634c0dc01660cf0d2550353f99",
+      "sha256": "0925899d395129aeb5fc9f412bfb8fc16699e0521dd025a0303fb823876dda9a"
+    },
+    {
+      "tid": 62,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [1080p CR WEBRip HEVC AAC][MultiSub].mkv",
+      "canonical_btiha": "d94d812ceed1973617a6a9812832add01775784a",
+      "sha256": "491823210ac6ccee57aa2cbcf89a4d063283b58e1e9cbaa885c729f63aedf2ba"
+    },
+    {
+      "tid": 63,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [1080p CR WEBRip HEVC AAC][MultiSub][8EA714C1].mkv",
+      "canonical_btiha": "d94d812ceed1973617a6a9812832add01775784a",
+      "sha256": "eb45edc826b6e4e001fc0d0fc4b6192b0b812078145886b492447e2c40ce8304"
+    },
+    {
+      "tid": 64,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [1080p NF WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "faedc736652cc2bccf2ccc335a355f47402c2631",
+      "sha256": "45c12783b664664d023d124fb625f4756ce0fa1fb2510e2b3df463ade010e518"
+    },
+    {
+      "tid": 65,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [1080p NF WEB-DL AVC AAC][MultiSub][57531FB3].mkv",
+      "canonical_btiha": "faedc736652cc2bccf2ccc335a355f47402c2631",
+      "sha256": "a4c4d396c812d61ea0e667b5e42a020291ed876087d326bb926c6aa32ce14c8e"
+    },
+    {
+      "tid": 66,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [1080p NF WEBRip HEVC AAC][MultiSub].mkv",
+      "canonical_btiha": "e2583e626f65dcc54b7667526f133c685da114bc",
+      "sha256": "f3b2a686ea78bc4268393289421df3868debb8502cb8432e568d3270eb2bbd15"
+    },
+    {
+      "tid": 67,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [1080p NF WEBRip HEVC AAC][MultiSub][CA6312D3].mkv",
+      "canonical_btiha": "e2583e626f65dcc54b7667526f133c685da114bc",
+      "sha256": "03e3b559f021bb4dbba3d876e33ee1836885f6ee615d68fe153756077f5ffda7"
+    },
+    {
+      "tid": 68,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [480p CR WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "2665b0edef133630359c2dfa266891e79bb6df2a",
+      "sha256": "33c624e13017826bd8757e8dc8700f2af6f4cf9ce312d7bd4bce8c0c3a5dd5a3"
+    },
+    {
+      "tid": 69,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [480p CR WEB-DL AVC AAC][MultiSub][BD1657DC].mkv",
+      "canonical_btiha": "2665b0edef133630359c2dfa266891e79bb6df2a",
+      "sha256": "2ad3148ee6d6bc5e9df2c93bf64956717676d39bce7be98eb24feddd3d3013dd"
+    },
+    {
+      "tid": 70,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [720p CR WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "4e9caaa369d73ecc4221cd958fa6b9b8c369b411",
+      "sha256": "de0ec16f322b2196f9d2178c68281939a3a7cc54f5663162228528b0459b0b17"
+    },
+    {
+      "tid": 71,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [720p CR WEB-DL AVC AAC][MultiSub][168E766A].mkv",
+      "canonical_btiha": "4e9caaa369d73ecc4221cd958fa6b9b8c369b411",
+      "sha256": "821fc8a63411313297094d3de827ebd95dd55530e80b0134e948b3c7467dc4ef"
+    },
+    {
+      "tid": 72,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [720p NF WEB-DL AVC AAC][MultiSub].mkv",
+      "canonical_btiha": "3a40bd7c0f246dd5aa718086266249904a8d542d",
+      "sha256": "f1242f1d3186dc5ef11b998e87cf58fdd9dd0dd6a7c4889a584a61b3236215ab"
+    },
+    {
+      "tid": 73,
+      "name": "[Erai-raws] Dan Da Dan Season 2 - 12 [720p NF WEB-DL AVC AAC][MultiSub][ACDC2976].mkv",
+      "canonical_btiha": "3a40bd7c0f246dd5aa718086266249904a8d542d",
+      "sha256": "e9c1a2f3fa42446735df1dc94781467027145fe2e9355e43e639c2e1707fb339"
+    },
+    {
+      "tid": 74,
+      "name": "[Feibanyama] Dan Da Dan S2 [CR WebRip 1080p HEVC-10bit OPUS Multi-Subs]",
+      "canonical_btiha": "758918de42770ad5b99aff4d92eaa2081e6fb892",
+      "sha256": "1dba2a280fbb714a1d9df35ef3da6a961f784d49db7ba97967cf127b88827b40"
+    },
+    {
+      "tid": 75,
+      "name": "[Feibanyama] Dan Da Dan S2 [IQIYI WebRip 2160p HEVC-10bit OPUS Multi-Subs]",
+      "canonical_btiha": "5057c28f2c500f0fdab19825b134e239a7af9c64",
+      "sha256": "f3984621f409aaa1684f02d82b160ca2c784aac445284760b4d9e0019d8c34dd"
+    },
+    {
+      "tid": 76,
+      "name": "[FHD日本動畫] DAN DA DAN (Season 2)",
+      "canonical_btiha": "f281e13c81b39bbeee115ab8c59e4b42980796c0",
+      "sha256": "40f18270209a84ae06d7d184f52cf90d6990939280354d826b889f894ff2a2f0"
+    },
+    {
+      "tid": 77,
+      "name": "[Judas] Dan Da Dan  (Season 02) [1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs]",
+      "canonical_btiha": "273e832545dc24f2428712cdb3ad0d1e36fc7270",
+      "sha256": "0f078dacd0f2702d92bfb199b551baee2f6f2a5e85265525fa1126676ad410e4"
+    },
+    {
+      "tid": 78,
+      "name": "[Judas] Dan Da Dan (Season 02) [1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs]",
+      "canonical_btiha": "273e832545dc24f2428712cdb3ad0d1e36fc7270",
+      "sha256": "aaea3ea983ab199fc1b4de74d19f6d532b0f19b88438459c8532072e7dbbde0f"
+    },
+    {
+      "tid": 79,
+      "name": "[Judas] Dan Da Dan - S02E10.mkv - Nyaa",
+      "canonical_btiha": "ab8c0211b95594b12ab517edbb53f0a0b015ed39",
+      "sha256": "998965f26bd1adb70a3ed75327cd2e349406a9df468b4737be794f65ca402fd3"
+    },
+    {
+      "tid": 80,
+      "name": "[Judas] Dan Da Dan - S02E10.mkv",
+      "canonical_btiha": "ab8c0211b95594b12ab517edbb53f0a0b015ed39",
+      "sha256": "e08f0fbd38f9c5971fa10ad1cffe094dcf13570de81b3ac5dc8639a3565a6b4c"
+    },
+    {
+      "tid": 81,
+      "name": "[Judas] Dan Da Dan - S02E11.mkv - Nyaa",
+      "canonical_btiha": "00ce31c2652e46782524c3b1fd0a1f9eb592e354",
+      "sha256": "8f9f0cff675d9b73764ab94c815c868de5d7232434415ef4dd2149fa236d516c"
+    },
+    {
+      "tid": 82,
+      "name": "[Judas] Dan Da Dan - S02E11.mkv",
+      "canonical_btiha": "00ce31c2652e46782524c3b1fd0a1f9eb592e354",
+      "sha256": "8f9f0cff675d9b73764ab94c815c868de5d7232434415ef4dd2149fa236d516c"
+    },
+    {
+      "tid": 83,
+      "name": "[Judas] Dan Da Dan - S02E12.mkv - Nyaa",
+      "canonical_btiha": "68b304238fdd71627cce51146fa81015b4ca0ad7",
+      "sha256": "be2d3877b05487a3ed89e82c794d710bc18a1b3c48bc93279eeee81723c7f64c"
+    },
+    {
+      "tid": 84,
+      "name": "[Judas] Dan Da Dan - S02E12.mkv",
+      "canonical_btiha": "68b304238fdd71627cce51146fa81015b4ca0ad7",
+      "sha256": "2d67f1e73d631558f2e5d1ba97cdcf0b6e4ab19e910f802b969a8df1d17fbc86"
+    },
+    {
+      "tid": 85,
+      "name": "[NanakoRaws] Dandadan S2 (TBS 1920x1080 x265 AAC)",
+      "canonical_btiha": "70c8826f27cf54798bc946f947e27d02219d6afa",
+      "sha256": "211b945fc7e9649793f549dceeee6f75c9a3f50394d4cd732c74d4ebb6e88fd9"
+    },
+    {
+      "tid": 86,
+      "name": "[NanakoRaws] Dandadan S2 - 10 (BS4 4K 3840x2160 x265 AAC).mkv",
+      "canonical_btiha": "fb546ed93cc7bfa7934fd07c1ca334784d4c606f",
+      "sha256": "d78e63358332d7eb2fc998b255a53f29b183be7652ae6e36a251e5d3f9584157"
+    },
+    {
+      "tid": 87,
+      "name": "[NanakoRaws] Dandadan S2 - 10 (TBS 1920x1080 x265 AAC).mkv",
+      "canonical_btiha": "4b1e2d82df6bf3e91cde4b207213ec28f302c9be",
+      "sha256": "6cce98bb8f67c08b48de5201b4098b606ba5a97b09178894089c475325442391"
+    },
+    {
+      "tid": 88,
+      "name": "[NanakoRaws] Dandadan S2 - 11 (BS4 4K 3840x2160 x265 AAC).mkv",
+      "canonical_btiha": "acf58de01d7a4b9dd2ab70c37355dc27a7c86db4",
+      "sha256": "2cd867d46053277ba30ad3e24a64868ead1953b1e4ee4c2f871c861b69e12231"
+    },
+    {
+      "tid": 89,
+      "name": "[NanakoRaws] Dandadan S2 - 11 (TBS 1920x1080 x265 AAC).mkv",
+      "canonical_btiha": "944e4f39d9f05d70082e1d9ffe4bfc6e8a41f675",
+      "sha256": "e0988c8f894a04e71f0f856fb5b1933e585e3b8ae94fa0fee2952b0b2973d102"
+    },
+    {
+      "tid": 90,
+      "name": "[NanakoRaws] Dandadan S2 - 12 END (BS4 4K 3840x2160 x265 AAC).mkv",
+      "canonical_btiha": "bfafd74cb84930b6604f2fb3b3674c8d74537542",
+      "sha256": "a023caad7d74f0112ee5096d99cec3a757e1a91a17e448d03e2e2769ec9634e9"
+    },
+    {
+      "tid": 91,
+      "name": "[NanakoRaws] Dandadan S2 - 12 END (TBS 1920x1080 x265 AAC).mkv",
+      "canonical_btiha": "878223e222aa96538404379c1a98ae5f0e872404",
+      "sha256": "4ddc1d8890c30ea9139f763a9a9c49df6e2ce7c2951ab3a1ededb285da2989f5"
+    },
+    {
+      "tid": 92,
+      "name": "[Nekomoe kissaten&LoliHouse] Dandadan - 22 [WebRip 1080p HEVC-10bit AAC ASSx2].mkv",
+      "canonical_btiha": "04d7b241cac4cdc151955653167e37c1532fdde8",
+      "sha256": "fb1ec423f20cbab6be9565ed7d7216af96ecaff1f7bc1167d9e02e73b384edb3"
+    },
+    {
+      "tid": 93,
+      "name": "[Nekomoe kissaten&LoliHouse] Dandadan - 24 [WebRip 1080p HEVC-10bit AAC ASSx2].mkv",
+      "canonical_btiha": "3b56cde3adc7cd3ced036a1cd7578e7c0c477a46",
+      "sha256": "92db28a64870585e495b0134f62edebb0c6cb02caa9d7bcad2a003cd3681fd16"
+    },
+    {
+      "tid": 94,
+      "name": "[Nekomoe kissaten][Dandadan][22][1080p][JPSC].mp4",
+      "canonical_btiha": "13d9a94712cd6a9e22db698589401da07ce6bdd1",
+      "sha256": "e55b7d7715006a99cb635fdb48daffd5e068c9812fb178ba1ec78dec6905f13d"
+    },
+    {
+      "tid": 95,
+      "name": "[Nekomoe kissaten][Dandadan][22][1080p][JPTC].mp4",
+      "canonical_btiha": "e070d83f454ade4e1ca946a32c7bdbc32b99deff",
+      "sha256": "4d0c7b293c89b1c77fca3588956c362b2a09179fe386a81109474a184c199826"
+    },
+    {
+      "tid": 96,
+      "name": "[Nekomoe kissaten][Dandadan][23][1080p][JPSC].mp4",
+      "canonical_btiha": "aaae36a64c3a878e6814088e4e7494d1879c6378",
+      "sha256": "c173c514d617478b17bc259f3b84679dad1ab0d3e42be719a95d70811a540f32"
+    },
+    {
+      "tid": 97,
+      "name": "[Nekomoe kissaten][Dandadan][23][1080p][JPTC].mp4",
+      "canonical_btiha": "6f645a744520578ebf09430d27eba5377c0e9a8f",
+      "sha256": "47e81bb383ea53e252b18c9bfc1a879523c3fa542e8286bf3c6387257d8e8b83"
+    },
+    {
+      "tid": 98,
+      "name": "[Nekomoe kissaten][Dandadan][24][1080p][JPSC].mp4",
+      "canonical_btiha": "855a1a0cb20d4406225edd84495195880883a2df",
+      "sha256": "c2492ea40b38c7bca73a254b94c31c78250368252fdbd093ee4cb972b7dccb48"
+    },
+    {
+      "tid": 99,
+      "name": "[Nekomoe kissaten][Dandadan][24][1080p][JPTC].mp4",
+      "canonical_btiha": "b57ffff20b2818186d80810530d5b3bf246adae4",
+      "sha256": "f9b72c7b305507247b38d4084d5da39dbb5ee8dc65a8ce628dd3a55fda2d7232"
+    },
+    {
+      "tid": 100,
+      "name": "[New-raws] Dandadan S2 - 23 [1080p] [AMZN].mkv",
+      "canonical_btiha": "afd0935b449a12f877e1f8d146bff1e6d55483cc",
+      "sha256": "bfd437d9fa841fff19fb4e2560333cc20d845d076929b2e4a531dcad76c31a2d"
+    },
+    {
+      "tid": 101,
+      "name": "[New-raws] Dandadan S2 - 24 END [1080p] [AMZN].mkv",
+      "canonical_btiha": "0f50d9205d1e0d068ff9010ae02aa91fee8df2e5",
+      "sha256": "0820f2ab65947db3b42a1ba8e826116180bee84ca87204c94d58cb795fa92af4"
+    },
+    {
+      "tid": 102,
+      "name": "[NOOBDLxFortunaTV]DanDaDan.S02.1080p.WEB-DL.x264",
+      "canonical_btiha": "782de758732d8e37fef859d94f9f7c1b0e48399c",
+      "sha256": "4053fdc1be5e27298b457ad01872ecda9adbce1ecb50a6ed9c5042e8296bbfce"
+    },
+    {
+      "tid": 103,
+      "name": "[Nyaa.si] DAN DA DAN S02E10 MULTi 1080p WEB x264 AAC -Tsundere-Raws (CUSTOM).mkv",
+      "canonical_btiha": "b66481ea518eef94a8011667ecf7a29ff3844512",
+      "sha256": "51c57ff96d968a8e9dbe6d428130c625844eebbaa294b93596f4f4a0b9651984"
+    },
+    {
+      "tid": 104,
+      "name": "[Nyaa.si] DAN DA DAN S02E11 MULTi 1080p WEB x264 AAC -Tsundere-Raws (CUSTOM).mkv",
+      "canonical_btiha": "bebcd1c095ea63fcf5db9fe9b8c9599a1fd5582b",
+      "sha256": "9d999f24f240ce79206614f8ed07b1a8be3aa78e438392d49187394f1ed2ade2"
+    },
+    {
+      "tid": 105,
+      "name": "[Nyaa.si] DAN DA DAN S02E12 MULTi 1080p WEB x264 AAC -Tsundere-Raws (CUSTOM).mkv",
+      "canonical_btiha": "9296aa84837ac1a558123409eaba1f50f9dd8d20",
+      "sha256": "f35915e26cbf87f52f0a7ddbcec9748f86ba274e6b2a430576533abbd8292587"
+    },
+    {
+      "tid": 106,
+      "name": "[Nyaa.si] DANDADAN S02E11 VOSTFR 1080p WEB AV1 AAC -Tsundere-Raws (NF).mkv",
+      "canonical_btiha": "db1ff5c628e1718ff17af586c5a44ae4a669415d",
+      "sha256": "df106bda90e0d32011bde998bda811d27ff4bf684cd9219843800d63befde06a"
+    },
+    {
+      "tid": 107,
+      "name": "[Nyaa.si] DANDADAN S02E11 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (NF).mkv",
+      "canonical_btiha": "97a66b134fdc5e841eeef810e2af30ab13ab396e",
+      "sha256": "a727ea847e58a6addf4e5b25e4c4161ace4d0f77792950518df35f820420394a"
+    },
+    {
+      "tid": 108,
+      "name": "[Prejudice-Studio] 胆大党 第二季 Dan Da Dan S2 - 11 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌].mp4",
+      "canonical_btiha": "7d165e509c52294d7401aa953d150eadb0cbe9c5",
+      "sha256": "2a1325643a543345177de1bc6abb36ed17e7f371365661d51cf6a144f367bbe3"
+    },
+    {
+      "tid": 109,
+      "name": "[Prejudice-Studio] 胆大党 第二季 Dan Da Dan S2 - 11 [Bilibili WEB-DL 2160P AVC 8bit AAC MP4][简体内嵌].mp4",
+      "canonical_btiha": "ad321b154aedfbb29bc42ee29bac9a3acc0d3b5a",
+      "sha256": "c73214fd946e5c63dda65d3c28598da64f27c11831a3e0b1e5fa95bf60f9c7cc"
+    },
+    {
+      "tid": 110,
+      "name": "[Prejudice-Studio] 胆大党 第二季 Dan Da Dan S2 - 12 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌].mp4",
+      "canonical_btiha": "5921af7ae5523576037c6be01e16b0f1710a1560",
+      "sha256": "27c3ae45898379663cd61a75276259452607301aa5f1b797d342a4c7e5a0b18e"
+    },
+    {
+      "tid": 111,
+      "name": "[Prejudice-Studio] 胆大党 第二季 Dan Da Dan S2 - 12 [Bilibili WEB-DL 2160P AVC 8bit AAC MP4][简体内嵌].mp4",
+      "canonical_btiha": "55a7d3860ed519307fe8a93348043527129660dd",
+      "sha256": "6bf778a904548f98bb2caa99a0412f2b0f567b9e99a59b0d6f00d14b8d962bba"
+    },
+    {
+      "tid": 112,
+      "name": "[Prejudice-Studio] 胆大党 第二季 Dan Da Dan S2 [01-12][Bilibili WEB-DL 1080P AVC 8Bit AAC MP4][简体内嵌]",
+      "canonical_btiha": "866e21b2a512a9985ce4e023eabbd5d23e235f98",
+      "sha256": "907a4cab2fdb40aeaf0df9f32d62c0f2d3109ef06581d93dfac201897cd81608"
+    },
+    {
+      "tid": 113,
+      "name": "[Prejudice-Studio] 胆大党 第二季 Dan Da Dan S2 [01-12][Bilibili WEB-DL 2160P AVC 8bit AAC MP4][简体内嵌]",
+      "canonical_btiha": "9b5bcd2a445d07632738d7c614e41aa4defa878b",
+      "sha256": "df2d9dc0b1da66046da638927d2b04d8d1df41b4fcb7456c2ca0b8f72b5a6b5b"
+    },
+    {
+      "tid": 114,
+      "name": "[Raze] Dandadan S2 - 10 (Dual-Audio) x265 10bit 1080p 143.8561fps.mkv",
+      "canonical_btiha": "372ed04e5ae02baa207d9693a54162c3830dacc0",
+      "sha256": "92b3213c2eeae85b3c8da13415c1f8fe19115a3ba93713c6813b597cba9b0058"
+    },
+    {
+      "tid": 115,
+      "name": "[Raze] Dandadan S2 - 11 (Dual-Audio) x265 10bit 1080p 143.8561fps.mkv",
+      "canonical_btiha": "54025c8e700e0aeb6919c8bcc9b25ce7d3d98e5b",
+      "sha256": "b80949f34abcd703444aa3461d4b5b46a36ba32dcd2de00e01175cae315affcc"
+    },
+    {
+      "tid": 116,
+      "name": "[Raze] Dandadan S2 - 12 (Dual-Audio) x265 10bit 1080p 143.8561fps.mkv",
+      "canonical_btiha": "f167288b7cf72ea4f35fe9bdecc2ca8114e7f6e3",
+      "sha256": "8c5f8787aed275b66531ca5b62ed0c892fbaab00964afe541b029e5db5220eb1"
+    },
+    {
+      "tid": 117,
+      "name": "[rutor.is]Dan_Da_Dan_2_WEB-DL_1080p_x264_AAC",
+      "canonical_btiha": "eadb35e4ca6719c3578e74436161ba2243f4e00c",
+      "sha256": "699a0a517bb010c4fb2228c5f67499022b6e6e9a99e6bd642c950d3092d5dcac"
+    },
+    {
+      "tid": 118,
+      "name": "[rutor.is]Superman.2025.2160p.MA.WEB-DL.DDP5.1.Atmos.DV.H",
+      "canonical_btiha": "9a7a9187eda0e8dcb515744ad2f10c40a0b3785f",
+      "sha256": "b927e96860475874e15ab96cbdf0a7b8d42a2e1b22a22d2cb856f7d8aa81a883"
+    },
+    {
+      "tid": 119,
+      "name": "[Sakurato] Dan Da Dan (2025) [23][AVC-8bit 1080p AAC][CHS].mp4",
+      "canonical_btiha": "298828ef0802392f5e2a0b144d67b83421e8b5a1",
+      "sha256": "d816afbdd002f4349e890aafd3bf7af2be505d049b4a74b66131974f1c3cebe3"
+    },
+    {
+      "tid": 120,
+      "name": "[Sakurato] Dan Da Dan (2025) [23][AVC-8bit 1080p AAC][CHT].mp4",
+      "canonical_btiha": "4734c97e14ab016c37d71a80bee07271ddf7ee46",
+      "sha256": "fc3e99856b11306dd21de8f32f03f498740b155d312329d3cda705d87e69215a"
+    },
+    {
+      "tid": 121,
+      "name": "[Sakurato] Dan Da Dan (2025) [23][HEVC-10bit 1080p AAC][CHS&CHT].mkv",
+      "canonical_btiha": "324d4d5351419a98cd4dd7723829efd3cebfdaa2",
+      "sha256": "b81a29e6fa139c426e889d9efc85af2549d502de492f27780e497da9eaa6dbfa"
+    },
+    {
+      "tid": 122,
+      "name": "[Sakurato] Dan Da Dan (2025) [24][AVC-8bit 1080p AAC][CHS].mp4",
+      "canonical_btiha": "61637dfb837b9b9572f7770e58860101c3741024",
+      "sha256": "18716cabd683332a58680701c21e8f5042366735d0d2cc9c037422def1994abd"
+    },
+    {
+      "tid": 123,
+      "name": "[Sakurato] Dan Da Dan (2025) [24][AVC-8bit 1080p AAC][CHT].mp4",
+      "canonical_btiha": "cd82177a9662f42515ce7b7cfa2f613c7bef5a0d",
+      "sha256": "96586756a13a384a4acfcc4f7c82500e36babe6af7b559abde74a740aae9b481"
+    },
+    {
+      "tid": 124,
+      "name": "[Sakurato] Dan Da Dan (2025) [24][HEVC-10bit 1080p AAC][CHS&CHT].mkv",
+      "canonical_btiha": "e8f320f08311cf5458094f14f42fef2483c379bf",
+      "sha256": "0d9addf89d433da0fb6209e9b2e41653d089541b6d0243e732c279b49a6a9711"
+    },
+    {
+      "tid": 125,
+      "name": "[shincaps] Araiguma Calcal-dan - 22 (AT-X 1440x1080 MPEG2 AAC).ts",
+      "canonical_btiha": "7f7aeeacdf5bd30cc8e7a772cfcf2d55bf64cec2",
+      "sha256": "1b17541fc52dff7d8895fb1bc5077ab620b976ea7bdffa63eb73c035ebd2cdd6"
+    },
+    {
+      "tid": 126,
+      "name": "[shincaps] Araiguma Calcal-dan - 23 (AT-X 1440x1080 MPEG2 AAC).ts",
+      "canonical_btiha": "cfcac3b38412866714ccd168408b501a3fb58782",
+      "sha256": "cd221419ceb931cd63b0ca0a04e81ec4cb6d068609ff5c5ea982c38749efeeeb"
+    },
+    {
+      "tid": 127,
+      "name": "[shincaps] Dandadan 2nd Season - 10 (AT-X 1440x1080 MPEG2 AAC).ts",
+      "canonical_btiha": "43506f0f582fb6bb0f98bb796ecd33f6c876fb46",
+      "sha256": "fcce9729fd20f7a827c38320047bc756095f927cd906fced9cf185197c2604e9"
+    },
+    {
+      "tid": 128,
+      "name": "[shincaps] Dandadan 2nd Season - 10 (BS-NTV 1440x1080 MPEG2 AAC).ts",
+      "canonical_btiha": "bd805fa5af9c67be9fca7e8d4e2b766b5907629e",
+      "sha256": "48beae11c953781c71de0f1ebf1f191c345c2507010eb9c1a263a9aedaeb88ea"
+    },
+    {
+      "tid": 129,
+      "name": "[shincaps] Dandadan 2nd Season - 11 (AT-X 1440x1080 MPEG2 AAC).ts",
+      "canonical_btiha": "2615eb4622f959067859db9960a1baae832b1bce",
+      "sha256": "c7a6fb3005ffb0221d1b19a249d5700d9f9d8f4f53b804c02952120ad5fa1bb3"
+    },
+    {
+      "tid": 130,
+      "name": "[shincaps] Dandadan 2nd Season - 11 (BS-NTV 1440x1080 MPEG2 AAC).ts",
+      "canonical_btiha": "819fea4342240836ad2c9ff4b46b9a5e26c792f7",
+      "sha256": "7b32cd892f5ba6ef3f4f71fed645119152b055d445dfbc01f41cab54618ac55a"
+    },
+    {
+      "tid": 131,
+      "name": "[shincaps] Dandadan 2nd Season - 12 (AT-X 1440x1080 MPEG2 AAC).ts",
+      "canonical_btiha": "e088992c7e5677fb6d57768ac01ba2f73a048d9b",
+      "sha256": "1d1969e8239d4b72250e1f3137eb6e736576990ac05491fd0abf6a218e773783"
+    },
+    {
+      "tid": 132,
+      "name": "[shincaps] Dandadan 2nd Season - 12 (BS-NTV 1440x1080 MPEG2 AAC).ts",
+      "canonical_btiha": "0d9d395a0d4cca43cd210c1a0b35528454333945",
+      "sha256": "c6dc78e7091b9073bc03cac1214817d3d0db0e0ac051c5da8f21680ed1446f46"
+    },
+    {
+      "tid": 133,
+      "name": "[Skymoon-Raws] DAN DA DAN - 23 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC].mkv",
+      "canonical_btiha": "2423c61029b7114f3bbab2df0d863d79f8fdf780",
+      "sha256": "5aa638f26e7fa96bab18d840679e30442ca1da1f708ca46151a458a337f6de78"
+    },
+    {
+      "tid": 134,
+      "name": "[Skymoon-Raws] DAN DA DAN - 24 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC].mkv",
+      "canonical_btiha": "cb682045b230b7fbf888366b0bc2f3cd486aaa92",
+      "sha256": "f52ee00ac4dd00f923b3dcc8a72896424096d6721034f09d5302afc0d0dca6b0"
+    },
+    {
+      "tid": 135,
+      "name": "[Sokudo] DAN DA DAN - S02 [1080p AV1][Dual Audio]",
+      "canonical_btiha": "065f4e8cba1427c3d9d0ca49bbb0af69114ae8f6",
+      "sha256": "3fe3234166ef5041df61b079b45ef2ce965fde7bebb376a8efd6ba0a4d1531f1"
+    },
+    {
+      "tid": 136,
+      "name": "[Sokudo] DAN DA DAN - S02E10 [1080p AV1][Dual Audio].mkv",
+      "canonical_btiha": "d3c1504c6bce9e1b65f24fd76025429bf3141f33",
+      "sha256": "1f990559285a8adee3f1628e629af439f0e6a1a17d487a251a5390cd2443055e"
+    },
+    {
+      "tid": 137,
+      "name": "[Sokudo] DAN DA DAN - S02E11 [1080p AV1][Dual Audio].mkv(1)",
+      "canonical_btiha": "da499b0cea21090e0156ab3dae723b005c69e374",
+      "sha256": "bb9c8b11ed66eb5fa3a67170fd5ec835d0e3954c1c6b6331f5b8fbe1099bbfbd"
+    },
+    {
+      "tid": 138,
+      "name": "[Sokudo] DAN DA DAN - S02E11 [1080p AV1][Dual Audio].mkv",
+      "canonical_btiha": "da499b0cea21090e0156ab3dae723b005c69e374",
+      "sha256": "bb9c8b11ed66eb5fa3a67170fd5ec835d0e3954c1c6b6331f5b8fbe1099bbfbd"
+    },
+    {
+      "tid": 139,
+      "name": "[Sokudo] DAN DA DAN - S02E12 [1080p AV1][Dual Audio].mkv",
+      "canonical_btiha": "c19de766a3e28781a335b63b86ea0decc18928db",
+      "sha256": "d1fe215873c71fdeb9d7944518c4a786728870504f301eba0d98687fe5889a5c"
+    },
+    {
+      "tid": 140,
+      "name": "[SubsPlease] Dandadan - 22 (1080p) [8242DEEF].mkv",
+      "canonical_btiha": "702e9c869571826c72a08dad60397916e9280ea8",
+      "sha256": "2882fcab120b11410dbe95fe175b7993568189345e76d1187504dc5f72a34263"
+    },
+    {
+      "tid": 141,
+      "name": "[SubsPlease] Dandadan - 23 (1080p) [C4B0E4C5].mkv",
+      "canonical_btiha": "edd74fe2c37764b253fc07b74eac6d6e633d5b10",
+      "sha256": "b641a51047677f95c251d295c7bed6b29c4eab34b8c113d2c8909dd69a2fc3b8"
+    },
+    {
+      "tid": 142,
+      "name": "[SubsPlease] Dandadan - 23 (480p) [75F81049].mkv",
+      "canonical_btiha": "2e33e3d1c869d752577cd013a8413b3131d7ec98",
+      "sha256": "9df4482850e18186af4269f2c02427c5182bf90af908773fae0d300293dc822f"
+    },
+    {
+      "tid": 143,
+      "name": "[SubsPlease] Dandadan - 23 (720p) [312D786E].mkv",
+      "canonical_btiha": "d5d62dcc896a4e11ddd56ea79d21eacc47dfc6f4",
+      "sha256": "d9ea5e1f03795072a856c61f7a692bf42bc6e39d3362b35c50df8def5abcbaf5"
+    },
+    {
+      "tid": 144,
+      "name": "[SubsPlease] Dandadan - 24 (1080p) [AD3DEA4E].mkv",
+      "canonical_btiha": "f92575325a28399d066ce36ca45889fcd6810d25",
+      "sha256": "d741f5ebaae39913d49cdc527eb36623120131a8d38bbdfaaf023d68d335244d"
+    },
+    {
+      "tid": 145,
+      "name": "[SubsPlease] Dandadan - 24 (480p) [603B193A].mkv",
+      "canonical_btiha": "3f88beedba792c63d56497da4a1c2ab3aa39ec8d",
+      "sha256": "b6bb7ba34f1f625e5af8ce7492cadb5f26ac8cd92a1f36798881c73b80dc6499"
+    },
+    {
+      "tid": 146,
+      "name": "[SubsPlease] Dandadan - 24 (720p) [36D2E3FB].mkv",
+      "canonical_btiha": "367654e44a7ff686d211eb3462b86ff572c060ff",
+      "sha256": "381bebc84fb4a4f8396ca44e0b2d2cf67882b8c7e03c0d7d199338f3c6695470"
+    },
+    {
+      "tid": 147,
+      "name": "[VARYG] Dan Da Dan 2 (2025) [WEB-DL 1080p x264 AAC]",
+      "canonical_btiha": "0716d1e2c33412bd8a88a28860790b577be795f6",
+      "sha256": "d4129da97529759db586ac891350b4529f195b5e022a7c3842662bbd3caa5a63"
+    },
+    {
+      "tid": 148,
+      "name": "[WF] Dandadan 2nd Season - 22 [WEB-DL AMZN 1080p H.264 DDP][DUAL][CF68A578].mkv",
+      "canonical_btiha": "22186cfe928942325ad0ca200c3bb503b63a49f4",
+      "sha256": "b806a4d32c181255d1039504e54ab6d99722a860b716e4a54120cb40542d4582"
+    },
+    {
+      "tid": 149,
+      "name": "[WF] Dandadan 2nd Season - 23 [WEB-DL AMZN 1080p H.264 DDP][DUAL][78109705].mkv",
+      "canonical_btiha": "c05fc3366e127d155731ae6f7c91f217cceeb9b7",
+      "sha256": "f3b342b1f335c1bd84f52671c678a99dcc901884c92e900798bff87217425e96"
+    },
+    {
+      "tid": 150,
+      "name": "[WF] Dandadan 2nd Season [WEB-DL AMZN 1080p H.264 DDP][DUAL]",
+      "canonical_btiha": "d7e007b2e845d219d9c29ac56e4127236ecb105e",
+      "sha256": "ca47ef6271670e9d65ec5f1e1fba4f77ecc3955611eae18dcc215729f63366f0"
+    },
+    {
+      "tid": 151,
+      "name": "[Yameii] DAN DA DAN - S02E10 [English Dub] [CR WEB-DL 1080p] [C6E9ADED].mkv",
+      "canonical_btiha": "cca6d0a188c1a53bbdbfc70b589a396e9aa2fb7b",
+      "sha256": "24bfc92bcc0abc66c9a0a4ae25555a3f36d61cfba1429874225ba1229f27c700"
+    },
+    {
+      "tid": 152,
+      "name": "[Yameii] DAN DA DAN - S02E10 [English Dub] [CR WEB-DL 720p] [8342C775].mkv",
+      "canonical_btiha": "4284ac617ef3cf76916dcfe72dc6133f3d98c7b6",
+      "sha256": "5ff6971d4759dd1a2deff7613555936079c3cca55afc83563d79090b50eb3f49"
+    },
+    {
+      "tid": 153,
+      "name": "[Yameii] DAN DA DAN - S02E11 [English Dub] [CR WEB-DL 1080p] [226EDBDC].mkv",
+      "canonical_btiha": "2515092bb673918598d3212ab4adc5c55d9cd80c",
+      "sha256": "5b9db5c1e320948998d245eebb4c8f5a68bca52cfcc6acf1127a85fc861b6e0f"
+    },
+    {
+      "tid": 154,
+      "name": "[Yameii] DAN DA DAN - S02E11 [English Dub] [CR WEB-DL 720p] [2DD0EAE0].mkv",
+      "canonical_btiha": "64648b3875c863e7925973b030632fafe7b02b40",
+      "sha256": "8468df8144de857c7e4ff92b6319e71453b9cb6887606a2ea67dac078cedc26f"
+    },
+    {
+      "tid": 155,
+      "name": "[Yameii] DAN DA DAN - S02E12 [English Dub] [CR WEB-DL 1080p] [A1432E59].mkv",
+      "canonical_btiha": "17697a8ecbcd8f079bb11c161d568b10f6cd085c",
+      "sha256": "26879177a8b06a79dabb3760c7e1dd9fdf70aaa80dcb89bc674748e97b9c32ca"
+    },
+    {
+      "tid": 156,
+      "name": "[Yameii] DAN DA DAN - S02E12 [English Dub] [CR WEB-DL 720p] [9763028C].mkv",
+      "canonical_btiha": "8e019a02658e9982443f975a1c74b940ccb415d9",
+      "sha256": "8c742a228b953dd24eff60766b5b107beaf84951b33cde27d38305210fc78594"
+    },
+    {
+      "tid": 157,
+      "name": "[Ñ] Dan Da Dan - 22 [1080p] [A79F236B].mkv",
+      "canonical_btiha": "9890672785a99757e82ce23e01377d441224e426",
+      "sha256": "d036c3d4cc0a457d7af9437192244b74aa0a6236512aa7912904a831e299b9bc"
+    },
+    {
+      "tid": 158,
+      "name": "[Ñ] Dan Da Dan - 23 [1080p] [79A45B83].mkv",
+      "canonical_btiha": "375226a14c7ce3c374085deb367ba9eb7a68f78d",
+      "sha256": "41e309db7f33214358d03732b8048d60a6a9ab514ff421b2ab6e7da383bc06d0"
+    },
+    {
+      "tid": 159,
+      "name": "[Ñ] Dan Da Dan - 24 [1080p] [055D7E7C].mkv",
+      "canonical_btiha": "2d09c62885e9de2eade2825996f638e4842d707b",
+      "sha256": "cf946c97cd9a4524ba5a4c3b6c0f01a0a622c4b1ae80dc9ce9d9318866278655"
+    },
+    {
+      "tid": 160,
+      "name": "[Ñ] Dan Da Dan [BD 1080p]",
+      "canonical_btiha": "37900e1c2bd4c3aea0f5ed2bf797a940fcde5413",
+      "sha256": "1837e77476e673903a7e5d2bb79c4e1f9cdd3f3e44fc02025a36cc34e8260cb1"
+    },
+    {
+      "tid": 161,
+      "name": "DAN DA DAN (2024) S02 (1080p CR WEB-DL H264 AAC 2.0 Dual-Audio) [Cytox]",
+      "canonical_btiha": "753b63b9c5141d9e8ff3b6232277461b0a87b755",
+      "sha256": "1b2fa6d40eae86982178c5137e62688495fae177dca7d5e2a4b6c04921f7b2c7"
+    },
+    {
+      "tid": 162,
+      "name": "DAN DA DAN (2024) S02E10 (1080p WEB-DL H264 AAC 2.0 Dual-Audio) [Cytox].mkv",
+      "canonical_btiha": "07f18d53acebaf246392fc16b87c2e0638246cfc",
+      "sha256": "bff0ac2a6d8098def15f2ba239d0a0586d33123b07d11ce1cd2513ce3cb067a5"
+    },
+    {
+      "tid": 163,
+      "name": "DAN DA DAN (2024) S02E10 (1080p WEB-DL H264 AAC 2.0 Dual-Audio) [Cytox]",
+      "canonical_btiha": "07f18d53acebaf246392fc16b87c2e0638246cfc",
+      "sha256": "15684dc8932400d753c663b8bde07d5024de046f2d92d466e6ac21f1dd8595c8"
+    },
+    {
+      "tid": 164,
+      "name": "DAN DA DAN (2024) S02E11 (1080p WEB-DL H264 AAC 2.0 Dual-Audio) [Cytox].mkv",
+      "canonical_btiha": "e259c5d506f0ee4f0c4e117bece21b6ee08a6394",
+      "sha256": "c8ba4e762308a9b7a450a2706a641049c276bd0a7832c99587c6e5bd633f108a"
+    },
+    {
+      "tid": 165,
+      "name": "DAN DA DAN (2024) S02E11 (1080p WEB-DL H264 AAC 2.0 Dual-Audio) [Cytox]",
+      "canonical_btiha": "e259c5d506f0ee4f0c4e117bece21b6ee08a6394",
+      "sha256": "e8294933b1d569559084726301cebd0655cee676324827e2cc65682388a5216a"
+    },
+    {
+      "tid": 166,
+      "name": "DAN DA DAN (2024) S02E12 (1080p WEB-DL H264 AAC 2.0 Dual-Audio) [Cytox].mkv",
+      "canonical_btiha": "661b4c73b3bdec51fb0a531954f427b06d2bf97e",
+      "sha256": "3e2adb4e313829bdb700f65e8bf22cbf820f3109b4e58f8d217085a11109897b"
+    },
+    {
+      "tid": 167,
+      "name": "DAN DA DAN (2024) S02E12 (1080p WEB-DL H264 AAC 2.0 Dual-Audio) [Cytox]",
+      "canonical_btiha": "661b4c73b3bdec51fb0a531954f427b06d2bf97e",
+      "sha256": "5eb289aa4d85691ec729cef346aacd96d6fe7228fb019e1dcdf241f8936d4ce3"
+    },
+    {
+      "tid": 168,
+      "name": "DAN DA DAN - S02E10 - The Secret Art of Being Attractive.mkv",
+      "canonical_btiha": "7d2550385953f8586e31129b5b4b8d9f46e2b534",
+      "sha256": "0f3137ea4e0a57757665f377959b94620b2139c6c5ec7f6ecd8a99598c3fd1f2"
+    },
+    {
+      "tid": 169,
+      "name": "DAN DA DAN - S02E11 - Hey, it's a Kaiju.mkv",
+      "canonical_btiha": "681ef425f0ba027e024d333986f32a080ee7973c",
+      "sha256": "136260f120411d9837b15c933a864c5853921ef60bad334dfd88708db1d379e7"
+    },
+    {
+      "tid": 170,
+      "name": "DAN DA DAN - S02E12 - Clash! Space Kaiju vs. Giant Robot!.mkv",
+      "canonical_btiha": "c03a7f40ae079e2bcdd1a021e4676c65fefee12f",
+      "sha256": "b8cd8226a7c953cccd17cf481ce1eb6a6c99391f0907cf3af7cb0856ce4582c6"
+    },
+    {
+      "tid": 171,
+      "name": "DAN DA DAN - Season 2 [Dual Audio]",
+      "canonical_btiha": "ef20048d865d9667ae50384537e2f4aba58f90e8",
+      "sha256": "b5ac2f74a0859fae9eb9617bff4bd83364220d08474ec3685a4dbb0d2d1344f6"
+    },
+    {
+      "tid": 172,
+      "name": "DAN DA DAN - Season 2",
+      "canonical_btiha": "1b086b8e9d7876fb51e52352a208fb329f91545f",
+      "sha256": "69dc5edeb650cc3153da6f5379d6165fa0d7890e615e3e66b675fb7266607b26"
+    },
+    {
+      "tid": 173,
+      "name": "Dan Da Dan 2 [WEB-DL 1080p x264 AAC]",
+      "canonical_btiha": "db7b629f67ece482ac245ca0977d9f1220896d47",
+      "sha256": "3790dbbd14bee1c177606bb09f931d1c2fd7b1eff6f82889d9682d1439dfc60d"
+    },
+    {
+      "tid": 174,
+      "name": "DAN DA DAN 2024 S02 1080p CR WEB-DL H264 AAC 2 0 Dual-Audio Cytox [IPT]",
+      "canonical_btiha": "88b0c9a33c957d5e2231df4ddeb36c6783624230",
+      "sha256": "355a4c76079cc55ad4e46689d7e7cb22bb0762517db49d51c051cc83d084c3b2"
+    },
+    {
+      "tid": 175,
+      "name": "Dan da Dan 2X12 HDTV XviD Castellano",
+      "canonical_btiha": "e1bd22b2e45a2e8b23868bea2095700dfd664311",
+      "sha256": "38b5a3402434c142cbc2bf5fce568305b199a19809471d65e714058cfb3b8c0a"
+    },
+    {
+      "tid": 176,
+      "name": "Dan da Dan [HDTV 1080p][Cap.211]",
+      "canonical_btiha": "0f3489c12b6392829b8e94f179d19911053b8003",
+      "sha256": "b207d9a84c77d3a1cdd80a62ff1ce6017a726f586da0672c6cc89050706d7c4c"
+    },
+    {
+      "tid": 177,
+      "name": "Dan da Dan [HDTV 1080p][Cap.212]",
+      "canonical_btiha": "803ae32ba8e7903a9662c54020a4e7fafb7c424a",
+      "sha256": "f0c9d189c95c73f84ce39a1cba8d90ddd5b97236daacd69be49007430d5626b3"
+    },
+    {
+      "tid": 178,
+      "name": "DAN DA DAN S02 1080p CR WEB-DL DUAL AAC2 0 x264-Draken02 [IPT]",
+      "canonical_btiha": "6a764834eea839234e66781bc3272b52c02d85d3",
+      "sha256": "9bc1200c3473cabae68c95ab2af6ef3a28a3f55c686f4213772da0274314e226"
+    },
+    {
+      "tid": 179,
+      "name": "DAN DA DAN S02 1080p CR WEB-DL DUAL DDP2 0 H 264-Kitsune [IPT]",
+      "canonical_btiha": "cd12f79e9c52d572bbfb332e534f7a2c72be1d5c",
+      "sha256": "51729df4c28dc579a56c143483b3988b569d77ed3b51674c260425e3b890deda"
+    },
+    {
+      "tid": 180,
+      "name": "DAN DA DAN S02 1080p NF WEB-DL DUAL AAC2 0 x264-ShinZoku [IPT]",
+      "canonical_btiha": "4bf76270992f3710984a18d7ba63fce0ec6a643a",
+      "sha256": "22828caca8a18d62a8d6634a475dd586300470eeaf9852b838a927c8c3571f3f"
+    },
+    {
+      "tid": 181,
+      "name": "DAN DA DAN S02E09 1080p NF WEB-DL AAC2 0 H 264 DUAL-BiOMA [IPT]",
+      "canonical_btiha": "06b9ee2ea9875f06bd1c3e08b8432c69a66009b0",
+      "sha256": "59cbd8b78144edba0e6d07b68fda989616646149aba160efd3366ad9712213fd"
+    },
+    {
+      "tid": 182,
+      "name": "DAN DA DAN S02E09 1080p NF WEB-DL AAC2 0 H 264 DUAL-BiOMA[EZTVx.to].mkv",
+      "canonical_btiha": "b5849426a9d6b2d5b2660d7039ec9362c2e89488",
+      "sha256": "cc22e76905d8d97a16d86b24ef7a652840d6dcca1d857bf453eab3e15c2f3df5"
+    },
+    {
+      "tid": 183,
+      "name": "Dan Da Dan S02E09 DUAL-AUDIO JAP-ENG 1080p 10bit WEBRip 2CH X265 HEVC-PSA [IPT]",
+      "canonical_btiha": "42002788e3ea1380953ba5bac2ee8376a2336241",
+      "sha256": "73a10a5d44b259d95bd42e4a63b3090a8f8d62292c7dbbe3d3186ac12d9f980f"
+    },
+    {
+      "tid": 184,
+      "name": "DAN DA DAN S02E09 I Want to Rebuild the House 1080p CR WEB-DL DUAL DDP2 0 H 264-Kitsune [IPT]",
+      "canonical_btiha": "d0422e3966c2f32d426acb1651ddbf1978703154",
+      "sha256": "a5e1096958a2ff2888c4e00ff5cd15a74794691d894d10644c7400bfdc9541ab"
+    },
+    {
+      "tid": 185,
+      "name": "Dan Da Dan S02E10 DUAL-AUDIO JAP-ENG 1080p 10bit WEBRip 2CH X265 HEVC-PSA [IPT]",
+      "canonical_btiha": "cc49a00f2275541594e092acf6d78bb59d0821dc",
+      "sha256": "7322e13c255fd5fa68d9b953db091ec6ef44c8d405cbd7c2b494a0d1dfce540a"
+    },
+    {
+      "tid": 186,
+      "name": "Dan Da Dan S02E10 DUAL-AUDIO JAP-ENG 1080p 10bit WEBRip 2CH X265 HEVC-PSA[EZTVx.to].mkv",
+      "canonical_btiha": "11eb4039676a5dece40b656c405e2dd0c76279f6",
+      "sha256": "f577e7be24fd4f09849974ec93f62d274ab3cfb7874ad2aeab8f2496bc7a66e1"
+    },
+    {
+      "tid": 187,
+      "name": "DAN DA DAN S02E10 MULTi 1080p WEB x264 AAC -Tsundere-Raws (CUSTOM).mkv",
+      "canonical_btiha": "b66481ea518eef94a8011667ecf7a29ff3844512",
+      "sha256": "4201cb34c1059a41f4676814995507b7929c10245b62af37146441a5ee827cad"
+    },
+    {
+      "tid": 188,
+      "name": "DAN DA DAN S02E10 The Secret Art of Being Attractive 1080p CR WEB-DL DUAL DDP2 0 H 264-Kitsune [IPT]",
+      "canonical_btiha": "39d4ab46a0597772e6f804963ac3de0a70000545",
+      "sha256": "1a00ceaccd4d5eb4631069a9172cb304d48935ac5089012da1387e13ce51b0f4"
+    },
+    {
+      "tid": 189,
+      "name": "DAN DA DAN S02E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+      "canonical_btiha": "0b3cb3f5e6209c660bc68bbb2b2d54e3397a98fa",
+      "sha256": "e1a948a318e51e6b9b7e2fb054f907fe2f93fde81de4f6bb1348b3a528d95b01"
+    },
+    {
+      "tid": 190,
+      "name": "DAN DA DAN S02E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN)",
+      "canonical_btiha": "0b3cb3f5e6209c660bc68bbb2b2d54e3397a98fa",
+      "sha256": "04b2a6f32af69ec5d1c17ebff702215f0c4b840553edbbb76464e4f112d4d3d8"
+    },
+    {
+      "tid": 191,
+      "name": "DAN DA DAN S02E10 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR)",
+      "canonical_btiha": "1756b1ee52cf6887043d55b221947c0f9ee56948",
+      "sha256": "025f8a9a2409a082621f3a720cc31ecc8d7dc6dd344ea66805cc9b6ce612946f"
+    },
+    {
+      "tid": 192,
+      "name": "DAN DA DAN S02E10 VOSTFR 720p WEB x264 AAC -Tsundere-Raws (ADN)",
+      "canonical_btiha": "ae07e4f6c543c4492b0657548fb99383ead14386",
+      "sha256": "89e17083efade56b9c1e05fd4619d5732f47a76de0f2b7a0c516f7a6379abebd"
+    },
+    {
+      "tid": 193,
+      "name": "DAN DA DAN S02E10 VOSTFR 720p WEB x264 AAC -Tsundere-Raws (CR)",
+      "canonical_btiha": "8af4b56382e6029d1ceb60c17090088af2ab3be6",
+      "sha256": "78402165c8d4a3bd5111a660b403622f0a38cecbcafac06f3ee5308563f91219"
+    },
+    {
+      "tid": 194,
+      "name": "Dan Da Dan S02E11 DUAL-AUDIO JAP-ENG 1080p 10bit WEBRip 2CH X265 HEVC-PSA [IPT]",
+      "canonical_btiha": "76c318586b048ea6fd44dd764bb8de866e0028e5",
+      "sha256": "b21fdba36581f5f06ca83dfb204a3ae3d4a61e59e1be31e6db8b69dacff9662e"
+    },
+    {
+      "tid": 195,
+      "name": "Dan Da Dan S02E11 DUAL-AUDIO JAP-ENG 1080p 10bit WEBRip 2CH X265 HEVC-PSA[EZTVx.to].mkv",
+      "canonical_btiha": "e213020b975ac29d7563417f221ca47aef539e97",
+      "sha256": "4c0e28c33f5b88c947fc7119fd1a7726bd67a968b9811b8da216252664c98b0f"
+    },
+    {
+      "tid": 196,
+      "name": "DAN DA DAN S02E11 Hey its a Kaiju 1080p CR WEB-DL DUAL DDP2 0 H 264-Kitsune [IPT]",
+      "canonical_btiha": "49f7c9ece604936830a90e16229a08abe842405f",
+      "sha256": "9cf862b0c34c091e306dd15ae13685708516d476fe6be2f346743b958af01c35"
+    },
+    {
+      "tid": 197,
+      "name": "DAN DA DAN S02E11 MULTi 1080p WEB x264 AAC -Tsundere-Raws (CUSTOM).mkv",
+      "canonical_btiha": "bebcd1c095ea63fcf5db9fe9b8c9599a1fd5582b",
+      "sha256": "6e2bccebb07b7faa608ac114ece6cf0cc2423a175cec049dbb4d59a9ca990e1f"
+    },
+    {
+      "tid": 198,
+      "name": "DAN DA DAN S02E11 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+      "canonical_btiha": "0b59088b9be90806b503e0de69f2377070e7792c",
+      "sha256": "41c3da83e05faad2d900ed7397484e696db1e917c640933c80de891d8a67d15a"
+    },
+    {
+      "tid": 199,
+      "name": "DAN DA DAN S02E11 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN)",
+      "canonical_btiha": "0b59088b9be90806b503e0de69f2377070e7792c",
+      "sha256": "1a069e628cffeb7e4c0d70f0f683cad1d12dfa6729841e7322bbd50f40727d9c"
+    },
+    {
+      "tid": 200,
+      "name": "DAN DA DAN S02E11 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR)",
+      "canonical_btiha": "9be5e936bedefcebd5e73430e9855cb2034e4e77",
+      "sha256": "4c4c92fc2e7aac45a0c801865766ceffac7e77e8360a357caa384860bf0e1c89"
+    },
+    {
+      "tid": 201,
+      "name": "DAN DA DAN S02E11 VOSTFR 720p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+      "canonical_btiha": "40d553e0a7732e5c7afa0d7e158b7aa13c75932b",
+      "sha256": "dd74c611dfb72d557ba32a986c59ee2c913100aa3b9100cec5d13dd9e7f9af66"
+    },
+    {
+      "tid": 202,
+      "name": "DAN DA DAN S02E11 VOSTFR 720p WEB x264 AAC -Tsundere-Raws (ADN)",
+      "canonical_btiha": "40d553e0a7732e5c7afa0d7e158b7aa13c75932b",
+      "sha256": "a07053c11ae25ce7760cf41d1270dd2de387ebfa47384cb1c1e2cf07fabc5bd4"
+    },
+    {
+      "tid": 203,
+      "name": "DAN DA DAN S02E11 VOSTFR 720p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+      "canonical_btiha": "d2619e112b97b1bc2c8487d5d122028973aa3531",
+      "sha256": "974a5792da6dce99e3d63783c4f114bb863403bef4268a7e3a7bf9bb5db3073f"
+    },
+    {
+      "tid": 204,
+      "name": "DAN DA DAN S02E11 VOSTFR 720p WEB x264 AAC -Tsundere-Raws (CR)",
+      "canonical_btiha": "d2619e112b97b1bc2c8487d5d122028973aa3531",
+      "sha256": "7cfece6443db40ed470259ac7d06f64928eedd8a5e1e457b1e07480660a3e355"
+    },
+    {
+      "tid": 205,
+      "name": "DAN DA DAN S02E11 WEB-DL 1080p x264 NF DUAL 2.0",
+      "canonical_btiha": "a9479a8e2fd2787ff8371bc1dda10041f0da68e7",
+      "sha256": "3f41e4966def78355ddab8947090d2ade0fd094442df772e12501cdce1c92d58"
+    },
+    {
+      "tid": 206,
+      "name": "DAN DA DAN S02E12 Clash Space Kaiju vs Giant Robot 1080p CR WEB-DL DUAL DDP2 0 H 264-Kitsune [IPT]",
+      "canonical_btiha": "0e2c0778ad6bf44066137caacc1fe2512c3a8d77",
+      "sha256": "0c6ad37dc31d89015adc88c48736079c6f7634969ccf12a7c659f9851e20f8b7"
+    },
+    {
+      "tid": 207,
+      "name": "Dan Da Dan S02E12 DUAL-AUDIO JAP-ENG 1080p 10bit WEBRip 2CH X265 HEVC-PSA [IPT]",
+      "canonical_btiha": "eba8fccf5fa81909b3c26b4439f66a112a28b6b4",
+      "sha256": "86d66ff1ab45c8bb2c01be2f823aba51bd258e11e976acb31b3b61c0db22246c"
+    },
+    {
+      "tid": 208,
+      "name": "DAN DA DAN S02E12 MULTi 1080p WEB x264 AAC -Tsundere-Raws (CUSTOM).mkv",
+      "canonical_btiha": "9296aa84837ac1a558123409eaba1f50f9dd8d20",
+      "sha256": "3f7466349c1607cb34dd0b423c0a0e7ee34fc66e6c00d8e84975a6c3aa7392c1"
+    },
+    {
+      "tid": 209,
+      "name": "DAN DA DAN S02E12 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+      "canonical_btiha": "29e2a45aa6cf2b5fe31c3492b149c2ee742bcba8",
+      "sha256": "89e2e4ac0be56f135a9dcdd44e6b17aa0189fd6cd447107db7bbb7ca7b21c8a4"
+    },
+    {
+      "tid": 210,
+      "name": "DAN DA DAN S02E12 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN)",
+      "canonical_btiha": "29e2a45aa6cf2b5fe31c3492b149c2ee742bcba8",
+      "sha256": "a522a969ae3dc92c0c7d5416280293047e75bdcf7c1132b7c0fbabccf09cb0c4"
+    },
+    {
+      "tid": 211,
+      "name": "DAN DA DAN S02E12 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+      "canonical_btiha": "2d6e053e994abf21f794fbac9ce74d426db806e2",
+      "sha256": "bb2301a9e9bc2a1ded00b0567017c973266a41ddbbe57224ee8647f7f007de9a"
+    },
+    {
+      "tid": 212,
+      "name": "DAN DA DAN S02E12 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR)",
+      "canonical_btiha": "2d6e053e994abf21f794fbac9ce74d426db806e2",
+      "sha256": "624ea6572c219286aa4384dd9d55a10b11d3cbecbabf1b7950260e12a92b2dd9"
+    },
+    {
+      "tid": 213,
+      "name": "DAN DA DAN S02E12 VOSTFR 720p WEB x264 AAC -Tsundere-Raws (ADN).mkv",
+      "canonical_btiha": "86abfa04416ad18a3919d496c9d5def8856742ca",
+      "sha256": "dfb6b131e43e826a6e2555d5639217bbd717295d86073a88b94e56298d134b10"
+    },
+    {
+      "tid": 214,
+      "name": "DAN DA DAN S02E12 VOSTFR 720p WEB x264 AAC -Tsundere-Raws (ADN)",
+      "canonical_btiha": "86abfa04416ad18a3919d496c9d5def8856742ca",
+      "sha256": "f4db2ce8659594f345ee2fd2bc1e7791fc86e539a71cc22bcd1ae99309e31e8b"
+    },
+    {
+      "tid": 215,
+      "name": "DAN DA DAN S02E12 VOSTFR 720p WEB x264 AAC -Tsundere-Raws (CR).mkv",
+      "canonical_btiha": "ea3ff29259e14538b05b8a5adb9426b580585ecd",
+      "sha256": "72800eed4032aeb86fa4d3577293923f045a810e587b143191a6a9809a82db52"
+    },
+    {
+      "tid": 216,
+      "name": "DAN DA DAN S02E12 VOSTFR 720p WEB x264 AAC -Tsundere-Raws (CR)",
+      "canonical_btiha": "ea3ff29259e14538b05b8a5adb9426b580585ecd",
+      "sha256": "34521169c97431ab9f21d6a33e6aa953916d3c3b983742dd8759d086bd5ce82e"
+    },
+    {
+      "tid": 217,
+      "name": "DAN DA DAN S02E12 WEB-DL 1080p x264 NF DUAL 2.0",
+      "canonical_btiha": "6100e247a3c2bef34ab974aacb2f1df7cd705924",
+      "sha256": "a03e6409a34adddf5e0d6c077116b9313599c5ebaf36c9d47c9bc9249f970f5b"
+    },
+    {
+      "tid": 218,
+      "name": "Dan Da Dan Season 1-2 [1080p][HEVC][OtakuBG]",
+      "canonical_btiha": "3788a3eca5793ddf8a109e91217c7851ed4a2c7b",
+      "sha256": "dba49b21352498ad0a1045146f2cd9a361b51ad4e5935a3e386f498c134b0c3a"
+    },
+    {
+      "tid": 219,
+      "name": "Dan Da Dan Season 2 - 11 [1080p CR WEBRip HEVC AAC][MultiSub][E2B9B5A7].mkv",
+      "canonical_btiha": "bf56aab65d2d1d55e486f1785cffdf9605a98d2f",
+      "sha256": "3d86d4ebe5b35b30831eacdb9a27b3950d3eb1830d1fa77780ad1ccab9f1a437"
+    },
+    {
+      "tid": 220,
+      "name": "DAN DA DAN_S02E22_The Secret Art of Being Attractive.mp4",
+      "canonical_btiha": "288e7fd19a0e47d602eba4914aca29a1fcfd5040",
+      "sha256": "b6975ceb46c748d461575b5b4d488186aea0936f4ddda4c899c1adcde4d46b46"
+    },
+    {
+      "tid": 221,
+      "name": "Dan.Da.Dan.(2025).[STAGIONE.2].[COMPLETA].[1080p.H265.ITA-ENG-JPN.AAC.SUB.ITA-ENG].By.Seregorn",
+      "canonical_btiha": "04b1efdc1da744dd876ff87b1c9780858767522a",
+      "sha256": "1b548b240bd26954e80eafb634a58c176a5fac552e6ea0c09f2a6508d93f4807"
+    },
+    {
+      "tid": 222,
+      "name": "DAN.DA.DAN.S02.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264-VARYG",
+      "canonical_btiha": "8c24c628a8a84f0ac60334e12b6800d1f126f70d",
+      "sha256": "e5c897b9d48021d03da037db4ce3e8f5347e7da576bd771fe6842f7aa5beb88d"
+    },
+    {
+      "tid": 223,
+      "name": "Dan.Da.Dan.S02.1080p.H264.AAC.WEBRip.DUB.le-production",
+      "canonical_btiha": "85bd5259894f7eac716fd8bf9f9e702ee4c6956b",
+      "sha256": "5a37d45321a93c94a4e35fd15d2a0c51050a779efc15eb82e207a6ff80428eea"
+    },
+    {
+      "tid": 224,
+      "name": "Dan.Da.Dan.S02.400p.Ultradox",
+      "canonical_btiha": "00c8e4961c169d771a078c1453fa4bf89b0ba716",
+      "sha256": "4b7d9cf613de79cd8890af4a1b36dfcd5714b545f7065c15ab48cc5b3f9fd6ef"
+    },
+    {
+      "tid": 225,
+      "name": "Dan.Da.Dan.S02.720p.Ultradox",
+      "canonical_btiha": "6f9048fdf89d5e735a37083dbfacddef6b378165",
+      "sha256": "528caa1da33d16e2aac072465ace48040ab2b26294455ad1090454b62dfd51d4"
+    },
+    {
+      "tid": 226,
+      "name": "Dan.Da.Dan.S02.CUSTOM.MULTi.VF2.1080p.WEBRiP.x265-T3KASHi",
+      "canonical_btiha": "a5aeabfcb534efd179ec64b908870ee427663e54",
+      "sha256": "7f38ec3a95a3abfd1ff14ee6820c9e986edcde703e20c73d6e4b1b13113bc47f"
+    },
+    {
+      "tid": 227,
+      "name": "Dan.Da.Dan.S02.MULTi.1080p.WEBRiP.x265-KAF",
+      "canonical_btiha": "758a37d602901784a7b31dadbf6cca4fa5501430",
+      "sha256": "7c6a529c97bc77cb79b568cd314f1374e1220bcaf283fbefdfd19a3c25f1e41b"
+    },
+    {
+      "tid": 228,
+      "name": "Dan.Da.Dan.S02.VOSTFR.1080p.WEBRiP.x265-KAF",
+      "canonical_btiha": "be39c9bfb0fc17961f52d1ebb447f62c2a8e412a",
+      "sha256": "7a276f4cce76b866998cda184f7de10eaaf42320e85b64387f521d95f833aea6"
+    },
+    {
+      "tid": 229,
+      "name": "Dan.Da.Dan.s02.WEBRip.XviD.Rus.RuDub.tv",
+      "canonical_btiha": "a17e7af0d6bc37f367f90ce350624933f03d7864",
+      "sha256": "bd2cdaf11105abc854991452719f62302895b6879caa8115233553441197316a"
+    },
+    {
+      "tid": 230,
+      "name": "DAN.DA.DAN.S02E10.1080p.AV1.10bit-MeGusta [IPT]",
+      "canonical_btiha": "6dbf9db43f760c40fb4b362a907e363154106218",
+      "sha256": "dec3c1be15f69a5cdc3a21fcbd3147723b8588f736d816d45724b7cbda050172"
+    },
+    {
+      "tid": 231,
+      "name": "DAN.DA.DAN.S02E10.1080p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "a1786fe35ad49158a203a554d4c0d6589a59b57d",
+      "sha256": "f51642763fc34c2a3e81bc935aa635c630104ad35b7b129d51c3847f71f1fca4"
+    },
+    {
+      "tid": 232,
+      "name": "DAN.DA.DAN.S02E10.1080p.HEVC.x265-MeGusta.mkv_[1080p]_[YTSTV.hair]",
+      "canonical_btiha": "ce8ab77b076634cd7b2ccdf9e87b9d8e02649e00",
+      "sha256": "a687b55c3aaa33ba9cb1d89b1af32146c6793a1c6fab9036dc540415059fe5c9"
+    },
+    {
+      "tid": 233,
+      "name": "DAN.DA.DAN.S02E10.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "ce8ab77b076634cd7b2ccdf9e87b9d8e02649e00",
+      "sha256": "58565d04641612d721dfb0757bf0a8e79f34a2eb4d7a00421d35e1ec5aeb1b60"
+    },
+    {
+      "tid": 234,
+      "name": "DAN.DA.DAN.S02E10.1080p.WEB.H264-KAWAII [IPT]",
+      "canonical_btiha": "8cc8712e6a179324543e0a8ea482c047bf3dc672",
+      "sha256": "c573bdca3ef698c3adeb5fe4539004a6c1420d6f83519e2477ded4a181c18e41"
+    },
+    {
+      "tid": 235,
+      "name": "dan.da.dan.s02e10.1080p.web.h264-kawaii[EZTVx.to].mkv",
+      "canonical_btiha": "74cb911ce07322487baa5d4d7e903858c41d2c85",
+      "sha256": "3a65ac7465fbb1409bc861e1b213da475542c6da5e9e35ddae8d3b2579de1214"
+    },
+    {
+      "tid": 236,
+      "name": "DAN.DA.DAN.S02E10.480p.x264-mSD [IPT]",
+      "canonical_btiha": "01307f63cf756e086d46e931cfcb339406038b6e",
+      "sha256": "a1dd466102093ef33bae0b8fa88252080a5404f47790fbe14120be0d9815c923"
+    },
+    {
+      "tid": 237,
+      "name": "DAN.DA.DAN.S02E10.480p.x264-mSD.mkv_[480p]_[YTSTV.hair]",
+      "canonical_btiha": "693247323febe31230af63cf68a5353710f771e3",
+      "sha256": "f19f5b22f2d90777d4adfd9916ef42517aac739114c3f82c8056098e9f996ddc"
+    },
+    {
+      "tid": 238,
+      "name": "DAN.DA.DAN.S02E10.480p.x264-mSD[EZTVx.to].mkv",
+      "canonical_btiha": "693247323febe31230af63cf68a5353710f771e3",
+      "sha256": "83243d4c42510bee685ad2e72ef0d43bc9daf320099df2d48774930d1eaffd99"
+    },
+    {
+      "tid": 239,
+      "name": "DAN.DA.DAN.S02E10.720p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "348337ea14ab079ee5c802cf3e8de93419773240",
+      "sha256": "2f81f7645a5c7c2c1253085cd824e28a420dfc1c9eb2fdbf52b509d47910fedf"
+    },
+    {
+      "tid": 240,
+      "name": "DAN.DA.DAN.S02E10.720p.HEVC.x265-MeGusta.mkv_[720p]_[YTSTV.hair]",
+      "canonical_btiha": "92e848a9d8c547c975db54071fceeaefdbf1b9f4",
+      "sha256": "a0a6bc5f45ff5a157546a4f55d22d89c83324b9a2dbab8c7e43cd9e3396379c4"
+    },
+    {
+      "tid": 241,
+      "name": "DAN.DA.DAN.S02E10.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "92e848a9d8c547c975db54071fceeaefdbf1b9f4",
+      "sha256": "315822916c7e04264055f0d8d5a9cd330a6b6c80dc53e2f717d61c3469872909"
+    },
+    {
+      "tid": 242,
+      "name": "DAN.DA.DAN.S02E10.AAC.MP4-Mobile [IPT]",
+      "canonical_btiha": "216827c889ba0b3b0ca100bb932b214b463ee5fb",
+      "sha256": "d215c470ea86821685caf89eebf3943e58ff29766819eadd0c35689bb0154a72"
+    },
+    {
+      "tid": 243,
+      "name": "Dan.Da.Dan.S02E10.CUSTOM.MULTi.VF2.1080p.WEBRiP.x265-T3KASHi",
+      "canonical_btiha": "17a5ac15497d0a29cfb64b649d29a3a068898734",
+      "sha256": "00fcdc220d96d2729ba95fdd8965603720a7c6d4084a655dbc086802565a2e62"
+    },
+    {
+      "tid": 244,
+      "name": "DAN.DA.DAN.S02E10.MULTI.1080p.ADN.WEB.x264-TenmaLand.mkv(1)",
+      "canonical_btiha": "bb649cb26ee4acf45ff2418c62abb31cd4c0c61f",
+      "sha256": "5e2f86c7b2b7a562b7ee0a41474a42fa7bb1abafb1e4a9dcea4d6504fe4e16f4"
+    },
+    {
+      "tid": 245,
+      "name": "DAN.DA.DAN.S02E10.MULTI.1080p.ADN.WEB.x264-TenmaLand.mkv",
+      "canonical_btiha": "bb649cb26ee4acf45ff2418c62abb31cd4c0c61f",
+      "sha256": "5e2f86c7b2b7a562b7ee0a41474a42fa7bb1abafb1e4a9dcea4d6504fe4e16f4"
+    },
+    {
+      "tid": 246,
+      "name": "DAN.DA.DAN.S02E10.MULTI.1080p.CR.WEB.x264-TenmaLand.mkv",
+      "canonical_btiha": "32c74e1677d592691d89f4014f92f2d73bb8865d",
+      "sha256": "3dd9dca3ea50a20ca7ccb180abda2da8692fc68642309b65615f61c32c6986a6"
+    },
+    {
+      "tid": 247,
+      "name": "Dan.Da.Dan.S02E10.MULTi.1080p.WEBRiP.x265-KAF.mkv",
+      "canonical_btiha": "ce747f3be071ae0a4891b3eda0f599cda06d053d",
+      "sha256": "7f17fa74d48cd55a7eb977f1f2e7d61b491af97a5ce968a84de7308b7a036d8b"
+    },
+    {
+      "tid": 248,
+      "name": "DAN.DA.DAN.S02E10.The.Secret.Art.of.Being.Attractive.1080p.BILI.WEB-DL.JPN.AAC2.0.H.265.MSubs-ToonsHub",
+      "canonical_btiha": "5a13b1b154456b26a228a27b56e2f0fc81b11c54",
+      "sha256": "139e41da35477f4e0e0a50e103643b5c8a65ff44a78d8c9e9c03f7858f7976b4"
+    },
+    {
+      "tid": 249,
+      "name": "DAN.DA.DAN.S02E10.The.Secret.Art.of.Being.Attractive.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264-VARYG.mkv",
+      "canonical_btiha": "8f7719d1ddf6117d2b6aee67e487346e68ee626a",
+      "sha256": "10a7090fa5274b3fb1ddb81a17abc2144171a750fd065c08ac641023f71404a4"
+    },
+    {
+      "tid": 250,
+      "name": "DAN.DA.DAN.S02E10.The.Secret.Art.of.Being.Attractive.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264-VARYG",
+      "canonical_btiha": "8f7719d1ddf6117d2b6aee67e487346e68ee626a",
+      "sha256": "f911ee0c6a94e2895c4b5f80ff18929e2198be7dc7f7de0b2339e100d907de2e"
+    },
+    {
+      "tid": 251,
+      "name": "DAN.DA.DAN.S02E10.The.Secret.Art.of.Being.Attractive.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub.mkv",
+      "canonical_btiha": "36ab82805a12df8f128648ce56b0b14decb5fb1d",
+      "sha256": "ed37c64bd26e1e4b5034235a26a738e26039bc78a99e6c16969757deded62180"
+    },
+    {
+      "tid": 252,
+      "name": "DAN.DA.DAN.S02E10.The.Secret.Art.of.Being.Attractive.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub",
+      "canonical_btiha": "36ab82805a12df8f128648ce56b0b14decb5fb1d",
+      "sha256": "e58ba12ac5a08e9acf4472051cdea8bb8c424548c54d5b201fc78fd3fd016a92"
+    },
+    {
+      "tid": 253,
+      "name": "DAN.DA.DAN.S02E10.The.Secret.Art.of.Being.Attractive.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv",
+      "canonical_btiha": "6b992424afa24db463f4c6326924b27ac339e9b9",
+      "sha256": "b79fc36080c9e0d371aec785311a0510319ae364441fd7936c96cc2b2d35c14d"
+    },
+    {
+      "tid": 254,
+      "name": "DAN.DA.DAN.S02E10.The.Secret.Art.of.Being.Attractive.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG",
+      "canonical_btiha": "6b992424afa24db463f4c6326924b27ac339e9b9",
+      "sha256": "461106e77148b4ded5dea571cc4571c2cf7bb312646174438f5497e05c50f51b"
+    },
+    {
+      "tid": 255,
+      "name": "DAN.DA.DAN.S02E10.The.Secret.Art.of.Being.Attractive.1080p.NF.WEB-DL.DUAL.AAC2.0.H.264-VARYG",
+      "canonical_btiha": "74c930bc5ac7f2591f8aeac481f341b925e9f81d",
+      "sha256": "afaa1a1d79f9b9be947b7174ac06b937263ae667fd330916d546acae8d00b337"
+    },
+    {
+      "tid": 256,
+      "name": "DAN.DA.DAN.S02E10.The.Secret.Art.of.Being.Attractive.1080p.NF.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub",
+      "canonical_btiha": "320354a2f6d449db4508fd243f2b73b71cc2ded3",
+      "sha256": "910b3532205d84764aca48cc089a8e38644a52cea1a0ca2b42097b13dbb995e5"
+    },
+    {
+      "tid": 257,
+      "name": "DAN.DA.DAN.S02E10.The.Secret.Art.of.Being.Attractive.1080p.NF.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv",
+      "canonical_btiha": "663504040530f7bbdb75235303680984a378fbcd",
+      "sha256": "b0f8f329dd362e57627cca28039f4f75e7c53b1205a1c2b21dfe76996c518e41"
+    },
+    {
+      "tid": 258,
+      "name": "DAN.DA.DAN.S02E10.The.Secret.Art.of.Being.Attractive.1080p.NF.WEB-DL.MULTi.AAC2.0.H.264-VARYG",
+      "canonical_btiha": "663504040530f7bbdb75235303680984a378fbcd",
+      "sha256": "7ded55c751239252c3b3744ca4ae6a298f9c58a9c0a7164a7965864218870f22"
+    },
+    {
+      "tid": 259,
+      "name": "Dan.Da.Dan.S02E10.VOSTFR.1080p.WEBRiP.x265-KAF.mkv",
+      "canonical_btiha": "117ceb47f74d2d68bfab392f51d4ea22c7742a40",
+      "sha256": "de944cdebd6eadd423d8d32f5558ee662583c244d3433ccd1268c6106ad3195b"
+    },
+    {
+      "tid": 260,
+      "name": "DAN.DA.DAN.S02E10.XviD-AFG [IPT]",
+      "canonical_btiha": "9448e8c3cd768944a8d3d66d2d7a060a3074f478",
+      "sha256": "590e9fd03c990e98413bb6329855399e5307a93180a01743d3123b4ae5b2a7d0"
+    },
+    {
+      "tid": 261,
+      "name": "DAN.DA.DAN.S02E10.XviD-AFG.avi_[1080p]_[YTSTV.hair]",
+      "canonical_btiha": "e125ce0d428341e84969bca30faa43f0190d3654",
+      "sha256": "b39ecd2e03b8d835a9df62c65ab4fd38e199a82085140105cd27295fcfafec5b"
+    },
+    {
+      "tid": 262,
+      "name": "DAN.DA.DAN.S02E10.XviD-AFG[EZTVx.to].avi",
+      "canonical_btiha": "e125ce0d428341e84969bca30faa43f0190d3654",
+      "sha256": "e9ef6a0cfe259ce223c6250e8956857445bf9af8f62b66bfa4d7fd8fe3efb661"
+    },
+    {
+      "tid": 263,
+      "name": "DAN.DA.DAN.S02E11.1080p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "604811790ff77bc19412e1d2fe695f492a1b86e4",
+      "sha256": "cb82626c2b711423abdeaf359162aa95683bd58e2e423e6236547a3844bf53dc"
+    },
+    {
+      "tid": 264,
+      "name": "DAN.DA.DAN.S02E11.1080p.HEVC.x265-MeGusta.mkv_[1080p]_[YTSTV.hair]",
+      "canonical_btiha": "df877a7bf1e96c0321e77399da98744e18742b67",
+      "sha256": "8860c697eb1453e2c74433bc6a97964ad1a417d8f80560482d2d1a673fc4877a"
+    },
+    {
+      "tid": 265,
+      "name": "DAN.DA.DAN.S02E11.1080p.WEB-DL.DUAL.2.0",
+      "canonical_btiha": "63ac9a3fe14b9b3e54e2761838d69f45c43f563d",
+      "sha256": "557e4aa716ce87d7da9deb077d07b917d876f14a9fe256a19e57911703e99905"
+    },
+    {
+      "tid": 266,
+      "name": "DAN.DA.DAN.S02E11.1080P.WEB.H264-MiRU [IPT]",
+      "canonical_btiha": "1f513f60e1f88b9dc48aa1cfe095cd56ce371630",
+      "sha256": "336c88e2431b1a4f19669539d97d4656e39c9c96c80af4dfbf63a3492b2263ac"
+    },
+    {
+      "tid": 267,
+      "name": "DAN.DA.DAN.S02E11.480p.x264-mSD [IPT]",
+      "canonical_btiha": "d53c1f624d8fae50289e1b7691a67a54aff8d12f",
+      "sha256": "e32df1a6d95499234389dd5c27504a500f6e65b3d2a42fb5f615f98ee890496b"
+    },
+    {
+      "tid": 268,
+      "name": "DAN.DA.DAN.S02E11.480p.x264-mSD.mkv_[480p]_[YTSTV.hair]",
+      "canonical_btiha": "091ba94fef9062419ff1ef0819fe7cbd08600f83",
+      "sha256": "f05ea04b64323261b7cf9bc61259ef17f75c8f7ee32d41ccaf6384524eac6cf7"
+    },
+    {
+      "tid": 269,
+      "name": "DAN.DA.DAN.S02E11.720p.HEVC.x265-MeGusta.mkv_[720p]_[YTSTV.hair]",
+      "canonical_btiha": "93d526d4cb75bb04386cb7d9d6e2c587ed6255a4",
+      "sha256": "63a56cb21d01aedef73eee1bdf2a906c72e1e753de5bfbbf2f8ba18a6d84c8a8"
+    },
+    {
+      "tid": 270,
+      "name": "DAN.DA.DAN.S02E11.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "93d526d4cb75bb04386cb7d9d6e2c587ed6255a4",
+      "sha256": "f3b23a3826f36b9880d287788d2921a8011567ff80815a7cc3b5bf19c8849111"
+    },
+    {
+      "tid": 271,
+      "name": "DAN.DA.DAN.S02E11.AAC.MP4-Mobile [IPT]",
+      "canonical_btiha": "4754c04158e23230a4970cd9b26012ea7ed37220",
+      "sha256": "91568c275b2d66ea9016d2c86d01b5c6e27ddf870fc660098d758f338291c994"
+    },
+    {
+      "tid": 272,
+      "name": "Dan.Da.Dan.S02E11.CUSTOM.MULTi.VF2.1080p.WEBRiP.x265-T3KASHi(1)",
+      "canonical_btiha": "d3526d104d577eb2daf8f73554c5ddeaf4a203ee",
+      "sha256": "4a5a2b8d9155e0f8d4243303bb91ed71787648e9d96bd1f3a30bdb4895e9f7f4"
+    },
+    {
+      "tid": 273,
+      "name": "Dan.Da.Dan.S02E11.CUSTOM.MULTi.VF2.1080p.WEBRiP.x265-T3KASHi",
+      "canonical_btiha": "d3526d104d577eb2daf8f73554c5ddeaf4a203ee",
+      "sha256": "52462cd9bfecc1d632bcab69ce1ade873144ee74d7e498340a070767b9b99f13"
+    },
+    {
+      "tid": 274,
+      "name": "Dan.Da.Dan.S02E11.DUAL-AUDIO.JAP-ENG.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+      "canonical_btiha": "27f8e39a30364741102d9ac37898670e722449af",
+      "sha256": "256183cea049602bb016e36f3881feb3de14720c6363652d8aed74b3d087ea6b"
+    },
+    {
+      "tid": 275,
+      "name": "Dan.Da.Dan.S02E11.DUAL-AUDIO.JAP-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+      "canonical_btiha": "4e6e72284e4eba1fd6f69d5a9f3f80d7afe47e21",
+      "sha256": "2f1e2bc25ac88d862f0fe6ec9169a8bd927b4656141ad00df086d9c26a709bee"
+    },
+    {
+      "tid": 276,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.BILI.WEB-DL.JPN.AAC2.0.H.265.MSubs-ToonsHub.mkv",
+      "canonical_btiha": "efd9dbef5dc61709a2edc8e4846cbaeb304f6c1e",
+      "sha256": "45aab94ed95fdb28fa00ceb33a1c6bf4bae416f86cdb525b8eca352c4acd1c32"
+    },
+    {
+      "tid": 277,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.BILI.WEB-DL.JPN.AAC2.0.H.265.MSubs-ToonsHub",
+      "canonical_btiha": "efd9dbef5dc61709a2edc8e4846cbaeb304f6c1e",
+      "sha256": "e950dad89d853aaca3272f03cb027b1750f33d92e724e1190900b62d9595230e"
+    },
+    {
+      "tid": 278,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264-VARYG.mkv",
+      "canonical_btiha": "e3a7ac0f42095ee942fe9e84798b1968e69286a3",
+      "sha256": "09efd4beddecb34f4716e4682b881c3a062a73338292018f50cc4eae122a8652"
+    },
+    {
+      "tid": 279,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264-VARYG",
+      "canonical_btiha": "e3a7ac0f42095ee942fe9e84798b1968e69286a3",
+      "sha256": "a096cbed5a266927bae4da73feac28e07ee54d65a2c70bbc98e5fde2f120e5e4"
+    },
+    {
+      "tid": 280,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub.mkv",
+      "canonical_btiha": "99629e4c1ce0eaf17a2fc090c69b78c85ba013e0",
+      "sha256": "28d43a5d2e185022b573eefcd904eda76b14908210b023b5359607a9870a5752"
+    },
+    {
+      "tid": 281,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub",
+      "canonical_btiha": "99629e4c1ce0eaf17a2fc090c69b78c85ba013e0",
+      "sha256": "27c9b7bdda216c5511a6c6d451dbaca69fdc022289db727d98fa565e84d0067d"
+    },
+    {
+      "tid": 282,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv",
+      "canonical_btiha": "7387589d56ff71cfbe830e8b661e84ede5df021a",
+      "sha256": "7e9a2cf5714f323c4b2ce7a165e9c463bd082959b92fe3a42722182e28683894"
+    },
+    {
+      "tid": 283,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG",
+      "canonical_btiha": "7387589d56ff71cfbe830e8b661e84ede5df021a",
+      "sha256": "4e876ba172b06658799d78af00688a4d25cc5902982904a9305b29f1b8dd47a0"
+    },
+    {
+      "tid": 284,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.NF.WEB-DL.DUAL.AAC2.0.H.264-VARYG.mkv",
+      "canonical_btiha": "a249ab3ab3b46ee14d175139815e593484fd4f90",
+      "sha256": "da4bdf1b384dc90ae2e1c179ea1519e7af8387850e490574b0fee351a5a504ea"
+    },
+    {
+      "tid": 285,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.NF.WEB-DL.DUAL.AAC2.0.H.264-VARYG",
+      "canonical_btiha": "a249ab3ab3b46ee14d175139815e593484fd4f90",
+      "sha256": "00b5de7a8f2cb975e21deee7b88bd96d1372014f204472863299fc042e6f1ade"
+    },
+    {
+      "tid": 286,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.NF.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub.mkv",
+      "canonical_btiha": "5d9f31b44b71ba318de8fe3393499070e6e62ec5",
+      "sha256": "8ad7497d295d4183009d58d2b50b63ceea49da4e6835ec4df96feb53e5f3afc8"
+    },
+    {
+      "tid": 287,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.NF.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub",
+      "canonical_btiha": "5d9f31b44b71ba318de8fe3393499070e6e62ec5",
+      "sha256": "38760c972c37f1c7dcee83498c0821f28058523efdd236dd150128a7c223030d"
+    },
+    {
+      "tid": 288,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.NF.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv",
+      "canonical_btiha": "6a5173a18db62c74158222036bbb0ee7de98358a",
+      "sha256": "3fc7696181ca878473a6d90ca6de9f0384874534d6f249c044cb31de703357bd"
+    },
+    {
+      "tid": 289,
+      "name": "DAN.DA.DAN.S02E11.Hey.its.a.Kaiju.1080p.NF.WEB-DL.MULTi.AAC2.0.H.264-VARYG",
+      "canonical_btiha": "6a5173a18db62c74158222036bbb0ee7de98358a",
+      "sha256": "f0fd4c75466fb143651e578fcc7ea7403c2685b69471e97ada6d728b0d036e9f"
+    },
+    {
+      "tid": 290,
+      "name": "DAN.DA.DAN.S02E11.MULTI.1080p.ADN.WEB.x264-TenmaLand.mkv",
+      "canonical_btiha": "14ef8a8dd08f64bf8569e2950b1b2221f7a83f4d",
+      "sha256": "4cb7e366f29d27429108ac7d00d344f0477d64e2324a657598f9595f25c4de5a"
+    },
+    {
+      "tid": 291,
+      "name": "DAN.DA.DAN.S02E11.MULTI.1080p.CR.WEB.x264-TenmaLand.mkv",
+      "canonical_btiha": "d2a0f6c45c19ab5c7316e8f0c0a7baaf45e0bc93",
+      "sha256": "d76bbb9963ebab991d9577298a59fcb7c7f962bfd0dc306af5b288fecf9155b8"
+    },
+    {
+      "tid": 292,
+      "name": "Dan.Da.Dan.S02E11.MULTi.1080p.WEBRiP.x265-KAF.mkv",
+      "canonical_btiha": "99d87cce5d6fba92df6f56363fdd45b7851a1c38",
+      "sha256": "6a39ab085dffe3881863287a284716472671b4bedb84f495d38dac688cf44bf9"
+    },
+    {
+      "tid": 293,
+      "name": "Dan.Da.Dan.S02E11.VOSTFR.1080p.WEBRiP.x265-KAF.mkv",
+      "canonical_btiha": "087fead40df2572e4144b88ec23f2c250c138d2c",
+      "sha256": "bf800a137e3797eebba2e0cd842c867e677b603c05a882c2eb339909f8fa3b57"
+    },
+    {
+      "tid": 294,
+      "name": "DAN.DA.DAN.S02E11.WEB-DL.1080p.x264.DUAL.2.0-SF",
+      "canonical_btiha": "fcb703ab7b03a8c017fd50c30e72475af5a61929",
+      "sha256": "aeda5c18473587c4e0c5bbe0891d81bf71a7a4c0505e41d155c20758ee4a97af"
+    },
+    {
+      "tid": 295,
+      "name": "DAN.DA.DAN.S02E11.XviD-AFG [IPT]",
+      "canonical_btiha": "d298c1f456d3f83fe33215833bef781e7ae00282",
+      "sha256": "56f4a9d1adbd50418d26cd6ba417a68b77cb40d6f45781096e5404ddd1f65b1f"
+    },
+    {
+      "tid": 296,
+      "name": "DAN.DA.DAN.S02E11.XviD-AFG.avi_[720p]_[YTSTV.hair]",
+      "canonical_btiha": "b89932dadab63a68a7079434db78bc6a581c4002",
+      "sha256": "cf5fe42b436d9876d7af9dd7b92d7328f281bfb60ab7d94aa74a3b5da2a149f2"
+    },
+    {
+      "tid": 297,
+      "name": "DAN.DA.DAN.S02E12.1080p.AV1.10bit-MeGusta [IPT]",
+      "canonical_btiha": "750763267fd68661ceda64d1e54ef8668842c0be",
+      "sha256": "6fd8d209ee8aa309dcdcaa17479b8a5e61e6e46fdb20161a07f6a9ae1efebad3"
+    },
+    {
+      "tid": 298,
+      "name": "DAN.DA.DAN.S02E12.1080p.HEVC.x265-MeGusta.mkv_[1080p]_[YTSTV.hair]",
+      "canonical_btiha": "42e33b8a2b8788e9efda6e9905be9c2ccce7aa56",
+      "sha256": "ab2cef8d0736bbd78fdb04276744eec25511a44eb8662f76542dc8a02ffed374"
+    },
+    {
+      "tid": 299,
+      "name": "DAN.DA.DAN.S02E12.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "42e33b8a2b8788e9efda6e9905be9c2ccce7aa56",
+      "sha256": "70d2b87c60d03ffe3a6dec11185ff4754281bb852fa94319899b3e51f0d5b25a"
+    },
+    {
+      "tid": 300,
+      "name": "DAN.DA.DAN.S02E12.1080p.WEB-DL.DUAL.2.0",
+      "canonical_btiha": "fd5a9f5a9235d631d7af7a32a1d8231344eb88ea",
+      "sha256": "0f8a7fb92bfb4a67f43e90a52dc512e2714f001200f2693c9fe2eae77dabab62"
+    },
+    {
+      "tid": 301,
+      "name": "DAN.DA.DAN.S02E12.1080P.WEB.H264-MiRU [IPT]",
+      "canonical_btiha": "c957f44a612486d7069017020ad6df9e206f8f35",
+      "sha256": "ecd6671d5a4c997993382e5dae6b3d704534eabf0c1f93a68fff701d0ac2981d"
+    },
+    {
+      "tid": 302,
+      "name": "dan.da.dan.s02e12.1080p.web.h264-miru[EZTVx.to].mkv",
+      "canonical_btiha": "7e209f5925853731bff4c7b76be49c92e2b6fc7a",
+      "sha256": "0e04fba170cff8ef7a9a33bdcd5b86d4ae1a1758de39a7e043f20b2cddd91358"
+    },
+    {
+      "tid": 303,
+      "name": "DAN.DA.DAN.S02E12.480p.x264-mSD [IPT]",
+      "canonical_btiha": "7aa4f9543edf0871f121d7f7f0ddea754e0e1955",
+      "sha256": "f7fb59f41b9160bf4f1fe4e936069a8022bdd8736bfa31004309dafbc6ba18a9"
+    },
+    {
+      "tid": 304,
+      "name": "DAN.DA.DAN.S02E12.480p.x264-mSD.mkv_[480p]_[YTSTV.hair]",
+      "canonical_btiha": "24052c027edcc2aae69373afed614795bee3fe76",
+      "sha256": "8860bbab6e59f943ba1249b6b6d4af9c837d327c36b13cdeb15ce1a55ad25da7"
+    },
+    {
+      "tid": 305,
+      "name": "DAN.DA.DAN.S02E12.480p.x264-mSD[EZTVx.to].mkv",
+      "canonical_btiha": "24052c027edcc2aae69373afed614795bee3fe76",
+      "sha256": "c9b90503ce75a065c1a306dbe5325adb3080f0d17f636d226d3d4dc6ad9d7e89"
+    },
+    {
+      "tid": 306,
+      "name": "DAN.DA.DAN.S02E12.720p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "a609145707772e5807bcf1ca824004e56fe4e1a4",
+      "sha256": "5ae3bf3e320ca6d9955bf5e2044df91e5c43121397b0b6d2a6e0ddc65bb15f04"
+    },
+    {
+      "tid": 307,
+      "name": "DAN.DA.DAN.S02E12.720p.HEVC.x265-MeGusta.mkv_[720p]_[YTSTV.hair]",
+      "canonical_btiha": "5c54c21dada0f322620cb5b7b0958f426cbcd1a5",
+      "sha256": "4c4fb95b94fa9823a5ea89391d9a8b34a51377d93d873fcf71d97a4ff6323f78"
+    },
+    {
+      "tid": 308,
+      "name": "DAN.DA.DAN.S02E12.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "5c54c21dada0f322620cb5b7b0958f426cbcd1a5",
+      "sha256": "e9c13ef923abdc491a599c44e26844bca89c974273f8693967eb9c28f82bdc04"
+    },
+    {
+      "tid": 309,
+      "name": "DAN.DA.DAN.S02E12.AAC.MP4-Mobile [IPT]",
+      "canonical_btiha": "d77d4410688d5a5de0ccff1cae5cdc57aebc45c3",
+      "sha256": "4d557e18fd794e9d4881233a60339c7a47e956cb3d78ad73c053ccf63eaf1d95"
+    },
+    {
+      "tid": 310,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs..Giant.Robot.1080p.BILI.WEB-DL.JPN.AAC2.0.H.265.MSubs-ToonsHub.mkv",
+      "canonical_btiha": "71f48a6374f2a41f5d8579ca754f266f4904c005",
+      "sha256": "27801fae89a199ea525e5390ed9c14c1bd33c1d16497a2db75139b5ec86f7ee0"
+    },
+    {
+      "tid": 311,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs..Giant.Robot.1080p.BILI.WEB-DL.JPN.AAC2.0.H.265.MSubs-ToonsHub",
+      "canonical_btiha": "71f48a6374f2a41f5d8579ca754f266f4904c005",
+      "sha256": "474993a4f2396a13ae6924afb7341da12a1f9d88f3df5c835d132713e35fbf38"
+    },
+    {
+      "tid": 312,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs..Giant.Robot.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub.mkv",
+      "canonical_btiha": "7cb02fea7cdad2a5da71fb06d9b4107e3c1e211c",
+      "sha256": "dbbc12f18fe3de859e2b18a0ea1fac8aac7ad4cd7bb45ae3005124997b6b0067"
+    },
+    {
+      "tid": 313,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs..Giant.Robot.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub",
+      "canonical_btiha": "7cb02fea7cdad2a5da71fb06d9b4107e3c1e211c",
+      "sha256": "f0de9e260b0ce5978a40641814e1b6439af8af107c98d724f279fce981b1d217"
+    },
+    {
+      "tid": 314,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs..Giant.Robot.1080p.NF.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub.mkv",
+      "canonical_btiha": "6241efba26abf1a9cfb93e9f20fed3bc5b8e7fdd",
+      "sha256": "6c2176ab6ed9a4f9dc2be5498052b40d0b948362a2729cc102a4d91a9750a3cc"
+    },
+    {
+      "tid": 315,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs..Giant.Robot.1080p.NF.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub",
+      "canonical_btiha": "6241efba26abf1a9cfb93e9f20fed3bc5b8e7fdd",
+      "sha256": "c403bd0d3aeff835135ef6731506e34d2ecb24f5292f474ae4c0274008453ece"
+    },
+    {
+      "tid": 316,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs.Giant.Robot.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264-VARYG.mkv",
+      "canonical_btiha": "bcc38ff9db82b8bff16e1d83e8183ba079ab0180",
+      "sha256": "dc97669585b05b1b6b62a4aaa2bd1fb559f1197487e03ae9217fe968fa7eb1be"
+    },
+    {
+      "tid": 317,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs.Giant.Robot.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264-VARYG",
+      "canonical_btiha": "bcc38ff9db82b8bff16e1d83e8183ba079ab0180",
+      "sha256": "60846670e7f7191b35fb37f7fba27ea4006abecc600674a4655e46dc38f0116a"
+    },
+    {
+      "tid": 318,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs.Giant.Robot.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv",
+      "canonical_btiha": "6d89091702f0bd7e942fe6b6eb65fa19d5f6e12f",
+      "sha256": "46d10876803dc9053414bb0578cdb10f5bc72b0d91eed23424d124ae375d7f83"
+    },
+    {
+      "tid": 319,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs.Giant.Robot.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG",
+      "canonical_btiha": "6d89091702f0bd7e942fe6b6eb65fa19d5f6e12f",
+      "sha256": "19261c732f20a0cefbe576ba5b89d76f563563cd9a9e3fb5ba166c0fa7c749f7"
+    },
+    {
+      "tid": 320,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs.Giant.Robot.1080p.NF.WEB-DL.DUAL.AAC2.0.H.264-VARYG.mkv",
+      "canonical_btiha": "5512b7dc237e5116d9ae053ac20f52b868a1bc1d",
+      "sha256": "1f7b9ef7a94f5ead0babcf40d440cf72538c969312c79b30b71b87913d229569"
+    },
+    {
+      "tid": 321,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs.Giant.Robot.1080p.NF.WEB-DL.DUAL.AAC2.0.H.264-VARYG",
+      "canonical_btiha": "5512b7dc237e5116d9ae053ac20f52b868a1bc1d",
+      "sha256": "e7cb8e4a1a5e76563f2806d27a42cb5d1720a5bc4f88f3f5c6ad0c7b1fcfb948"
+    },
+    {
+      "tid": 322,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs.Giant.Robot.1080p.NF.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv",
+      "canonical_btiha": "1f4d342d575869bc034defcff68bbfa94bab29db",
+      "sha256": "6c40e76582fcc040255ec5107815f80ed73e44d40304f7ffd01f4faa74cb0a8f"
+    },
+    {
+      "tid": 323,
+      "name": "DAN.DA.DAN.S02E12.Clash.Space.Kaiju.vs.Giant.Robot.1080p.NF.WEB-DL.MULTi.AAC2.0.H.264-VARYG",
+      "canonical_btiha": "1f4d342d575869bc034defcff68bbfa94bab29db",
+      "sha256": "d496059a5aecdb85d961c6ef531b707174d2cdd6a82a3804827c95371c34ba5f"
+    },
+    {
+      "tid": 324,
+      "name": "Dan.Da.Dan.S02E12.DUAL-AUDIO.JAP-ENG.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+      "canonical_btiha": "c05f9552496935b68bdc029fe8d6f8125a74a883",
+      "sha256": "56d337dfe1d13ae1ba7b353698457c9f57ca1d9cb0df4ee99a7c76b2f2539a31"
+    },
+    {
+      "tid": 325,
+      "name": "Dan.Da.Dan.S02E12.DUAL-AUDIO.JAP-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+      "canonical_btiha": "16fb1aa6c5a7cdff429b56dd70f22dc94236225a",
+      "sha256": "3140f3d464a002aa0659c418323ac515ebd1311e64e29650ccfde17f42a1ba41"
+    },
+    {
+      "tid": 326,
+      "name": "Dan.Da.Dan.S02E12.FiNAL.CUSTOM.MULTi.VF2.1080p.WEBRiP.x265-T3KASHi",
+      "canonical_btiha": "85b6a6e96d5de34776c475c828f67298d9adc397",
+      "sha256": "b8f123cefb52608af83182d98e5066ec6037d88619b6ccd3de7e860904a24147"
+    },
+    {
+      "tid": 327,
+      "name": "DAN.DA.DAN.S02E12.FiNAL.MULTi.1080p.WEB.x264-AMB3R [IPT]",
+      "canonical_btiha": "4266e2abad2cb9dd99ec0665572324323264505a",
+      "sha256": "63058c54408837d60d41a17c15cb8df333670602ff43cba6ff8527b0834b6ebc"
+    },
+    {
+      "tid": 328,
+      "name": "Dan.Da.Dan.S02E12.FiNAL.MULTi.1080p.WEBRiP.x265-KAF.mkv",
+      "canonical_btiha": "bf0571c59d2b8d6f3bfc2df8176ec8aada976b36",
+      "sha256": "5c57b59a1de940510d1aeb47c7711d4516d4f0171365e4543ea0b97a7c7d366d"
+    },
+    {
+      "tid": 329,
+      "name": "DAN.DA.DAN.S02E12.FiNAL.MULTi.480p.x264-mSD [IPT]",
+      "canonical_btiha": "ef8e92cd175f7b0be7a0e87f6536c990eb9f3d60",
+      "sha256": "c3ea3ddff11da565d60b3605e0984f8861e50319ceb62e1975d25cd5f02ec806"
+    },
+    {
+      "tid": 330,
+      "name": "DAN.DA.DAN.S02E12.FiNAL.MULTi.AAC.MP4-Mobile [IPT]",
+      "canonical_btiha": "1487cb6caa11821c10088cc922eea9d7e6546cb2",
+      "sha256": "d67f85a8c4a1b2050b426bdbf3bbc452548f49506e0ac19fe4e31008967a8524"
+    },
+    {
+      "tid": 331,
+      "name": "DAN.DA.DAN.S02E12.FiNAL.MULTi.XviD-AFG [IPT]",
+      "canonical_btiha": "31bfa5a6529bf0ea7ec2e63c35a6fd8c2625ad0c",
+      "sha256": "103c40a4f1e155e96e5c96fff86abf9addfa461bd3d07cefe2c64f7aa2891f67"
+    },
+    {
+      "tid": 332,
+      "name": "Dan.Da.Dan.S02E12.FiNAL.VOSTFR.1080p.WEBRiP.x265-KAF.mkv",
+      "canonical_btiha": "a1b652b63adf69230d372c26ffd064b602dcbdce",
+      "sha256": "6b1176dc9b49b33a68b9f781f3105f6f2976fead502d26a560a4f54334fb88c9"
+    },
+    {
+      "tid": 333,
+      "name": "DAN.DA.DAN.S02E12.MULTI.1080p.ADN.WEB.x264-TenmaLand.mkv",
+      "canonical_btiha": "3e2d1fbf40812e35a9a162cdef730ade5005155a",
+      "sha256": "d7c1d6b63dc8b12522ad7d4b7f1a5a681e9c8044ae9489fc76dc426a2af8f3c7"
+    },
+    {
+      "tid": 334,
+      "name": "DAN.DA.DAN.S02E12.MULTI.1080p.CR.WEB.x264-TenmaLand.mkv",
+      "canonical_btiha": "709d7bd070958fa96fe7d021df5821ca744c52ba",
+      "sha256": "f2aaf601465f08b43339f3e87ae72dfc744ceef0be6ee8cff24b94e07e667c1a"
+    },
+    {
+      "tid": 335,
+      "name": "DAN.DA.DAN.S02E12.WEB-DL.1080p.x264.DUAL.2.0-SF",
+      "canonical_btiha": "6948b755ecb6b63beaf058a5c1a7e8947fb41d27",
+      "sha256": "8ce432135a86523779834e0ee663bcda961700a45e0be26f98389a7b2a5d84c1"
+    },
+    {
+      "tid": 336,
+      "name": "DAN.DA.DAN.S02E12.XviD-AFG [IPT]",
+      "canonical_btiha": "2ae35f47fb708ea747be2c8bc48166fe92f98e0a",
+      "sha256": "6593d641585c076f4a38e50caf13e798cd93c4c7a4feba67d3e0f1b3cb64bfd9"
+    },
+    {
+      "tid": 337,
+      "name": "DAN.DA.DAN.S02E12.XviD-AFG.avi_[1080p]_[YTSTV.hair]",
+      "canonical_btiha": "33e672055778bfd6b31a62c908f39bc70cb77d45",
+      "sha256": "289cde419da29c2b1522a69ed5ad071257538f75c0d38ce4c92f66826a333934"
+    },
+    {
+      "tid": 338,
+      "name": "dan.da.dan.s03e12.1080p.web.h264-skyanime[EZTVx.to].mkv",
+      "canonical_btiha": "c29a3e035207a3f0ed55de9b8c5770cfaa6dba2e",
+      "sha256": "7809ebb1360f86ef1599edeb3871df856e2cfbdec4130917dd7aa33a141902f5"
+    },
+    {
+      "tid": 339,
+      "name": "dan.da.dan.s03e12.720p.web.h264-skyanime.mkv_[720p]_[YTSTV.hair]",
+      "canonical_btiha": "f6411060ebe8eec2fab18426192b4decfa91e011",
+      "sha256": "966b0147e243e3e24afcf889032a04f2024a8b20eeae54f7547d8b45a60c0335"
+    },
+    {
+      "tid": 340,
+      "name": "dan.da.dan.s03e12.720p.web.h264-skyanime[EZTVx.to].mkv",
+      "canonical_btiha": "f6411060ebe8eec2fab18426192b4decfa91e011",
+      "sha256": "8911535cc226d48aca4c56005aa2b2964600f8758a9d40e2099708255c40d429"
+    },
+    {
+      "tid": 341,
+      "name": "Dan_Da_Dan_S02E10_DUAL-AUDIO_JAP-ENG_1080p_10bit_WEBRip_2CH_X265_HEVC-PSA.mkv_[1080p]_[YTSTV.hair]",
+      "canonical_btiha": "11eb4039676a5dece40b656c405e2dd0c76279f6",
+      "sha256": "2f001b48b876eccbfa611eed54c227d10c849e44906dd46f15a71563c394995f"
+    },
+    {
+      "tid": 342,
+      "name": "Dan_Da_Dan_S02E11_DUAL-AUDIO_JAP-ENG_1080p_10bit_WEBRip_2CH_X265_HEVC-PSA.mkv_[1080p]_[YTSTV.hair]",
+      "canonical_btiha": "e213020b975ac29d7563417f221ca47aef539e97",
+      "sha256": "defc0834341e712344098c655530801e09e2faf94c91d21d26b6d57ef54a38b6"
+    },
+    {
+      "tid": 343,
+      "name": "DanDaDan (2024) [S02][1080p x264 AAC MultiLang Sub JPN ITA ENG][6.7 GiB][NF][WIKIRIP]",
+      "canonical_btiha": "68cf95b8c3501fb61aea16949ab1503173b0b3d6",
+      "sha256": "b1125b68b483c3685f4362c278b8d2a3a02ee648591dc5a2cc381725770353e3"
+    },
+    {
+      "tid": 344,
+      "name": "DanDaDan (2024) [S02E08][1080p H264][AAC JPN ENG ITA MultiSub][1.4 GiB][CR][WIKIRIP]",
+      "canonical_btiha": "dd5990f3552a0bd0e81c1cfcef71ccea9679cbcf",
+      "sha256": "2c22231b26249f7530587bf321fc2cd84b829e55c2d180913ed763457fc619f7"
+    },
+    {
+      "tid": 345,
+      "name": "DanDaDan (2024) [S02E12][1080p H264][AAC MultiLang Sub JPN ITA ENG][0.5 GiB][WIKIRIP]",
+      "canonical_btiha": "c73dcab5ffe9c234063ed832df5cf31501e24a53",
+      "sha256": "6c2cba25b4187700f728c865a3b653ac0f4d5e61c371850270f706a9499c8c82"
+    },
+    {
+      "tid": 346,
+      "name": "DanDaDan (ダンダダン) - S02E10 [1080p][x264 10bits][AAC][Multiple Subtitles]-NeoLX.mkv",
+      "canonical_btiha": "f2b04ab565795886ea2c17821b5f200b0ec393ea",
+      "sha256": "84241db8312e770156835d050cf5c3122d81fb2804115081e2c19eb101b4d2ae"
+    },
+    {
+      "tid": 347,
+      "name": "DanDaDan (ダンダダン) - S02E11 [1080p][x264 10bits][AAC][Multiple Subtitles]-NeoLX.mkv",
+      "canonical_btiha": "bf2f908bdc48d7d2e512c0c23150a4fe206b4ed6",
+      "sha256": "26dc44ae089bd04b6d6e7c4c44a5b62bbaf878dc0bdf63fa090193b9a0819196"
+    },
+    {
+      "tid": 348,
+      "name": "DanDaDan (ダンダダン) - S02E12 [END][1080p][x264 10bits][AAC][Multiple Subtitles]-NeoLX.mkv",
+      "canonical_btiha": "572f2af983dae597ececd157d6cf330a51bfded9",
+      "sha256": "0dfe088177c776dc7df16e3dd83a3d1cf75d75525e8cdc4c24afbb0f665ed7c5"
+    },
+    {
+      "tid": 349,
+      "name": "Dandadan 210.cbz",
+      "canonical_btiha": "2a6134dfbbdbdcc3a30c0047a191f0c7ee9b6748",
+      "sha256": "e0aa6f90a5ba57c90345f96896c05279887600ae0f8f01547063b9cd3a21c67f"
+    },
+    {
+      "tid": 350,
+      "name": "Dandadan 211.cbz",
+      "canonical_btiha": "7a1f3cacca23a72b41a1cad62406a55417a1d66a",
+      "sha256": "357940c20564c5c5a7dc0f0dc3675c1768707de8044c42cfce491c77fbb80c09"
+    },
+    {
+      "tid": 351,
+      "name": "Dandadan 212.cbz",
+      "canonical_btiha": "7491b20eff92c54e394fb0e5736fc182c5808b51",
+      "sha256": "5eceee1aeecb1ae3b3542dee57fdabcb9607af91b255b88258679e2cc27494ea"
+    },
+    {
+      "tid": 352,
+      "name": "Dandadan 2nd Season",
+      "canonical_btiha": "a5034a41e7ea494a7097f149e3eafaed8277b2ec",
+      "sha256": "0c449b6be060be9ba0dca53c3abfdf4326e3a4c9dbaba488c3209e42923519b7"
+    },
+    {
+      "tid": 353,
+      "name": "Dandadan S02 1080p Dual Audio WEBRip DD+ x265-EMBER",
+      "canonical_btiha": "55113d28e241f6726b4ab09d22f85525c12cd3dd",
+      "sha256": "e8129fa051dd19c8acf056d42c40d206f7708ca349dff0712d55d0d6c23f093d"
+    },
+    {
+      "tid": 354,
+      "name": "DANDADAN S02E11 VOSTFR 1080p WEB AV1 AAC -Tsundere-Raws (NF).mkv",
+      "canonical_btiha": "db1ff5c628e1718ff17af586c5a44ae4a669415d",
+      "sha256": "df106bda90e0d32011bde998bda811d27ff4bf684cd9219843800d63befde06a"
+    },
+    {
+      "tid": 355,
+      "name": "DANDADAN S02E11 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (NF).mkv",
+      "canonical_btiha": "97a66b134fdc5e841eeef810e2af30ab13ab396e",
+      "sha256": "f2ee409573fd04fe5c45618056bcb2ce737b5b207837da7150aad6f72b652778"
+    },
+    {
+      "tid": 356,
+      "name": "DANDADAN S2 [1080 x265]",
+      "canonical_btiha": "9e484ff2aee60b82397df673e5e9f5d4408faa5e",
+      "sha256": "c9e0ce763611d28566995aa6f444288bf8f9c3cc05c5caa841f839f09eb47ba5"
+    },
+    {
+      "tid": 357,
+      "name": "Honey Don t 2025 1080p WEBRip DDP 5 1 Atmos 10bit H 265-iVy [IPT]",
+      "canonical_btiha": "c252a808eca92099be70325a71038b65bf7ab2e8",
+      "sha256": "f5eccd38211b9b0747ca761491be2d5d0d729c1fcb454e12f390cd3204b579f9"
+    },
+    {
+      "tid": 358,
+      "name": "www.UIndex.org    -    DAN DA DAN S02E10 The Secret Art of Being Attractive 1080p CR WEB-DL DUAL DDP2 0 H 264-Kitsune",
+      "canonical_btiha": "980ba5dd9db2abdbbb1eba1697f2f1dc67f8d648",
+      "sha256": "1e0919cf0e1891f859efcbf1c381c7dbb1a47b0d73c002b58ea08f73277d956d"
+    },
+    {
+      "tid": 359,
+      "name": "www.UIndex.org    -    Dan Da Dan S02E11 DUAL-AUDIO JAP-ENG 1080p 10bit WEBRip 2CH X265 HEVC-PSA",
+      "canonical_btiha": "386907f7f7acdfbed687a0d263a5fbe374ad197d",
+      "sha256": "8c65027db0bcb10861076d6434ac5bfd6c40cc98235ef9e9ee3b893bee5d7283"
+    },
+    {
+      "tid": 360,
+      "name": "www.UIndex.org    -    DAN DA DAN S02E11 Hey its a Kaiju 1080p CR WEB-DL DUAL DDP2 0 H 264-Kitsune",
+      "canonical_btiha": "dc06ef961627c62a21c91685ca442a933a929c37",
+      "sha256": "800a862d70894ebced569189688d7b92edc402c14d0f9195414c6b5d9b96dafc"
+    },
+    {
+      "tid": 361,
+      "name": "www.UIndex.org    -    DAN DA DAN S02E12 Clash Space Kaiju vs Giant Robot 1080p CR WEB-DL DUAL DDP2 0 H 264-Kitsune",
+      "canonical_btiha": "337edcb6742f2339643cbe6f3545e89deeaba196",
+      "sha256": "a962c19886de0a9eadcd9dbf2c7aaeb810258adbf2c35ee9942394f45965cbd4"
+    },
+    {
+      "tid": 362,
+      "name": "www.UIndex.org    -    Dan Da Dan S02E12 DUAL-AUDIO JAP-ENG 1080p 10bit WEBRip 2CH X265 HEVC-PSA",
+      "canonical_btiha": "fa0ab0d64512a364a6302a169a90e276e96d5ab0",
+      "sha256": "b81c60f76a5f06e6f62041f77ce9ca5d165474545fb56a8623484912a1f8f890"
+    },
+    {
+      "tid": 363,
+      "name": "www.UIndex.org    -    DAN.DA.DAN.S02E10.1080p.AV1.10bit-MeGusta",
+      "canonical_btiha": "9bfbbb8e58e89eb288aedb7d0b78c18b7076827f",
+      "sha256": "d17ae1939d1ec5135105c1ff439dd8ebb83007d4a19861ea765ef3e65496841f"
+    },
+    {
+      "tid": 364,
+      "name": "www.UIndex.org    -    DAN.DA.DAN.S02E10.1080p.HEVC.x265-MeGusta",
+      "canonical_btiha": "88481e9cb22ec49a68cefc83dad534588c2693e5",
+      "sha256": "82012117786e0d29b8c96dff9517ed059561eeffa15bab33f7dc9ead43ea63ab"
+    },
+    {
+      "tid": 365,
+      "name": "www.UIndex.org    -    DAN.DA.DAN.S02E10.1080p.WEB.H264-KAWAII",
+      "canonical_btiha": "c55a39b35a33352956540614093af6126fa8dac5",
+      "sha256": "7b12b5876d6d061529fe33c619a18c8197cb93afa696bbf1ec68a9abb38b5692"
+    },
+    {
+      "tid": 366,
+      "name": "www.UIndex.org    -    DAN.DA.DAN.S02E10.720p.HEVC.x265-MeGusta",
+      "canonical_btiha": "3d0429bb1cf7b2ff56096917046994c7da6f19ac",
+      "sha256": "812f8566789a217103c87007caaffaa282e92c9d9ca3ba9af308a155b13a41fc"
+    },
+    {
+      "tid": 367,
+      "name": "www.UIndex.org    -    DAN.DA.DAN.S02E11.1080p.AV1.10bit-MeGusta",
+      "canonical_btiha": "9a702dc93301a45f6b903076ffb48e19ab7329c6",
+      "sha256": "ccfc6765e190317a6b1672ba3dc02323464e90e90267d9af1a1f72c1c7023ff4"
+    },
+    {
+      "tid": 368,
+      "name": "www.UIndex.org    -    DAN.DA.DAN.S02E11.1080P.WEB.H264-MiRU",
+      "canonical_btiha": "5a01bf6ee698f78454830323ec162e76006e73e7",
+      "sha256": "586a3ba6d21cab7143e160ad29d8132d2c7b9bad79b1805bff4ecabdb6f1c9b8"
+    },
+    {
+      "tid": 369,
+      "name": "www.UIndex.org    -    DAN.DA.DAN.S02E12.1080p.AV1.10bit-MeGusta",
+      "canonical_btiha": "9a496a2ee32c18fa4e575aa6841bd2f8569f9227",
+      "sha256": "b21e9149754f0992df0c9dbf715efcff2d500166661aec6dd39bd298e7e61701"
+    },
+    {
+      "tid": 370,
+      "name": "www.UIndex.org    -    DAN.DA.DAN.S02E12.1080P.WEB.H264-MiRU",
+      "canonical_btiha": "b455829d2617ef8d1280f90938e960914dd2a82e",
+      "sha256": "af4442348dbdd56ee4f51d9f548437f40fbf71b540b90b75bb5dbe34a868b754"
+    },
+    {
+      "tid": 371,
+      "name": "www.UIndex.org    -    DAN.DA.DAN.S02E12.720p.HEVC.x265-MeGusta",
+      "canonical_btiha": "423f9bb4dcc208dd35b39f79f37ba5d053c022f6",
+      "sha256": "9f5af5e2fec7f69224049f9a4c7bbaced34ba0c41443456f507d28ce0127bfe3"
+    },
+    {
+      "tid": 372,
+      "name": "www.UIndex.org    -    DAN.DA.DAN.S02E12.FiNAL.MULTi.1080p.WEB.x264-AMB3R",
+      "canonical_btiha": "eff761c55936976c7fe3e442e027527c229b8aef",
+      "sha256": "485eed466c9ba8cfc68b8e485d2abf5f89a96eb6d9e4d23c7c5f646d002d26b3"
+    },
+    {
+      "tid": 373,
+      "name": "www.UIndex.org    -    DAN.DA.DAN.S03E12.1080p.WEB.H264-SKYANiME",
+      "canonical_btiha": "bb94210c9235218ffe500ea9515f94e0f5f3cacc",
+      "sha256": "ca5430a120d7a1e31d166d15802d95bab9047f803c1c6fd6ca93ac4d80114399"
+    },
+    {
+      "tid": 374,
+      "name": "www.UIndex.org    -    DAN.DA.DAN.S03E12.720p.WEB.H264-SKYANiME",
+      "canonical_btiha": "fb8d1c1cd6c9e157106595b88e5e548417f725f0",
+      "sha256": "7ca4eae0f065af50015c6f6df73d23e3e099014cb5b044690a28971d5dac86c4"
+    },
+    {
+      "tid": 375,
+      "name": "Дандадан (ТВ-1) Dan Da Dan Dandadan Dan Dadan (Ямасиро Фуга) [TV] [12 из 12] [RUS(ext), JAP+Sub] [2024, приключения, комедия [rutracker-6683898]",
+      "canonical_btiha": "4b18e330562c1fdc9adda6cfae1fe801edb55acf",
+      "sha256": "4fc30721661ea2ad8fa3418d572ca9139f6dcff7405f691376d7c3188d8f387f"
+    },
+    {
+      "tid": 376,
+      "name": "Дандадан (ТВ-2) Dan Da Dan Season 2 Dandadan 2 Dan Dadan 2 (Ямасиро Фуга) [TV] [1-10 из 12] [RUS(int), ENG, JAP+Sub] [2025, [rutracker-6714989]",
+      "canonical_btiha": "0716d1e2c33412bd8a88a28860790b577be795f6",
+      "sha256": "993187ac01d0be379ab7b1ffe306c0b854a3f0d21545820045e51d7322742ea8"
+    },
+    {
+      "tid": 377,
+      "name": "Дандадан (ТВ-2) Dan Da Dan Season 2 Dandadan 2 Dan Dadan 2 (Ямасиро Фуга) [TV] [1-11 из 12] [RUS(int), ENG, JAP+Sub] [2025, [rutracker-6714989]",
+      "canonical_btiha": "69ed0271cc4d0389d51bc8ebc9842657e51ddf5c",
+      "sha256": "c46db5a7668bab7257c8e5ad6984bdf44d3b2257dd4425efb95c262e1a41b374"
+    },
+    {
+      "tid": 378,
+      "name": "Дандадан (ТВ-2) Dan Da Dan Season 2 Dandadan 2 Dan Dadan 2 (Ямасиро Фуга) [TV] [12 из 12] [RUS(int), ENG, JAP+Sub] [2025, эк [rutracker-6714989]",
+      "canonical_btiha": "89175ea06a9a0f545c0337a36e991de9fef63d67",
+      "sha256": "c9f7451a3606aa1a1d53488ddfc40cc8c8b368db545f02dc31686069a7194bde"
+    },
+    {
+      "tid": 379,
+      "name": "Дандадан (ТВ-2) Dan Da Dan Season 2 Dandadan 2 Dan Dadan 2 [TV] [12 из 12] [RUS(int), JAP+Sub] [2025, приключения, комедия, [rutracker-6737848]",
+      "canonical_btiha": "26c583072b663d00d6ea80ffbaa290250d8904b2",
+      "sha256": "6d77a94d9e1fa241141d64ef096ed7e3e57a4de284ba9e4407452b4e934c7871"
+    },
+    {
+      "tid": 380,
+      "name": "【高清剧集网发布 www.BBEGGE.com】胆大党.第二季[全12集][中文字幕].DAN.DA.DAN.S02.2024.2160p.WEB-DL.H265.HDR.AAC-ColorTV",
+      "canonical_btiha": "a2a198f2e393a278a90642fbb489e2a145f5cc98",
+      "sha256": "bc66e71aa60694a091ba44d61aabf7caa5d5f827ee28f7c1aa9c1c38c64eb444"
+    },
+    {
+      "tid": 381,
+      "name": "【高清剧集网发布 www.BBEGGE.com】胆大党.第二季[第11集][中文字幕].DAN.DA.DAN.S02.2024.2160p.WEB-DL.H265.AAC-ColorTV",
+      "canonical_btiha": "1eb1379ecefabd816d420a6ca840e8afcd669039",
+      "sha256": "3c67f5a0581084bda7f49edb0ba7d9b85feb01544e8eab3b9bd0d6c1df84ee0e"
+    },
+    {
+      "tid": 382,
+      "name": "【高清剧集网发布 www.BBEGGE.com】胆大党.第二季[第11集][中文字幕].DAN.DA.DAN.S02.2024.2160p.WEB-DL.H265.HDR.AAC-ColorTV",
+      "canonical_btiha": "3d5281c294e2078c4e76b309af02bb793830c13c",
+      "sha256": "7e8bf1fdf485b73accfb48e6192476a72dbf05010dab0e9d6f4c2f67020e1e0b"
+    },
+    {
+      "tid": 383,
+      "name": "【高清剧集网发布 www.TTHDTT.com】胆大党.第二季[全12集][中文字幕].DAN.DA.DAN.S02.2024.1080p.WEB-DL.H264.AAC-ColorTV",
+      "canonical_btiha": "cb47de3ebbdce907458d6d76f96611c608ca4536",
+      "sha256": "3caac73952a55e01967a8c3d67031edaad5f1a5aa81703413647e8a903673bb3"
+    }
+  ],
+  "native_check_required": "Join native names, including synthetic duplicate-group names, through metainfo to canonical BTIHA; record new native IDs separately from archive IDs."
+}

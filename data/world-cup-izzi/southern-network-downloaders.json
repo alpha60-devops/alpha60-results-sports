@@ -1,0 +1,133 @@
+{
+  "schema": "izzi.visualization/1",
+  "kind": "bar-graph",
+  "title": "Regional network flags · downloaders",
+  "description": "Cumulative H3r8 aggregate memberships; overlapping flags and nested regions. LAC means Latin America and the Caribbean.",
+  "source": "../data/world-cup-followups/analysis.json.gz",
+  "x_label": "Flagged membership share (%)",
+  "y_label": "Region and network flag",
+  "viewport": [
+    1280,
+    672
+  ],
+  "bars": [
+    [
+      "LAC · Hosting",
+      1.3583982600651703
+    ],
+    [
+      "LAC · VPN",
+      0.773507964607232
+    ],
+    [
+      "LAC · Mobile",
+      1.742268681520252
+    ],
+    [
+      "LAC · Satellite",
+      0.18306271580897288
+    ],
+    [
+      "South America · Hosting",
+      1.6069259116487167
+    ],
+    [
+      "South America · VPN",
+      0.7187659096707197
+    ],
+    [
+      "South America · Mobile",
+      1.7433065591954948
+    ],
+    [
+      "South America · Satellite",
+      0.187881621373157
+    ]
+  ],
+  "observations": [
+    {
+      "label": "LAC · Hosting",
+      "share": 0.013583982600651703,
+      "memberships": 70427,
+      "denominator": 5184562,
+      "region": "lac",
+      "role": "downloaders",
+      "flag": "hosting"
+    },
+    {
+      "label": "LAC · VPN",
+      "share": 0.00773507964607232,
+      "memberships": 40103,
+      "denominator": 5184562,
+      "region": "lac",
+      "role": "downloaders",
+      "flag": "vpn"
+    },
+    {
+      "label": "LAC · Mobile",
+      "share": 0.01742268681520252,
+      "memberships": 90329,
+      "denominator": 5184562,
+      "region": "lac",
+      "role": "downloaders",
+      "flag": "mobile"
+    },
+    {
+      "label": "LAC · Satellite",
+      "share": 0.0018306271580897286,
+      "memberships": 9491,
+      "denominator": 5184562,
+      "region": "lac",
+      "role": "downloaders",
+      "flag": "satellite"
+    },
+    {
+      "label": "South America · Hosting",
+      "share": 0.016069259116487166,
+      "memberships": 57193,
+      "denominator": 3559156,
+      "region": "south",
+      "role": "downloaders",
+      "flag": "hosting"
+    },
+    {
+      "label": "South America · VPN",
+      "share": 0.007187659096707197,
+      "memberships": 25582,
+      "denominator": 3559156,
+      "region": "south",
+      "role": "downloaders",
+      "flag": "vpn"
+    },
+    {
+      "label": "South America · Mobile",
+      "share": 0.017433065591954948,
+      "memberships": 62047,
+      "denominator": 3559156,
+      "region": "south",
+      "role": "downloaders",
+      "flag": "mobile"
+    },
+    {
+      "label": "South America · Satellite",
+      "share": 0.0018788162137315702,
+      "memberships": 6687,
+      "denominator": 3559156,
+      "region": "south",
+      "role": "downloaders",
+      "flag": "satellite"
+    }
+  ],
+  "renderer": {
+    "library": "Izzi",
+    "functions": [
+      "svg::emit_bar_graph"
+    ],
+    "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+    "bar_header_sha256": "6a064f6a7ce1ac8544684c1179bf2f40284ca253258d5f898bbe143b79135a5e",
+    "renderer_sha256": "abdc56a156258e5fd882b1637daf74a9d8936120ea82acc95199036e73cf97fb",
+    "wrapper_sha256": "945ca09872a1bcdd789ea4528a74ebaa59dbcb9d0396a055203e696040fa3685",
+    "axis_policy": "Native zero baseline and automatic maximum; shared across collections within each chart.",
+    "postprocessing": "Accessible metadata, collection colors, and percentage precision; native geometry retained."
+  }
+}

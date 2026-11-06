@@ -1,0 +1,594 @@
+{
+  "schema": "alpha60-followup-products/1",
+  "status": "passed",
+  "primary_h3_resolution": 8,
+  "products": [
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00001.geojson.gz",
+      "bytes": 37001,
+      "sha256": "b0f2cd6d5abf1e5bb904036de4b4fa5733477ec061da4dd1699f4d4eb8ac6254",
+      "source_sha256": "375f13ef57adf1ae7f60406a98ab634fc1052400ea875b411c78f33c632f0ab1",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00002.geojson.gz",
+      "bytes": 125936,
+      "sha256": "9a512e6dd2134be182f0e2fc73a771039b856291a1158e670778ebf5a7d672ae",
+      "source_sha256": "f55f58194b4ba1eacc08d35a4f202cabc0ef9051e064b6a82be8fb222d519103",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00003.geojson.gz",
+      "bytes": 150016,
+      "sha256": "66472c86abe0060a417f66f504ffe18cb0a4de0a50cef9396a1b600a5e8093d5",
+      "source_sha256": "cef9620dd7642ba7f710a91aea8d577952aa848361e7f7cf6193022ad91c9416",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00004.geojson.gz",
+      "bytes": 160163,
+      "sha256": "170e8909abd1e6d44ba20bf2063b78122e4528753ea10db1ab6a95ffc0069645",
+      "source_sha256": "f18f9da0b5d65c075d128bf5b968e6127e57b5b78639500956c64bf982b2e7b1",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00005.geojson.gz",
+      "bytes": 163130,
+      "sha256": "4d933144751248af0ff68860542e62316b5d98c784a9372ba55d19642e1222e6",
+      "source_sha256": "550a6587031a8ffa19f91db933d73faeabc751b8fcd346e2fe161af775b7dd14",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00006.geojson.gz",
+      "bytes": 160684,
+      "sha256": "ee2c2628fce9bf8da0a05cb94665c55c2aec9bcbfc9fe940168702aa13e43e84",
+      "source_sha256": "fa0c6e51728e4cedbc56f542856f5d8ab0a62eacd0f1e625b53b09aa258c59fd",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00007.geojson.gz",
+      "bytes": 155410,
+      "sha256": "f48ddd0ed214c7162bc8641b0c2be8f1d1d0d04f2b45bea72078f8882319053a",
+      "source_sha256": "8221b0c8c6c04330c9e4106f37279a75b1cb468d192dc67593b0263224e00a64",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00008.geojson.gz",
+      "bytes": 158754,
+      "sha256": "93d57b01e67c085a0a5dc3d94216039b5319dc39d3919a4a0710c7c5f6ce14d3",
+      "source_sha256": "98487233353dfbb894e33f4d8fe45015894140528aa8135deebe536a00dcd8f3",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00009.geojson.gz",
+      "bytes": 149922,
+      "sha256": "b96e93d32f9894af19c1960779e1a1f7ecf671148e43019082594e57677771cd",
+      "source_sha256": "9703940b5dfc1961a61d5a6363ccc55d15c0628546f9662e47e4ba9340e89142",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00010.geojson.gz",
+      "bytes": 159646,
+      "sha256": "a628cb4febb32898df58420fcdcf01a9aa2b795f83bff65b35aab449b3dab22a",
+      "source_sha256": "ac91273223e3df0e9867759d48f882b3d80386cd70ac45a9f137d2eec0ec7c43",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00011.geojson.gz",
+      "bytes": 168608,
+      "sha256": "6e8418d6c408d1159d08bbaa3ad689f030ae291b94ef8b4c63b8e1cb09a3253d",
+      "source_sha256": "bdb97ad5e7fe6330cbfde0652fa666017d9b4fa3476b2541f667da5acbaf6eba",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00012.geojson.gz",
+      "bytes": 170802,
+      "sha256": "698e5c02a72683d74af343fc7be35dcce81bba74c1195b73b255e06aaba55f22",
+      "source_sha256": "e5af8023001e0b0d02a754134632d0e8aad9cb9b0c39c31b34ea45bc8387e3b0",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00013.geojson.gz",
+      "bytes": 159449,
+      "sha256": "2511a3ebe3e27c07d680a6275ed8d7127eba68a76b3da8c010f9700219902086",
+      "source_sha256": "2ec23edde6e7a6337738cc9890937df2457842cbc10e205a126f717fdafa72cc",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-day-00014.geojson.gz",
+      "bytes": 161929,
+      "sha256": "83f0cf5e26bf53a11fa3b0d7513abb179e27f7525c78c96297d290f9f404c2cb",
+      "source_sha256": "c579467d525e3a3e1bf6ee4c156b3f9d0bcb945f117745d84489b58d728c8c79",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-week-00001.geojson.gz",
+      "bytes": 1885054,
+      "sha256": "5259a013d2e404e017c4b21a55d6b4c243cc6e9d1bdfaa1381e43fc4e4151da9",
+      "source_sha256": "658d55dcd18124374e60f523379ee743aa61a29fc5b61f962826c960d05af3ea",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "file": "H3r8/crew-girl-01-week-00002.geojson.gz",
+      "bytes": 2319636,
+      "sha256": "6a4467fb021992017b1c0c7c0518fc6109701db95ab24e2d698bf6a2fce6d81c",
+      "source_sha256": "cfb00781afa0de89fe486a50968c32f7a36781c11f4b678569a3f8c5279fce7d",
+      "validation": "crew-girl-H3r8-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00001.geojson.gz",
+      "bytes": 35189,
+      "sha256": "455eb283e7c6ddf8c55fb8a3ce9e8af0814502ec87819bf2ed7754c558353b52",
+      "source_sha256": "a53e97fe14f545756cf097c2faca13a95da2d040711683246198bcb35fc8857b",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00002.geojson.gz",
+      "bytes": 116529,
+      "sha256": "e9607ec3f50051b4931bebad2b8b01712d777b75479dd84a2caf4ae468216edd",
+      "source_sha256": "8bac36c3c586a1000f76e3e37e903ceefab48fb2c6540caae85dc633c9c6f4d2",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00003.geojson.gz",
+      "bytes": 137776,
+      "sha256": "9cc31942f40d22980e9f9602dd6a275e949fa79dd61209a5057115020715a316",
+      "source_sha256": "bc41e4116d07b4b846b4fa5e6b02659d54b00c801092a20606c097eb959d35ef",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00004.geojson.gz",
+      "bytes": 146417,
+      "sha256": "cd7f04a2bbd9888242f773d680d15135478316f6773d6dd0102af5e7f5aa9cad",
+      "source_sha256": "9bcadd8563e8daf16cf05931e11b314c31f06c4005935d81ebf34620b5ce5c97",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00005.geojson.gz",
+      "bytes": 148132,
+      "sha256": "c495e6e38c9c8817c4d6c85ddb802ffb1ffee87167c6f43d44a282b9ceaa74b3",
+      "source_sha256": "b0f6bc5ec45ebaf6ba185731925cdca6aa9d5d953cf713ae2f436643ee55e4f3",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00006.geojson.gz",
+      "bytes": 147114,
+      "sha256": "d260c5df44498f01c819d0f708d1428bac6a416cd18ac173fad902eaa1c5608c",
+      "source_sha256": "b6e5702fdc4604b38f4fda3a653d60ef1d011d6b43ee9a2ce2cd46e5f454db15",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00007.geojson.gz",
+      "bytes": 141413,
+      "sha256": "ba6360a9526ed39a391e56afed5e09596c612e9b65635f08d8e804edbcfdf418",
+      "source_sha256": "02b678126586fb4e7eb239e8fb4ee3e5e7e9d75b50ec32a0e833b0533eed455d",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00008.geojson.gz",
+      "bytes": 145402,
+      "sha256": "439a34b6f72192f9994bed20718d8a124135707f2735424cce514fcab908423b",
+      "source_sha256": "d0b783998dcc746562aac668572cf553d64b4274d054f5e206e295e01d626169",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00009.geojson.gz",
+      "bytes": 138380,
+      "sha256": "4fb6d28c78a091e22bd777550ed8827d2a69da204049812b06e258b0d8a7e09d",
+      "source_sha256": "b3081bea7a9caed968465dc5952fcb216f322b3b82a3e43c8d7b2448df89eb87",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00010.geojson.gz",
+      "bytes": 146084,
+      "sha256": "62dff9b7ce99351f9250bddd072322688a83f4a3d1be0bbc2972de66d5fae043",
+      "source_sha256": "dca581610480ba845837912a3271ea579ae111823996836ed37901bba9dedb38",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00011.geojson.gz",
+      "bytes": 154056,
+      "sha256": "db939b796a6c3a3154798395cc8b1f77b66392e348144a6a85cee76f1f04327c",
+      "source_sha256": "f4a412f7e7c7ef2680c7e3fde4ff1ff6b5c587571166995caeddb7873fae34cd",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00012.geojson.gz",
+      "bytes": 156308,
+      "sha256": "5cd6bd14388d4d76672f3ef3acb1573608eb37819515baf4b4e5bd6c2d16902d",
+      "source_sha256": "4b2b5b075cab1055616fc48f62f442a7619e2228e858b1f4d3ce026cea1f6a2f",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00013.geojson.gz",
+      "bytes": 146163,
+      "sha256": "ba8057e3eb1afc7006b35135ce2dbb7613f1934c4a1973d878e2a51675e3907b",
+      "source_sha256": "a216a356186191da870c517cc717424a20832ea7f905724f3da8a5636f4b6429",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-day-00014.geojson.gz",
+      "bytes": 149498,
+      "sha256": "7706a7e63b5f0312b194df42d9d0340906b0ffc8e6e0a9ea7a4af7c171254dfb",
+      "source_sha256": "ebf8fd818e704ea5bced2b7b4394c6b978f16423ab622fa08288bee74b915792",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-week-00001.geojson.gz",
+      "bytes": 1854727,
+      "sha256": "f968a623f000f7855086a62b03cd6ae253815a7e769c27a41b5aa1d48def8033",
+      "source_sha256": "552afc5fc01b9259d078a69e0913f894a82fd92d6c7296d2a92b35ab0f6c914f",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "file": "H3r5/crew-girl-01-week-00002.geojson.gz",
+      "bytes": 2288982,
+      "sha256": "9d84ff84a57a0865b0aaeef469895dee748ca15b3b3c6eee55d87438febe1b86",
+      "source_sha256": "6d3d867a1ae2daa8578ec47e3cdad5cced450c9ab53dc5e0626a56be269ebc63",
+      "validation": "crew-girl-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00001.geojson.gz",
+      "bytes": 19695,
+      "sha256": "11c99e4ac77bb3aa9f61a3e7f999d7b260579560faea4190b79cf95a76337d7f",
+      "source_sha256": "14403870dbeacf47196b0eb9d05ed7a9da7c08b06cd00c96be8060a2898c2670",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00002.geojson.gz",
+      "bytes": 87365,
+      "sha256": "88a36c2ea5702f2dbb74b600dedefd6360d2ddea39050049910ae8d33bcb1fe1",
+      "source_sha256": "709bb36a46b98f6adc768004d650705732372e81078c98996b8fb49cbd5a4c5c",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00003.geojson.gz",
+      "bytes": 120068,
+      "sha256": "2c1b138167cbf69555d1041cec21b96a0939d6f8bb89b6cf20edfc91c1fda8e3",
+      "source_sha256": "7cd03bfecf3b2b3b437264a5e9b56bd31ad0ca951a2443c432ac249e774fa68e",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00004.geojson.gz",
+      "bytes": 114617,
+      "sha256": "e8dfd92838e7f20cff62c80063141923490ac5a2caeda9763aff8eef3d039421",
+      "source_sha256": "6cac11cd17a0f0124d567dec078344fb0d56ccc09ead6f1e849d25d786a7d894",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00005.geojson.gz",
+      "bytes": 144569,
+      "sha256": "d1f5734f93be5733a4534c1e2f6ab7ce63b2ff364c7d51272c38b3b4c4f51367",
+      "source_sha256": "0e4a8c28eef4a7572116202ea04e5bef5e225a6b6b699e8e6ef0a306d045dd48",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00006.geojson.gz",
+      "bytes": 149395,
+      "sha256": "e9f5ac0178ceb69ca2b9f735d157c5ff2c3d67d974d079caaba28e117f231a98",
+      "source_sha256": "1944b538b26fc3d2f7777b918864122f6537dd4065f2c21b9e4048d156347680",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00007.geojson.gz",
+      "bytes": 128303,
+      "sha256": "b1906ef9c8e859e51d1a738f62f4faa52343a4fcf45bc634f48974db7bab1163",
+      "source_sha256": "76d2128e3449530cc241d4cfec3a6cc623cc6fa6706a3a2bdb0d62523d72aa3e",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00008.geojson.gz",
+      "bytes": 160416,
+      "sha256": "db4b2ed25e1558a408931d39b3fa83ccf2c0efb00623e84d28e303cef3193097",
+      "source_sha256": "13b2f2c9f4bcdeb23490d1db9d4d340effc6ec34bf18f606266074a4dc0a49b9",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00009.geojson.gz",
+      "bytes": 241614,
+      "sha256": "4071757930dd343279e3463a182f9a6809c5a91b3929f38150bb1f1e9f82b549",
+      "source_sha256": "b330f6c0e9c85e9e56401ffb3b8a9f912ad048eb4cc9a77fdbecd35b61853be3",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00010.geojson.gz",
+      "bytes": 210894,
+      "sha256": "73825788d2ce88b9c6f1fea3dca761a16002e5f07ae64e99ab447b2e9a1d65a7",
+      "source_sha256": "d7a79e2718ed0feeeb1336b5f4b7c6ac6a6533c35ad9cee9cbe4302fa2bfee7d",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00011.geojson.gz",
+      "bytes": 221703,
+      "sha256": "faa1e5a93641761ad7a8d9cf9a2691df1a5e5951e16b3780d29caa09546baba2",
+      "source_sha256": "3c8eaf28d534b60819ca1c8acc166c12e3645f2af16a9692ed3024853d528323",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00012.geojson.gz",
+      "bytes": 241701,
+      "sha256": "903c62a86186a4badc4b4e70ad22e86037588a8b3daa2b6f0fd80ceb18360013",
+      "source_sha256": "8127ae26de4c7fbf328452b84bb6c8eb397c5fa8035696317947665ecd688ed1",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00013.geojson.gz",
+      "bytes": 228507,
+      "sha256": "80351b92136838ea285f899faf027186ab6960f88f6cb164ac826c2ee67c5e58",
+      "source_sha256": "a8f8be67e675df5a08b37c41f227c03a49537062cd521e023c14b26e4c993d16",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-day-00014.geojson.gz",
+      "bytes": 234449,
+      "sha256": "f0deffaaf4a0a497b02a956244f3436031c886e00c8a982788eecc6a7606ea0b",
+      "source_sha256": "1bb9c38615723846e30522567bd177b7a68c8e3e3be771a645be58788d3cc001",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-week-00001.geojson.gz",
+      "bytes": 1300051,
+      "sha256": "0fa006c41ab7ed5638ac403f81753f3b198e8fd70e62c61d821af777f981cba2",
+      "source_sha256": "b05658907a8517de3bd4192381264d1470d4b1f016451f47d9046296b4f9caa2",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "file": "H3r8/dan-da-dan-210-week-00002.geojson.gz",
+      "bytes": 3267193,
+      "sha256": "2e89533e0e0d629d5b98c31d25c0216c47f6660ed9ad4b11e5cfccc39e6603aa",
+      "source_sha256": "1e5469eccad2b8dfc1b38b2b6d6364ea15e5d9f1833c59bd4a15dab323d51f81",
+      "validation": "dan-da-dan-H3r8-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00001.geojson.gz",
+      "bytes": 19917,
+      "sha256": "0262c0b793210353df8ac7c55099cddcdf55491e8488eed05b4e9b6c172c2b02",
+      "source_sha256": "b83299a973362e4037bbb3c137f474150de4075c8fd2533e446a0f4773b095a4",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00002.geojson.gz",
+      "bytes": 84415,
+      "sha256": "56bda14037dca68c9224f1134e06dce28e768b13be41ce6a7db85cc8e1504777",
+      "source_sha256": "6f438f6f5d2d0f9f694263f002e833715c91156e3fd3e16a1aee7fcb3962b387",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00003.geojson.gz",
+      "bytes": 113039,
+      "sha256": "ddbcf680d774d4402c91428df435c152ab3aea1bdeca7f8c64bee3d85e0987b4",
+      "source_sha256": "ee7c04e45cabfef7a30ffaf020b97674d920601861336d13ef472181b721b93f",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00004.geojson.gz",
+      "bytes": 107343,
+      "sha256": "c926ec4748ec647245656461080a39932ecf681b86f21a59036af64d2fd7843b",
+      "source_sha256": "2d75cc1e2125a5c4a36aab81ae482a3b1fd1f36b49195adfc19bf284a015fb06",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00005.geojson.gz",
+      "bytes": 136259,
+      "sha256": "a22b291378abc19dff6997921e7cdcebbe0e446d68d02751939ce45401c743df",
+      "source_sha256": "be8ef856f8dabc0f3d9614495865e1152edcba2683d70d644e7f28368fbedd2b",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00006.geojson.gz",
+      "bytes": 139889,
+      "sha256": "b34f0916e161713bd653b5443802c09e2537565a673b9b1fec7892c06f9a4e55",
+      "source_sha256": "7673657185c8a8d7f49f73bd08137e1bb74af43f5f3947ab6299667f40433f98",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00007.geojson.gz",
+      "bytes": 122321,
+      "sha256": "81b806ac63890d056cd41f269cbac6468a13b614a786054c013269250e005e7d",
+      "source_sha256": "1f34935e117d67cd356aec1cc2d9e6cf4bb325a122bc0081270bd1230e8bf538",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00008.geojson.gz",
+      "bytes": 148567,
+      "sha256": "df8f29966f2cdcde8b3ebb6fe23c57b97011ad8f2ebb7bcb5514f6d43a216666",
+      "source_sha256": "1dfb28f20ec29b1108015a687698386fc68b74492c6bb535e80e7eaaa99ec517",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00009.geojson.gz",
+      "bytes": 214581,
+      "sha256": "442ef992e7d74e246210afc822a1bacb15117d9910b31381c6d111acba561629",
+      "source_sha256": "a851df3a7d83e39e6019e0ba98515aa40c128f8a77d47b45c3272ee51dd5c695",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00010.geojson.gz",
+      "bytes": 190008,
+      "sha256": "a1d92184e855ffc335397a86e5219b64ab396533cf5e8ac82a19b0fd593214b8",
+      "source_sha256": "8679b870e00ae28c64ee269f724112f59ae77cd37b62e85568b774bcf2f7e24c",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00011.geojson.gz",
+      "bytes": 199470,
+      "sha256": "c12a44fdb36a4957e376afb2bfa95a08d540ae71c8e000e677a2543f480750f2",
+      "source_sha256": "6db586088cf99414020f4376a1bbce04bc33cc1834d67fd2d4d5abce61b49f54",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00012.geojson.gz",
+      "bytes": 214584,
+      "sha256": "109c32e48c210d1e0edc6f986d43390b5e2f71d1b163e188eb686a2ee4c474fc",
+      "source_sha256": "0f3e6e1855325c2ef84b47b63fb1a9c62eccd96db4ebc9cc5e366f82c6eb4984",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00013.geojson.gz",
+      "bytes": 204130,
+      "sha256": "e9c4741ce0fb4429d0e9939e490574c8ac67189095e297ca2330867474e338bb",
+      "source_sha256": "0c47ade2b762893f20cf9fac8d13f2b26446fe5880375a96563c3407f8bd884d",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-day-00014.geojson.gz",
+      "bytes": 208590,
+      "sha256": "1d8a87108b138592a73ef5f6ec818b0f7ff03587a5b891154acceb03c9974be2",
+      "source_sha256": "8d855bdcd0189c0a623d00abbce59887614b3e183b911374394934dedf9e7624",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-week-00001.geojson.gz",
+      "bytes": 1260830,
+      "sha256": "568b8af8fffe8959df3fc0a3dafcdb5e2b2c9b2a287e679d726314782461fb6c",
+      "source_sha256": "cfa42ba8ceee949bdc0eef5a660a2ca61d5af2f5e621a2a12380bda3539fd51b",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "file": "H3r5/dan-da-dan-210-week-00002.geojson.gz",
+      "bytes": 3177921,
+      "sha256": "aaaabcde076e33e9fdf795806632c3d9768808755bfa88d963c6937536012c80",
+      "source_sha256": "6c740b1e250822e52d4d04456d9379104a47f466ab56ccd04374ebde5a9be121",
+      "validation": "dan-da-dan-H3r5-validation.json"
+    }
+  ],
+  "world_cup_products": "../../H3r8/manifest.json",
+  "kung_fu_soccer_products": "../world-cup-china/H3r8/manifest.json",
+  "implementation": {
+    "extract-world-cup-cohort-window.py": "aecbcb91bdc6d21a04f281a2ff58e1571db51e247086d5841559bdc431947e36",
+    "freeze-world-cup-cohort-catalog.py": "0dc40b792e3fd99d8e0154b2408da07939dbaeec0a8dbf8de0e96bbe9f443bdf",
+    "run-world-cup-network-geography.py": "935617a10156bccc68f374618863f3ecf0c1196350dab0880e95c7cf0680d151",
+    "analyze-world-cup-regions.py": "efba5b7dd7faad5fef927994eba6755dcf028ded76510aab0990795ff5259b44",
+    "analyze_world_cup_regions_helpers.py": "477fbb8f4dab3b1efaf2dd576eb8b72876663f5e2693f1e96aeb74d391dd3875",
+    "build-world-cup-regions-site.py": "d46c2cc5fae7aab816a25254537dab2b76f6f1c440f765f50d4ec1c8a1ab24e2",
+    "verify-world-cup-regions.py": "040bf34771fa68539b4570d3ab489a247767e9d32cac7194b8a38c6882560003"
+  }
+}

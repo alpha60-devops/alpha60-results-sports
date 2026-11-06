@@ -1,0 +1,15 @@
+{
+  "charts": [
+    "north-hosting-downloaders",
+    "north-hosting-uploaders",
+    "north-hosting-by-observation-age",
+    "southern-countries-lac",
+    "southern-countries-south",
+    "southern-network-downloaders",
+    "southern-network-uploaders",
+    "southern-activity-coverage",
+    "southern-cohort-comparison"
+  ],
+  "renderer": "native izzi",
+  "analysis_sha256": "7181709297e98c74ca9253d647975f48161835f5b0a7f6cd39618c28436f7228"
+}

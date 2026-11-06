@@ -1,0 +1,455 @@
+{
+  "schema": "alpha60-region-definitions/1",
+  "source_url": "https://unstats.un.org/unsd/methodology/m49/overview/",
+  "retrieved_utc": "2026-11-06T19:58:09.729762+00:00",
+  "source_html_sha256": "b9048114f6e7f2abda83bf03d4263c9d7cd1bd7230e3d0461025ee7839a7a1fb",
+  "countries": {
+    "AIA": {
+      "name": "Anguilla",
+      "iso2": "AI",
+      "m49": "660",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "ATG": {
+      "name": "Antigua and Barbuda",
+      "iso2": "AG",
+      "m49": "028",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "ABW": {
+      "name": "Aruba",
+      "iso2": "AW",
+      "m49": "533",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "BHS": {
+      "name": "Bahamas",
+      "iso2": "BS",
+      "m49": "044",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "BRB": {
+      "name": "Barbados",
+      "iso2": "BB",
+      "m49": "052",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "BES": {
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "iso2": "BQ",
+      "m49": "535",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "VGB": {
+      "name": "British Virgin Islands",
+      "iso2": "VG",
+      "m49": "092",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "CYM": {
+      "name": "Cayman Islands",
+      "iso2": "KY",
+      "m49": "136",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "CUB": {
+      "name": "Cuba",
+      "iso2": "CU",
+      "m49": "192",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "CUW": {
+      "name": "Curaçao",
+      "iso2": "CW",
+      "m49": "531",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "DMA": {
+      "name": "Dominica",
+      "iso2": "DM",
+      "m49": "212",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "DOM": {
+      "name": "Dominican Republic",
+      "iso2": "DO",
+      "m49": "214",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "GRD": {
+      "name": "Grenada",
+      "iso2": "GD",
+      "m49": "308",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "GLP": {
+      "name": "Guadeloupe",
+      "iso2": "GP",
+      "m49": "312",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "HTI": {
+      "name": "Haiti",
+      "iso2": "HT",
+      "m49": "332",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "JAM": {
+      "name": "Jamaica",
+      "iso2": "JM",
+      "m49": "388",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "MTQ": {
+      "name": "Martinique",
+      "iso2": "MQ",
+      "m49": "474",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "MSR": {
+      "name": "Montserrat",
+      "iso2": "MS",
+      "m49": "500",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "PRI": {
+      "name": "Puerto Rico",
+      "iso2": "PR",
+      "m49": "630",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "BLM": {
+      "name": "Saint Barthélemy",
+      "iso2": "BL",
+      "m49": "652",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "KNA": {
+      "name": "Saint Kitts and Nevis",
+      "iso2": "KN",
+      "m49": "659",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "LCA": {
+      "name": "Saint Lucia",
+      "iso2": "LC",
+      "m49": "662",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "MAF": {
+      "name": "Saint Martin (French Part)",
+      "iso2": "MF",
+      "m49": "663",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "VCT": {
+      "name": "Saint Vincent and the Grenadines",
+      "iso2": "VC",
+      "m49": "670",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "SXM": {
+      "name": "Sint Maarten (Dutch part)",
+      "iso2": "SX",
+      "m49": "534",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "TTO": {
+      "name": "Trinidad and Tobago",
+      "iso2": "TT",
+      "m49": "780",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "TCA": {
+      "name": "Turks and Caicos Islands",
+      "iso2": "TC",
+      "m49": "796",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "VIR": {
+      "name": "United States Virgin Islands",
+      "iso2": "VI",
+      "m49": "850",
+      "intermediate_code": "029",
+      "intermediate_name": "Caribbean"
+    },
+    "BLZ": {
+      "name": "Belize",
+      "iso2": "BZ",
+      "m49": "084",
+      "intermediate_code": "013",
+      "intermediate_name": "Central America"
+    },
+    "CRI": {
+      "name": "Costa Rica",
+      "iso2": "CR",
+      "m49": "188",
+      "intermediate_code": "013",
+      "intermediate_name": "Central America"
+    },
+    "SLV": {
+      "name": "El Salvador",
+      "iso2": "SV",
+      "m49": "222",
+      "intermediate_code": "013",
+      "intermediate_name": "Central America"
+    },
+    "GTM": {
+      "name": "Guatemala",
+      "iso2": "GT",
+      "m49": "320",
+      "intermediate_code": "013",
+      "intermediate_name": "Central America"
+    },
+    "HND": {
+      "name": "Honduras",
+      "iso2": "HN",
+      "m49": "340",
+      "intermediate_code": "013",
+      "intermediate_name": "Central America"
+    },
+    "MEX": {
+      "name": "Mexico",
+      "iso2": "MX",
+      "m49": "484",
+      "intermediate_code": "013",
+      "intermediate_name": "Central America"
+    },
+    "NIC": {
+      "name": "Nicaragua",
+      "iso2": "NI",
+      "m49": "558",
+      "intermediate_code": "013",
+      "intermediate_name": "Central America"
+    },
+    "PAN": {
+      "name": "Panama",
+      "iso2": "PA",
+      "m49": "591",
+      "intermediate_code": "013",
+      "intermediate_name": "Central America"
+    },
+    "ARG": {
+      "name": "Argentina",
+      "iso2": "AR",
+      "m49": "032",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "BOL": {
+      "name": "Bolivia (Plurinational State of)",
+      "iso2": "BO",
+      "m49": "068",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "BVT": {
+      "name": "Bouvet Island",
+      "iso2": "BV",
+      "m49": "074",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "BRA": {
+      "name": "Brazil",
+      "iso2": "BR",
+      "m49": "076",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "CHL": {
+      "name": "Chile",
+      "iso2": "CL",
+      "m49": "152",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "COL": {
+      "name": "Colombia",
+      "iso2": "CO",
+      "m49": "170",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "ECU": {
+      "name": "Ecuador",
+      "iso2": "EC",
+      "m49": "218",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "FLK": {
+      "name": "Falkland Islands (Malvinas)",
+      "iso2": "FK",
+      "m49": "238",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "GUF": {
+      "name": "French Guiana",
+      "iso2": "GF",
+      "m49": "254",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "GUY": {
+      "name": "Guyana",
+      "iso2": "GY",
+      "m49": "328",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "PRY": {
+      "name": "Paraguay",
+      "iso2": "PY",
+      "m49": "600",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "PER": {
+      "name": "Peru",
+      "iso2": "PE",
+      "m49": "604",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "SGS": {
+      "name": "South Georgia and the South Sandwich Islands",
+      "iso2": "GS",
+      "m49": "239",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "SUR": {
+      "name": "Suriname",
+      "iso2": "SR",
+      "m49": "740",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "URY": {
+      "name": "Uruguay",
+      "iso2": "UY",
+      "m49": "858",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    },
+    "VEN": {
+      "name": "Venezuela (Bolivarian Republic of)",
+      "iso2": "VE",
+      "m49": "862",
+      "intermediate_code": "005",
+      "intermediate_name": "South America"
+    }
+  },
+  "regions": {
+    "lac": {
+      "name": "Latin America and the Caribbean",
+      "m49": "419",
+      "countries": [
+        "ABW",
+        "AIA",
+        "ARG",
+        "ATG",
+        "BES",
+        "BHS",
+        "BLM",
+        "BLZ",
+        "BOL",
+        "BRA",
+        "BRB",
+        "BVT",
+        "CHL",
+        "COL",
+        "CRI",
+        "CUB",
+        "CUW",
+        "CYM",
+        "DMA",
+        "DOM",
+        "ECU",
+        "FLK",
+        "GLP",
+        "GRD",
+        "GTM",
+        "GUF",
+        "GUY",
+        "HND",
+        "HTI",
+        "JAM",
+        "KNA",
+        "LCA",
+        "MAF",
+        "MEX",
+        "MSR",
+        "MTQ",
+        "NIC",
+        "PAN",
+        "PER",
+        "PRI",
+        "PRY",
+        "SGS",
+        "SLV",
+        "SUR",
+        "SXM",
+        "TCA",
+        "TTO",
+        "URY",
+        "VCT",
+        "VEN",
+        "VGB",
+        "VIR"
+      ]
+    },
+    "south": {
+      "name": "South America",
+      "m49": "005",
+      "countries": [
+        "ARG",
+        "BOL",
+        "BRA",
+        "BVT",
+        "CHL",
+        "COL",
+        "ECU",
+        "FLK",
+        "GUF",
+        "GUY",
+        "PER",
+        "PRY",
+        "SGS",
+        "SUR",
+        "URY",
+        "VEN"
+      ]
+    }
+  },
+  "overlap": "South America is wholly within Latin America and the Caribbean; do not add these regional totals."
+}

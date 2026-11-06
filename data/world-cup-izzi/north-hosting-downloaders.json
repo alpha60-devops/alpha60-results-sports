@@ -1,0 +1,209 @@
+{
+  "schema": "izzi.visualization/1",
+  "kind": "bar-graph",
+  "title": "First 14 observed dates · hosting · downloaders",
+  "description": "Within-country shares, first 14 collection dates; H3r8 daily aggregate memberships. Four collections share one zero-based scale. Flags can overlap.",
+  "source": "../data/world-cup-followups/analysis.json.gz",
+  "x_label": "Hosting-flagged membership share (%)",
+  "y_label": "Country and collection",
+  "viewport": [
+    1280,
+    808
+  ],
+  "bars": [
+    [
+      "USA · World Cup",
+      56.60415191779645
+    ],
+    [
+      "USA · Crew Girl",
+      68.16994847907404
+    ],
+    [
+      "USA · Dan Da Dan",
+      65.52974561161197
+    ],
+    [
+      "USA · Kung Fu Soccer",
+      73.59167249825053
+    ],
+    [
+      "MEX · World Cup",
+      2.6735231662701153
+    ],
+    [
+      "MEX · Crew Girl",
+      1.331896551724138
+    ],
+    [
+      "MEX · Dan Da Dan",
+      5.422255809559796
+    ],
+    [
+      "MEX · Kung Fu Soccer",
+      0.7364274704572701
+    ],
+    [
+      "CAN · World Cup",
+      39.02358716475096
+    ],
+    [
+      "CAN · Crew Girl",
+      47.57896871672666
+    ],
+    [
+      "CAN · Dan Da Dan",
+      51.13117639483136
+    ],
+    [
+      "CAN · Kung Fu Soccer",
+      43.85733157199472
+    ]
+  ],
+  "observations": [
+    {
+      "label": "USA · World Cup",
+      "collection": "World Cup",
+      "share": 0.5660415191779645,
+      "memberships": 138323,
+      "denominator": 244369,
+      "country": "USA",
+      "role": "downloaders",
+      "flag": "hosting",
+      "collection_key": "world-cup-2026"
+    },
+    {
+      "label": "USA · Crew Girl",
+      "collection": "Crew Girl",
+      "share": 0.6816994847907404,
+      "memberships": 77272,
+      "denominator": 113352,
+      "country": "USA",
+      "role": "downloaders",
+      "flag": "hosting",
+      "collection_key": "crew-girl-01"
+    },
+    {
+      "label": "USA · Dan Da Dan",
+      "collection": "Dan Da Dan",
+      "share": 0.6552974561161197,
+      "memberships": 130473,
+      "denominator": 199105,
+      "country": "USA",
+      "role": "downloaders",
+      "flag": "hosting",
+      "collection_key": "dan-da-dan-210"
+    },
+    {
+      "label": "USA · Kung Fu Soccer",
+      "collection": "Kung Fu Soccer",
+      "share": 0.7359167249825053,
+      "memberships": 16826,
+      "denominator": 22864,
+      "country": "USA",
+      "role": "downloaders",
+      "flag": "hosting",
+      "collection_key": "kung-fu-soccer-2026"
+    },
+    {
+      "label": "MEX · World Cup",
+      "collection": "World Cup",
+      "share": 0.026735231662701153,
+      "memberships": 1045,
+      "denominator": 39087,
+      "country": "MEX",
+      "role": "downloaders",
+      "flag": "hosting",
+      "collection_key": "world-cup-2026"
+    },
+    {
+      "label": "MEX · Crew Girl",
+      "collection": "Crew Girl",
+      "share": 0.013318965517241379,
+      "memberships": 309,
+      "denominator": 23200,
+      "country": "MEX",
+      "role": "downloaders",
+      "flag": "hosting",
+      "collection_key": "crew-girl-01"
+    },
+    {
+      "label": "MEX · Dan Da Dan",
+      "collection": "Dan Da Dan",
+      "share": 0.05422255809559796,
+      "memberships": 1148,
+      "denominator": 21172,
+      "country": "MEX",
+      "role": "downloaders",
+      "flag": "hosting",
+      "collection_key": "dan-da-dan-210"
+    },
+    {
+      "label": "MEX · Kung Fu Soccer",
+      "collection": "Kung Fu Soccer",
+      "share": 0.007364274704572701,
+      "memberships": 43,
+      "denominator": 5839,
+      "country": "MEX",
+      "role": "downloaders",
+      "flag": "hosting",
+      "collection_key": "kung-fu-soccer-2026"
+    },
+    {
+      "label": "CAN · World Cup",
+      "collection": "World Cup",
+      "share": 0.39023587164750956,
+      "memberships": 39111,
+      "denominator": 100224,
+      "country": "CAN",
+      "role": "downloaders",
+      "flag": "hosting",
+      "collection_key": "world-cup-2026"
+    },
+    {
+      "label": "CAN · Crew Girl",
+      "collection": "Crew Girl",
+      "share": 0.47578968716726666,
+      "memberships": 18768,
+      "denominator": 39446,
+      "country": "CAN",
+      "role": "downloaders",
+      "flag": "hosting",
+      "collection_key": "crew-girl-01"
+    },
+    {
+      "label": "CAN · Dan Da Dan",
+      "collection": "Dan Da Dan",
+      "share": 0.5113117639483136,
+      "memberships": 35732,
+      "denominator": 69883,
+      "country": "CAN",
+      "role": "downloaders",
+      "flag": "hosting",
+      "collection_key": "dan-da-dan-210"
+    },
+    {
+      "label": "CAN · Kung Fu Soccer",
+      "collection": "Kung Fu Soccer",
+      "share": 0.4385733157199472,
+      "memberships": 3320,
+      "denominator": 7570,
+      "country": "CAN",
+      "role": "downloaders",
+      "flag": "hosting",
+      "collection_key": "kung-fu-soccer-2026"
+    }
+  ],
+  "renderer": {
+    "library": "Izzi",
+    "functions": [
+      "svg::emit_bar_graph"
+    ],
+    "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+    "bar_header_sha256": "6a064f6a7ce1ac8544684c1179bf2f40284ca253258d5f898bbe143b79135a5e",
+    "renderer_sha256": "abdc56a156258e5fd882b1637daf74a9d8936120ea82acc95199036e73cf97fb",
+    "wrapper_sha256": "945ca09872a1bcdd789ea4528a74ebaa59dbcb9d0396a055203e696040fa3685",
+    "axis_policy": "Native zero baseline and automatic maximum; shared across collections within each chart.",
+    "postprocessing": "Accessible metadata, collection colors, and percentage precision; native geometry retained."
+  }
+}

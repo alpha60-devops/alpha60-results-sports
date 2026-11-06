@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "cohorts": 4,
+  "daily_intervals": 112,
+  "weekly_products": 8,
+  "canonical_identities": {
+    "world-cup-2026": 493,
+    "crew-girl-01": 195,
+    "dan-da-dan-210": 301,
+    "kung-fu-soccer-2026": 35
+  },
+  "ranking_groups": [
+    "CHN",
+    "KOR",
+    "JPN",
+    "lac",
+    "south"
+  ],
+  "regional_country_city_reconciliation": "passed",
+  "country_world_reconciliation": "passed",
+  "analysis_sha256": "7181709297e98c74ca9253d647975f48161835f5b0a7f6cd39618c28436f7228",
+  "native_canonical_crosswalk_sha256": "e5a3c2b953fee0a80b273d8a00f934e34e5812484227021461f24c3447d29a1b"
+}

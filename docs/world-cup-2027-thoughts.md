@@ -10,7 +10,7 @@ description: "Begin before the opening match, track discovery and sampling cover
 
 [![Alpha60](../resources/a60-logo-block-gray.simple.svg)](world-cup.html)
 
-<nav class="wc-nav" aria-label="World Cup reports"><a href="world-cup.html">Overview</a><a href="world-cup-swarm-media.html">Formats and resolution</a><a href="world-cup-languages.html">Audio and subtitles</a><a href="world-cup-distro-en-es-fr.html">Language and geography</a><a href="world-cup-distro-usa-mex.html">North America and matches</a><a href="world-cup-ott-vendors.html">Broadcasters and services</a><a href="world-cup-asia-28.html">Asia-28 and China</a><a href="world-cup-2027-thoughts.html" aria-current="page">Preparing for 2027</a></nav>
+<nav class="wc-nav" aria-label="World Cup reports"><a href="world-cup.html">Overview</a><a href="world-cup-swarm-media.html">Formats and resolution</a><a href="world-cup-languages.html">Audio and subtitles</a><a href="world-cup-distro-en-es-fr.html">Language and geography</a><a href="world-cup-distro-usa-mex.html">North America and matches</a><a href="world-cup-ott-vendors.html">Broadcasters and services</a><a href="world-cup-asia-28.html">Asia-28 and China</a><a href="world-cup-southern.html">Latin America and South America</a><a href="world-cup-2027-thoughts.html" aria-current="page">Preparing for 2027</a></nav>
 
 <p class="wc-kicker">World Cup 2026 · Stage one · November 6, 2026</p>
 

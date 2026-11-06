@@ -1,0 +1,4373 @@
+{
+  "renderer": {
+    "library": "Izzi",
+    "default_layout": "izzi-standard",
+    "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+    "interaction": "izzi-weekly-graph-hover.js",
+    "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+    "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+    "renderer_sha256": "1d132d25f4cc0f0776de98b77abb784fac34df52f5f8d3a2279e54b6403e4347",
+    "wrapper_sha256": "20cacde54126c3c004c3046e48e6a1a6a9b56d49351c656501627a9848a88b65",
+    "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+    "functions": [
+      "svg::make_line_graph",
+      "svg::make_line_graph_annotations",
+      "svg::transform_to_graph_points",
+      "svg::make_marker_instance"
+    ]
+  },
+  "charts": {
+    "north-hosting-by-observation-age": {
+      "title": "Hosting by collection observation age",
+      "subtitle": "First 14 observed dates · H3r8 · downloaders",
+      "description": "Separate country panels and a common 0 to 100 percent scale. Missing country-days are not zero. Calendar dates differ by media object. Media-object names appear directly on their lines; no separate legend.",
+      "xlabel": "COLLECTION OBSERVATION DAY",
+      "xmin": 1,
+      "xmax": 14,
+      "ticks": [
+        [
+          1,
+          "1"
+        ],
+        [
+          4,
+          "4"
+        ],
+        [
+          7,
+          "7"
+        ],
+        [
+          10,
+          "10"
+        ],
+        [
+          14,
+          "14"
+        ]
+      ],
+      "panels": [
+        {
+          "title": "United States · daily downloader hosting share",
+          "unit": "percent",
+          "ylabel": "HOSTING SHARE (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "World Cup",
+              "color": "#214f7a",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 0.0,
+                  "tooltip": "World Cup · 2026-06-29 · USA: 0 of 3; 0.0000% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 73.3674775928297,
+                  "tooltip": "World Cup · 2026-06-30 · USA: 573 of 781; 73.3675% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 69.96285979572887,
+                  "tooltip": "World Cup · 2026-07-01 · USA: 1,507 of 2,154; 69.9629% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 67.63980263157895,
+                  "tooltip": "World Cup · 2026-07-02 · USA: 3,290 of 4,864; 67.6398% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 62.327739118570065,
+                  "tooltip": "World Cup · 2026-07-03 · USA: 4,568 of 7,329; 62.3277% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 63.908350691156976,
+                  "tooltip": "World Cup · 2026-07-04 · USA: 6,750 of 10,562; 63.9084% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 61.3169004494076,
+                  "tooltip": "World Cup · 2026-07-05 · USA: 9,005 of 14,686; 61.3169% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 58.043581241117955,
+                  "tooltip": "World Cup · 2026-07-06 · USA: 12,253 of 21,110; 58.0436% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 58.5829011209637,
+                  "tooltip": "World Cup · 2026-07-07 · USA: 14,006 of 23,908; 58.5829% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 55.30060417973522,
+                  "tooltip": "World Cup · 2026-07-08 · USA: 16,750 of 30,289; 55.3006% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 54.50285679736389,
+                  "tooltip": "World Cup · 2026-07-09 · USA: 18,029 of 33,079; 54.5029% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 50.678114086146685,
+                  "tooltip": "World Cup · 2026-07-10 · USA: 17,413 of 34,360; 50.6781% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 55.35566925235187,
+                  "tooltip": "World Cup · 2026-07-11 · USA: 16,770 of 30,295; 55.3557% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 56.25060583540664,
+                  "tooltip": "World Cup · 2026-07-12 · USA: 17,409 of 30,949; 56.2506% hosting"
+                }
+              ],
+              "collection_key": "World Cup",
+              "line_label": "World Cup"
+            },
+            {
+              "name": "Crew Girl",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 70.23411371237458,
+                  "tooltip": "Crew Girl · 2026-09-10 · USA: 1,470 of 2,093; 70.2341% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 68.15548976702279,
+                  "tooltip": "Crew Girl · 2026-09-11 · USA: 5,295 of 7,769; 68.1555% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 66.62582700318549,
+                  "tooltip": "Crew Girl · 2026-09-12 · USA: 5,438 of 8,162; 66.6258% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 65.35785874307275,
+                  "tooltip": "Crew Girl · 2026-09-13 · USA: 5,543 of 8,481; 65.3579% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 67.54551903523291,
+                  "tooltip": "Crew Girl · 2026-09-14 · USA: 5,713 of 8,458; 67.5455% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 68.06056236481615,
+                  "tooltip": "Crew Girl · 2026-09-15 · USA: 5,664 of 8,322; 68.0606% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 68.99478598278162,
+                  "tooltip": "Crew Girl · 2026-09-16 · USA: 5,690 of 8,247; 68.9948% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 68.57211480725351,
+                  "tooltip": "Crew Girl · 2026-09-17 · USA: 5,710 of 8,327; 68.5721% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 70.34577800050113,
+                  "tooltip": "Crew Girl · 2026-09-18 · USA: 5,615 of 7,982; 70.3458% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 67.42119995132043,
+                  "tooltip": "Crew Girl · 2026-09-19 · USA: 5,540 of 8,217; 67.4212% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 66.5035478345975,
+                  "tooltip": "Crew Girl · 2026-09-20 · USA: 5,436 of 8,174; 66.5035% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 67.8083631014919,
+                  "tooltip": "Crew Girl · 2026-09-21 · USA: 6,454 of 9,518; 67.8084% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 69.69150853387046,
+                  "tooltip": "Crew Girl · 2026-09-22 · USA: 6,574 of 9,433; 69.6915% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 70.11505556101878,
+                  "tooltip": "Crew Girl · 2026-09-23 · USA: 7,130 of 10,169; 70.1151% hosting"
+                }
+              ],
+              "collection_key": "Crew Girl",
+              "line_label": "Crew Girl"
+            },
+            {
+              "name": "Dan Da Dan",
+              "color": "#6b5278",
+              "dash": "2 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 76.57894736842105,
+                  "tooltip": "Dan Da Dan · 2025-09-04 · USA: 582 of 760; 76.5789% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 71.2961279767315,
+                  "tooltip": "Dan Da Dan · 2025-09-05 · USA: 3,922 of 5,501; 71.2961% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 71.29425420777713,
+                  "tooltip": "Dan Da Dan · 2025-09-06 · USA: 6,142 of 8,615; 71.2943% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 73.39156107762332,
+                  "tooltip": "Dan Da Dan · 2025-09-07 · USA: 5,966 of 8,129; 73.3916% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 68.58389125583282,
+                  "tooltip": "Dan Da Dan · 2025-09-08 · USA: 6,761 of 9,858; 68.5839% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 70.28596472006136,
+                  "tooltip": "Dan Da Dan · 2025-09-09 · USA: 6,415 of 9,127; 70.2860% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 71.10822613006019,
+                  "tooltip": "Dan Da Dan · 2025-09-10 · USA: 6,025 of 8,473; 71.1082% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 66.38609828943795,
+                  "tooltip": "Dan Da Dan · 2025-09-11 · USA: 9,780 of 14,732; 66.3861% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 60.32919180216531,
+                  "tooltip": "Dan Da Dan · 2025-09-12 · USA: 15,101 of 25,031; 60.3292% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 65.55259586872393,
+                  "tooltip": "Dan Da Dan · 2025-09-13 · USA: 13,043 of 19,897; 65.5526% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 61.71783403534673,
+                  "tooltip": "Dan Da Dan · 2025-09-14 · USA: 14,213 of 23,029; 61.7178% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 63.17906574394463,
+                  "tooltip": "Dan Da Dan · 2025-09-15 · USA: 14,607 of 23,120; 63.1791% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 65.21759519789909,
+                  "tooltip": "Dan Da Dan · 2025-09-16 · USA: 13,907 of 21,324; 65.2176% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 65.1308754474871,
+                  "tooltip": "Dan Da Dan · 2025-09-17 · USA: 14,009 of 21,509; 65.1309% hosting"
+                }
+              ],
+              "collection_key": "Dan Da Dan",
+              "line_label": "Dan Da Dan"
+            },
+            {
+              "name": "Kung Fu Soccer",
+              "color": "#16857a",
+              "dash": "8 3 2 3",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 86.25592417061611,
+                  "tooltip": "Kung Fu Soccer · 2026-10-03 · USA: 182 of 211; 86.2559% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 76.47679324894514,
+                  "tooltip": "Kung Fu Soccer · 2026-10-04 · USA: 725 of 948; 76.4768% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 82.18673218673219,
+                  "tooltip": "Kung Fu Soccer · 2026-10-05 · USA: 669 of 814; 82.1867% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 76.96160267111853,
+                  "tooltip": "Kung Fu Soccer · 2026-10-06 · USA: 922 of 1,198; 76.9616% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 77.12280701754386,
+                  "tooltip": "Kung Fu Soccer · 2026-10-07 · USA: 1,099 of 1,425; 77.1228% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 76.5793528505393,
+                  "tooltip": "Kung Fu Soccer · 2026-10-08 · USA: 994 of 1,298; 76.5794% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 76.57894736842105,
+                  "tooltip": "Kung Fu Soccer · 2026-10-09 · USA: 1,455 of 1,900; 76.5789% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 67.67628963558921,
+                  "tooltip": "Kung Fu Soccer · 2026-10-10 · USA: 1,430 of 2,113; 67.6763% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 74.79591836734694,
+                  "tooltip": "Kung Fu Soccer · 2026-10-11 · USA: 1,466 of 1,960; 74.7959% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 74.19664268585132,
+                  "tooltip": "Kung Fu Soccer · 2026-10-12 · USA: 1,547 of 2,085; 74.1966% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 72.95154185022027,
+                  "tooltip": "Kung Fu Soccer · 2026-10-13 · USA: 1,656 of 2,270; 72.9515% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 73.15270935960591,
+                  "tooltip": "Kung Fu Soccer · 2026-10-14 · USA: 1,485 of 2,030; 73.1527% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 71.73913043478261,
+                  "tooltip": "Kung Fu Soccer · 2026-10-15 · USA: 1,518 of 2,116; 71.7391% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 67.2275641025641,
+                  "tooltip": "Kung Fu Soccer · 2026-10-16 · USA: 1,678 of 2,496; 67.2276% hosting"
+                }
+              ],
+              "collection_key": "Kung Fu Soccer",
+              "line_label": "Kung Fu Soccer"
+            }
+          ]
+        },
+        {
+          "title": "Mexico · daily downloader hosting share",
+          "unit": "percent",
+          "ylabel": "HOSTING SHARE (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "World Cup",
+              "color": "#214f7a",
+              "dash": "",
+              "points": [
+                {
+                  "x": 2,
+                  "y": 21.21212121212121,
+                  "tooltip": "World Cup · 2026-06-30 · MEX: 14 of 66; 21.2121% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 10.407239819004525,
+                  "tooltip": "World Cup · 2026-07-01 · MEX: 23 of 221; 10.4072% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 4.364569961489089,
+                  "tooltip": "World Cup · 2026-07-02 · MEX: 34 of 779; 4.3646% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 3.7833827893175074,
+                  "tooltip": "World Cup · 2026-07-03 · MEX: 51 of 1,348; 3.7834% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 2.2247575584711923,
+                  "tooltip": "World Cup · 2026-07-04 · MEX: 39 of 1,753; 2.2248% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 2.8606965174129355,
+                  "tooltip": "World Cup · 2026-07-05 · MEX: 69 of 2,412; 2.8607% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 2.522796352583587,
+                  "tooltip": "World Cup · 2026-07-06 · MEX: 83 of 3,290; 2.5228% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 4.292572719570742,
+                  "tooltip": "World Cup · 2026-07-07 · MEX: 152 of 3,541; 4.2926% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 2.0427828097899403,
+                  "tooltip": "World Cup · 2026-07-08 · MEX: 106 of 5,189; 2.0428% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 1.9658276685651295,
+                  "tooltip": "World Cup · 2026-07-09 · MEX: 107 of 5,443; 1.9658% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 2.5489823093018833,
+                  "tooltip": "World Cup · 2026-07-10 · MEX: 134 of 5,257; 2.5490% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 2.8086482117599516,
+                  "tooltip": "World Cup · 2026-07-11 · MEX: 139 of 4,949; 2.8086% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 1.942550113659847,
+                  "tooltip": "World Cup · 2026-07-12 · MEX: 94 of 4,839; 1.9426% hosting"
+                }
+              ],
+              "collection_key": "World Cup",
+              "line_label": "World Cup"
+            },
+            {
+              "name": "Crew Girl",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 17.142857142857142,
+                  "tooltip": "Crew Girl · 2026-09-10 · MEX: 18 of 105; 17.1429% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 0.7726269315673289,
+                  "tooltip": "Crew Girl · 2026-09-11 · MEX: 7 of 906; 0.7726% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 0.7713884992987378,
+                  "tooltip": "Crew Girl · 2026-09-12 · MEX: 11 of 1,426; 0.7714% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 0.47619047619047616,
+                  "tooltip": "Crew Girl · 2026-09-13 · MEX: 8 of 1,680; 0.4762% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 1.7866811044937736,
+                  "tooltip": "Crew Girl · 2026-09-14 · MEX: 33 of 1,847; 1.7867% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 0.862895493767977,
+                  "tooltip": "Crew Girl · 2026-09-15 · MEX: 18 of 2,086; 0.8629% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 1.5245623941276114,
+                  "tooltip": "Crew Girl · 2026-09-16 · MEX: 27 of 1,771; 1.5246% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 0.7473143390938813,
+                  "tooltip": "Crew Girl · 2026-09-17 · MEX: 16 of 2,141; 0.7473% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 2.266839378238342,
+                  "tooltip": "Crew Girl · 2026-09-18 · MEX: 35 of 1,544; 2.2668% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 1.560758082497213,
+                  "tooltip": "Crew Girl · 2026-09-19 · MEX: 28 of 1,794; 1.5608% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 2.0276953511374876,
+                  "tooltip": "Crew Girl · 2026-09-20 · MEX: 41 of 2,022; 2.0277% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 1.3513513513513513,
+                  "tooltip": "Crew Girl · 2026-09-21 · MEX: 27 of 1,998; 1.3514% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 1.0857763300760044,
+                  "tooltip": "Crew Girl · 2026-09-22 · MEX: 20 of 1,842; 1.0858% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 0.9813542688910697,
+                  "tooltip": "Crew Girl · 2026-09-23 · MEX: 20 of 2,038; 0.9814% hosting"
+                }
+              ],
+              "collection_key": "Crew Girl",
+              "line_label": "Crew Girl"
+            },
+            {
+              "name": "Dan Da Dan",
+              "color": "#6b5278",
+              "dash": "2 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 9.615384615384615,
+                  "tooltip": "Dan Da Dan · 2025-09-04 · MEX: 5 of 52; 9.6154% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 4.669260700389105,
+                  "tooltip": "Dan Da Dan · 2025-09-05 · MEX: 24 of 514; 4.6693% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 4.82695810564663,
+                  "tooltip": "Dan Da Dan · 2025-09-06 · MEX: 53 of 1,098; 4.8270% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 5.105973025048169,
+                  "tooltip": "Dan Da Dan · 2025-09-07 · MEX: 53 of 1,038; 5.1060% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 3.644224830142063,
+                  "tooltip": "Dan Da Dan · 2025-09-08 · MEX: 59 of 1,619; 3.6442% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 3.3560864618885096,
+                  "tooltip": "Dan Da Dan · 2025-09-09 · MEX: 59 of 1,758; 3.3561% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 6.0227272727272725,
+                  "tooltip": "Dan Da Dan · 2025-09-10 · MEX: 53 of 880; 6.0227% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 10.444674250258531,
+                  "tooltip": "Dan Da Dan · 2025-09-11 · MEX: 101 of 967; 10.4447% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 6.825619448340346,
+                  "tooltip": "Dan Da Dan · 2025-09-12 · MEX: 146 of 2,139; 6.8256% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 6.085842408712364,
+                  "tooltip": "Dan Da Dan · 2025-09-13 · MEX: 95 of 1,561; 6.0858% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 6.937095825984715,
+                  "tooltip": "Dan Da Dan · 2025-09-14 · MEX: 118 of 1,701; 6.9371% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 3.8965768390386017,
+                  "tooltip": "Dan Da Dan · 2025-09-15 · MEX: 107 of 2,746; 3.8966% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 5.435801312089972,
+                  "tooltip": "Dan Da Dan · 2025-09-16 · MEX: 116 of 2,134; 5.4358% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 5.36256323777403,
+                  "tooltip": "Dan Da Dan · 2025-09-17 · MEX: 159 of 2,965; 5.3626% hosting"
+                }
+              ],
+              "collection_key": "Dan Da Dan",
+              "line_label": "Dan Da Dan"
+            },
+            {
+              "name": "Kung Fu Soccer",
+              "color": "#16857a",
+              "dash": "8 3 2 3",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 4.761904761904762,
+                  "tooltip": "Kung Fu Soccer · 2026-10-03 · MEX: 1 of 21; 4.7619% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 0.5050505050505051,
+                  "tooltip": "Kung Fu Soccer · 2026-10-04 · MEX: 1 of 198; 0.5051% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 1.0309278350515463,
+                  "tooltip": "Kung Fu Soccer · 2026-10-05 · MEX: 1 of 97; 1.0309% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 0.5050505050505051,
+                  "tooltip": "Kung Fu Soccer · 2026-10-06 · MEX: 1 of 198; 0.5051% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 1.6025641025641026,
+                  "tooltip": "Kung Fu Soccer · 2026-10-07 · MEX: 5 of 312; 1.6026% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 3.4220532319391634,
+                  "tooltip": "Kung Fu Soccer · 2026-10-08 · MEX: 9 of 263; 3.4221% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 0.6593406593406593,
+                  "tooltip": "Kung Fu Soccer · 2026-10-09 · MEX: 3 of 455; 0.6593% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 0.3787878787878788,
+                  "tooltip": "Kung Fu Soccer · 2026-10-10 · MEX: 2 of 528; 0.3788% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 0.0,
+                  "tooltip": "Kung Fu Soccer · 2026-10-11 · MEX: 0 of 469; 0.0000% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 1.0159651669085632,
+                  "tooltip": "Kung Fu Soccer · 2026-10-12 · MEX: 7 of 689; 1.0160% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 0.5873715124816447,
+                  "tooltip": "Kung Fu Soccer · 2026-10-13 · MEX: 4 of 681; 0.5874% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 0.28653295128939826,
+                  "tooltip": "Kung Fu Soccer · 2026-10-14 · MEX: 2 of 698; 0.2865% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 0.3968253968253968,
+                  "tooltip": "Kung Fu Soccer · 2026-10-15 · MEX: 2 of 504; 0.3968% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 0.6887052341597796,
+                  "tooltip": "Kung Fu Soccer · 2026-10-16 · MEX: 5 of 726; 0.6887% hosting"
+                }
+              ],
+              "collection_key": "Kung Fu Soccer",
+              "line_label": "Kung Fu Soccer"
+            }
+          ]
+        },
+        {
+          "title": "Canada · daily downloader hosting share",
+          "unit": "percent",
+          "ylabel": "HOSTING SHARE (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "World Cup",
+              "color": "#214f7a",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 75.0,
+                  "tooltip": "World Cup · 2026-06-29 · CAN: 3 of 4; 75.0000% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 54.045307443365694,
+                  "tooltip": "World Cup · 2026-06-30 · CAN: 167 of 309; 54.0453% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 44.95073891625616,
+                  "tooltip": "World Cup · 2026-07-01 · CAN: 365 of 812; 44.9507% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 44.66423737636648,
+                  "tooltip": "World Cup · 2026-07-02 · CAN: 858 of 1,921; 44.6642% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 42.78180619644034,
+                  "tooltip": "World Cup · 2026-07-03 · CAN: 1,298 of 3,034; 42.7818% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 40.93714285714286,
+                  "tooltip": "World Cup · 2026-07-04 · CAN: 1,791 of 4,375; 40.9371% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 42.17142857142857,
+                  "tooltip": "World Cup · 2026-07-05 · CAN: 2,583 of 6,125; 42.1714% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 39.903181189488244,
+                  "tooltip": "World Cup · 2026-07-06 · CAN: 3,462 of 8,676; 39.9032% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 39.77460711331679,
+                  "tooltip": "World Cup · 2026-07-07 · CAN: 3,847 of 9,672; 39.7746% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 39.58282208588957,
+                  "tooltip": "World Cup · 2026-07-08 · CAN: 4,839 of 12,225; 39.5828% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 37.57880516361453,
+                  "tooltip": "World Cup · 2026-07-09 · CAN: 5,007 of 13,324; 37.5788% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 35.82146104880267,
+                  "tooltip": "World Cup · 2026-07-10 · CAN: 4,727 of 13,196; 35.8215% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 39.76162886939248,
+                  "tooltip": "World Cup · 2026-07-11 · CAN: 4,804 of 12,082; 39.7616% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 37.04471628999931,
+                  "tooltip": "World Cup · 2026-07-12 · CAN: 5,360 of 14,469; 37.0447% hosting"
+                }
+              ],
+              "collection_key": "World Cup",
+              "line_label": "World Cup"
+            },
+            {
+              "name": "Crew Girl",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 45.18430439952438,
+                  "tooltip": "Crew Girl · 2026-09-10 · CAN: 380 of 841; 45.1843% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 44.50296247531271,
+                  "tooltip": "Crew Girl · 2026-09-11 · CAN: 1,352 of 3,038; 44.5030% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 42.592592592592595,
+                  "tooltip": "Crew Girl · 2026-09-12 · CAN: 1,242 of 2,916; 42.5926% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 47.92754068160884,
+                  "tooltip": "Crew Girl · 2026-09-13 · CAN: 1,561 of 3,257; 47.9275% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 48.23712948517941,
+                  "tooltip": "Crew Girl · 2026-09-14 · CAN: 1,546 of 3,205; 48.2371% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 51.27450980392157,
+                  "tooltip": "Crew Girl · 2026-09-15 · CAN: 1,569 of 3,060; 51.2745% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 49.29139301762876,
+                  "tooltip": "Crew Girl · 2026-09-16 · CAN: 1,426 of 2,893; 49.2914% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 49.3657867672266,
+                  "tooltip": "Crew Girl · 2026-09-17 · CAN: 1,440 of 2,917; 49.3658% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 53.28798185941043,
+                  "tooltip": "Crew Girl · 2026-09-18 · CAN: 1,645 of 3,087; 53.2880% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 47.407407407407405,
+                  "tooltip": "Crew Girl · 2026-09-19 · CAN: 1,344 of 2,835; 47.4074% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 48.07899461400359,
+                  "tooltip": "Crew Girl · 2026-09-20 · CAN: 1,339 of 2,785; 48.0790% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 45.492085340674464,
+                  "tooltip": "Crew Girl · 2026-09-21 · CAN: 1,322 of 2,906; 45.4921% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 44.77281123014407,
+                  "tooltip": "Crew Girl · 2026-09-22 · CAN: 1,212 of 2,707; 44.7728% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 46.348782927642546,
+                  "tooltip": "Crew Girl · 2026-09-23 · CAN: 1,390 of 2,999; 46.3488% hosting"
+                }
+              ],
+              "collection_key": "Crew Girl",
+              "line_label": "Crew Girl"
+            },
+            {
+              "name": "Dan Da Dan",
+              "color": "#6b5278",
+              "dash": "2 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 62.28956228956229,
+                  "tooltip": "Dan Da Dan · 2025-09-04 · CAN: 185 of 297; 62.2896% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 55.94231725509697,
+                  "tooltip": "Dan Da Dan · 2025-09-05 · CAN: 1,125 of 2,011; 55.9423% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 53.719874257771565,
+                  "tooltip": "Dan Da Dan · 2025-09-06 · CAN: 1,538 of 2,863; 53.7199% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 56.52813534387643,
+                  "tooltip": "Dan Da Dan · 2025-09-07 · CAN: 1,537 of 2,719; 56.5281% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 54.3012289225493,
+                  "tooltip": "Dan Da Dan · 2025-09-08 · CAN: 1,900 of 3,499; 54.3012% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 56.90287110568112,
+                  "tooltip": "Dan Da Dan · 2025-09-09 · CAN: 1,863 of 3,274; 56.9029% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 53.040877367896314,
+                  "tooltip": "Dan Da Dan · 2025-09-10 · CAN: 1,596 of 3,009; 53.0409% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 53.26707159948463,
+                  "tooltip": "Dan Da Dan · 2025-09-11 · CAN: 2,894 of 5,433; 53.2671% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 48.89770208795054,
+                  "tooltip": "Dan Da Dan · 2025-09-12 · CAN: 4,192 of 8,573; 48.8977% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 50.83382094792276,
+                  "tooltip": "Dan Da Dan · 2025-09-13 · CAN: 3,475 of 6,836; 50.8338% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 46.28578635389078,
+                  "tooltip": "Dan Da Dan · 2025-09-14 · CAN: 3,670 of 7,929; 46.2858% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 46.91486592033325,
+                  "tooltip": "Dan Da Dan · 2025-09-15 · CAN: 3,604 of 7,682; 46.9149% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 51.74046583056053,
+                  "tooltip": "Dan Da Dan · 2025-09-16 · CAN: 4,043 of 7,814; 51.7405% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 51.73716012084592,
+                  "tooltip": "Dan Da Dan · 2025-09-17 · CAN: 4,110 of 7,944; 51.7372% hosting"
+                }
+              ],
+              "collection_key": "Dan Da Dan",
+              "line_label": "Dan Da Dan"
+            },
+            {
+              "name": "Kung Fu Soccer",
+              "color": "#16857a",
+              "dash": "8 3 2 3",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 53.6231884057971,
+                  "tooltip": "Kung Fu Soccer · 2026-10-03 · CAN: 37 of 69; 53.6232% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 42.73972602739726,
+                  "tooltip": "Kung Fu Soccer · 2026-10-04 · CAN: 156 of 365; 42.7397% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 45.52238805970149,
+                  "tooltip": "Kung Fu Soccer · 2026-10-05 · CAN: 122 of 268; 45.5224% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 44.766146993318486,
+                  "tooltip": "Kung Fu Soccer · 2026-10-06 · CAN: 201 of 449; 44.7661% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 42.672413793103445,
+                  "tooltip": "Kung Fu Soccer · 2026-10-07 · CAN: 198 of 464; 42.6724% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 47.36842105263158,
+                  "tooltip": "Kung Fu Soccer · 2026-10-08 · CAN: 198 of 418; 47.3684% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 49.55116696588869,
+                  "tooltip": "Kung Fu Soccer · 2026-10-09 · CAN: 276 of 557; 49.5512% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 44.246353322528364,
+                  "tooltip": "Kung Fu Soccer · 2026-10-10 · CAN: 273 of 617; 44.2464% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 42.465753424657535,
+                  "tooltip": "Kung Fu Soccer · 2026-10-11 · CAN: 248 of 584; 42.4658% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 45.92933947772657,
+                  "tooltip": "Kung Fu Soccer · 2026-10-12 · CAN: 299 of 651; 45.9293% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 40.973111395646605,
+                  "tooltip": "Kung Fu Soccer · 2026-10-13 · CAN: 320 of 781; 40.9731% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 43.78453038674033,
+                  "tooltip": "Kung Fu Soccer · 2026-10-14 · CAN: 317 of 724; 43.7845% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 44.166666666666664,
+                  "tooltip": "Kung Fu Soccer · 2026-10-15 · CAN: 318 of 720; 44.1667% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 39.53488372093023,
+                  "tooltip": "Kung Fu Soccer · 2026-10-16 · CAN: 357 of 903; 39.5349% hosting"
+                }
+              ],
+              "collection_key": "Kung Fu Soccer",
+              "line_label": "Kung Fu Soccer"
+            }
+          ]
+        }
+      ],
+      "footer": "Daily IP–torrent memberships · separate observation dates · common IPinfo snapshot",
+      "allow_label_callouts": true,
+      "layout": "izzi-standard",
+      "columns": 1
+    },
+    "southern-activity-coverage": {
+      "title": "Regional activity and catalog coverage",
+      "subtitle": "June 29 — Round of 32 — through November 3, 2026 · H3r8",
+      "description": "Nested regions, shown separately. Daily memberships and shares do not measure audience. July 19 final is marked. Media-object names appear directly on their lines; no separate legend.",
+      "xlabel": "DATE (2026)",
+      "xmin": 1,
+      "xmax": 128,
+      "ticks": [
+        [
+          1,
+          "Jun 29"
+        ],
+        [
+          21,
+          "Jul 19"
+        ],
+        [
+          49,
+          "Aug 16"
+        ],
+        [
+          77,
+          "Sep 13"
+        ],
+        [
+          105,
+          "Oct 11"
+        ],
+        [
+          128,
+          "Nov 03"
+        ]
+      ],
+      "panels": [
+        {
+          "title": "Daily downloader memberships",
+          "unit": "count",
+          "ylabel": "DOWNLOADER MEMBERSHIPS",
+          "series": [
+            {
+              "name": "Latin America + Caribbean",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 0,
+                  "tooltip": "Latin America and the Caribbean · 2026-06-29: 0 D; 0.0000% of world D"
+                },
+                {
+                  "x": 2,
+                  "y": 183,
+                  "tooltip": "Latin America and the Caribbean · 2026-06-30: 183 D; 2.5238% of world D"
+                },
+                {
+                  "x": 3,
+                  "y": 642,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-01: 642 D; 3.0190% of world D"
+                },
+                {
+                  "x": 4,
+                  "y": 2345,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-02: 2,345 D; 3.3372% of world D"
+                },
+                {
+                  "x": 5,
+                  "y": 4445,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-03: 4,445 D; 4.3594% of world D"
+                },
+                {
+                  "x": 6,
+                  "y": 6383,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-04: 6,383 D; 4.1080% of world D"
+                },
+                {
+                  "x": 7,
+                  "y": 9775,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-05: 9,775 D; 4.4518% of world D"
+                },
+                {
+                  "x": 8,
+                  "y": 14021,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-06: 14,021 D; 4.5503% of world D"
+                },
+                {
+                  "x": 9,
+                  "y": 14564,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-07: 14,564 D; 4.3707% of world D"
+                },
+                {
+                  "x": 10,
+                  "y": 20989,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-08: 20,989 D; 4.8677% of world D"
+                },
+                {
+                  "x": 11,
+                  "y": 23496,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-09: 23,496 D; 5.0960% of world D"
+                },
+                {
+                  "x": 12,
+                  "y": 20823,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-10: 20,823 D; 4.7364% of world D"
+                },
+                {
+                  "x": 13,
+                  "y": 20167,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-11: 20,167 D; 4.6773% of world D"
+                },
+                {
+                  "x": 14,
+                  "y": 21421,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-12: 21,421 D; 4.6136% of world D"
+                },
+                {
+                  "x": 15,
+                  "y": 32869,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-13: 32,869 D; 5.4781% of world D"
+                },
+                {
+                  "x": 16,
+                  "y": 33997,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-14: 33,997 D; 5.7012% of world D"
+                },
+                {
+                  "x": 17,
+                  "y": 33552,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-15: 33,552 D; 5.5008% of world D"
+                },
+                {
+                  "x": 18,
+                  "y": 37589,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-16: 37,589 D; 5.8768% of world D"
+                },
+                {
+                  "x": 19,
+                  "y": 28316,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-17: 28,316 D; 4.5733% of world D"
+                },
+                {
+                  "x": 20,
+                  "y": 36947,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-18: 36,947 D; 5.8176% of world D"
+                },
+                {
+                  "x": 21,
+                  "y": 39040,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-19: 39,040 D; 6.0322% of world D"
+                },
+                {
+                  "x": 22,
+                  "y": 40197,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-20: 40,197 D; 5.7822% of world D"
+                },
+                {
+                  "x": 23,
+                  "y": 48037,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-21: 48,037 D; 6.2709% of world D"
+                },
+                {
+                  "x": 24,
+                  "y": 54334,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-22: 54,334 D; 7.0360% of world D"
+                },
+                {
+                  "x": 25,
+                  "y": 57280,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-23: 57,280 D; 7.6457% of world D"
+                },
+                {
+                  "x": 26,
+                  "y": 49112,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-24: 49,112 D; 6.9825% of world D"
+                },
+                {
+                  "x": 27,
+                  "y": 54244,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-25: 54,244 D; 7.4228% of world D"
+                },
+                {
+                  "x": 28,
+                  "y": 51568,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-26: 51,568 D; 7.2112% of world D"
+                },
+                {
+                  "x": 29,
+                  "y": 49811,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-27: 49,811 D; 6.9246% of world D"
+                },
+                {
+                  "x": 30,
+                  "y": 48840,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-28: 48,840 D; 6.8373% of world D"
+                },
+                {
+                  "x": 31,
+                  "y": 52467,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-29: 52,467 D; 6.7157% of world D"
+                },
+                {
+                  "x": 32,
+                  "y": 46908,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-30: 46,908 D; 6.2909% of world D"
+                },
+                {
+                  "x": 33,
+                  "y": 49207,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-31: 49,207 D; 6.5787% of world D"
+                },
+                {
+                  "x": 34,
+                  "y": 52926,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-01: 52,926 D; 7.3095% of world D"
+                },
+                {
+                  "x": 35,
+                  "y": 50420,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-02: 50,420 D; 7.2514% of world D"
+                },
+                {
+                  "x": 36,
+                  "y": 49602,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-03: 49,602 D; 6.9344% of world D"
+                },
+                {
+                  "x": 37,
+                  "y": 53995,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-04: 53,995 D; 7.4497% of world D"
+                },
+                {
+                  "x": 38,
+                  "y": 46969,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-05: 46,969 D; 6.5604% of world D"
+                },
+                {
+                  "x": 39,
+                  "y": 50052,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-06: 50,052 D; 7.1130% of world D"
+                },
+                {
+                  "x": 40,
+                  "y": 51293,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-07: 51,293 D; 6.9529% of world D"
+                },
+                {
+                  "x": 41,
+                  "y": 50888,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-08: 50,888 D; 7.1581% of world D"
+                },
+                {
+                  "x": 42,
+                  "y": 49701,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-09: 49,701 D; 7.1704% of world D"
+                },
+                {
+                  "x": 43,
+                  "y": 48385,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-10: 48,385 D; 7.0004% of world D"
+                },
+                {
+                  "x": 44,
+                  "y": 48815,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-11: 48,815 D; 7.1005% of world D"
+                },
+                {
+                  "x": 45,
+                  "y": 55670,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-12: 55,670 D; 7.7690% of world D"
+                },
+                {
+                  "x": 46,
+                  "y": 50638,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-13: 50,638 D; 7.1159% of world D"
+                },
+                {
+                  "x": 47,
+                  "y": 49505,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-14: 49,505 D; 6.9617% of world D"
+                },
+                {
+                  "x": 48,
+                  "y": 49129,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-15: 49,129 D; 7.4629% of world D"
+                },
+                {
+                  "x": 49,
+                  "y": 54659,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-16: 54,659 D; 7.4152% of world D"
+                },
+                {
+                  "x": 50,
+                  "y": 51037,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-17: 51,037 D; 7.7690% of world D"
+                },
+                {
+                  "x": 51,
+                  "y": 46761,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-18: 46,761 D; 8.0261% of world D"
+                },
+                {
+                  "x": 52,
+                  "y": 48788,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-19: 48,788 D; 7.8801% of world D"
+                },
+                {
+                  "x": 53,
+                  "y": 47052,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-20: 47,052 D; 7.9025% of world D"
+                },
+                {
+                  "x": 54,
+                  "y": 46746,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-21: 46,746 D; 7.6046% of world D"
+                },
+                {
+                  "x": 55,
+                  "y": 47132,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-22: 47,132 D; 7.8376% of world D"
+                },
+                {
+                  "x": 56,
+                  "y": 48958,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-23: 48,958 D; 8.4095% of world D"
+                },
+                {
+                  "x": 57,
+                  "y": 49852,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-24: 49,852 D; 8.3548% of world D"
+                },
+                {
+                  "x": 58,
+                  "y": 46677,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-25: 46,677 D; 7.9571% of world D"
+                },
+                {
+                  "x": 59,
+                  "y": 51617,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-26: 51,617 D; 8.5254% of world D"
+                },
+                {
+                  "x": 60,
+                  "y": 45382,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-27: 45,382 D; 7.6547% of world D"
+                },
+                {
+                  "x": 61,
+                  "y": 35649,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-28: 35,649 D; 6.0257% of world D"
+                },
+                {
+                  "x": 62,
+                  "y": 32294,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-29: 32,294 D; 5.3785% of world D"
+                },
+                {
+                  "x": 63,
+                  "y": 33103,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-30: 33,103 D; 5.6632% of world D"
+                },
+                {
+                  "x": 64,
+                  "y": 38906,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-31: 38,906 D; 6.6566% of world D"
+                },
+                {
+                  "x": 65,
+                  "y": 37894,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-01: 37,894 D; 6.5438% of world D"
+                },
+                {
+                  "x": 66,
+                  "y": 39281,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-02: 39,281 D; 7.1948% of world D"
+                },
+                {
+                  "x": 67,
+                  "y": 38119,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-03: 38,119 D; 7.0842% of world D"
+                },
+                {
+                  "x": 68,
+                  "y": 34131,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-04: 34,131 D; 6.4950% of world D"
+                },
+                {
+                  "x": 69,
+                  "y": 17755,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-05: 17,755 D; 3.0852% of world D"
+                },
+                {
+                  "x": 70,
+                  "y": 23998,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-06: 23,998 D; 4.3797% of world D"
+                },
+                {
+                  "x": 71,
+                  "y": 24927,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-07: 24,927 D; 4.6096% of world D"
+                },
+                {
+                  "x": 72,
+                  "y": 23749,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-08: 23,749 D; 4.4057% of world D"
+                },
+                {
+                  "x": 73,
+                  "y": 33351,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-09: 33,351 D; 6.2915% of world D"
+                },
+                {
+                  "x": 74,
+                  "y": 39247,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-10: 39,247 D; 7.9781% of world D"
+                },
+                {
+                  "x": 75,
+                  "y": 43291,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-11: 43,291 D; 8.7319% of world D"
+                },
+                {
+                  "x": 76,
+                  "y": 44234,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-12: 44,234 D; 8.7738% of world D"
+                },
+                {
+                  "x": 77,
+                  "y": 48576,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-13: 48,576 D; 9.3996% of world D"
+                },
+                {
+                  "x": 78,
+                  "y": 47122,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-14: 47,122 D; 10.0191% of world D"
+                },
+                {
+                  "x": 79,
+                  "y": 50908,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-15: 50,908 D; 10.9437% of world D"
+                },
+                {
+                  "x": 80,
+                  "y": 48874,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-16: 48,874 D; 10.4470% of world D"
+                },
+                {
+                  "x": 81,
+                  "y": 51436,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-17: 51,436 D; 10.7613% of world D"
+                },
+                {
+                  "x": 82,
+                  "y": 46166,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-18: 46,166 D; 9.9319% of world D"
+                },
+                {
+                  "x": 83,
+                  "y": 53053,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-19: 53,053 D; 10.3611% of world D"
+                },
+                {
+                  "x": 84,
+                  "y": 51695,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-20: 51,695 D; 10.1870% of world D"
+                },
+                {
+                  "x": 85,
+                  "y": 50770,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-21: 50,770 D; 10.2561% of world D"
+                },
+                {
+                  "x": 86,
+                  "y": 52811,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-22: 52,811 D; 10.8377% of world D"
+                },
+                {
+                  "x": 87,
+                  "y": 50149,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-23: 50,149 D; 10.3588% of world D"
+                },
+                {
+                  "x": 88,
+                  "y": 46172,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-24: 46,172 D; 9.1129% of world D"
+                },
+                {
+                  "x": 89,
+                  "y": 45128,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-25: 45,128 D; 8.8179% of world D"
+                },
+                {
+                  "x": 90,
+                  "y": 46382,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-26: 46,382 D; 8.7157% of world D"
+                },
+                {
+                  "x": 91,
+                  "y": 42322,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-27: 42,322 D; 7.9108% of world D"
+                },
+                {
+                  "x": 92,
+                  "y": 47744,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-28: 47,744 D; 8.9724% of world D"
+                },
+                {
+                  "x": 93,
+                  "y": 49618,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-29: 49,618 D; 9.1582% of world D"
+                },
+                {
+                  "x": 94,
+                  "y": 47518,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-30: 47,518 D; 8.7943% of world D"
+                },
+                {
+                  "x": 95,
+                  "y": 49252,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-01: 49,252 D; 9.1448% of world D"
+                },
+                {
+                  "x": 96,
+                  "y": 49261,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-02: 49,261 D; 9.3494% of world D"
+                },
+                {
+                  "x": 97,
+                  "y": 47239,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-03: 47,239 D; 8.8417% of world D"
+                },
+                {
+                  "x": 98,
+                  "y": 46259,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-04: 46,259 D; 8.4206% of world D"
+                },
+                {
+                  "x": 99,
+                  "y": 52344,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-05: 52,344 D; 9.4809% of world D"
+                },
+                {
+                  "x": 100,
+                  "y": 50089,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-06: 50,089 D; 9.1606% of world D"
+                },
+                {
+                  "x": 101,
+                  "y": 54948,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-07: 54,948 D; 10.1054% of world D"
+                },
+                {
+                  "x": 102,
+                  "y": 58056,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-08: 58,056 D; 10.9243% of world D"
+                },
+                {
+                  "x": 103,
+                  "y": 52645,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-09: 52,645 D; 9.9161% of world D"
+                },
+                {
+                  "x": 104,
+                  "y": 52428,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-10: 52,428 D; 9.4405% of world D"
+                },
+                {
+                  "x": 105,
+                  "y": 56616,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-11: 56,616 D; 9.8553% of world D"
+                },
+                {
+                  "x": 106,
+                  "y": 59466,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-12: 59,466 D; 11.2056% of world D"
+                },
+                {
+                  "x": 107,
+                  "y": 60300,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-13: 60,300 D; 11.3231% of world D"
+                },
+                {
+                  "x": 108,
+                  "y": 67376,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-14: 67,376 D; 12.2130% of world D"
+                },
+                {
+                  "x": 109,
+                  "y": 60584,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-15: 60,584 D; 11.3540% of world D"
+                },
+                {
+                  "x": 110,
+                  "y": 52461,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-16: 52,461 D; 9.8432% of world D"
+                },
+                {
+                  "x": 111,
+                  "y": 39945,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-17: 39,945 D; 7.1621% of world D"
+                },
+                {
+                  "x": 112,
+                  "y": 37268,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-18: 37,268 D; 6.5305% of world D"
+                },
+                {
+                  "x": 113,
+                  "y": 27876,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-19: 27,876 D; 6.4891% of world D"
+                },
+                {
+                  "x": 114,
+                  "y": 15744,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-20: 15,744 D; 3.2138% of world D"
+                },
+                {
+                  "x": 115,
+                  "y": 37804,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-21: 37,804 D; 5.9073% of world D"
+                },
+                {
+                  "x": 116,
+                  "y": 37972,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-22: 37,972 D; 6.0335% of world D"
+                },
+                {
+                  "x": 117,
+                  "y": 45737,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-23: 45,737 D; 6.8835% of world D"
+                },
+                {
+                  "x": 118,
+                  "y": 42622,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-24: 42,622 D; 6.5386% of world D"
+                },
+                {
+                  "x": 119,
+                  "y": 41169,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-25: 41,169 D; 6.4136% of world D"
+                },
+                {
+                  "x": 120,
+                  "y": 49307,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-26: 49,307 D; 7.8801% of world D"
+                },
+                {
+                  "x": 121,
+                  "y": 50317,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-27: 50,317 D; 8.0839% of world D"
+                },
+                {
+                  "x": 122,
+                  "y": 59833,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-28: 59,833 D; 9.2308% of world D"
+                },
+                {
+                  "x": 123,
+                  "y": 56176,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-29: 56,176 D; 8.8723% of world D"
+                },
+                {
+                  "x": 124,
+                  "y": 50066,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-30: 50,066 D; 7.9508% of world D"
+                },
+                {
+                  "x": 125,
+                  "y": 33287,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-31: 33,287 D; 5.3540% of world D"
+                },
+                {
+                  "x": 126,
+                  "y": 31150,
+                  "tooltip": "Latin America and the Caribbean · 2026-11-01: 31,150 D; 5.2075% of world D"
+                },
+                {
+                  "x": 127,
+                  "y": 45779,
+                  "tooltip": "Latin America and the Caribbean · 2026-11-02: 45,779 D; 8.1205% of world D"
+                },
+                {
+                  "x": 128,
+                  "y": 56402,
+                  "tooltip": "Latin America and the Caribbean · 2026-11-03: 56,402 D; 9.8685% of world D"
+                }
+              ],
+              "collection_key": "Latin America + Caribbean",
+              "line_label": "Latin America + Caribbean"
+            },
+            {
+              "name": "South America",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 0,
+                  "tooltip": "South America · 2026-06-29: 0 D; 0.0000% of world D"
+                },
+                {
+                  "x": 2,
+                  "y": 91,
+                  "tooltip": "South America · 2026-06-30: 91 D; 1.2550% of world D"
+                },
+                {
+                  "x": 3,
+                  "y": 351,
+                  "tooltip": "South America · 2026-07-01: 351 D; 1.6506% of world D"
+                },
+                {
+                  "x": 4,
+                  "y": 1359,
+                  "tooltip": "South America · 2026-07-02: 1,359 D; 1.9340% of world D"
+                },
+                {
+                  "x": 5,
+                  "y": 2732,
+                  "tooltip": "South America · 2026-07-03: 2,732 D; 2.6794% of world D"
+                },
+                {
+                  "x": 6,
+                  "y": 4046,
+                  "tooltip": "South America · 2026-07-04: 4,046 D; 2.6040% of world D"
+                },
+                {
+                  "x": 7,
+                  "y": 6508,
+                  "tooltip": "South America · 2026-07-05: 6,508 D; 2.9639% of world D"
+                },
+                {
+                  "x": 8,
+                  "y": 9533,
+                  "tooltip": "South America · 2026-07-06: 9,533 D; 3.0938% of world D"
+                },
+                {
+                  "x": 9,
+                  "y": 9723,
+                  "tooltip": "South America · 2026-07-07: 9,723 D; 2.9179% of world D"
+                },
+                {
+                  "x": 10,
+                  "y": 13949,
+                  "tooltip": "South America · 2026-07-08: 13,949 D; 3.2350% of world D"
+                },
+                {
+                  "x": 11,
+                  "y": 15887,
+                  "tooltip": "South America · 2026-07-09: 15,887 D; 3.4457% of world D"
+                },
+                {
+                  "x": 12,
+                  "y": 13749,
+                  "tooltip": "South America · 2026-07-10: 13,749 D; 3.1274% of world D"
+                },
+                {
+                  "x": 13,
+                  "y": 13481,
+                  "tooltip": "South America · 2026-07-11: 13,481 D; 3.1266% of world D"
+                },
+                {
+                  "x": 14,
+                  "y": 14600,
+                  "tooltip": "South America · 2026-07-12: 14,600 D; 3.1445% of world D"
+                },
+                {
+                  "x": 15,
+                  "y": 23166,
+                  "tooltip": "South America · 2026-07-13: 23,166 D; 3.8610% of world D"
+                },
+                {
+                  "x": 16,
+                  "y": 23441,
+                  "tooltip": "South America · 2026-07-14: 23,441 D; 3.9310% of world D"
+                },
+                {
+                  "x": 17,
+                  "y": 22776,
+                  "tooltip": "South America · 2026-07-15: 22,776 D; 3.7341% of world D"
+                },
+                {
+                  "x": 18,
+                  "y": 25664,
+                  "tooltip": "South America · 2026-07-16: 25,664 D; 4.0124% of world D"
+                },
+                {
+                  "x": 19,
+                  "y": 19164,
+                  "tooltip": "South America · 2026-07-17: 19,164 D; 3.0952% of world D"
+                },
+                {
+                  "x": 20,
+                  "y": 24566,
+                  "tooltip": "South America · 2026-07-18: 24,566 D; 3.8681% of world D"
+                },
+                {
+                  "x": 21,
+                  "y": 26006,
+                  "tooltip": "South America · 2026-07-19: 26,006 D; 4.0183% of world D"
+                },
+                {
+                  "x": 22,
+                  "y": 27077,
+                  "tooltip": "South America · 2026-07-20: 27,077 D; 3.8950% of world D"
+                },
+                {
+                  "x": 23,
+                  "y": 32586,
+                  "tooltip": "South America · 2026-07-21: 32,586 D; 4.2538% of world D"
+                },
+                {
+                  "x": 24,
+                  "y": 36220,
+                  "tooltip": "South America · 2026-07-22: 36,220 D; 4.6903% of world D"
+                },
+                {
+                  "x": 25,
+                  "y": 38381,
+                  "tooltip": "South America · 2026-07-23: 38,381 D; 5.1231% of world D"
+                },
+                {
+                  "x": 26,
+                  "y": 32090,
+                  "tooltip": "South America · 2026-07-24: 32,090 D; 4.5624% of world D"
+                },
+                {
+                  "x": 27,
+                  "y": 35739,
+                  "tooltip": "South America · 2026-07-25: 35,739 D; 4.8905% of world D"
+                },
+                {
+                  "x": 28,
+                  "y": 34006,
+                  "tooltip": "South America · 2026-07-26: 34,006 D; 4.7553% of world D"
+                },
+                {
+                  "x": 29,
+                  "y": 33169,
+                  "tooltip": "South America · 2026-07-27: 33,169 D; 4.6111% of world D"
+                },
+                {
+                  "x": 30,
+                  "y": 31084,
+                  "tooltip": "South America · 2026-07-28: 31,084 D; 4.3516% of world D"
+                },
+                {
+                  "x": 31,
+                  "y": 33434,
+                  "tooltip": "South America · 2026-07-29: 33,434 D; 4.2795% of world D"
+                },
+                {
+                  "x": 32,
+                  "y": 29891,
+                  "tooltip": "South America · 2026-07-30: 29,891 D; 4.0087% of world D"
+                },
+                {
+                  "x": 33,
+                  "y": 31260,
+                  "tooltip": "South America · 2026-07-31: 31,260 D; 4.1793% of world D"
+                },
+                {
+                  "x": 34,
+                  "y": 34159,
+                  "tooltip": "South America · 2026-08-01: 34,159 D; 4.7176% of world D"
+                },
+                {
+                  "x": 35,
+                  "y": 33012,
+                  "tooltip": "South America · 2026-08-02: 33,012 D; 4.7478% of world D"
+                },
+                {
+                  "x": 36,
+                  "y": 31915,
+                  "tooltip": "South America · 2026-08-03: 31,915 D; 4.4617% of world D"
+                },
+                {
+                  "x": 37,
+                  "y": 33059,
+                  "tooltip": "South America · 2026-08-04: 33,059 D; 4.5612% of world D"
+                },
+                {
+                  "x": 38,
+                  "y": 27860,
+                  "tooltip": "South America · 2026-08-05: 27,860 D; 3.8914% of world D"
+                },
+                {
+                  "x": 39,
+                  "y": 30268,
+                  "tooltip": "South America · 2026-08-06: 30,268 D; 4.3015% of world D"
+                },
+                {
+                  "x": 40,
+                  "y": 31173,
+                  "tooltip": "South America · 2026-08-07: 31,173 D; 4.2256% of world D"
+                },
+                {
+                  "x": 41,
+                  "y": 31981,
+                  "tooltip": "South America · 2026-08-08: 31,981 D; 4.4986% of world D"
+                },
+                {
+                  "x": 42,
+                  "y": 31278,
+                  "tooltip": "South America · 2026-08-09: 31,278 D; 4.5125% of world D"
+                },
+                {
+                  "x": 43,
+                  "y": 30373,
+                  "tooltip": "South America · 2026-08-10: 30,373 D; 4.3944% of world D"
+                },
+                {
+                  "x": 44,
+                  "y": 30050,
+                  "tooltip": "South America · 2026-08-11: 30,050 D; 4.3710% of world D"
+                },
+                {
+                  "x": 45,
+                  "y": 33634,
+                  "tooltip": "South America · 2026-08-12: 33,634 D; 4.6938% of world D"
+                },
+                {
+                  "x": 46,
+                  "y": 30884,
+                  "tooltip": "South America · 2026-08-13: 30,884 D; 4.3400% of world D"
+                },
+                {
+                  "x": 47,
+                  "y": 30472,
+                  "tooltip": "South America · 2026-08-14: 30,472 D; 4.2851% of world D"
+                },
+                {
+                  "x": 48,
+                  "y": 31299,
+                  "tooltip": "South America · 2026-08-15: 31,299 D; 4.7544% of world D"
+                },
+                {
+                  "x": 49,
+                  "y": 35905,
+                  "tooltip": "South America · 2026-08-16: 35,905 D; 4.8710% of world D"
+                },
+                {
+                  "x": 50,
+                  "y": 32939,
+                  "tooltip": "South America · 2026-08-17: 32,939 D; 5.0141% of world D"
+                },
+                {
+                  "x": 51,
+                  "y": 28916,
+                  "tooltip": "South America · 2026-08-18: 28,916 D; 4.9632% of world D"
+                },
+                {
+                  "x": 52,
+                  "y": 29640,
+                  "tooltip": "South America · 2026-08-19: 29,640 D; 4.7873% of world D"
+                },
+                {
+                  "x": 53,
+                  "y": 28747,
+                  "tooltip": "South America · 2026-08-20: 28,747 D; 4.8281% of world D"
+                },
+                {
+                  "x": 54,
+                  "y": 28667,
+                  "tooltip": "South America · 2026-08-21: 28,667 D; 4.6635% of world D"
+                },
+                {
+                  "x": 55,
+                  "y": 29119,
+                  "tooltip": "South America · 2026-08-22: 29,119 D; 4.8422% of world D"
+                },
+                {
+                  "x": 56,
+                  "y": 31030,
+                  "tooltip": "South America · 2026-08-23: 31,030 D; 5.3300% of world D"
+                },
+                {
+                  "x": 57,
+                  "y": 32300,
+                  "tooltip": "South America · 2026-08-24: 32,300 D; 5.4133% of world D"
+                },
+                {
+                  "x": 58,
+                  "y": 28421,
+                  "tooltip": "South America · 2026-08-25: 28,421 D; 4.8450% of world D"
+                },
+                {
+                  "x": 59,
+                  "y": 31236,
+                  "tooltip": "South America · 2026-08-26: 31,236 D; 5.1591% of world D"
+                },
+                {
+                  "x": 60,
+                  "y": 27740,
+                  "tooltip": "South America · 2026-08-27: 27,740 D; 4.6790% of world D"
+                },
+                {
+                  "x": 61,
+                  "y": 22304,
+                  "tooltip": "South America · 2026-08-28: 22,304 D; 3.7700% of world D"
+                },
+                {
+                  "x": 62,
+                  "y": 20369,
+                  "tooltip": "South America · 2026-08-29: 20,369 D; 3.3924% of world D"
+                },
+                {
+                  "x": 63,
+                  "y": 21292,
+                  "tooltip": "South America · 2026-08-30: 21,292 D; 3.6426% of world D"
+                },
+                {
+                  "x": 64,
+                  "y": 25339,
+                  "tooltip": "South America · 2026-08-31: 25,339 D; 4.3354% of world D"
+                },
+                {
+                  "x": 65,
+                  "y": 25043,
+                  "tooltip": "South America · 2026-09-01: 25,043 D; 4.3246% of world D"
+                },
+                {
+                  "x": 66,
+                  "y": 25804,
+                  "tooltip": "South America · 2026-09-02: 25,804 D; 4.7263% of world D"
+                },
+                {
+                  "x": 67,
+                  "y": 25048,
+                  "tooltip": "South America · 2026-09-03: 25,048 D; 4.6551% of world D"
+                },
+                {
+                  "x": 68,
+                  "y": 21494,
+                  "tooltip": "South America · 2026-09-04: 21,494 D; 4.0902% of world D"
+                },
+                {
+                  "x": 69,
+                  "y": 10728,
+                  "tooltip": "South America · 2026-09-05: 10,728 D; 1.8642% of world D"
+                },
+                {
+                  "x": 70,
+                  "y": 15884,
+                  "tooltip": "South America · 2026-09-06: 15,884 D; 2.8989% of world D"
+                },
+                {
+                  "x": 71,
+                  "y": 17079,
+                  "tooltip": "South America · 2026-09-07: 17,079 D; 3.1583% of world D"
+                },
+                {
+                  "x": 72,
+                  "y": 16273,
+                  "tooltip": "South America · 2026-09-08: 16,273 D; 3.0188% of world D"
+                },
+                {
+                  "x": 73,
+                  "y": 22140,
+                  "tooltip": "South America · 2026-09-09: 22,140 D; 4.1766% of world D"
+                },
+                {
+                  "x": 74,
+                  "y": 26180,
+                  "tooltip": "South America · 2026-09-10: 26,180 D; 5.3218% of world D"
+                },
+                {
+                  "x": 75,
+                  "y": 29229,
+                  "tooltip": "South America · 2026-09-11: 29,229 D; 5.8955% of world D"
+                },
+                {
+                  "x": 76,
+                  "y": 28974,
+                  "tooltip": "South America · 2026-09-12: 28,974 D; 5.7470% of world D"
+                },
+                {
+                  "x": 77,
+                  "y": 31562,
+                  "tooltip": "South America · 2026-09-13: 31,562 D; 6.1073% of world D"
+                },
+                {
+                  "x": 78,
+                  "y": 31331,
+                  "tooltip": "South America · 2026-09-14: 31,331 D; 6.6616% of world D"
+                },
+                {
+                  "x": 79,
+                  "y": 33884,
+                  "tooltip": "South America · 2026-09-15: 33,884 D; 7.2841% of world D"
+                },
+                {
+                  "x": 80,
+                  "y": 32776,
+                  "tooltip": "South America · 2026-09-16: 32,776 D; 7.0060% of world D"
+                },
+                {
+                  "x": 81,
+                  "y": 33515,
+                  "tooltip": "South America · 2026-09-17: 33,515 D; 7.0119% of world D"
+                },
+                {
+                  "x": 82,
+                  "y": 31225,
+                  "tooltip": "South America · 2026-09-18: 31,225 D; 6.7176% of world D"
+                },
+                {
+                  "x": 83,
+                  "y": 35723,
+                  "tooltip": "South America · 2026-09-19: 35,723 D; 6.9766% of world D"
+                },
+                {
+                  "x": 84,
+                  "y": 35342,
+                  "tooltip": "South America · 2026-09-20: 35,342 D; 6.9645% of world D"
+                },
+                {
+                  "x": 85,
+                  "y": 34768,
+                  "tooltip": "South America · 2026-09-21: 34,768 D; 7.0235% of world D"
+                },
+                {
+                  "x": 86,
+                  "y": 36609,
+                  "tooltip": "South America · 2026-09-22: 36,609 D; 7.5128% of world D"
+                },
+                {
+                  "x": 87,
+                  "y": 35162,
+                  "tooltip": "South America · 2026-09-23: 35,162 D; 7.2631% of world D"
+                },
+                {
+                  "x": 88,
+                  "y": 32012,
+                  "tooltip": "South America · 2026-09-24: 32,012 D; 6.3181% of world D"
+                },
+                {
+                  "x": 89,
+                  "y": 30883,
+                  "tooltip": "South America · 2026-09-25: 30,883 D; 6.0344% of world D"
+                },
+                {
+                  "x": 90,
+                  "y": 31651,
+                  "tooltip": "South America · 2026-09-26: 31,651 D; 5.9476% of world D"
+                },
+                {
+                  "x": 91,
+                  "y": 28914,
+                  "tooltip": "South America · 2026-09-27: 28,914 D; 5.4046% of world D"
+                },
+                {
+                  "x": 92,
+                  "y": 33248,
+                  "tooltip": "South America · 2026-09-28: 33,248 D; 6.2482% of world D"
+                },
+                {
+                  "x": 93,
+                  "y": 35219,
+                  "tooltip": "South America · 2026-09-29: 35,219 D; 6.5005% of world D"
+                },
+                {
+                  "x": 94,
+                  "y": 33484,
+                  "tooltip": "South America · 2026-09-30: 33,484 D; 6.1970% of world D"
+                },
+                {
+                  "x": 95,
+                  "y": 34988,
+                  "tooltip": "South America · 2026-10-01: 34,988 D; 6.4964% of world D"
+                },
+                {
+                  "x": 96,
+                  "y": 35400,
+                  "tooltip": "South America · 2026-10-02: 35,400 D; 6.7186% of world D"
+                },
+                {
+                  "x": 97,
+                  "y": 33550,
+                  "tooltip": "South America · 2026-10-03: 33,550 D; 6.2795% of world D"
+                },
+                {
+                  "x": 98,
+                  "y": 32355,
+                  "tooltip": "South America · 2026-10-04: 32,355 D; 5.8897% of world D"
+                },
+                {
+                  "x": 99,
+                  "y": 37426,
+                  "tooltip": "South America · 2026-10-05: 37,426 D; 6.7789% of world D"
+                },
+                {
+                  "x": 100,
+                  "y": 35993,
+                  "tooltip": "South America · 2026-10-06: 35,993 D; 6.5826% of world D"
+                },
+                {
+                  "x": 101,
+                  "y": 39532,
+                  "tooltip": "South America · 2026-10-07: 39,532 D; 7.2703% of world D"
+                },
+                {
+                  "x": 102,
+                  "y": 41515,
+                  "tooltip": "South America · 2026-10-08: 41,515 D; 7.8118% of world D"
+                },
+                {
+                  "x": 103,
+                  "y": 37106,
+                  "tooltip": "South America · 2026-10-09: 37,106 D; 6.9892% of world D"
+                },
+                {
+                  "x": 104,
+                  "y": 36859,
+                  "tooltip": "South America · 2026-10-10: 36,859 D; 6.6371% of world D"
+                },
+                {
+                  "x": 105,
+                  "y": 39283,
+                  "tooltip": "South America · 2026-10-11: 39,283 D; 6.8381% of world D"
+                },
+                {
+                  "x": 106,
+                  "y": 42359,
+                  "tooltip": "South America · 2026-10-12: 42,359 D; 7.9820% of world D"
+                },
+                {
+                  "x": 107,
+                  "y": 43548,
+                  "tooltip": "South America · 2026-10-13: 43,548 D; 8.1774% of world D"
+                },
+                {
+                  "x": 108,
+                  "y": 47866,
+                  "tooltip": "South America · 2026-10-14: 47,866 D; 8.6765% of world D"
+                },
+                {
+                  "x": 109,
+                  "y": 43873,
+                  "tooltip": "South America · 2026-10-15: 43,873 D; 8.2222% of world D"
+                },
+                {
+                  "x": 110,
+                  "y": 37736,
+                  "tooltip": "South America · 2026-10-16: 37,736 D; 7.0804% of world D"
+                },
+                {
+                  "x": 111,
+                  "y": 28299,
+                  "tooltip": "South America · 2026-10-17: 28,299 D; 5.0740% of world D"
+                },
+                {
+                  "x": 112,
+                  "y": 25988,
+                  "tooltip": "South America · 2026-10-18: 25,988 D; 4.5539% of world D"
+                },
+                {
+                  "x": 113,
+                  "y": 19329,
+                  "tooltip": "South America · 2026-10-19: 19,329 D; 4.4995% of world D"
+                },
+                {
+                  "x": 114,
+                  "y": 10903,
+                  "tooltip": "South America · 2026-10-20: 10,903 D; 2.2256% of world D"
+                },
+                {
+                  "x": 115,
+                  "y": 27845,
+                  "tooltip": "South America · 2026-10-21: 27,845 D; 4.3511% of world D"
+                },
+                {
+                  "x": 116,
+                  "y": 27592,
+                  "tooltip": "South America · 2026-10-22: 27,592 D; 4.3842% of world D"
+                },
+                {
+                  "x": 117,
+                  "y": 32328,
+                  "tooltip": "South America · 2026-10-23: 32,328 D; 4.8654% of world D"
+                },
+                {
+                  "x": 118,
+                  "y": 30499,
+                  "tooltip": "South America · 2026-10-24: 30,499 D; 4.6788% of world D"
+                },
+                {
+                  "x": 119,
+                  "y": 29672,
+                  "tooltip": "South America · 2026-10-25: 29,672 D; 4.6225% of world D"
+                },
+                {
+                  "x": 120,
+                  "y": 35135,
+                  "tooltip": "South America · 2026-10-26: 35,135 D; 5.6151% of world D"
+                },
+                {
+                  "x": 121,
+                  "y": 35853,
+                  "tooltip": "South America · 2026-10-27: 35,853 D; 5.7602% of world D"
+                },
+                {
+                  "x": 122,
+                  "y": 42797,
+                  "tooltip": "South America · 2026-10-28: 42,797 D; 6.6026% of world D"
+                },
+                {
+                  "x": 123,
+                  "y": 40334,
+                  "tooltip": "South America · 2026-10-29: 40,334 D; 6.3703% of world D"
+                },
+                {
+                  "x": 124,
+                  "y": 35241,
+                  "tooltip": "South America · 2026-10-30: 35,241 D; 5.5965% of world D"
+                },
+                {
+                  "x": 125,
+                  "y": 23731,
+                  "tooltip": "South America · 2026-10-31: 23,731 D; 3.8170% of world D"
+                },
+                {
+                  "x": 126,
+                  "y": 22183,
+                  "tooltip": "South America · 2026-11-01: 22,183 D; 3.7084% of world D"
+                },
+                {
+                  "x": 127,
+                  "y": 33580,
+                  "tooltip": "South America · 2026-11-02: 33,580 D; 5.9566% of world D"
+                },
+                {
+                  "x": 128,
+                  "y": 41109,
+                  "tooltip": "South America · 2026-11-03: 41,109 D; 7.1927% of world D"
+                }
+              ],
+              "collection_key": "South America",
+              "line_label": "South America"
+            }
+          ]
+        },
+        {
+          "title": "Daily share of world downloader memberships",
+          "unit": "percent",
+          "ylabel": "WORLD SHARE (%)",
+          "series": [
+            {
+              "name": "Latin America + Caribbean",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 0.0,
+                  "tooltip": "Latin America and the Caribbean · 2026-06-29: 0 D; 0.0000% of world D"
+                },
+                {
+                  "x": 2,
+                  "y": 2.523789822093504,
+                  "tooltip": "Latin America and the Caribbean · 2026-06-30: 183 D; 2.5238% of world D"
+                },
+                {
+                  "x": 3,
+                  "y": 3.019045379731954,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-01: 642 D; 3.0190% of world D"
+                },
+                {
+                  "x": 4,
+                  "y": 3.337175710483997,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-02: 2,345 D; 3.3372% of world D"
+                },
+                {
+                  "x": 5,
+                  "y": 4.359424497121505,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-03: 4,445 D; 4.3594% of world D"
+                },
+                {
+                  "x": 6,
+                  "y": 4.108019745268022,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-04: 6,383 D; 4.1080% of world D"
+                },
+                {
+                  "x": 7,
+                  "y": 4.451761576857216,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-05: 9,775 D; 4.4518% of world D"
+                },
+                {
+                  "x": 8,
+                  "y": 4.5502782871144145,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-06: 14,021 D; 4.5503% of world D"
+                },
+                {
+                  "x": 9,
+                  "y": 4.370738499951983,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-07: 14,564 D; 4.3707% of world D"
+                },
+                {
+                  "x": 10,
+                  "y": 4.867680447875768,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-08: 20,989 D; 4.8677% of world D"
+                },
+                {
+                  "x": 11,
+                  "y": 5.095950307110386,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-09: 23,496 D; 5.0960% of world D"
+                },
+                {
+                  "x": 12,
+                  "y": 4.736418309692564,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-10: 20,823 D; 4.7364% of world D"
+                },
+                {
+                  "x": 13,
+                  "y": 4.6773060090405805,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-11: 20,167 D; 4.6773% of world D"
+                },
+                {
+                  "x": 14,
+                  "y": 4.6135820789441375,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-12: 21,421 D; 4.6136% of world D"
+                },
+                {
+                  "x": 15,
+                  "y": 5.4781210156582025,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-13: 32,869 D; 5.4781% of world D"
+                },
+                {
+                  "x": 16,
+                  "y": 5.701229226409082,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-14: 33,997 D; 5.7012% of world D"
+                },
+                {
+                  "x": 17,
+                  "y": 5.500769733962236,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-15: 33,552 D; 5.5008% of world D"
+                },
+                {
+                  "x": 18,
+                  "y": 5.876834898602749,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-16: 37,589 D; 5.8768% of world D"
+                },
+                {
+                  "x": 19,
+                  "y": 4.573329780103528,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-17: 28,316 D; 4.5733% of world D"
+                },
+                {
+                  "x": 20,
+                  "y": 5.817600655025272,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-18: 36,947 D; 5.8176% of world D"
+                },
+                {
+                  "x": 21,
+                  "y": 6.032240968248843,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-19: 39,040 D; 6.0322% of world D"
+                },
+                {
+                  "x": 22,
+                  "y": 5.78222681254693,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-20: 40,197 D; 5.7822% of world D"
+                },
+                {
+                  "x": 23,
+                  "y": 6.270854111295031,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-21: 48,037 D; 6.2709% of world D"
+                },
+                {
+                  "x": 24,
+                  "y": 7.03601402178375,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-22: 54,334 D; 7.0360% of world D"
+                },
+                {
+                  "x": 25,
+                  "y": 7.645723240302359,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-23: 57,280 D; 7.6457% of world D"
+                },
+                {
+                  "x": 26,
+                  "y": 6.982513858538409,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-24: 49,112 D; 6.9825% of world D"
+                },
+                {
+                  "x": 27,
+                  "y": 7.422763927261183,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-25: 54,244 D; 7.4228% of world D"
+                },
+                {
+                  "x": 28,
+                  "y": 7.211188193161621,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-26: 51,568 D; 7.2112% of world D"
+                },
+                {
+                  "x": 29,
+                  "y": 6.924618952027714,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-27: 49,811 D; 6.9246% of world D"
+                },
+                {
+                  "x": 30,
+                  "y": 6.837271810953074,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-28: 48,840 D; 6.8373% of world D"
+                },
+                {
+                  "x": 31,
+                  "y": 6.715672847265066,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-29: 52,467 D; 6.7157% of world D"
+                },
+                {
+                  "x": 32,
+                  "y": 6.290870271923096,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-30: 46,908 D; 6.2909% of world D"
+                },
+                {
+                  "x": 33,
+                  "y": 6.578660630846588,
+                  "tooltip": "Latin America and the Caribbean · 2026-07-31: 49,207 D; 6.5787% of world D"
+                },
+                {
+                  "x": 34,
+                  "y": 7.309473893552316,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-01: 52,926 D; 7.3095% of world D"
+                },
+                {
+                  "x": 35,
+                  "y": 7.251420944842028,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-02: 50,420 D; 7.2514% of world D"
+                },
+                {
+                  "x": 36,
+                  "y": 6.934384633128525,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-03: 49,602 D; 6.9344% of world D"
+                },
+                {
+                  "x": 37,
+                  "y": 7.44974406379779,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-04: 53,995 D; 7.4497% of world D"
+                },
+                {
+                  "x": 38,
+                  "y": 6.560429307320126,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-05: 46,969 D; 6.5604% of world D"
+                },
+                {
+                  "x": 39,
+                  "y": 7.113043848990642,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-06: 50,052 D; 7.1130% of world D"
+                },
+                {
+                  "x": 40,
+                  "y": 6.952946662401249,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-07: 51,293 D; 6.9529% of world D"
+                },
+                {
+                  "x": 41,
+                  "y": 7.158149414131184,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-08: 50,888 D; 7.1581% of world D"
+                },
+                {
+                  "x": 42,
+                  "y": 7.170412903598119,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-09: 49,701 D; 7.1704% of world D"
+                },
+                {
+                  "x": 43,
+                  "y": 7.000387744944848,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-10: 48,385 D; 7.0004% of world D"
+                },
+                {
+                  "x": 44,
+                  "y": 7.10052888503587,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-11: 48,815 D; 7.1005% of world D"
+                },
+                {
+                  "x": 45,
+                  "y": 7.769009091987468,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-12: 55,670 D; 7.7690% of world D"
+                },
+                {
+                  "x": 46,
+                  "y": 7.11593644869269,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-13: 50,638 D; 7.1159% of world D"
+                },
+                {
+                  "x": 47,
+                  "y": 6.961661292431962,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-14: 49,505 D; 6.9617% of world D"
+                },
+                {
+                  "x": 48,
+                  "y": 7.462852073630517,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-15: 49,129 D; 7.4629% of world D"
+                },
+                {
+                  "x": 49,
+                  "y": 7.415240728405395,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-16: 54,659 D; 7.4152% of world D"
+                },
+                {
+                  "x": 50,
+                  "y": 7.769004659545676,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-17: 51,037 D; 7.7690% of world D"
+                },
+                {
+                  "x": 51,
+                  "y": 8.026096269901753,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-18: 46,761 D; 8.0261% of world D"
+                },
+                {
+                  "x": 52,
+                  "y": 7.880051620572639,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-19: 48,788 D; 7.8801% of world D"
+                },
+                {
+                  "x": 53,
+                  "y": 7.902453771350834,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-20: 47,052 D; 7.9025% of world D"
+                },
+                {
+                  "x": 54,
+                  "y": 7.604598613648454,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-21: 46,746 D; 7.6046% of world D"
+                },
+                {
+                  "x": 55,
+                  "y": 7.837607278205791,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-22: 47,132 D; 7.8376% of world D"
+                },
+                {
+                  "x": 56,
+                  "y": 8.409484417083494,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-23: 48,958 D; 8.4095% of world D"
+                },
+                {
+                  "x": 57,
+                  "y": 8.35484108841531,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-24: 49,852 D; 8.3548% of world D"
+                },
+                {
+                  "x": 58,
+                  "y": 7.957102528434661,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-25: 46,677 D; 7.9571% of world D"
+                },
+                {
+                  "x": 59,
+                  "y": 8.525408415902909,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-26: 51,617 D; 8.5254% of world D"
+                },
+                {
+                  "x": 60,
+                  "y": 7.654732467252075,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-27: 45,382 D; 7.6547% of world D"
+                },
+                {
+                  "x": 61,
+                  "y": 6.025739843005213,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-28: 35,649 D; 6.0257% of world D"
+                },
+                {
+                  "x": 62,
+                  "y": 5.378532503697387,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-29: 32,294 D; 5.3785% of world D"
+                },
+                {
+                  "x": 63,
+                  "y": 5.6632405170702995,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-30: 33,103 D; 5.6632% of world D"
+                },
+                {
+                  "x": 64,
+                  "y": 6.6565835263844075,
+                  "tooltip": "Latin America and the Caribbean · 2026-08-31: 38,906 D; 6.6566% of world D"
+                },
+                {
+                  "x": 65,
+                  "y": 6.543794240203908,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-01: 37,894 D; 6.5438% of world D"
+                },
+                {
+                  "x": 66,
+                  "y": 7.194809904700501,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-02: 39,281 D; 7.1948% of world D"
+                },
+                {
+                  "x": 67,
+                  "y": 7.08424939739556,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-03: 38,119 D; 7.0842% of world D"
+                },
+                {
+                  "x": 68,
+                  "y": 6.494981902880696,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-04: 34,131 D; 6.4950% of world D"
+                },
+                {
+                  "x": 69,
+                  "y": 3.085218406703204,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-05: 17,755 D; 3.0852% of world D"
+                },
+                {
+                  "x": 70,
+                  "y": 4.379684599928094,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-06: 23,998 D; 4.3797% of world D"
+                },
+                {
+                  "x": 71,
+                  "y": 4.609555299130126,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-07: 24,927 D; 4.6096% of world D"
+                },
+                {
+                  "x": 72,
+                  "y": 4.405681063492711,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-08: 23,749 D; 4.4057% of world D"
+                },
+                {
+                  "x": 73,
+                  "y": 6.291537522661118,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-09: 33,351 D; 6.2915% of world D"
+                },
+                {
+                  "x": 74,
+                  "y": 7.978086535822822,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-10: 39,247 D; 7.9781% of world D"
+                },
+                {
+                  "x": 75,
+                  "y": 8.731861987728477,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-11: 43,291 D; 8.7319% of world D"
+                },
+                {
+                  "x": 76,
+                  "y": 8.773801967629325,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-12: 44,234 D; 8.7738% of world D"
+                },
+                {
+                  "x": 77,
+                  "y": 9.399562685036475,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-13: 48,576 D; 9.3996% of world D"
+                },
+                {
+                  "x": 78,
+                  "y": 10.019114604706148,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-14: 47,122 D; 10.0191% of world D"
+                },
+                {
+                  "x": 79,
+                  "y": 10.943720710262694,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-15: 50,908 D; 10.9437% of world D"
+                },
+                {
+                  "x": 80,
+                  "y": 10.447046551495642,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-16: 48,874 D; 10.4470% of world D"
+                },
+                {
+                  "x": 81,
+                  "y": 10.761254796285991,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-17: 51,436 D; 10.7613% of world D"
+                },
+                {
+                  "x": 82,
+                  "y": 9.931931225582156,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-18: 46,166 D; 9.9319% of world D"
+                },
+                {
+                  "x": 83,
+                  "y": 10.361104601203031,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-19: 53,053 D; 10.3611% of world D"
+                },
+                {
+                  "x": 84,
+                  "y": 10.187029888128894,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-20: 51,695 D; 10.1870% of world D"
+                },
+                {
+                  "x": 85,
+                  "y": 10.256089111011004,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-21: 50,770 D; 10.2561% of world D"
+                },
+                {
+                  "x": 86,
+                  "y": 10.837694186213549,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-22: 52,811 D; 10.8377% of world D"
+                },
+                {
+                  "x": 87,
+                  "y": 10.358795339998348,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-23: 50,149 D; 10.3588% of world D"
+                },
+                {
+                  "x": 88,
+                  "y": 9.112870755603275,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-24: 46,172 D; 9.1129% of world D"
+                },
+                {
+                  "x": 89,
+                  "y": 8.817868650335399,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-25: 45,128 D; 8.8179% of world D"
+                },
+                {
+                  "x": 90,
+                  "y": 8.71571786945778,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-26: 46,382 D; 8.7157% of world D"
+                },
+                {
+                  "x": 91,
+                  "y": 7.910772497532673,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-27: 42,322 D; 7.9108% of world D"
+                },
+                {
+                  "x": 92,
+                  "y": 8.972378514701516,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-28: 47,744 D; 8.9724% of world D"
+                },
+                {
+                  "x": 93,
+                  "y": 9.158245429460026,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-29: 49,618 D; 9.1582% of world D"
+                },
+                {
+                  "x": 94,
+                  "y": 8.794271638205611,
+                  "tooltip": "Latin America and the Caribbean · 2026-09-30: 47,518 D; 8.7943% of world D"
+                },
+                {
+                  "x": 95,
+                  "y": 9.144805126081781,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-01: 49,252 D; 9.1448% of world D"
+                },
+                {
+                  "x": 96,
+                  "y": 9.349354326882928,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-02: 49,261 D; 9.3494% of world D"
+                },
+                {
+                  "x": 97,
+                  "y": 8.841701371016798,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-03: 47,239 D; 8.8417% of world D"
+                },
+                {
+                  "x": 98,
+                  "y": 8.420632999182676,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-04: 46,259 D; 8.4206% of world D"
+                },
+                {
+                  "x": 99,
+                  "y": 9.480908315356485,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-05: 52,344 D; 9.4809% of world D"
+                },
+                {
+                  "x": 100,
+                  "y": 9.160555240585966,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-06: 50,089 D; 9.1606% of world D"
+                },
+                {
+                  "x": 101,
+                  "y": 10.1054164796928,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-07: 54,948 D; 10.1054% of world D"
+                },
+                {
+                  "x": 102,
+                  "y": 10.924281198253802,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-08: 58,056 D; 10.9243% of world D"
+                },
+                {
+                  "x": 103,
+                  "y": 9.916068004505506,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-09: 52,645 D; 9.9161% of world D"
+                },
+                {
+                  "x": 104,
+                  "y": 9.440532997208967,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-10: 52,428 D; 9.4405% of world D"
+                },
+                {
+                  "x": 105,
+                  "y": 9.855344926628023,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-11: 56,616 D; 9.8553% of world D"
+                },
+                {
+                  "x": 106,
+                  "y": 11.205622974297128,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-12: 59,466 D; 11.2056% of world D"
+                },
+                {
+                  "x": 107,
+                  "y": 11.323135626002276,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-13: 60,300 D; 11.3231% of world D"
+                },
+                {
+                  "x": 108,
+                  "y": 12.212987719218743,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-14: 67,376 D; 12.2130% of world D"
+                },
+                {
+                  "x": 109,
+                  "y": 11.353993313243077,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-15: 60,584 D; 11.3540% of world D"
+                },
+                {
+                  "x": 110,
+                  "y": 9.843235484506486,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-16: 52,461 D; 9.8432% of world D"
+                },
+                {
+                  "x": 111,
+                  "y": 7.162144716741614,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-17: 39,945 D; 7.1621% of world D"
+                },
+                {
+                  "x": 112,
+                  "y": 6.530466339220473,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-18: 37,268 D; 6.5305% of world D"
+                },
+                {
+                  "x": 113,
+                  "y": 6.48905338873564,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-19: 27,876 D; 6.4891% of world D"
+                },
+                {
+                  "x": 114,
+                  "y": 3.2138351684691417,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-20: 15,744 D; 3.2138% of world D"
+                },
+                {
+                  "x": 115,
+                  "y": 5.907290356353181,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-21: 37,804 D; 5.9073% of world D"
+                },
+                {
+                  "x": 116,
+                  "y": 6.03346913352697,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-22: 37,972 D; 6.0335% of world D"
+                },
+                {
+                  "x": 117,
+                  "y": 6.883458148718937,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-23: 45,737 D; 6.8835% of world D"
+                },
+                {
+                  "x": 118,
+                  "y": 6.53860078668164,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-24: 42,622 D; 6.5386% of world D"
+                },
+                {
+                  "x": 119,
+                  "y": 6.413645802987084,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-25: 41,169 D; 6.4136% of world D"
+                },
+                {
+                  "x": 120,
+                  "y": 7.880054784975364,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-26: 49,307 D; 7.8801% of world D"
+                },
+                {
+                  "x": 121,
+                  "y": 8.083948260931734,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-27: 50,317 D; 8.0839% of world D"
+                },
+                {
+                  "x": 122,
+                  "y": 9.230809579936684,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-28: 59,833 D; 9.2308% of world D"
+                },
+                {
+                  "x": 123,
+                  "y": 8.872336964332813,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-29: 56,176 D; 8.8723% of world D"
+                },
+                {
+                  "x": 124,
+                  "y": 7.950757581772937,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-30: 50,066 D; 7.9508% of world D"
+                },
+                {
+                  "x": 125,
+                  "y": 5.353992051122445,
+                  "tooltip": "Latin America and the Caribbean · 2026-10-31: 33,287 D; 5.3540% of world D"
+                },
+                {
+                  "x": 126,
+                  "y": 5.207453931167991,
+                  "tooltip": "Latin America and the Caribbean · 2026-11-01: 31,150 D; 5.2075% of world D"
+                },
+                {
+                  "x": 127,
+                  "y": 8.120501076726043,
+                  "tooltip": "Latin America and the Caribbean · 2026-11-02: 45,779 D; 8.1205% of world D"
+                },
+                {
+                  "x": 128,
+                  "y": 9.868494722992077,
+                  "tooltip": "Latin America and the Caribbean · 2026-11-03: 56,402 D; 9.8685% of world D"
+                }
+              ],
+              "collection_key": "Latin America + Caribbean",
+              "line_label": "Latin America + Caribbean"
+            },
+            {
+              "name": "South America",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 0.0,
+                  "tooltip": "South America · 2026-06-29: 0 D; 0.0000% of world D"
+                },
+                {
+                  "x": 2,
+                  "y": 1.2549993104399393,
+                  "tooltip": "South America · 2026-06-30: 91 D; 1.2550% of world D"
+                },
+                {
+                  "x": 3,
+                  "y": 1.6505995767693393,
+                  "tooltip": "South America · 2026-07-01: 351 D; 1.6506% of world D"
+                },
+                {
+                  "x": 4,
+                  "y": 1.933996499167485,
+                  "tooltip": "South America · 2026-07-02: 1,359 D; 1.9340% of world D"
+                },
+                {
+                  "x": 5,
+                  "y": 2.679403312966468,
+                  "tooltip": "South America · 2026-07-03: 2,732 D; 2.6794% of world D"
+                },
+                {
+                  "x": 6,
+                  "y": 2.6039554894805605,
+                  "tooltip": "South America · 2026-07-04: 4,046 D; 2.6040% of world D"
+                },
+                {
+                  "x": 7,
+                  "y": 2.9638940503515867,
+                  "tooltip": "South America · 2026-07-05: 6,508 D; 2.9639% of world D"
+                },
+                {
+                  "x": 8,
+                  "y": 3.0937738328979183,
+                  "tooltip": "South America · 2026-07-06: 9,533 D; 3.0938% of world D"
+                },
+                {
+                  "x": 9,
+                  "y": 2.917927110342841,
+                  "tooltip": "South America · 2026-07-07: 9,723 D; 2.9179% of world D"
+                },
+                {
+                  "x": 10,
+                  "y": 3.2349933092295524,
+                  "tooltip": "South America · 2026-07-08: 13,949 D; 3.2350% of world D"
+                },
+                {
+                  "x": 11,
+                  "y": 3.445665752854218,
+                  "tooltip": "South America · 2026-07-09: 15,887 D; 3.4457% of world D"
+                },
+                {
+                  "x": 12,
+                  "y": 3.1273599068320155,
+                  "tooltip": "South America · 2026-07-10: 13,749 D; 3.1274% of world D"
+                },
+                {
+                  "x": 13,
+                  "y": 3.1266307486426372,
+                  "tooltip": "South America · 2026-07-11: 13,481 D; 3.1266% of world D"
+                },
+                {
+                  "x": 14,
+                  "y": 3.1444983125243646,
+                  "tooltip": "South America · 2026-07-12: 14,600 D; 3.1445% of world D"
+                },
+                {
+                  "x": 15,
+                  "y": 3.8609678252681228,
+                  "tooltip": "South America · 2026-07-13: 23,166 D; 3.8610% of world D"
+                },
+                {
+                  "x": 16,
+                  "y": 3.931009038922708,
+                  "tooltip": "South America · 2026-07-14: 23,441 D; 3.9310% of world D"
+                },
+                {
+                  "x": 17,
+                  "y": 3.734070441724007,
+                  "tooltip": "South America · 2026-07-15: 22,776 D; 3.7341% of world D"
+                },
+                {
+                  "x": 18,
+                  "y": 4.012426264006517,
+                  "tooltip": "South America · 2026-07-16: 25,664 D; 4.0124% of world D"
+                },
+                {
+                  "x": 19,
+                  "y": 3.095186181166267,
+                  "tooltip": "South America · 2026-07-17: 19,164 D; 3.0952% of world D"
+                },
+                {
+                  "x": 20,
+                  "y": 3.868113180809019,
+                  "tooltip": "South America · 2026-07-18: 24,566 D; 3.8681% of world D"
+                },
+                {
+                  "x": 21,
+                  "y": 4.018300681871911,
+                  "tooltip": "South America · 2026-07-19: 26,006 D; 4.0183% of world D"
+                },
+                {
+                  "x": 22,
+                  "y": 3.894951250176213,
+                  "tooltip": "South America · 2026-07-20: 27,077 D; 3.8950% of world D"
+                },
+                {
+                  "x": 23,
+                  "y": 4.253847077683033,
+                  "tooltip": "South America · 2026-07-21: 32,586 D; 4.2538% of world D"
+                },
+                {
+                  "x": 24,
+                  "y": 4.690330692918015,
+                  "tooltip": "South America · 2026-07-22: 36,220 D; 4.6903% of world D"
+                },
+                {
+                  "x": 25,
+                  "y": 5.123088402340168,
+                  "tooltip": "South America · 2026-07-23: 38,381 D; 5.1231% of world D"
+                },
+                {
+                  "x": 26,
+                  "y": 4.562405719997099,
+                  "tooltip": "South America · 2026-07-24: 32,090 D; 4.5624% of world D"
+                },
+                {
+                  "x": 27,
+                  "y": 4.890534621274011,
+                  "tooltip": "South America · 2026-07-25: 35,739 D; 4.8905% of world D"
+                },
+                {
+                  "x": 28,
+                  "y": 4.755345673608712,
+                  "tooltip": "South America · 2026-07-26: 34,006 D; 4.7553% of world D"
+                },
+                {
+                  "x": 29,
+                  "y": 4.611083616466388,
+                  "tooltip": "South America · 2026-07-27: 33,169 D; 4.6111% of world D"
+                },
+                {
+                  "x": 30,
+                  "y": 4.351551125545974,
+                  "tooltip": "South America · 2026-07-28: 31,084 D; 4.3516% of world D"
+                },
+                {
+                  "x": 31,
+                  "y": 4.279486267090937,
+                  "tooltip": "South America · 2026-07-29: 33,434 D; 4.2795% of world D"
+                },
+                {
+                  "x": 32,
+                  "y": 4.008706474333872,
+                  "tooltip": "South America · 2026-07-30: 29,891 D; 4.0087% of world D"
+                },
+                {
+                  "x": 33,
+                  "y": 4.179261717240725,
+                  "tooltip": "South America · 2026-07-31: 31,260 D; 4.1793% of world D"
+                },
+                {
+                  "x": 34,
+                  "y": 4.717611735817058,
+                  "tooltip": "South America · 2026-08-01: 34,159 D; 4.7176% of world D"
+                },
+                {
+                  "x": 35,
+                  "y": 4.747796672572888,
+                  "tooltip": "South America · 2026-08-02: 33,012 D; 4.7478% of world D"
+                },
+                {
+                  "x": 36,
+                  "y": 4.461733106856515,
+                  "tooltip": "South America · 2026-08-03: 31,915 D; 4.4617% of world D"
+                },
+                {
+                  "x": 37,
+                  "y": 4.561183239283102,
+                  "tooltip": "South America · 2026-08-04: 33,059 D; 4.5612% of world D"
+                },
+                {
+                  "x": 38,
+                  "y": 3.8913658051467714,
+                  "tooltip": "South America · 2026-08-05: 27,860 D; 3.8914% of world D"
+                },
+                {
+                  "x": 39,
+                  "y": 4.3014786865909205,
+                  "tooltip": "South America · 2026-08-06: 30,268 D; 4.3015% of world D"
+                },
+                {
+                  "x": 40,
+                  "y": 4.2256098552830625,
+                  "tooltip": "South America · 2026-08-07: 31,173 D; 4.2256% of world D"
+                },
+                {
+                  "x": 41,
+                  "y": 4.498600385421502,
+                  "tooltip": "South America · 2026-08-08: 31,981 D; 4.4986% of world D"
+                },
+                {
+                  "x": 42,
+                  "y": 4.512508295582422,
+                  "tooltip": "South America · 2026-08-09: 31,278 D; 4.5125% of world D"
+                },
+                {
+                  "x": 43,
+                  "y": 4.39439448128986,
+                  "tooltip": "South America · 2026-08-10: 30,373 D; 4.3944% of world D"
+                },
+                {
+                  "x": 44,
+                  "y": 4.371010816251724,
+                  "tooltip": "South America · 2026-08-11: 30,050 D; 4.3710% of world D"
+                },
+                {
+                  "x": 45,
+                  "y": 4.693782141187471,
+                  "tooltip": "South America · 2026-08-12: 33,634 D; 4.6938% of world D"
+                },
+                {
+                  "x": 46,
+                  "y": 4.339993310980391,
+                  "tooltip": "South America · 2026-08-13: 30,884 D; 4.3400% of world D"
+                },
+                {
+                  "x": 47,
+                  "y": 4.28513772150261,
+                  "tooltip": "South America · 2026-08-14: 30,472 D; 4.2851% of world D"
+                },
+                {
+                  "x": 48,
+                  "y": 4.754418104430409,
+                  "tooltip": "South America · 2026-08-15: 31,299 D; 4.7544% of world D"
+                },
+                {
+                  "x": 49,
+                  "y": 4.87100419607742,
+                  "tooltip": "South America · 2026-08-16: 35,905 D; 4.8710% of world D"
+                },
+                {
+                  "x": 50,
+                  "y": 5.014073015278622,
+                  "tooltip": "South America · 2026-08-17: 32,939 D; 5.0141% of world D"
+                },
+                {
+                  "x": 51,
+                  "y": 4.963165880551722,
+                  "tooltip": "South America · 2026-08-18: 28,916 D; 4.9632% of world D"
+                },
+                {
+                  "x": 52,
+                  "y": 4.787339715376179,
+                  "tooltip": "South America · 2026-08-19: 29,640 D; 4.7873% of world D"
+                },
+                {
+                  "x": 53,
+                  "y": 4.828101644245142,
+                  "tooltip": "South America · 2026-08-20: 28,747 D; 4.8281% of world D"
+                },
+                {
+                  "x": 54,
+                  "y": 4.66352262134643,
+                  "tooltip": "South America · 2026-08-21: 28,667 D; 4.6635% of world D"
+                },
+                {
+                  "x": 55,
+                  "y": 4.842215189978665,
+                  "tooltip": "South America · 2026-08-22: 29,119 D; 4.8422% of world D"
+                },
+                {
+                  "x": 56,
+                  "y": 5.330003297971747,
+                  "tooltip": "South America · 2026-08-23: 31,030 D; 5.3300% of world D"
+                },
+                {
+                  "x": 57,
+                  "y": 5.413250564788062,
+                  "tooltip": "South America · 2026-08-24: 32,300 D; 5.4133% of world D"
+                },
+                {
+                  "x": 58,
+                  "y": 4.844973133677004,
+                  "tooltip": "South America · 2026-08-25: 28,421 D; 4.8450% of world D"
+                },
+                {
+                  "x": 59,
+                  "y": 5.159146352541668,
+                  "tooltip": "South America · 2026-08-26: 31,236 D; 5.1591% of world D"
+                },
+                {
+                  "x": 60,
+                  "y": 4.678997810620347,
+                  "tooltip": "South America · 2026-08-27: 27,740 D; 4.6790% of world D"
+                },
+                {
+                  "x": 61,
+                  "y": 3.7700384711601522,
+                  "tooltip": "South America · 2026-08-28: 22,304 D; 3.7700% of world D"
+                },
+                {
+                  "x": 62,
+                  "y": 3.392436011884935,
+                  "tooltip": "South America · 2026-08-29: 20,369 D; 3.3924% of world D"
+                },
+                {
+                  "x": 63,
+                  "y": 3.6426220309174644,
+                  "tooltip": "South America · 2026-08-30: 21,292 D; 3.6426% of world D"
+                },
+                {
+                  "x": 64,
+                  "y": 4.335351102016514,
+                  "tooltip": "South America · 2026-08-31: 25,339 D; 4.3354% of world D"
+                },
+                {
+                  "x": 65,
+                  "y": 4.324595956020121,
+                  "tooltip": "South America · 2026-09-01: 25,043 D; 4.3246% of world D"
+                },
+                {
+                  "x": 66,
+                  "y": 4.726327608281148,
+                  "tooltip": "South America · 2026-09-02: 25,804 D; 4.7263% of world D"
+                },
+                {
+                  "x": 67,
+                  "y": 4.655061226841312,
+                  "tooltip": "South America · 2026-09-03: 25,048 D; 4.6551% of world D"
+                },
+                {
+                  "x": 68,
+                  "y": 4.090215376652242,
+                  "tooltip": "South America · 2026-09-04: 21,494 D; 4.0902% of world D"
+                },
+                {
+                  "x": 69,
+                  "y": 1.8641635070184157,
+                  "tooltip": "South America · 2026-09-05: 10,728 D; 1.8642% of world D"
+                },
+                {
+                  "x": 70,
+                  "y": 2.8988628296215455,
+                  "tooltip": "South America · 2026-09-06: 15,884 D; 2.8989% of world D"
+                },
+                {
+                  "x": 71,
+                  "y": 3.158285993254039,
+                  "tooltip": "South America · 2026-09-07: 17,079 D; 3.1583% of world D"
+                },
+                {
+                  "x": 72,
+                  "y": 3.0188070211889717,
+                  "tooltip": "South America · 2026-09-08: 16,273 D; 3.0188% of world D"
+                },
+                {
+                  "x": 73,
+                  "y": 4.1766256109776965,
+                  "tooltip": "South America · 2026-09-09: 22,140 D; 4.1766% of world D"
+                },
+                {
+                  "x": 74,
+                  "y": 5.321841300171771,
+                  "tooltip": "South America · 2026-09-10: 26,180 D; 5.3218% of world D"
+                },
+                {
+                  "x": 75,
+                  "y": 5.895534730990637,
+                  "tooltip": "South America · 2026-09-11: 29,229 D; 5.8955% of world D"
+                },
+                {
+                  "x": 76,
+                  "y": 5.746985084100285,
+                  "tooltip": "South America · 2026-09-12: 28,974 D; 5.7470% of world D"
+                },
+                {
+                  "x": 77,
+                  "y": 6.10731631804021,
+                  "tooltip": "South America · 2026-09-13: 31,562 D; 6.1073% of world D"
+                },
+                {
+                  "x": 78,
+                  "y": 6.661620467723108,
+                  "tooltip": "South America · 2026-09-14: 31,331 D; 6.6616% of world D"
+                },
+                {
+                  "x": 79,
+                  "y": 7.284062083494561,
+                  "tooltip": "South America · 2026-09-15: 33,884 D; 7.2841% of world D"
+                },
+                {
+                  "x": 80,
+                  "y": 7.0060236070675845,
+                  "tooltip": "South America · 2026-09-16: 32,776 D; 7.0060% of world D"
+                },
+                {
+                  "x": 81,
+                  "y": 7.011887675898689,
+                  "tooltip": "South America · 2026-09-17: 33,515 D; 7.0119% of world D"
+                },
+                {
+                  "x": 82,
+                  "y": 6.7175963375385095,
+                  "tooltip": "South America · 2026-09-18: 31,225 D; 6.7176% of world D"
+                },
+                {
+                  "x": 83,
+                  "y": 6.976603390360128,
+                  "tooltip": "South America · 2026-09-19: 35,723 D; 6.9766% of world D"
+                },
+                {
+                  "x": 84,
+                  "y": 6.964503536246278,
+                  "tooltip": "South America · 2026-09-20: 35,342 D; 6.9645% of world D"
+                },
+                {
+                  "x": 85,
+                  "y": 7.023512038834559,
+                  "tooltip": "South America · 2026-09-21: 34,768 D; 7.0235% of world D"
+                },
+                {
+                  "x": 86,
+                  "y": 7.512774733731454,
+                  "tooltip": "South America · 2026-09-22: 36,609 D; 7.5128% of world D"
+                },
+                {
+                  "x": 87,
+                  "y": 7.263075270594068,
+                  "tooltip": "South America · 2026-09-23: 35,162 D; 7.2631% of world D"
+                },
+                {
+                  "x": 88,
+                  "y": 6.3181412680492945,
+                  "tooltip": "South America · 2026-09-24: 32,012 D; 6.3181% of world D"
+                },
+                {
+                  "x": 89,
+                  "y": 6.034440647232497,
+                  "tooltip": "South America · 2026-09-25: 30,883 D; 6.0344% of world D"
+                },
+                {
+                  "x": 90,
+                  "y": 5.947591442503735,
+                  "tooltip": "South America · 2026-09-26: 31,651 D; 5.9476% of world D"
+                },
+                {
+                  "x": 91,
+                  "y": 5.40456679726052,
+                  "tooltip": "South America · 2026-09-27: 28,914 D; 5.4046% of world D"
+                },
+                {
+                  "x": 92,
+                  "y": 6.248191204272705,
+                  "tooltip": "South America · 2026-09-28: 33,248 D; 6.2482% of world D"
+                },
+                {
+                  "x": 93,
+                  "y": 6.500549110809638,
+                  "tooltip": "South America · 2026-09-29: 35,219 D; 6.5005% of world D"
+                },
+                {
+                  "x": 94,
+                  "y": 6.196965182324102,
+                  "tooltip": "South America · 2026-09-30: 33,484 D; 6.1970% of world D"
+                },
+                {
+                  "x": 95,
+                  "y": 6.496354295284443,
+                  "tooltip": "South America · 2026-10-01: 34,988 D; 6.4964% of world D"
+                },
+                {
+                  "x": 96,
+                  "y": 6.718644428080138,
+                  "tooltip": "South America · 2026-10-02: 35,400 D; 6.7186% of world D"
+                },
+                {
+                  "x": 97,
+                  "y": 6.2795376912638625,
+                  "tooltip": "South America · 2026-10-03: 33,550 D; 6.2795% of world D"
+                },
+                {
+                  "x": 98,
+                  "y": 5.8896556494640055,
+                  "tooltip": "South America · 2026-10-04: 32,355 D; 5.8897% of world D"
+                },
+                {
+                  "x": 99,
+                  "y": 6.778856690557309,
+                  "tooltip": "South America · 2026-10-05: 37,426 D; 6.7789% of world D"
+                },
+                {
+                  "x": 100,
+                  "y": 6.58260026701293,
+                  "tooltip": "South America · 2026-10-06: 35,993 D; 6.5826% of world D"
+                },
+                {
+                  "x": 101,
+                  "y": 7.270279614821572,
+                  "tooltip": "South America · 2026-10-07: 39,532 D; 7.2703% of world D"
+                },
+                {
+                  "x": 102,
+                  "y": 7.811794370013548,
+                  "tooltip": "South America · 2026-10-08: 41,515 D; 7.8118% of world D"
+                },
+                {
+                  "x": 103,
+                  "y": 6.989184526074296,
+                  "tooltip": "South America · 2026-10-09: 37,106 D; 6.9892% of world D"
+                },
+                {
+                  "x": 104,
+                  "y": 6.637075718015666,
+                  "tooltip": "South America · 2026-10-10: 36,859 D; 6.6371% of world D"
+                },
+                {
+                  "x": 105,
+                  "y": 6.838129058088325,
+                  "tooltip": "South America · 2026-10-11: 39,283 D; 6.8381% of world D"
+                },
+                {
+                  "x": 106,
+                  "y": 7.982023064747117,
+                  "tooltip": "South America · 2026-10-12: 42,359 D; 7.9820% of world D"
+                },
+                {
+                  "x": 107,
+                  "y": 8.177444614281047,
+                  "tooltip": "South America · 2026-10-13: 43,548 D; 8.1774% of world D"
+                },
+                {
+                  "x": 108,
+                  "y": 8.67648524946753,
+                  "tooltip": "South America · 2026-10-14: 47,866 D; 8.6765% of world D"
+                },
+                {
+                  "x": 109,
+                  "y": 8.222199733129433,
+                  "tooltip": "South America · 2026-10-15: 43,873 D; 8.2222% of world D"
+                },
+                {
+                  "x": 110,
+                  "y": 7.080389894270731,
+                  "tooltip": "South America · 2026-10-16: 37,736 D; 7.0804% of world D"
+                },
+                {
+                  "x": 111,
+                  "y": 5.0740151042451105,
+                  "tooltip": "South America · 2026-10-17: 28,299 D; 5.0740% of world D"
+                },
+                {
+                  "x": 112,
+                  "y": 4.553873543620845,
+                  "tooltip": "South America · 2026-10-18: 25,988 D; 4.5539% of world D"
+                },
+                {
+                  "x": 113,
+                  "y": 4.499458779985335,
+                  "tooltip": "South America · 2026-10-19: 19,329 D; 4.4995% of world D"
+                },
+                {
+                  "x": 114,
+                  "y": 2.225638010786271,
+                  "tooltip": "South America · 2026-10-20: 10,903 D; 2.2256% of world D"
+                },
+                {
+                  "x": 115,
+                  "y": 4.351087185817753,
+                  "tooltip": "South America · 2026-10-21: 27,845 D; 4.3511% of world D"
+                },
+                {
+                  "x": 116,
+                  "y": 4.3841641296817695,
+                  "tooltip": "South America · 2026-10-22: 27,592 D; 4.3842% of world D"
+                },
+                {
+                  "x": 117,
+                  "y": 4.865392024658062,
+                  "tooltip": "South America · 2026-10-23: 32,328 D; 4.8654% of world D"
+                },
+                {
+                  "x": 118,
+                  "y": 4.678822800267546,
+                  "tooltip": "South America · 2026-10-24: 30,499 D; 4.6788% of world D"
+                },
+                {
+                  "x": 119,
+                  "y": 4.622548477403695,
+                  "tooltip": "South America · 2026-10-25: 29,672 D; 4.6225% of world D"
+                },
+                {
+                  "x": 120,
+                  "y": 5.615140342549931,
+                  "tooltip": "South America · 2026-10-26: 35,135 D; 5.6151% of world D"
+                },
+                {
+                  "x": 121,
+                  "y": 5.760156547472732,
+                  "tooltip": "South America · 2026-10-27: 35,853 D; 5.7602% of world D"
+                },
+                {
+                  "x": 122,
+                  "y": 6.602559751183299,
+                  "tooltip": "South America · 2026-10-28: 42,797 D; 6.6026% of world D"
+                },
+                {
+                  "x": 123,
+                  "y": 6.37027981912916,
+                  "tooltip": "South America · 2026-10-29: 40,334 D; 6.3703% of world D"
+                },
+                {
+                  "x": 124,
+                  "y": 5.596465624161309,
+                  "tooltip": "South America · 2026-10-30: 35,241 D; 5.5965% of world D"
+                },
+                {
+                  "x": 125,
+                  "y": 3.816973153639161,
+                  "tooltip": "South America · 2026-10-31: 23,731 D; 3.8170% of world D"
+                },
+                {
+                  "x": 126,
+                  "y": 3.7084093276115424,
+                  "tooltip": "South America · 2026-11-01: 22,183 D; 3.7084% of world D"
+                },
+                {
+                  "x": 127,
+                  "y": 5.9565832839612165,
+                  "tooltip": "South America · 2026-11-02: 33,580 D; 5.9566% of world D"
+                },
+                {
+                  "x": 128,
+                  "y": 7.1927227681195935,
+                  "tooltip": "South America · 2026-11-03: 41,109 D; 7.1927% of world D"
+                }
+              ],
+              "collection_key": "South America",
+              "line_label": "South America"
+            }
+          ]
+        },
+        {
+          "title": "Observed catalog coverage",
+          "unit": "count",
+          "ylabel": "TORRENTS WITH DAILY CACHE",
+          "y_max": 500,
+          "series": [
+            {
+              "name": "Observed torrents",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 2,
+                  "tooltip": "2026-06-29: 2 canonical torrents with daily cache"
+                },
+                {
+                  "x": 2,
+                  "y": 13,
+                  "tooltip": "2026-06-30: 13 canonical torrents with daily cache"
+                },
+                {
+                  "x": 3,
+                  "y": 23,
+                  "tooltip": "2026-07-01: 23 canonical torrents with daily cache"
+                },
+                {
+                  "x": 4,
+                  "y": 64,
+                  "tooltip": "2026-07-02: 64 canonical torrents with daily cache"
+                },
+                {
+                  "x": 5,
+                  "y": 116,
+                  "tooltip": "2026-07-03: 116 canonical torrents with daily cache"
+                },
+                {
+                  "x": 6,
+                  "y": 116,
+                  "tooltip": "2026-07-04: 116 canonical torrents with daily cache"
+                },
+                {
+                  "x": 7,
+                  "y": 193,
+                  "tooltip": "2026-07-05: 193 canonical torrents with daily cache"
+                },
+                {
+                  "x": 8,
+                  "y": 223,
+                  "tooltip": "2026-07-06: 223 canonical torrents with daily cache"
+                },
+                {
+                  "x": 9,
+                  "y": 271,
+                  "tooltip": "2026-07-07: 271 canonical torrents with daily cache"
+                },
+                {
+                  "x": 10,
+                  "y": 292,
+                  "tooltip": "2026-07-08: 292 canonical torrents with daily cache"
+                },
+                {
+                  "x": 11,
+                  "y": 297,
+                  "tooltip": "2026-07-09: 297 canonical torrents with daily cache"
+                },
+                {
+                  "x": 12,
+                  "y": 305,
+                  "tooltip": "2026-07-10: 305 canonical torrents with daily cache"
+                },
+                {
+                  "x": 13,
+                  "y": 305,
+                  "tooltip": "2026-07-11: 305 canonical torrents with daily cache"
+                },
+                {
+                  "x": 14,
+                  "y": 323,
+                  "tooltip": "2026-07-12: 323 canonical torrents with daily cache"
+                },
+                {
+                  "x": 15,
+                  "y": 373,
+                  "tooltip": "2026-07-13: 373 canonical torrents with daily cache"
+                },
+                {
+                  "x": 16,
+                  "y": 385,
+                  "tooltip": "2026-07-14: 385 canonical torrents with daily cache"
+                },
+                {
+                  "x": 17,
+                  "y": 390,
+                  "tooltip": "2026-07-15: 390 canonical torrents with daily cache"
+                },
+                {
+                  "x": 18,
+                  "y": 403,
+                  "tooltip": "2026-07-16: 403 canonical torrents with daily cache"
+                },
+                {
+                  "x": 19,
+                  "y": 403,
+                  "tooltip": "2026-07-17: 403 canonical torrents with daily cache"
+                },
+                {
+                  "x": 20,
+                  "y": 416,
+                  "tooltip": "2026-07-18: 416 canonical torrents with daily cache"
+                },
+                {
+                  "x": 21,
+                  "y": 416,
+                  "tooltip": "2026-07-19: 416 canonical torrents with daily cache"
+                },
+                {
+                  "x": 22,
+                  "y": 469,
+                  "tooltip": "2026-07-20: 469 canonical torrents with daily cache"
+                },
+                {
+                  "x": 23,
+                  "y": 477,
+                  "tooltip": "2026-07-21: 477 canonical torrents with daily cache"
+                },
+                {
+                  "x": 24,
+                  "y": 480,
+                  "tooltip": "2026-07-22: 480 canonical torrents with daily cache"
+                },
+                {
+                  "x": 25,
+                  "y": 480,
+                  "tooltip": "2026-07-23: 480 canonical torrents with daily cache"
+                },
+                {
+                  "x": 26,
+                  "y": 480,
+                  "tooltip": "2026-07-24: 480 canonical torrents with daily cache"
+                },
+                {
+                  "x": 27,
+                  "y": 482,
+                  "tooltip": "2026-07-25: 482 canonical torrents with daily cache"
+                },
+                {
+                  "x": 28,
+                  "y": 482,
+                  "tooltip": "2026-07-26: 482 canonical torrents with daily cache"
+                },
+                {
+                  "x": 29,
+                  "y": 492,
+                  "tooltip": "2026-07-27: 492 canonical torrents with daily cache"
+                },
+                {
+                  "x": 30,
+                  "y": 492,
+                  "tooltip": "2026-07-28: 492 canonical torrents with daily cache"
+                },
+                {
+                  "x": 31,
+                  "y": 493,
+                  "tooltip": "2026-07-29: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 32,
+                  "y": 493,
+                  "tooltip": "2026-07-30: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 33,
+                  "y": 493,
+                  "tooltip": "2026-07-31: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 34,
+                  "y": 493,
+                  "tooltip": "2026-08-01: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 35,
+                  "y": 493,
+                  "tooltip": "2026-08-02: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 36,
+                  "y": 493,
+                  "tooltip": "2026-08-03: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 37,
+                  "y": 493,
+                  "tooltip": "2026-08-04: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 38,
+                  "y": 493,
+                  "tooltip": "2026-08-05: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 39,
+                  "y": 493,
+                  "tooltip": "2026-08-06: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 40,
+                  "y": 493,
+                  "tooltip": "2026-08-07: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 41,
+                  "y": 493,
+                  "tooltip": "2026-08-08: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 42,
+                  "y": 493,
+                  "tooltip": "2026-08-09: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 43,
+                  "y": 493,
+                  "tooltip": "2026-08-10: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 44,
+                  "y": 493,
+                  "tooltip": "2026-08-11: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 45,
+                  "y": 493,
+                  "tooltip": "2026-08-12: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 46,
+                  "y": 493,
+                  "tooltip": "2026-08-13: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 47,
+                  "y": 493,
+                  "tooltip": "2026-08-14: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 48,
+                  "y": 493,
+                  "tooltip": "2026-08-15: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 49,
+                  "y": 493,
+                  "tooltip": "2026-08-16: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 50,
+                  "y": 493,
+                  "tooltip": "2026-08-17: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 51,
+                  "y": 493,
+                  "tooltip": "2026-08-18: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 52,
+                  "y": 493,
+                  "tooltip": "2026-08-19: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 53,
+                  "y": 493,
+                  "tooltip": "2026-08-20: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 54,
+                  "y": 493,
+                  "tooltip": "2026-08-21: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 55,
+                  "y": 493,
+                  "tooltip": "2026-08-22: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 56,
+                  "y": 493,
+                  "tooltip": "2026-08-23: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 57,
+                  "y": 493,
+                  "tooltip": "2026-08-24: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 58,
+                  "y": 493,
+                  "tooltip": "2026-08-25: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 59,
+                  "y": 493,
+                  "tooltip": "2026-08-26: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 60,
+                  "y": 493,
+                  "tooltip": "2026-08-27: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 61,
+                  "y": 493,
+                  "tooltip": "2026-08-28: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 62,
+                  "y": 493,
+                  "tooltip": "2026-08-29: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 63,
+                  "y": 493,
+                  "tooltip": "2026-08-30: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 64,
+                  "y": 493,
+                  "tooltip": "2026-08-31: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 65,
+                  "y": 493,
+                  "tooltip": "2026-09-01: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 66,
+                  "y": 493,
+                  "tooltip": "2026-09-02: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 67,
+                  "y": 493,
+                  "tooltip": "2026-09-03: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 68,
+                  "y": 493,
+                  "tooltip": "2026-09-04: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 69,
+                  "y": 493,
+                  "tooltip": "2026-09-05: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 70,
+                  "y": 493,
+                  "tooltip": "2026-09-06: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 71,
+                  "y": 493,
+                  "tooltip": "2026-09-07: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 72,
+                  "y": 493,
+                  "tooltip": "2026-09-08: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 73,
+                  "y": 493,
+                  "tooltip": "2026-09-09: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 74,
+                  "y": 493,
+                  "tooltip": "2026-09-10: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 75,
+                  "y": 493,
+                  "tooltip": "2026-09-11: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 76,
+                  "y": 493,
+                  "tooltip": "2026-09-12: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 77,
+                  "y": 493,
+                  "tooltip": "2026-09-13: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 78,
+                  "y": 493,
+                  "tooltip": "2026-09-14: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 79,
+                  "y": 493,
+                  "tooltip": "2026-09-15: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 80,
+                  "y": 493,
+                  "tooltip": "2026-09-16: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 81,
+                  "y": 493,
+                  "tooltip": "2026-09-17: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 82,
+                  "y": 493,
+                  "tooltip": "2026-09-18: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 83,
+                  "y": 493,
+                  "tooltip": "2026-09-19: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 84,
+                  "y": 493,
+                  "tooltip": "2026-09-20: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 85,
+                  "y": 493,
+                  "tooltip": "2026-09-21: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 86,
+                  "y": 493,
+                  "tooltip": "2026-09-22: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 87,
+                  "y": 493,
+                  "tooltip": "2026-09-23: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 88,
+                  "y": 493,
+                  "tooltip": "2026-09-24: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 89,
+                  "y": 493,
+                  "tooltip": "2026-09-25: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 90,
+                  "y": 493,
+                  "tooltip": "2026-09-26: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 91,
+                  "y": 493,
+                  "tooltip": "2026-09-27: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 92,
+                  "y": 493,
+                  "tooltip": "2026-09-28: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 93,
+                  "y": 493,
+                  "tooltip": "2026-09-29: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 94,
+                  "y": 493,
+                  "tooltip": "2026-09-30: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 95,
+                  "y": 493,
+                  "tooltip": "2026-10-01: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 96,
+                  "y": 493,
+                  "tooltip": "2026-10-02: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 97,
+                  "y": 493,
+                  "tooltip": "2026-10-03: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 98,
+                  "y": 493,
+                  "tooltip": "2026-10-04: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 99,
+                  "y": 493,
+                  "tooltip": "2026-10-05: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 100,
+                  "y": 493,
+                  "tooltip": "2026-10-06: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 101,
+                  "y": 493,
+                  "tooltip": "2026-10-07: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 102,
+                  "y": 493,
+                  "tooltip": "2026-10-08: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 103,
+                  "y": 493,
+                  "tooltip": "2026-10-09: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 104,
+                  "y": 493,
+                  "tooltip": "2026-10-10: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 105,
+                  "y": 493,
+                  "tooltip": "2026-10-11: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 106,
+                  "y": 493,
+                  "tooltip": "2026-10-12: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 107,
+                  "y": 493,
+                  "tooltip": "2026-10-13: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 108,
+                  "y": 493,
+                  "tooltip": "2026-10-14: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 109,
+                  "y": 493,
+                  "tooltip": "2026-10-15: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 110,
+                  "y": 493,
+                  "tooltip": "2026-10-16: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 111,
+                  "y": 493,
+                  "tooltip": "2026-10-17: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 112,
+                  "y": 493,
+                  "tooltip": "2026-10-18: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 113,
+                  "y": 493,
+                  "tooltip": "2026-10-19: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 114,
+                  "y": 493,
+                  "tooltip": "2026-10-20: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 115,
+                  "y": 493,
+                  "tooltip": "2026-10-21: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 116,
+                  "y": 493,
+                  "tooltip": "2026-10-22: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 117,
+                  "y": 493,
+                  "tooltip": "2026-10-23: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 118,
+                  "y": 493,
+                  "tooltip": "2026-10-24: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 119,
+                  "y": 493,
+                  "tooltip": "2026-10-25: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 120,
+                  "y": 493,
+                  "tooltip": "2026-10-26: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 121,
+                  "y": 493,
+                  "tooltip": "2026-10-27: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 122,
+                  "y": 493,
+                  "tooltip": "2026-10-28: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 123,
+                  "y": 493,
+                  "tooltip": "2026-10-29: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 124,
+                  "y": 493,
+                  "tooltip": "2026-10-30: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 125,
+                  "y": 493,
+                  "tooltip": "2026-10-31: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 126,
+                  "y": 493,
+                  "tooltip": "2026-11-01: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 127,
+                  "y": 493,
+                  "tooltip": "2026-11-02: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 128,
+                  "y": 491,
+                  "tooltip": "2026-11-03: 491 canonical torrents with daily cache"
+                }
+              ],
+              "collection_key": "Observed torrents",
+              "line_label": "Observed torrents"
+            }
+          ]
+        }
+      ],
+      "reference_lines": [
+        {
+          "x": 21,
+          "label": "July 19 final"
+        }
+      ],
+      "footer": "Daily aggregate memberships · changing catalog · nested regions",
+      "allow_label_callouts": true,
+      "layout": "izzi-standard",
+      "columns": 1
+    }
+  },
+  "chart_renderers": {
+    "north-hosting-by-observation-age": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "1d132d25f4cc0f0776de98b77abb784fac34df52f5f8d3a2279e54b6403e4347",
+      "wrapper_sha256": "20cacde54126c3c004c3046e48e6a1a6a9b56d49351c656501627a9848a88b65",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "southern-activity-coverage": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "1d132d25f4cc0f0776de98b77abb784fac34df52f5f8d3a2279e54b6403e4347",
+      "wrapper_sha256": "20cacde54126c3c004c3046e48e6a1a6a9b56d49351c656501627a9848a88b65",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    }
+  }
+}

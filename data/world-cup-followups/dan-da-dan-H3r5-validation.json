@@ -1,0 +1,5630 @@
+{
+  "schema": "alpha60-geography-validation/1",
+  "status": "passed",
+  "h3_resolution": 5,
+  "files": 16,
+  "duration_files": {
+    "day": 14,
+    "week": 2
+  },
+  "products": [
+    {
+      "file": "dan-da-dan-210-day-00001.geojson",
+      "sha256": "b83299a973362e4037bbb3c137f474150de4075c8fd2533e446a0f4773b095a4",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 3317,
+        "datestamp": "2025-09-04",
+        "duration_type": "day",
+        "duration_index": 1,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 408,
+        "total": {
+          "downloaders": {
+            "size": 4890,
+            "mobile": 319,
+            "satellite": 12,
+            "tor": 8,
+            "tor_exit_nodes": 1,
+            "vpn": 1561,
+            "relay": 29,
+            "proxy": 10,
+            "hosting": 2010,
+            "service": 1487
+          },
+          "uploaders": {
+            "size": 1177,
+            "mobile": 59,
+            "satellite": 1,
+            "tor": 1,
+            "tor_exit_nodes": 0,
+            "vpn": 311,
+            "relay": 2,
+            "proxy": 2,
+            "hosting": 462,
+            "service": 283
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-day-00002.geojson",
+      "sha256": "6f438f6f5d2d0f9f694263f002e833715c91156e3fd3e16a1aee7fcb3962b387",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 15340,
+        "datestamp": "2025-09-05",
+        "duration_type": "day",
+        "duration_index": 2,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 1845,
+        "total": {
+          "downloaders": {
+            "size": 42147,
+            "mobile": 2877,
+            "satellite": 110,
+            "tor": 28,
+            "tor_exit_nodes": 20,
+            "vpn": 10615,
+            "relay": 255,
+            "proxy": 87,
+            "hosting": 12737,
+            "service": 10096
+          },
+          "uploaders": {
+            "size": 11618,
+            "mobile": 698,
+            "satellite": 36,
+            "tor": 12,
+            "tor_exit_nodes": 7,
+            "vpn": 3718,
+            "relay": 38,
+            "proxy": 40,
+            "hosting": 4165,
+            "service": 3557
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-day-00003.geojson",
+      "sha256": "ee7c04e45cabfef7a30ffaf020b97674d920601861336d13ef472181b721b93f",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 21319,
+        "datestamp": "2025-09-06",
+        "duration_type": "day",
+        "duration_index": 3,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 2496,
+        "total": {
+          "downloaders": {
+            "size": 75142,
+            "mobile": 4494,
+            "satellite": 167,
+            "tor": 31,
+            "tor_exit_nodes": 16,
+            "vpn": 16325,
+            "relay": 402,
+            "proxy": 98,
+            "hosting": 20182,
+            "service": 15447
+          },
+          "uploaders": {
+            "size": 20773,
+            "mobile": 1183,
+            "satellite": 64,
+            "tor": 13,
+            "tor_exit_nodes": 11,
+            "vpn": 6714,
+            "relay": 113,
+            "proxy": 45,
+            "hosting": 7119,
+            "service": 6513
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-day-00004.geojson",
+      "sha256": "2d75cc1e2125a5c4a36aab81ae482a3b1fd1f36b49195adfc19bf284a015fb06",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 21983,
+        "datestamp": "2025-09-07",
+        "duration_type": "day",
+        "duration_index": 4,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 2362,
+        "total": {
+          "downloaders": {
+            "size": 69533,
+            "mobile": 4006,
+            "satellite": 119,
+            "tor": 29,
+            "tor_exit_nodes": 21,
+            "vpn": 15459,
+            "relay": 382,
+            "proxy": 90,
+            "hosting": 19537,
+            "service": 14654
+          },
+          "uploaders": {
+            "size": 18607,
+            "mobile": 958,
+            "satellite": 51,
+            "tor": 10,
+            "tor_exit_nodes": 11,
+            "vpn": 6112,
+            "relay": 118,
+            "proxy": 43,
+            "hosting": 6602,
+            "service": 5944
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-day-00005.geojson",
+      "sha256": "be8ef856f8dabc0f3d9614495865e1152edcba2683d70d644e7f28368fbedd2b",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 34831,
+        "datestamp": "2025-09-08",
+        "duration_type": "day",
+        "duration_index": 5,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 3050,
+        "total": {
+          "downloaders": {
+            "size": 99884,
+            "mobile": 4854,
+            "satellite": 131,
+            "tor": 43,
+            "tor_exit_nodes": 25,
+            "vpn": 16862,
+            "relay": 360,
+            "proxy": 126,
+            "hosting": 24604,
+            "service": 15392
+          },
+          "uploaders": {
+            "size": 21218,
+            "mobile": 1126,
+            "satellite": 55,
+            "tor": 18,
+            "tor_exit_nodes": 13,
+            "vpn": 6573,
+            "relay": 134,
+            "proxy": 40,
+            "hosting": 7271,
+            "service": 6387
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-day-00006.geojson",
+      "sha256": "7673657185c8a8d7f49f73bd08137e1bb74af43f5f3947ab6299667f40433f98",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 36284,
+        "datestamp": "2025-09-09",
+        "duration_type": "day",
+        "duration_index": 6,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 3158,
+        "total": {
+          "downloaders": {
+            "size": 95498,
+            "mobile": 4667,
+            "satellite": 141,
+            "tor": 46,
+            "tor_exit_nodes": 28,
+            "vpn": 15907,
+            "relay": 365,
+            "proxy": 141,
+            "hosting": 22636,
+            "service": 14671
+          },
+          "uploaders": {
+            "size": 19078,
+            "mobile": 1000,
+            "satellite": 64,
+            "tor": 14,
+            "tor_exit_nodes": 13,
+            "vpn": 6307,
+            "relay": 124,
+            "proxy": 26,
+            "hosting": 6979,
+            "service": 6146
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-day-00007.geojson",
+      "sha256": "1f34935e117d67cd356aec1cc2d9e6cf4bb325a122bc0081270bd1230e8bf538",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 32033,
+        "datestamp": "2025-09-10",
+        "duration_type": "day",
+        "duration_index": 7,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 2732,
+        "total": {
+          "downloaders": {
+            "size": 85923,
+            "mobile": 3924,
+            "satellite": 141,
+            "tor": 40,
+            "tor_exit_nodes": 34,
+            "vpn": 15441,
+            "relay": 332,
+            "proxy": 155,
+            "hosting": 22084,
+            "service": 14129
+          },
+          "uploaders": {
+            "size": 17421,
+            "mobile": 869,
+            "satellite": 59,
+            "tor": 15,
+            "tor_exit_nodes": 12,
+            "vpn": 6043,
+            "relay": 77,
+            "proxy": 30,
+            "hosting": 6676,
+            "service": 5850
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-day-00008.geojson",
+      "sha256": "1dfb28f20ec29b1108015a687698386fc68b74492c6bb535e80e7eaaa99ec517",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 43380,
+        "datestamp": "2025-09-11",
+        "duration_type": "day",
+        "duration_index": 8,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 3327,
+        "total": {
+          "downloaders": {
+            "size": 122863,
+            "mobile": 6011,
+            "satellite": 181,
+            "tor": 61,
+            "tor_exit_nodes": 48,
+            "vpn": 26071,
+            "relay": 497,
+            "proxy": 249,
+            "hosting": 35027,
+            "service": 24085
+          },
+          "uploaders": {
+            "size": 29413,
+            "mobile": 1676,
+            "satellite": 65,
+            "tor": 19,
+            "tor_exit_nodes": 24,
+            "vpn": 9651,
+            "relay": 117,
+            "proxy": 64,
+            "hosting": 10844,
+            "service": 9305
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-day-00009.geojson",
+      "sha256": "a851df3a7d83e39e6019e0ba98515aa40c128f8a77d47b45c3272ee51dd5c695",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 65770,
+        "datestamp": "2025-09-12",
+        "duration_type": "day",
+        "duration_index": 9,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 4829,
+        "total": {
+          "downloaders": {
+            "size": 225950,
+            "mobile": 14592,
+            "satellite": 534,
+            "tor": 145,
+            "tor_exit_nodes": 96,
+            "vpn": 40966,
+            "relay": 1019,
+            "proxy": 417,
+            "hosting": 54136,
+            "service": 37971
+          },
+          "uploaders": {
+            "size": 60963,
+            "mobile": 4172,
+            "satellite": 229,
+            "tor": 29,
+            "tor_exit_nodes": 32,
+            "vpn": 16107,
+            "relay": 269,
+            "proxy": 127,
+            "hosting": 17731,
+            "service": 15626
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-day-00010.geojson",
+      "sha256": "8679b870e00ae28c64ee269f724112f59ae77cd37b62e85568b774bcf2f7e24c",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 62329,
+        "datestamp": "2025-09-13",
+        "duration_type": "day",
+        "duration_index": 10,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 4263,
+        "total": {
+          "downloaders": {
+            "size": 192855,
+            "mobile": 10720,
+            "satellite": 273,
+            "tor": 89,
+            "tor_exit_nodes": 73,
+            "vpn": 33856,
+            "relay": 752,
+            "proxy": 305,
+            "hosting": 47986,
+            "service": 31026
+          },
+          "uploaders": {
+            "size": 47306,
+            "mobile": 2935,
+            "satellite": 102,
+            "tor": 26,
+            "tor_exit_nodes": 32,
+            "vpn": 13482,
+            "relay": 215,
+            "proxy": 89,
+            "hosting": 14974,
+            "service": 13068
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-day-00011.geojson",
+      "sha256": "6db586088cf99414020f4376a1bbce04bc33cc1834d67fd2d4d5abce61b49f54",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 72004,
+        "datestamp": "2025-09-14",
+        "duration_type": "day",
+        "duration_index": 11,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 4494,
+        "total": {
+          "downloaders": {
+            "size": 229555,
+            "mobile": 10159,
+            "satellite": 283,
+            "tor": 135,
+            "tor_exit_nodes": 94,
+            "vpn": 35930,
+            "relay": 851,
+            "proxy": 382,
+            "hosting": 55111,
+            "service": 32016
+          },
+          "uploaders": {
+            "size": 47301,
+            "mobile": 2663,
+            "satellite": 119,
+            "tor": 23,
+            "tor_exit_nodes": 26,
+            "vpn": 13895,
+            "relay": 247,
+            "proxy": 85,
+            "hosting": 15462,
+            "service": 13512
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-day-00012.geojson",
+      "sha256": "0f3e6e1855325c2ef84b47b63fb1a9c62eccd96db4ebc9cc5e366f82c6eb4984",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 79747,
+        "datestamp": "2025-09-15",
+        "duration_type": "day",
+        "duration_index": 12,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 4873,
+        "total": {
+          "downloaders": {
+            "size": 229176,
+            "mobile": 10130,
+            "satellite": 360,
+            "tor": 102,
+            "tor_exit_nodes": 69,
+            "vpn": 34516,
+            "relay": 638,
+            "proxy": 311,
+            "hosting": 53196,
+            "service": 30718
+          },
+          "uploaders": {
+            "size": 39389,
+            "mobile": 2126,
+            "satellite": 149,
+            "tor": 29,
+            "tor_exit_nodes": 16,
+            "vpn": 12650,
+            "relay": 164,
+            "proxy": 77,
+            "hosting": 14211,
+            "service": 12253
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-day-00013.geojson",
+      "sha256": "0c47ade2b762893f20cf9fac8d13f2b26446fe5880375a96563c3407f8bd884d",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 77271,
+        "datestamp": "2025-09-16",
+        "duration_type": "day",
+        "duration_index": 13,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 4639,
+        "total": {
+          "downloaders": {
+            "size": 227832,
+            "mobile": 9193,
+            "satellite": 283,
+            "tor": 102,
+            "tor_exit_nodes": 59,
+            "vpn": 34215,
+            "relay": 669,
+            "proxy": 368,
+            "hosting": 54890,
+            "service": 30265
+          },
+          "uploaders": {
+            "size": 33609,
+            "mobile": 1650,
+            "satellite": 109,
+            "tor": 22,
+            "tor_exit_nodes": 17,
+            "vpn": 11600,
+            "relay": 176,
+            "proxy": 78,
+            "hosting": 13136,
+            "service": 11281
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-day-00014.geojson",
+      "sha256": "8d855bdcd0189c0a623d00abbce59887614b3e183b911374394934dedf9e7624",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 81022,
+        "datestamp": "2025-09-17",
+        "duration_type": "day",
+        "duration_index": 14,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 4742,
+        "total": {
+          "downloaders": {
+            "size": 231648,
+            "mobile": 9023,
+            "satellite": 341,
+            "tor": 114,
+            "tor_exit_nodes": 101,
+            "vpn": 33752,
+            "relay": 584,
+            "proxy": 376,
+            "hosting": 54157,
+            "service": 29751
+          },
+          "uploaders": {
+            "size": 33842,
+            "mobile": 1584,
+            "satellite": 148,
+            "tor": 21,
+            "tor_exit_nodes": 20,
+            "vpn": 11745,
+            "relay": 156,
+            "proxy": 102,
+            "hosting": 13328,
+            "service": 11375
+          }
+        }
+      },
+      "members": []
+    },
+    {
+      "file": "dan-da-dan-210-week-00001.geojson",
+      "sha256": "cfa42ba8ceee949bdc0eef5a660a2ca61d5af2f5e621a2a12380bda3539fd51b",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 83803,
+        "datestamp": "2025-09-04-to-2025-09-10-partial",
+        "duration_type": "week",
+        "duration_index": 1,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 6466,
+        "total": {
+          "downloaders": {
+            "size": 377809,
+            "mobile": 20802,
+            "satellite": 588,
+            "tor": 141,
+            "tor_exit_nodes": 78,
+            "vpn": 56532,
+            "relay": 1449,
+            "proxy": 413,
+            "hosting": 80255,
+            "service": 51384
+          },
+          "uploaders": {
+            "size": 66866,
+            "mobile": 4191,
+            "satellite": 223,
+            "tor": 31,
+            "tor_exit_nodes": 20,
+            "vpn": 19663,
+            "relay": 460,
+            "proxy": 103,
+            "hosting": 21236,
+            "service": 19162
+          }
+        }
+      },
+      "members": [
+        {
+          "tid": 1,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 3,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 4,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 6,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 7,
+          "cells": 236,
+          "total": {
+            "downloaders": 2420,
+            "uploaders": 87
+          }
+        },
+        {
+          "tid": 8,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 9,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 10,
+          "cells": 272,
+          "total": {
+            "downloaders": 3011,
+            "uploaders": 961
+          }
+        },
+        {
+          "tid": 11,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 12,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 13,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 27,
+          "cells": 151,
+          "total": {
+            "downloaders": 1121,
+            "uploaders": 81
+          }
+        },
+        {
+          "tid": 28,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 29,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 30,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 31,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 32,
+          "cells": 821,
+          "total": {
+            "downloaders": 11607,
+            "uploaders": 871
+          }
+        },
+        {
+          "tid": 33,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 34,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 35,
+          "cells": 874,
+          "total": {
+            "downloaders": 13464,
+            "uploaders": 1747
+          }
+        },
+        {
+          "tid": 36,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 37,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 40,
+          "cells": 697,
+          "total": {
+            "downloaders": 9551,
+            "uploaders": 1749
+          }
+        },
+        {
+          "tid": 41,
+          "cells": 184,
+          "total": {
+            "downloaders": 1530,
+            "uploaders": 95
+          }
+        },
+        {
+          "tid": 46,
+          "cells": 246,
+          "total": {
+            "downloaders": 2185,
+            "uploaders": 155
+          }
+        },
+        {
+          "tid": 47,
+          "cells": 194,
+          "total": {
+            "downloaders": 1688,
+            "uploaders": 83
+          }
+        },
+        {
+          "tid": 52,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 57,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 75,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 76,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 85,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 86,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 87,
+          "cells": 254,
+          "total": {
+            "downloaders": 2436,
+            "uploaders": 173
+          }
+        },
+        {
+          "tid": 88,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 89,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 90,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 91,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 92,
+          "cells": 56,
+          "total": {
+            "downloaders": 800,
+            "uploaders": 343
+          }
+        },
+        {
+          "tid": 93,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 94,
+          "cells": 123,
+          "total": {
+            "downloaders": 3473,
+            "uploaders": 524
+          }
+        },
+        {
+          "tid": 95,
+          "cells": 223,
+          "total": {
+            "downloaders": 2321,
+            "uploaders": 97
+          }
+        },
+        {
+          "tid": 96,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 97,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 98,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 99,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 100,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 101,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 102,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 108,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 109,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 110,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 111,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 112,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 113,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 114,
+          "cells": 243,
+          "total": {
+            "downloaders": 2218,
+            "uploaders": 137
+          }
+        },
+        {
+          "tid": 115,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 116,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 117,
+          "cells": 615,
+          "total": {
+            "downloaders": 8975,
+            "uploaders": 457
+          }
+        },
+        {
+          "tid": 118,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 119,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 120,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 121,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 122,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 123,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 124,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 125,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 126,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 127,
+          "cells": 211,
+          "total": {
+            "downloaders": 1862,
+            "uploaders": 69
+          }
+        },
+        {
+          "tid": 128,
+          "cells": 2,
+          "total": {
+            "downloaders": 7,
+            "uploaders": 1
+          }
+        },
+        {
+          "tid": 129,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 130,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 131,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 132,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 133,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 134,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 135,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 136,
+          "cells": 210,
+          "total": {
+            "downloaders": 1644,
+            "uploaders": 96
+          }
+        },
+        {
+          "tid": 139,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 140,
+          "cells": 1675,
+          "total": {
+            "downloaders": 39257,
+            "uploaders": 19148
+          }
+        },
+        {
+          "tid": 141,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 142,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 143,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 144,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 145,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 146,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 148,
+          "cells": 303,
+          "total": {
+            "downloaders": 2873,
+            "uploaders": 81
+          }
+        },
+        {
+          "tid": 149,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 150,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 151,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 152,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 153,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 154,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 155,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 156,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 157,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 158,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 159,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 160,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 168,
+          "cells": 407,
+          "total": {
+            "downloaders": 4722,
+            "uploaders": 413
+          }
+        },
+        {
+          "tid": 169,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 172,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 173,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 174,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 176,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 177,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 178,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 179,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 180,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 181,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 182,
+          "cells": 195,
+          "total": {
+            "downloaders": 1676,
+            "uploaders": 53
+          }
+        },
+        {
+          "tid": 183,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 184,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 185,
+          "cells": 19,
+          "total": {
+            "downloaders": 202,
+            "uploaders": 54
+          }
+        },
+        {
+          "tid": 188,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 191,
+          "cells": 162,
+          "total": {
+            "downloaders": 1396,
+            "uploaders": 133
+          }
+        },
+        {
+          "tid": 192,
+          "cells": 152,
+          "total": {
+            "downloaders": 1273,
+            "uploaders": 71
+          }
+        },
+        {
+          "tid": 193,
+          "cells": 201,
+          "total": {
+            "downloaders": 1593,
+            "uploaders": 30
+          }
+        },
+        {
+          "tid": 194,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 196,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 200,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 205,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 206,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 207,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 217,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 218,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 219,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 220,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 221,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 222,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 223,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 225,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 226,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 227,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 228,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 229,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 230,
+          "cells": 1,
+          "total": {
+            "downloaders": 3,
+            "uploaders": 3
+          }
+        },
+        {
+          "tid": 231,
+          "cells": 18,
+          "total": {
+            "downloaders": 112,
+            "uploaders": 48
+          }
+        },
+        {
+          "tid": 234,
+          "cells": 41,
+          "total": {
+            "downloaders": 412,
+            "uploaders": 207
+          }
+        },
+        {
+          "tid": 235,
+          "cells": 438,
+          "total": {
+            "downloaders": 6391,
+            "uploaders": 667
+          }
+        },
+        {
+          "tid": 236,
+          "cells": 1,
+          "total": {
+            "downloaders": 4,
+            "uploaders": 3
+          }
+        },
+        {
+          "tid": 239,
+          "cells": 2,
+          "total": {
+            "downloaders": 6,
+            "uploaders": 3
+          }
+        },
+        {
+          "tid": 242,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 243,
+          "cells": 37,
+          "total": {
+            "downloaders": 264,
+            "uploaders": 90
+          }
+        },
+        {
+          "tid": 246,
+          "cells": 179,
+          "total": {
+            "downloaders": 1646,
+            "uploaders": 57
+          }
+        },
+        {
+          "tid": 247,
+          "cells": 163,
+          "total": {
+            "downloaders": 1344,
+            "uploaders": 52
+          }
+        },
+        {
+          "tid": 248,
+          "cells": 185,
+          "total": {
+            "downloaders": 1778,
+            "uploaders": 114
+          }
+        },
+        {
+          "tid": 255,
+          "cells": 348,
+          "total": {
+            "downloaders": 3728,
+            "uploaders": 158
+          }
+        },
+        {
+          "tid": 256,
+          "cells": 172,
+          "total": {
+            "downloaders": 1416,
+            "uploaders": 78
+          }
+        },
+        {
+          "tid": 259,
+          "cells": 309,
+          "total": {
+            "downloaders": 3228,
+            "uploaders": 35
+          }
+        },
+        {
+          "tid": 260,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 263,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 264,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 265,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 266,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 267,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 268,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 271,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 275,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 290,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 291,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 292,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 293,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 294,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 295,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 296,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 297,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 300,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 301,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 302,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 303,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 306,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 309,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 324,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 325,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 326,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 327,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 328,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 329,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 330,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 331,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 333,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 334,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 335,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 336,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 337,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 338,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 343,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 344,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 345,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 346,
+          "cells": 200,
+          "total": {
+            "downloaders": 1722,
+            "uploaders": 103
+          }
+        },
+        {
+          "tid": 347,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 348,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 349,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 350,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 351,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 352,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 353,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 356,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 357,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 358,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 359,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 360,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 362,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 363,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 364,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 365,
+          "cells": 377,
+          "total": {
+            "downloaders": 3916,
+            "uploaders": 42
+          }
+        },
+        {
+          "tid": 366,
+          "cells": 126,
+          "total": {
+            "downloaders": 894,
+            "uploaders": 14
+          }
+        },
+        {
+          "tid": 367,
+          "cells": 154,
+          "total": {
+            "downloaders": 1217,
+            "uploaders": 23
+          }
+        },
+        {
+          "tid": 368,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 369,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 370,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 371,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 372,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 373,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 374,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 375,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 377,
+          "cells": 442,
+          "total": {
+            "downloaders": 5057,
+            "uploaders": 406
+          }
+        },
+        {
+          "tid": 379,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 380,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 381,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 382,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 383,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 384,
+          "cells": 120,
+          "total": {
+            "downloaders": 1504,
+            "uploaders": 114
+          }
+        },
+        {
+          "tid": 385,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 386,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 387,
+          "cells": 620,
+          "total": {
+            "downloaders": 11956,
+            "uploaders": 2895
+          }
+        },
+        {
+          "tid": 388,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 389,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 390,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 391,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 392,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 393,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 394,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 395,
+          "cells": 368,
+          "total": {
+            "downloaders": 4562,
+            "uploaders": 320
+          }
+        },
+        {
+          "tid": 396,
+          "cells": 304,
+          "total": {
+            "downloaders": 3216,
+            "uploaders": 64
+          }
+        },
+        {
+          "tid": 397,
+          "cells": 579,
+          "total": {
+            "downloaders": 7402,
+            "uploaders": 602
+          }
+        },
+        {
+          "tid": 398,
+          "cells": 377,
+          "total": {
+            "downloaders": 5537,
+            "uploaders": 136
+          }
+        },
+        {
+          "tid": 399,
+          "cells": 1106,
+          "total": {
+            "downloaders": 24079,
+            "uploaders": 10932
+          }
+        },
+        {
+          "tid": 400,
+          "cells": 423,
+          "total": {
+            "downloaders": 5362,
+            "uploaders": 171
+          }
+        },
+        {
+          "tid": 401,
+          "cells": 827,
+          "total": {
+            "downloaders": 12650,
+            "uploaders": 493
+          }
+        },
+        {
+          "tid": 402,
+          "cells": 733,
+          "total": {
+            "downloaders": 10695,
+            "uploaders": 2406
+          }
+        },
+        {
+          "tid": 403,
+          "cells": 604,
+          "total": {
+            "downloaders": 8911,
+            "uploaders": 148
+          }
+        },
+        {
+          "tid": 404,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 405,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 406,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 407,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 408,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 409,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 410,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 411,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 412,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 413,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 414,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 415,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 416,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 417,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 418,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 419,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 420,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 421,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 422,
+          "cells": 498,
+          "total": {
+            "downloaders": 5951,
+            "uploaders": 599
+          }
+        },
+        {
+          "tid": 423,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 424,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 425,
+          "cells": 360,
+          "total": {
+            "downloaders": 15483,
+            "uploaders": 5388
+          }
+        },
+        {
+          "tid": 426,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 427,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 428,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 429,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 430,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 431,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 432,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 433,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 434,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 435,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 436,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 437,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 438,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 439,
+          "cells": 715,
+          "total": {
+            "downloaders": 9686,
+            "uploaders": 3114
+          }
+        },
+        {
+          "tid": 440,
+          "cells": 765,
+          "total": {
+            "downloaders": 9940,
+            "uploaders": 1162
+          }
+        },
+        {
+          "tid": 441,
+          "cells": 361,
+          "total": {
+            "downloaders": 3950,
+            "uploaders": 75
+          }
+        },
+        {
+          "tid": 442,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 443,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 444,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 445,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 446,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 447,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 448,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 449,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 450,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 451,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 452,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 453,
+          "cells": 915,
+          "total": {
+            "downloaders": 13140,
+            "uploaders": 1160
+          }
+        },
+        {
+          "tid": 454,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 455,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 456,
+          "cells": 14,
+          "total": {
+            "downloaders": 77,
+            "uploaders": 9
+          }
+        },
+        {
+          "tid": 457,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 458,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 459,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 460,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 461,
+          "cells": 71,
+          "total": {
+            "downloaders": 617,
+            "uploaders": 101
+          }
+        },
+        {
+          "tid": 462,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        }
+      ]
+    },
+    {
+      "file": "dan-da-dan-210-week-00002.geojson",
+      "sha256": "6c740b1e250822e52d4d04456d9379104a47f466ab56ccd04374ebde5a9be121",
+      "metadata": {
+        "type": "FeatureCollection",
+        "id": "dan-da-dan-210",
+        "swarm_geo_partition_by": "hexagon",
+        "swarm_selection_policy": "downloader-threshold",
+        "classification_availability": "unknown: backend configuration does not establish per-record lookup success",
+        "configured_geolocation_mode": 6,
+        "swarm_hexagon_resolution": 5,
+        "swarm_size_min": 3,
+        "swarm_features_size": 226888,
+        "datestamp": "2025-09-11-to-2025-09-17",
+        "duration_type": "week",
+        "duration_index": 2,
+        "data_version": "20260701",
+        "btiha_size": 301
+      },
+      "aggregate": {
+        "cells": 10247,
+        "total": {
+          "downloaders": {
+            "size": 1182951,
+            "mobile": 58878,
+            "satellite": 1720,
+            "tor": 475,
+            "tor_exit_nodes": 320,
+            "vpn": 149212,
+            "relay": 3367,
+            "proxy": 1461,
+            "hosting": 235548,
+            "service": 129245
+          },
+          "uploaders": {
+            "size": 167370,
+            "mobile": 11619,
+            "satellite": 661,
+            "tor": 56,
+            "tor_exit_nodes": 54,
+            "vpn": 47046,
+            "relay": 1034,
+            "proxy": 308,
+            "hosting": 52160,
+            "service": 45946
+          }
+        }
+      },
+      "members": [
+        {
+          "tid": 1,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 3,
+          "cells": 408,
+          "total": {
+            "downloaders": 29297,
+            "uploaders": 12906
+          }
+        },
+        {
+          "tid": 4,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 6,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 7,
+          "cells": 416,
+          "total": {
+            "downloaders": 5662,
+            "uploaders": 223
+          }
+        },
+        {
+          "tid": 8,
+          "cells": 397,
+          "total": {
+            "downloaders": 4998,
+            "uploaders": 451
+          }
+        },
+        {
+          "tid": 9,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 10,
+          "cells": 550,
+          "total": {
+            "downloaders": 7263,
+            "uploaders": 1174
+          }
+        },
+        {
+          "tid": 11,
+          "cells": 1026,
+          "total": {
+            "downloaders": 16797,
+            "uploaders": 5708
+          }
+        },
+        {
+          "tid": 12,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 13,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 27,
+          "cells": 306,
+          "total": {
+            "downloaders": 3506,
+            "uploaders": 131
+          }
+        },
+        {
+          "tid": 28,
+          "cells": 184,
+          "total": {
+            "downloaders": 1862,
+            "uploaders": 129
+          }
+        },
+        {
+          "tid": 29,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 30,
+          "cells": 149,
+          "total": {
+            "downloaders": 1238,
+            "uploaders": 47
+          }
+        },
+        {
+          "tid": 31,
+          "cells": 25,
+          "total": {
+            "downloaders": 184,
+            "uploaders": 18
+          }
+        },
+        {
+          "tid": 32,
+          "cells": 726,
+          "total": {
+            "downloaders": 11921,
+            "uploaders": 408
+          }
+        },
+        {
+          "tid": 33,
+          "cells": 619,
+          "total": {
+            "downloaders": 8350,
+            "uploaders": 933
+          }
+        },
+        {
+          "tid": 34,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 35,
+          "cells": 840,
+          "total": {
+            "downloaders": 14032,
+            "uploaders": 1021
+          }
+        },
+        {
+          "tid": 36,
+          "cells": 289,
+          "total": {
+            "downloaders": 3187,
+            "uploaders": 178
+          }
+        },
+        {
+          "tid": 37,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 40,
+          "cells": 497,
+          "total": {
+            "downloaders": 7158,
+            "uploaders": 418
+          }
+        },
+        {
+          "tid": 41,
+          "cells": 329,
+          "total": {
+            "downloaders": 4132,
+            "uploaders": 161
+          }
+        },
+        {
+          "tid": 46,
+          "cells": 487,
+          "total": {
+            "downloaders": 6376,
+            "uploaders": 233
+          }
+        },
+        {
+          "tid": 47,
+          "cells": 432,
+          "total": {
+            "downloaders": 5244,
+            "uploaders": 147
+          }
+        },
+        {
+          "tid": 52,
+          "cells": 395,
+          "total": {
+            "downloaders": 4112,
+            "uploaders": 589
+          }
+        },
+        {
+          "tid": 57,
+          "cells": 669,
+          "total": {
+            "downloaders": 8648,
+            "uploaders": 636
+          }
+        },
+        {
+          "tid": 75,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 76,
+          "cells": 303,
+          "total": {
+            "downloaders": 3483,
+            "uploaders": 60
+          }
+        },
+        {
+          "tid": 85,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 86,
+          "cells": 71,
+          "total": {
+            "downloaders": 577,
+            "uploaders": 39
+          }
+        },
+        {
+          "tid": 87,
+          "cells": 439,
+          "total": {
+            "downloaders": 6330,
+            "uploaders": 143
+          }
+        },
+        {
+          "tid": 88,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 89,
+          "cells": 343,
+          "total": {
+            "downloaders": 4236,
+            "uploaders": 151
+          }
+        },
+        {
+          "tid": 90,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 91,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 92,
+          "cells": 271,
+          "total": {
+            "downloaders": 7697,
+            "uploaders": 1737
+          }
+        },
+        {
+          "tid": 93,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 94,
+          "cells": 426,
+          "total": {
+            "downloaders": 9003,
+            "uploaders": 514
+          }
+        },
+        {
+          "tid": 95,
+          "cells": 301,
+          "total": {
+            "downloaders": 4039,
+            "uploaders": 231
+          }
+        },
+        {
+          "tid": 96,
+          "cells": 64,
+          "total": {
+            "downloaders": 1369,
+            "uploaders": 177
+          }
+        },
+        {
+          "tid": 97,
+          "cells": 175,
+          "total": {
+            "downloaders": 1882,
+            "uploaders": 64
+          }
+        },
+        {
+          "tid": 98,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 99,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 100,
+          "cells": 373,
+          "total": {
+            "downloaders": 4610,
+            "uploaders": 291
+          }
+        },
+        {
+          "tid": 101,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 102,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 108,
+          "cells": 153,
+          "total": {
+            "downloaders": 1589,
+            "uploaders": 33
+          }
+        },
+        {
+          "tid": 109,
+          "cells": 157,
+          "total": {
+            "downloaders": 1607,
+            "uploaders": 69
+          }
+        },
+        {
+          "tid": 110,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 111,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 112,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 113,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 114,
+          "cells": 308,
+          "total": {
+            "downloaders": 3457,
+            "uploaders": 171
+          }
+        },
+        {
+          "tid": 115,
+          "cells": 211,
+          "total": {
+            "downloaders": 2250,
+            "uploaders": 173
+          }
+        },
+        {
+          "tid": 116,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 117,
+          "cells": 378,
+          "total": {
+            "downloaders": 4511,
+            "uploaders": 229
+          }
+        },
+        {
+          "tid": 118,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 119,
+          "cells": 112,
+          "total": {
+            "downloaders": 1747,
+            "uploaders": 196
+          }
+        },
+        {
+          "tid": 120,
+          "cells": 200,
+          "total": {
+            "downloaders": 2037,
+            "uploaders": 86
+          }
+        },
+        {
+          "tid": 121,
+          "cells": 180,
+          "total": {
+            "downloaders": 2321,
+            "uploaders": 131
+          }
+        },
+        {
+          "tid": 122,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 123,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 124,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 125,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 126,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 127,
+          "cells": 434,
+          "total": {
+            "downloaders": 6412,
+            "uploaders": 69
+          }
+        },
+        {
+          "tid": 128,
+          "cells": 343,
+          "total": {
+            "downloaders": 3768,
+            "uploaders": 68
+          }
+        },
+        {
+          "tid": 129,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 130,
+          "cells": 214,
+          "total": {
+            "downloaders": 1925,
+            "uploaders": 26
+          }
+        },
+        {
+          "tid": 131,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 132,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 133,
+          "cells": 168,
+          "total": {
+            "downloaders": 1709,
+            "uploaders": 77
+          }
+        },
+        {
+          "tid": 134,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 135,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 136,
+          "cells": 573,
+          "total": {
+            "downloaders": 9327,
+            "uploaders": 226
+          }
+        },
+        {
+          "tid": 139,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 140,
+          "cells": 1255,
+          "total": {
+            "downloaders": 29117,
+            "uploaders": 15070
+          }
+        },
+        {
+          "tid": 141,
+          "cells": 1843,
+          "total": {
+            "downloaders": 47515,
+            "uploaders": 22196
+          }
+        },
+        {
+          "tid": 142,
+          "cells": 732,
+          "total": {
+            "downloaders": 10884,
+            "uploaders": 981
+          }
+        },
+        {
+          "tid": 143,
+          "cells": 1005,
+          "total": {
+            "downloaders": 16935,
+            "uploaders": 5249
+          }
+        },
+        {
+          "tid": 144,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 145,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 146,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 148,
+          "cells": 483,
+          "total": {
+            "downloaders": 6789,
+            "uploaders": 68
+          }
+        },
+        {
+          "tid": 149,
+          "cells": 40,
+          "total": {
+            "downloaders": 226,
+            "uploaders": 19
+          }
+        },
+        {
+          "tid": 150,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 151,
+          "cells": 333,
+          "total": {
+            "downloaders": 4096,
+            "uploaders": 316
+          }
+        },
+        {
+          "tid": 152,
+          "cells": 335,
+          "total": {
+            "downloaders": 3785,
+            "uploaders": 228
+          }
+        },
+        {
+          "tid": 153,
+          "cells": 270,
+          "total": {
+            "downloaders": 3741,
+            "uploaders": 648
+          }
+        },
+        {
+          "tid": 154,
+          "cells": 330,
+          "total": {
+            "downloaders": 4008,
+            "uploaders": 286
+          }
+        },
+        {
+          "tid": 155,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 156,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 157,
+          "cells": 323,
+          "total": {
+            "downloaders": 3592,
+            "uploaders": 72
+          }
+        },
+        {
+          "tid": 158,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 159,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 160,
+          "cells": 194,
+          "total": {
+            "downloaders": 1886,
+            "uploaders": 73
+          }
+        },
+        {
+          "tid": 168,
+          "cells": 521,
+          "total": {
+            "downloaders": 7058,
+            "uploaders": 279
+          }
+        },
+        {
+          "tid": 169,
+          "cells": 537,
+          "total": {
+            "downloaders": 7004,
+            "uploaders": 493
+          }
+        },
+        {
+          "tid": 172,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 173,
+          "cells": 258,
+          "total": {
+            "downloaders": 3411,
+            "uploaders": 348
+          }
+        },
+        {
+          "tid": 174,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 176,
+          "cells": 128,
+          "total": {
+            "downloaders": 1060,
+            "uploaders": 188
+          }
+        },
+        {
+          "tid": 177,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 178,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 179,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 180,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 181,
+          "cells": 3,
+          "total": {
+            "downloaders": 104,
+            "uploaders": 46
+          }
+        },
+        {
+          "tid": 182,
+          "cells": 236,
+          "total": {
+            "downloaders": 2630,
+            "uploaders": 90
+          }
+        },
+        {
+          "tid": 183,
+          "cells": 12,
+          "total": {
+            "downloaders": 212,
+            "uploaders": 34
+          }
+        },
+        {
+          "tid": 184,
+          "cells": 21,
+          "total": {
+            "downloaders": 208,
+            "uploaders": 79
+          }
+        },
+        {
+          "tid": 185,
+          "cells": 25,
+          "total": {
+            "downloaders": 346,
+            "uploaders": 98
+          }
+        },
+        {
+          "tid": 188,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 191,
+          "cells": 340,
+          "total": {
+            "downloaders": 3947,
+            "uploaders": 149
+          }
+        },
+        {
+          "tid": 192,
+          "cells": 475,
+          "total": {
+            "downloaders": 6007,
+            "uploaders": 111
+          }
+        },
+        {
+          "tid": 193,
+          "cells": 384,
+          "total": {
+            "downloaders": 4763,
+            "uploaders": 40
+          }
+        },
+        {
+          "tid": 194,
+          "cells": 32,
+          "total": {
+            "downloaders": 389,
+            "uploaders": 150
+          }
+        },
+        {
+          "tid": 196,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 200,
+          "cells": 290,
+          "total": {
+            "downloaders": 3440,
+            "uploaders": 337
+          }
+        },
+        {
+          "tid": 205,
+          "cells": 400,
+          "total": {
+            "downloaders": 4551,
+            "uploaders": 109
+          }
+        },
+        {
+          "tid": 206,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 207,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 217,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 218,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 219,
+          "cells": 617,
+          "total": {
+            "downloaders": 8923,
+            "uploaders": 1067
+          }
+        },
+        {
+          "tid": 220,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 221,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 222,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 223,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 225,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 226,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 227,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 228,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 229,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 230,
+          "cells": 1,
+          "total": {
+            "downloaders": 4,
+            "uploaders": 4
+          }
+        },
+        {
+          "tid": 231,
+          "cells": 24,
+          "total": {
+            "downloaders": 234,
+            "uploaders": 72
+          }
+        },
+        {
+          "tid": 234,
+          "cells": 40,
+          "total": {
+            "downloaders": 442,
+            "uploaders": 211
+          }
+        },
+        {
+          "tid": 235,
+          "cells": 289,
+          "total": {
+            "downloaders": 3821,
+            "uploaders": 325
+          }
+        },
+        {
+          "tid": 236,
+          "cells": 1,
+          "total": {
+            "downloaders": 4,
+            "uploaders": 3
+          }
+        },
+        {
+          "tid": 239,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 242,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 243,
+          "cells": 28,
+          "total": {
+            "downloaders": 246,
+            "uploaders": 70
+          }
+        },
+        {
+          "tid": 246,
+          "cells": 218,
+          "total": {
+            "downloaders": 2107,
+            "uploaders": 63
+          }
+        },
+        {
+          "tid": 247,
+          "cells": 339,
+          "total": {
+            "downloaders": 3842,
+            "uploaders": 97
+          }
+        },
+        {
+          "tid": 248,
+          "cells": 380,
+          "total": {
+            "downloaders": 4548,
+            "uploaders": 200
+          }
+        },
+        {
+          "tid": 255,
+          "cells": 454,
+          "total": {
+            "downloaders": 6542,
+            "uploaders": 212
+          }
+        },
+        {
+          "tid": 256,
+          "cells": 319,
+          "total": {
+            "downloaders": 3804,
+            "uploaders": 136
+          }
+        },
+        {
+          "tid": 259,
+          "cells": 342,
+          "total": {
+            "downloaders": 4285,
+            "uploaders": 41
+          }
+        },
+        {
+          "tid": 260,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 263,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 264,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 265,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 266,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 267,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 268,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 271,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 275,
+          "cells": 367,
+          "total": {
+            "downloaders": 4283,
+            "uploaders": 129
+          }
+        },
+        {
+          "tid": 290,
+          "cells": 110,
+          "total": {
+            "downloaders": 804,
+            "uploaders": 52
+          }
+        },
+        {
+          "tid": 291,
+          "cells": 466,
+          "total": {
+            "downloaders": 6439,
+            "uploaders": 148
+          }
+        },
+        {
+          "tid": 292,
+          "cells": 173,
+          "total": {
+            "downloaders": 1559,
+            "uploaders": 93
+          }
+        },
+        {
+          "tid": 293,
+          "cells": 298,
+          "total": {
+            "downloaders": 3161,
+            "uploaders": 47
+          }
+        },
+        {
+          "tid": 294,
+          "cells": 141,
+          "total": {
+            "downloaders": 1363,
+            "uploaders": 187
+          }
+        },
+        {
+          "tid": 295,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 296,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 297,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 300,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 301,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 302,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 303,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 306,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 309,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 324,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 325,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 326,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 327,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 328,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 329,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 330,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 331,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 333,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 334,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 335,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 336,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 337,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 338,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 343,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 344,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 345,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 346,
+          "cells": 485,
+          "total": {
+            "downloaders": 6674,
+            "uploaders": 252
+          }
+        },
+        {
+          "tid": 347,
+          "cells": 354,
+          "total": {
+            "downloaders": 4126,
+            "uploaders": 212
+          }
+        },
+        {
+          "tid": 348,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 349,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 350,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 351,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 352,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 353,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 356,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 357,
+          "cells": 29,
+          "total": {
+            "downloaders": 442,
+            "uploaders": 143
+          }
+        },
+        {
+          "tid": 358,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 359,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 360,
+          "cells": 268,
+          "total": {
+            "downloaders": 2897,
+            "uploaders": 243
+          }
+        },
+        {
+          "tid": 362,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 363,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 364,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 365,
+          "cells": 539,
+          "total": {
+            "downloaders": 9222,
+            "uploaders": 126
+          }
+        },
+        {
+          "tid": 366,
+          "cells": 260,
+          "total": {
+            "downloaders": 2837,
+            "uploaders": 30
+          }
+        },
+        {
+          "tid": 367,
+          "cells": 265,
+          "total": {
+            "downloaders": 2735,
+            "uploaders": 47
+          }
+        },
+        {
+          "tid": 368,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 369,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 370,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 371,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 372,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 373,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 374,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 375,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 377,
+          "cells": 338,
+          "total": {
+            "downloaders": 5133,
+            "uploaders": 677
+          }
+        },
+        {
+          "tid": 379,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 380,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 381,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 382,
+          "cells": 231,
+          "total": {
+            "downloaders": 2864,
+            "uploaders": 58
+          }
+        },
+        {
+          "tid": 383,
+          "cells": 312,
+          "total": {
+            "downloaders": 3631,
+            "uploaders": 102
+          }
+        },
+        {
+          "tid": 384,
+          "cells": 561,
+          "total": {
+            "downloaders": 8815,
+            "uploaders": 227
+          }
+        },
+        {
+          "tid": 385,
+          "cells": 730,
+          "total": {
+            "downloaders": 12684,
+            "uploaders": 400
+          }
+        },
+        {
+          "tid": 386,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 387,
+          "cells": 571,
+          "total": {
+            "downloaders": 13273,
+            "uploaders": 3046
+          }
+        },
+        {
+          "tid": 388,
+          "cells": 406,
+          "total": {
+            "downloaders": 7692,
+            "uploaders": 3154
+          }
+        },
+        {
+          "tid": 389,
+          "cells": 920,
+          "total": {
+            "downloaders": 17448,
+            "uploaders": 221
+          }
+        },
+        {
+          "tid": 390,
+          "cells": 491,
+          "total": {
+            "downloaders": 6910,
+            "uploaders": 122
+          }
+        },
+        {
+          "tid": 391,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 392,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 393,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 394,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 395,
+          "cells": 752,
+          "total": {
+            "downloaders": 12553,
+            "uploaders": 298
+          }
+        },
+        {
+          "tid": 396,
+          "cells": 302,
+          "total": {
+            "downloaders": 3777,
+            "uploaders": 58
+          }
+        },
+        {
+          "tid": 397,
+          "cells": 752,
+          "total": {
+            "downloaders": 11935,
+            "uploaders": 432
+          }
+        },
+        {
+          "tid": 398,
+          "cells": 585,
+          "total": {
+            "downloaders": 10329,
+            "uploaders": 186
+          }
+        },
+        {
+          "tid": 399,
+          "cells": 1123,
+          "total": {
+            "downloaders": 27160,
+            "uploaders": 10311
+          }
+        },
+        {
+          "tid": 400,
+          "cells": 682,
+          "total": {
+            "downloaders": 12106,
+            "uploaders": 294
+          }
+        },
+        {
+          "tid": 401,
+          "cells": 789,
+          "total": {
+            "downloaders": 15234,
+            "uploaders": 246
+          }
+        },
+        {
+          "tid": 402,
+          "cells": 1079,
+          "total": {
+            "downloaders": 21114,
+            "uploaders": 1283
+          }
+        },
+        {
+          "tid": 403,
+          "cells": 459,
+          "total": {
+            "downloaders": 6750,
+            "uploaders": 105
+          }
+        },
+        {
+          "tid": 404,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 405,
+          "cells": 998,
+          "total": {
+            "downloaders": 19268,
+            "uploaders": 2943
+          }
+        },
+        {
+          "tid": 406,
+          "cells": 1003,
+          "total": {
+            "downloaders": 22377,
+            "uploaders": 9607
+          }
+        },
+        {
+          "tid": 407,
+          "cells": 468,
+          "total": {
+            "downloaders": 6964,
+            "uploaders": 218
+          }
+        },
+        {
+          "tid": 408,
+          "cells": 744,
+          "total": {
+            "downloaders": 12126,
+            "uploaders": 394
+          }
+        },
+        {
+          "tid": 409,
+          "cells": 643,
+          "total": {
+            "downloaders": 11594,
+            "uploaders": 565
+          }
+        },
+        {
+          "tid": 410,
+          "cells": 297,
+          "total": {
+            "downloaders": 3777,
+            "uploaders": 420
+          }
+        },
+        {
+          "tid": 411,
+          "cells": 1010,
+          "total": {
+            "downloaders": 19802,
+            "uploaders": 7371
+          }
+        },
+        {
+          "tid": 412,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 413,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 414,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 415,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 416,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 417,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 418,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 419,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 420,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 421,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 422,
+          "cells": 502,
+          "total": {
+            "downloaders": 7931,
+            "uploaders": 409
+          }
+        },
+        {
+          "tid": 423,
+          "cells": 231,
+          "total": {
+            "downloaders": 2509,
+            "uploaders": 273
+          }
+        },
+        {
+          "tid": 424,
+          "cells": 28,
+          "total": {
+            "downloaders": 300,
+            "uploaders": 75
+          }
+        },
+        {
+          "tid": 425,
+          "cells": 786,
+          "total": {
+            "downloaders": 23167,
+            "uploaders": 4859
+          }
+        },
+        {
+          "tid": 426,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 427,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 428,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 429,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 430,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 431,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 432,
+          "cells": 422,
+          "total": {
+            "downloaders": 5174,
+            "uploaders": 50
+          }
+        },
+        {
+          "tid": 433,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 434,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 435,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 436,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 437,
+          "cells": 296,
+          "total": {
+            "downloaders": 4232,
+            "uploaders": 874
+          }
+        },
+        {
+          "tid": 438,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 439,
+          "cells": 735,
+          "total": {
+            "downloaders": 10609,
+            "uploaders": 1742
+          }
+        },
+        {
+          "tid": 440,
+          "cells": 570,
+          "total": {
+            "downloaders": 8578,
+            "uploaders": 284
+          }
+        },
+        {
+          "tid": 441,
+          "cells": 430,
+          "total": {
+            "downloaders": 6747,
+            "uploaders": 117
+          }
+        },
+        {
+          "tid": 442,
+          "cells": 1227,
+          "total": {
+            "downloaders": 21096,
+            "uploaders": 7780
+          }
+        },
+        {
+          "tid": 443,
+          "cells": 1002,
+          "total": {
+            "downloaders": 16976,
+            "uploaders": 3312
+          }
+        },
+        {
+          "tid": 444,
+          "cells": 864,
+          "total": {
+            "downloaders": 14277,
+            "uploaders": 1172
+          }
+        },
+        {
+          "tid": 445,
+          "cells": 609,
+          "total": {
+            "downloaders": 8806,
+            "uploaders": 273
+          }
+        },
+        {
+          "tid": 446,
+          "cells": 360,
+          "total": {
+            "downloaders": 4144,
+            "uploaders": 282
+          }
+        },
+        {
+          "tid": 447,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 448,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 449,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 450,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 451,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 452,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 453,
+          "cells": 482,
+          "total": {
+            "downloaders": 6535,
+            "uploaders": 380
+          }
+        },
+        {
+          "tid": 454,
+          "cells": 1150,
+          "total": {
+            "downloaders": 24568,
+            "uploaders": 1055
+          }
+        },
+        {
+          "tid": 455,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        },
+        {
+          "tid": 456,
+          "cells": 450,
+          "total": {
+            "downloaders": 6708,
+            "uploaders": 249
+          }
+        },
+        {
+          "tid": 457,
+          "cells": 530,
+          "total": {
+            "downloaders": 7467,
+            "uploaders": 255
+          }
+        },
+        {
+          "tid": 458,
+          "cells": 438,
+          "total": {
+            "downloaders": 6024,
+            "uploaders": 110
+          }
+        },
+        {
+          "tid": 459,
+          "cells": 457,
+          "total": {
+            "downloaders": 5914,
+            "uploaders": 90
+          }
+        },
+        {
+          "tid": 460,
+          "cells": 288,
+          "total": {
+            "downloaders": 2756,
+            "uploaders": 212
+          }
+        },
+        {
+          "tid": 461,
+          "cells": 579,
+          "total": {
+            "downloaders": 10376,
+            "uploaders": 799
+          }
+        },
+        {
+          "tid": 462,
+          "cells": 0,
+          "total": {
+            "downloaders": 0,
+            "uploaders": 0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "status": "passed",
+  "jobs": [
+    {
+      "collection": "crew-girl-01",
+      "resolution": 8,
+      "elapsed_seconds": 12.294531835010275,
+      "command": [
+        "/home/bkoz/src/alpha60/build/world-cup-stage1/a60-cache-recache-synthesize-uniques.exe",
+        "--quiet",
+        "crew-girl-01",
+        "--cache-dir=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/crew-girl-01/cache/cache.20260923",
+        "--persistent-dir=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/crew-girl-01/cache-persistent",
+        "--output-dir=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/crew-girl-01/H3r8",
+        "--stages=geojson",
+        "--durations=day,week",
+        "--h3-resolution=8",
+        "--workers=2",
+        "--queue-capacity=2",
+        "--metrics-file=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/crew-girl-01/h3r8-metrics.json"
+      ],
+      "frozen_catalog_sha256": "33797fda29d40aeb53b12d1a87f409b7e858116d011194428de64c3d6485b543"
+    },
+    {
+      "collection": "crew-girl-01",
+      "resolution": 5,
+      "elapsed_seconds": 12.102140749047976,
+      "command": [
+        "/home/bkoz/src/alpha60/build/world-cup-stage1/a60-cache-recache-synthesize-uniques.exe",
+        "--quiet",
+        "crew-girl-01",
+        "--cache-dir=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/crew-girl-01/cache/cache.20260923",
+        "--persistent-dir=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/crew-girl-01/cache-persistent",
+        "--output-dir=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/crew-girl-01/H3r5",
+        "--stages=geojson",
+        "--durations=day,week",
+        "--h3-resolution=5",
+        "--workers=2",
+        "--queue-capacity=2",
+        "--metrics-file=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/crew-girl-01/h3r5-metrics.json"
+      ],
+      "frozen_catalog_sha256": "33797fda29d40aeb53b12d1a87f409b7e858116d011194428de64c3d6485b543"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 8,
+      "elapsed_seconds": 21.154706739995163,
+      "command": [
+        "/home/bkoz/src/alpha60/build/world-cup-stage1/a60-cache-recache-synthesize-uniques.exe",
+        "--quiet",
+        "dan-da-dan-210",
+        "--cache-dir=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/dan-da-dan-210/cache/cache.20260304",
+        "--persistent-dir=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/dan-da-dan-210/cache-persistent",
+        "--output-dir=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/dan-da-dan-210/H3r8",
+        "--stages=geojson",
+        "--durations=day,week",
+        "--h3-resolution=8",
+        "--workers=2",
+        "--queue-capacity=2",
+        "--metrics-file=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/dan-da-dan-210/h3r8-metrics.json"
+      ],
+      "frozen_catalog_sha256": "78c4ecf905403ebc7d3dc8bed1e5cdeb41e2f5a34afda370a79444d63cdd1392"
+    },
+    {
+      "collection": "dan-da-dan-210",
+      "resolution": 5,
+      "elapsed_seconds": 19.920964060002007,
+      "command": [
+        "/home/bkoz/src/alpha60/build/world-cup-stage1/a60-cache-recache-synthesize-uniques.exe",
+        "--quiet",
+        "dan-da-dan-210",
+        "--cache-dir=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/dan-da-dan-210/cache/cache.20260304",
+        "--persistent-dir=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/dan-da-dan-210/cache-persistent",
+        "--output-dir=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/dan-da-dan-210/H3r5",
+        "--stages=geojson",
+        "--durations=day,week",
+        "--h3-resolution=5",
+        "--workers=2",
+        "--queue-capacity=2",
+        "--metrics-file=/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/dan-da-dan-210/h3r5-metrics.json"
+      ],
+      "frozen_catalog_sha256": "78c4ecf905403ebc7d3dc8bed1e5cdeb41e2f5a34afda370a79444d63cdd1392"
+    }
+  ],
+  "producer_sha256": "586082d88507fc8d5939a4670ce8f5bc2838586af2a62582279c16be7d35ea7d",
+  "ipinfo": [
+    {
+      "name": "standard_carrier.mmdb",
+      "sha256": "83912117e2cee4e864ee1cde4f80eb0a0d3826b921a221537ca4664e4fdbaf02"
+    },
+    {
+      "name": "standard_company.mmdb",
+      "sha256": "a91d43d45fcd3d3c6f308c911fc4c2fd2249488a884153a2df38a1840f413438"
+    },
+    {
+      "name": "standard_location.mmdb",
+      "sha256": "038a11d61822a80c92ee53f0bce7889a5ebee5bd5379006e847be50e8d939928"
+    },
+    {
+      "name": "standard_privacy.mmdb",
+      "sha256": "5bf50f6ddd3b9a18de87a9fe76de6714dd30c58a901d98263ea0aca9a6f6fca9"
+    },
+    {
+      "name": "tags_satellite.mmdb",
+      "sha256": "0ff2433554f43f41dfec2bb9683a036b7f13e63dd1eb301f043c93077b103809"
+    }
+  ]
+}

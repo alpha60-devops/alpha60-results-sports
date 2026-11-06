@@ -1,0 +1,1200 @@
+{
+  "schema": "alpha60-frozen-cohort-catalog/1",
+  "status": "passed",
+  "collection": "crew-girl-01",
+  "source_roster": "/tmp/alpha60-results-pages-20261105/alpha60-results-2026/data/json/crew-girl-01-cumulative-btiha-media-objects.json",
+  "source_sha256": "8a1faf985f7e21330e8a29703a443568c93f72f49d34d1bcf6826606b479de07",
+  "frozen_data_root": "/mnt/gold/src/alpha60-analysis-work/world-cup-network-20261106/crew-girl-01/sample-end-data",
+  "git_revision": "6caf08e38f4fed66d76ab9fbc9e4d188a65945f0",
+  "original_torrent_files": 196,
+  "canonical_torrents": 195,
+  "observed_raw_indices": 196,
+  "metadata_names_excluded_by_snapshot": [
+    "Star Wars - The Mandalorian and Grogu (2026) AC3 5.1 ITA.ENG 1080p H265 IMAX sub ita.eng Sp33dy94-MIRCrew.mkv",
+    "www.UIndex.org    -    Crew Girl S01E02 1080p 10bit WEBRip 6CH x265 HEVC-PSA",
+    "www.UIndex.org    -    Crew Girl S01E03 Flight Crew 1080p NF WEB-DL DDP5 1 Atmos H 264-Kitsune",
+    "www.UIndex.org    -    Crew Girl S01E04 True Rowmance 1080p NF WEB-DL DDP5 1 Atmos H 264-Kitsune",
+    "www.UIndex.org    -    Crew Girl S01E06 Bad Break 1080p NF WEB-DL DDP5 1 Atmos H 264-Kitsune",
+    "www.UIndex.org    -    Crew.Girl.S01E06.1080p.WEB.H264-CAKES"
+  ],
+  "roster_only_identities": [],
+  "metainfo": [
+    {
+      "tid": 1,
+      "name": "Crew Girl 2026 S01 1080p NF WEB-DL H 264 TR-EN-DE DDP 5 1 TSRG [IPT]",
+      "canonical_btiha": "ef2ea4d36211b964bc9d9b4975bfd4c0b2383fd0",
+      "sha256": "5b54960c55606276b02dd12a9354e304ea3bea929834532caedaf997fd3fcdcc"
+    },
+    {
+      "tid": 2,
+      "name": "Crew Girl 2026 S01 Complete Hindi Dual Audio www.ExtraFlix.pw 1080p Web-DL ESubs",
+      "canonical_btiha": "222adc54bd2fef736950f1a5255a93c1fd774c91",
+      "sha256": "40baed75386812983f8599a8ac52a07dd54ecaee0d76a237ba920cf570dfebdf"
+    },
+    {
+      "tid": 3,
+      "name": "Crew Girl 2026 S01 Complete Hindi Dual Audio www.ExtraFlix.pw 480p Web-DL ESubs",
+      "canonical_btiha": "a6e2695671362d066649bb1dafbdfee46d5a2340",
+      "sha256": "7466506dcd97a8004e8e62ed16dd6c3ed4b93dd4ce301b178e466fa8a09ccd86"
+    },
+    {
+      "tid": 4,
+      "name": "Crew Girl 2026 S01 Complete Hindi Dual Audio www.ExtraFlix.pw 720p Web-DL ESubs",
+      "canonical_btiha": "b47aabb31511ae82f0197d76495fbaf41811528d",
+      "sha256": "702618957fa17693da20c40a6d79403882dd3a0fe29346683e39cc04ea2dc24f"
+    },
+    {
+      "tid": 5,
+      "name": "Crew Girl S01 1080p DUAL NF WEB-DL x264 EAC3 5 1 - HdT [IPT]",
+      "canonical_btiha": "65205baf2ac07ebf7b30566efee5c686e477394e",
+      "sha256": "9e85d9b19aaab301f8f4a8076b800670543d2c8f51193dbae207c88399a03f65"
+    },
+    {
+      "tid": 6,
+      "name": "Crew Girl S01 1080p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "5de775014733c037c6dd1557a87aa5941ff209f0",
+      "sha256": "572dc13339bde297cdfb4b3eb8cfba2af2a6c367229e36775e3bbad1804f4e82"
+    },
+    {
+      "tid": 7,
+      "name": "Crew Girl S01 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]",
+      "canonical_btiha": "e5aa1dab929e0654d9a924b70c8be2b88bff779c",
+      "sha256": "08c4188cc04cf9c9818c74f6af5ad78e0a983b2dd894b01a258cf91bff49d9de"
+    },
+    {
+      "tid": 8,
+      "name": "Crew Girl S01 1080p NF WEB-DL DUAL DDP5 1 Atmos H 264-TURG [IPT]",
+      "canonical_btiha": "53a6a5aed9bc2ab686e0a3d0470607416b6e2067",
+      "sha256": "33710e566d4c2892606e19138d08c5db5aa2f8c1e555845242f74cf37756336c"
+    },
+    {
+      "tid": 9,
+      "name": "Crew Girl S01 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "71c0714571d97df4663a4ec6282987431378742c",
+      "sha256": "f0d1e90414ecac8094fcceb8ff4a8187ed04dfeafe8b5204753c26b550f776de"
+    },
+    {
+      "tid": 10,
+      "name": "Crew Girl S01 NORDiC 1080p WEB-DL H 264 DDP5 1 Atmos-ADDICTION [IPT]",
+      "canonical_btiha": "d5cab3ed0d2a2b8e378c6ab3c46187cc411cecce",
+      "sha256": "163c64e018a7ba9d16198a3893c3dbcab187d81dbfadafd25fcea1079e40e64b"
+    },
+    {
+      "tid": 11,
+      "name": "Crew Girl S01E01 The Catch 1080p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "f370fdaffa7f5c03014654e42835c5667389cbbd",
+      "sha256": "12940b58d196afc580bff4452408ac8c63b8f9dfb9e160b3bd2b1fc4d1235da0"
+    },
+    {
+      "tid": 12,
+      "name": "Crew Girl S01E01 The Catch 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]",
+      "canonical_btiha": "67ea352c93525f9d15eddf3399e0f5786bc0b911",
+      "sha256": "660c71a4067f8f6152b1497e5fbb19a84e97811e052f5545c6e1e9055598d297"
+    },
+    {
+      "tid": 13,
+      "name": "Crew Girl S01E01 The Catch 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "6d726730417be4354d60effa962c62e265d0e4d5",
+      "sha256": "23cca07c9c7a938d6d9caa7d03bd389bb0754b9921d222426f7ddf6ce0385f55"
+    },
+    {
+      "tid": 14,
+      "name": "Crew Girl S01E01 The Catch 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB[EZTVx.to].mkv",
+      "canonical_btiha": "71b503d456df0e7022bb167822406ca9300c7931",
+      "sha256": "e7ca37c6ecb03d2325009cd43ba308a2c36feaa87201fadf9a5a860fb1150380"
+    },
+    {
+      "tid": 15,
+      "name": "Crew Girl S01E02 The Hateful Eight 1080p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "145c5877b16bde9ed184cb1377acb05462dd6eb0",
+      "sha256": "79598e7d922d3627a7ff5cf4d923aa2efd4c6d5c9197676f8e642b675043fc87"
+    },
+    {
+      "tid": 16,
+      "name": "Crew Girl S01E02 The Hateful Eight 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]",
+      "canonical_btiha": "28841f995eda2c36b9297e2aad80456ef1b8a190",
+      "sha256": "a4ea70950b5457a0560ae361a2a5997c421ea2817ac3f5ec4ad8ac0b54045e1d"
+    },
+    {
+      "tid": 17,
+      "name": "Crew Girl S01E02 The Hateful Eight 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "22f138aef59e434c4e1c2f4c95f3eadad60b39e1",
+      "sha256": "151a1db44c80dc44658b5cbb47d797567b173d08a2d458396aa03d22144e1202"
+    },
+    {
+      "tid": 18,
+      "name": "Crew Girl S01E02 The Hateful Eight 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB[EZTVx.to].mkv",
+      "canonical_btiha": "6fcaa2cc1389c625572c77993ff973440ed8fd72",
+      "sha256": "54d557483e4557f6b8b8cde5e537ddd9974c46b5582dbb0588bf4fd2dfd2662c"
+    },
+    {
+      "tid": 19,
+      "name": "Crew Girl S01E03 Flight Crew 1080p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "c31906a39acb2252508ad47db9c92244b1f1754e",
+      "sha256": "158511fb93392587f8b510f6d4ca6342dcb322641f540767960a1ef5bae7a5b6"
+    },
+    {
+      "tid": 20,
+      "name": "Crew Girl S01E03 Flight Crew 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]",
+      "canonical_btiha": "f08a194a36e226e0a870bb3e4d87b147598aa7e4",
+      "sha256": "3fd7f77f1158b0e6050623270d50e9c6ec45aed552058a7ababb8a7855f095fe"
+    },
+    {
+      "tid": 21,
+      "name": "Crew Girl S01E03 Flight Crew 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "669fc4ce98976a8f5ddbc365e39ddf4577e99832",
+      "sha256": "b1b619aebb497e0dc3446fa97637adbe921a4053d7ec5ac5429e95d264550d8c"
+    },
+    {
+      "tid": 22,
+      "name": "Crew Girl S01E03 Flight Crew 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB[EZTVx.to].mkv",
+      "canonical_btiha": "2a185759fdafe872a6156ac35580507de332d9ab",
+      "sha256": "cdb2c9e72b9262d681389a867c622268763dbe9ef8d55100cd9b679cd51384f7"
+    },
+    {
+      "tid": 23,
+      "name": "Crew Girl S01E04 True Rowmance 1080p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "23c651f7317c30bcaa6f79266950def69ded1618",
+      "sha256": "62c7d1298a86f2605e749bc03470b336116644e419c9545b3e5f0f0fce4c698d"
+    },
+    {
+      "tid": 24,
+      "name": "Crew Girl S01E04 True Rowmance 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]",
+      "canonical_btiha": "8fd327096c925c06bf07c1dbd8641bc16ff35325",
+      "sha256": "05b607d6113cce9f8d9876fd3815cfc92865d7e5c56278da9796801c7ef99f8f"
+    },
+    {
+      "tid": 25,
+      "name": "Crew Girl S01E04 True Rowmance 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "de252dcb83fae0c089b5f0f45a7cafbae84e4663",
+      "sha256": "3bff330c7d56ab736fce98d6b0900fa16cdbc495531e9690e0d9eda79a53faeb"
+    },
+    {
+      "tid": 26,
+      "name": "Crew Girl S01E04 True Rowmance 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB[EZTVx.to].mkv",
+      "canonical_btiha": "8b738005e3137cc737601adbefbab8301b853d6a",
+      "sha256": "76f702beeed0eb578a50fb18db0f2ce7778cbe9c8f735cb27de5b7cfc4760b8a"
+    },
+    {
+      "tid": 27,
+      "name": "Crew Girl S01E05 Anatomy of a Fall Formal 1080p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "889546f61ba7fb1bfa52f9d3820d77e103fd3a3b",
+      "sha256": "e91a201a007806ce54eacc4669678fc72acc0206e4c492bbf26c6c9e6a357469"
+    },
+    {
+      "tid": 28,
+      "name": "Crew Girl S01E05 Anatomy of a Fall Formal 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]",
+      "canonical_btiha": "8f84d497c86a17a37876c590ca4e64c00b3bbde2",
+      "sha256": "838a08f984553a3393bef55d7ee5d455c138354745d5d42b2c83c4e06e218aa6"
+    },
+    {
+      "tid": 29,
+      "name": "Crew Girl S01E05 Anatomy of a Fall Formal 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "7c5831424330917931797ce35c019c26366009bc",
+      "sha256": "6ac8cc131487b99fe6230d079999f7723751eeac00aac997083c828331341c3d"
+    },
+    {
+      "tid": 30,
+      "name": "Crew Girl S01E05 Anatomy of a Fall Formal 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB[EZTVx.to].mkv",
+      "canonical_btiha": "2acad51efdab42bfa8305c66d677fe94e4b23f38",
+      "sha256": "4df7dfdd6b147f1bb2d5fe50f823e5d5fd947f7c1f2e6d6743d23c15cbba5fa7"
+    },
+    {
+      "tid": 31,
+      "name": "Crew Girl S01E06 Bad Break 1080p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "e7fbe41045f22dad469a1fc3378a532faa9d6aab",
+      "sha256": "2073d961526a0fdf9368aa05cc036650f8be6e69e131e40d0cac40857d0487d4"
+    },
+    {
+      "tid": 32,
+      "name": "Crew Girl S01E06 Bad Break 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]",
+      "canonical_btiha": "7e6ec87aaf1964d6a730d2fcce86a1124c000328",
+      "sha256": "c924461b658f98e339d80b1fdb23d6da586c2d452652d7d441f4fa21787845ef"
+    },
+    {
+      "tid": 33,
+      "name": "Crew Girl S01E06 Bad Break 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT](1)",
+      "canonical_btiha": "a7c1bc0ed304b80d33696859e8a5657012fcee24",
+      "sha256": "8c51222ccba80ad3d04cb3625104131f72f3c471c2818a10c3af47f222606c5a"
+    },
+    {
+      "tid": 34,
+      "name": "Crew Girl S01E06 Bad Break 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "a7c1bc0ed304b80d33696859e8a5657012fcee24",
+      "sha256": "8c51222ccba80ad3d04cb3625104131f72f3c471c2818a10c3af47f222606c5a"
+    },
+    {
+      "tid": 35,
+      "name": "Crew Girl S01E06 Bad Break 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB[EZTVx.to].mkv",
+      "canonical_btiha": "41dddd352e7c15b1146459ee96187e4756c04bc2",
+      "sha256": "add025baa5d97da70ee2223b77e07da130cc0627c582dd39d22bb728a07b9ecd"
+    },
+    {
+      "tid": 36,
+      "name": "Crew Girl S01E07 Under Pressure 1080p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "9fd428cbce8ec463e2f647474af21e2d435942bb",
+      "sha256": "b12afbf6e2687f38978ede0620ab623ace8c61af816dd184f5ca0ec722b7d558"
+    },
+    {
+      "tid": 37,
+      "name": "Crew Girl S01E07 Under Pressure 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]",
+      "canonical_btiha": "61462bacfa2c1c00e78999d88662aeceee09a3aa",
+      "sha256": "f2275f29d30800a1138061d7df26c258ce70b341e5d1f3498e986336824de101"
+    },
+    {
+      "tid": 38,
+      "name": "Crew Girl S01E07 Under Pressure 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "3f4d0309a3602f9aadd8901f1e28b8f469130035",
+      "sha256": "18bc50d167fa8b73ceb586b866c0c70788e4280407ff25275a050d40d46ad105"
+    },
+    {
+      "tid": 39,
+      "name": "Crew Girl S01E07 Under Pressure 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB[EZTVx.to].mkv",
+      "canonical_btiha": "99ef6d62fddf4122d68136b8d631bd8c1c3665d1",
+      "sha256": "ae8cf67376098f35c82b340bad44e73927dd51070c368e3acde3d169ffa3a650"
+    },
+    {
+      "tid": 40,
+      "name": "Crew Girl S01E08 O Coxswain My Coxswain 1080p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "4d7d0be05c5326c7459e4bdb6056fa9c3c3f1698",
+      "sha256": "4fe6c7ca1885050f34d62daced68bece35ac7f33254979bad7476c3e5efe0cec"
+    },
+    {
+      "tid": 41,
+      "name": "Crew Girl S01E08 O Coxswain My Coxswain 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]",
+      "canonical_btiha": "9a7f1411981d9928dbd85b9fa5f5d8df1c9b8a3a",
+      "sha256": "60335d37f54528096a862761adc704873beff5950bb01b16a2717cefbdbf15d3"
+    },
+    {
+      "tid": 42,
+      "name": "Crew Girl S01E08 O Coxswain My Coxswain 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]",
+      "canonical_btiha": "8fc93e2ce768ba7ed372915f8946107af73aaeb0",
+      "sha256": "544f4b294faff1cea0e27bee83033705325d2aca16b854abf52e979ff4980c65"
+    },
+    {
+      "tid": 43,
+      "name": "Crew Girl S01E08 O Coxswain My Coxswain 720p NF WEB-DL DD 5 1 Atmos H 264-playWEB[EZTVx.to].mkv",
+      "canonical_btiha": "119b88b120e9774ab65ef8a1d6ea1cd5c8a128f9",
+      "sha256": "a676dfcc506fd6efb3c06f3596b3737fe81c3a33ef6168eeca0f91d0254f2ebb"
+    },
+    {
+      "tid": 44,
+      "name": "Crew.Girl.S01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA",
+      "canonical_btiha": "866a22284e1c35872c8451ba6bbbe78a3f195eb9",
+      "sha256": "a2e67d6cf941edcdab7eb6ec2bb782e28634d4f086bad03829d02387ffc08043"
+    },
+    {
+      "tid": 45,
+      "name": "Crew.Girl.S01.1080p.ColdFilm",
+      "canonical_btiha": "659df363c04829b1ab459019441d99ae94e08079",
+      "sha256": "01d7aeb7feadd2144a4efcd9ce74ad38122ddce56911152d1dc80036b8210628"
+    },
+    {
+      "tid": 46,
+      "name": "Crew.Girl.S01.1080p.H264.AAC.WEBRip.le-production",
+      "canonical_btiha": "a34745afa92918b2b374283fc4cd4b9f1d4f98fd",
+      "sha256": "caf2201584378e102927bb1d31d4b95825ccf9febdf65f9752f8b90bc589ecb5"
+    },
+    {
+      "tid": 47,
+      "name": "Crew.Girl.S01.1080p.ITA-ENG.MULTI.WEBRip.x265.AAC-V3SP4EV3R",
+      "canonical_btiha": "bce41fc84423e380a7f0d4187a11b0df05251414",
+      "sha256": "9676f98148d156cf539a8673876842e8562ce629cce34b97772eae73cd80336e"
+    },
+    {
+      "tid": 48,
+      "name": "Crew.Girl.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264",
+      "canonical_btiha": "6912a0849ce4e6b4c80de8e5f67632f7afe7e38f",
+      "sha256": "f3d19ce64d100db1ee847c3e41ac49dc9b1fca8026089241b48056cf51ff7e21"
+    },
+    {
+      "tid": 49,
+      "name": "Crew.Girl.S01.1080p.NF.WEB-DL.DDP5.1.ENG.Atmos.ITA.H264-TBK",
+      "canonical_btiha": "64c9058da31e003cdc2c90c5449cd734a33fc429",
+      "sha256": "c9d7def36b9634813a9b1787c665123fdab4918f41819ebf735aaa888a230296"
+    },
+    {
+      "tid": 50,
+      "name": "Crew.Girl.S01.1080p.NF.WEB-DL.HE-AAC5.1.H.265.HEVC",
+      "canonical_btiha": "9e12efde1539399166560041b3ecbeac03ed0b3d",
+      "sha256": "ccd4d12317b3ed89c26cb38e23e9bf7102594d0893c49ecfd32737bedcafcb8b"
+    },
+    {
+      "tid": 51,
+      "name": "Crew.Girl.S01.1080p.Ru.Ultradox",
+      "canonical_btiha": "2cd5dd4307b05d5b375ad4027b640dd038751d15",
+      "sha256": "da1894452b7eb403b3f3f945ca1158bb59f016e57ccead61afe55ca8fa5ed3a8"
+    },
+    {
+      "tid": 52,
+      "name": "Crew.Girl.S01.1080p.WEBRip.x265-KONTRAST",
+      "canonical_btiha": "61f1992d91abc93191fdc2b12f9c61415f6c5482",
+      "sha256": "5c4d0a0141f2af3c4008c5adeb01f93347b5a28879a0b9b6d08cc7dc5fdad109"
+    },
+    {
+      "tid": 53,
+      "name": "Crew.Girl.S01.400p.Ru.Ultradox",
+      "canonical_btiha": "be16b767b4997237aa24e5ee95c785a8f43e4324",
+      "sha256": "8e88aaba73faeefbe62451a549def73de51353532402247178500173a7550fd8"
+    },
+    {
+      "tid": 54,
+      "name": "Crew.Girl.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA",
+      "canonical_btiha": "a50221e3e4051b0093e3479f2b2ccda286d394e4",
+      "sha256": "344c2ad898ba5ce3b6c510b509ec7a8cb43274d4a7cd13ac770c390732aaa6f5"
+    },
+    {
+      "tid": 55,
+      "name": "Crew.Girl.S01.720p.NF.WEB-DL.DD+5.1.Atmos.H.264-playWEB",
+      "canonical_btiha": "1605dd29a11afff0b651cfff9c409656731a1e42",
+      "sha256": "e829e38d8c090f154dd97880a20265a429524abbcaefafdf422ee789d1673fb2"
+    },
+    {
+      "tid": 56,
+      "name": "Crew.Girl.S01.720p.Ru.Ultradox",
+      "canonical_btiha": "cf1514050e90337aa08467256008c521dd583c0f",
+      "sha256": "cc0ba2d77d0c32da14be349dcb0cc11267b3b3b7c003f22707c68fde84552275"
+    },
+    {
+      "tid": 57,
+      "name": "Crew.Girl.s01.HD1080p.WEBRip.Rus.RuDub.tv",
+      "canonical_btiha": "a647cffb3d2dd9b9a5ba9b2690d482e2bf76f39e",
+      "sha256": "6b644ffc13070f27b4181f55d0c4fd616eb12f1f27f923f56f0af2c027eb6b90"
+    },
+    {
+      "tid": 58,
+      "name": "Crew.Girl.S01.ITA.WEBRIP.x264-mkeagle3",
+      "canonical_btiha": "fa0eb39139091763f3bb8937122b4c17769cf221",
+      "sha256": "f46fc7d79d3e2030f81fdbc918fa65b83e912f6edb204b751b58440768fe0060"
+    },
+    {
+      "tid": 59,
+      "name": "Crew.Girl.S01.MULTi.VF2.1080p.WEB.EAC3.5.1.x264-MTLQC",
+      "canonical_btiha": "583b7dd3c84b304673274d05c5c29d1e6a1c398a",
+      "sha256": "1f9cd48049d4e5a50a80e78b386b95977a5162c10189e449dc0708aabb62171f"
+    },
+    {
+      "tid": 60,
+      "name": "Crew.Girl.s01.WEBRip.XviD.Rus.RuDub.tv",
+      "canonical_btiha": "c5907e8f1f5f8222ab319899b3b0c78eb6b93815",
+      "sha256": "fda8b60fb9a3ea803cfee4c3b6716b0248813e28ec45dd6dcec32739b75526f2"
+    },
+    {
+      "tid": 61,
+      "name": "Crew.Girl.S01E01-08.1080p.NF.WEB-DL.ITA.ENG.DDP5.1.H.265-G66",
+      "canonical_btiha": "781849ae7cf7f266bc863558d6cbbfde72098a21",
+      "sha256": "fb1cf51cda2f316f3a7f5558ca9faa553ea80e1f7d4aa80d096728d608d6fad8"
+    },
+    {
+      "tid": 62,
+      "name": "Crew.Girl.S01E01.1080p.AV1.10bit-MeGusta [IPT]",
+      "canonical_btiha": "8157ee9a99d94a355fd88fec7379241154908423",
+      "sha256": "591270aabda40a25256a76e1b0e114ae9f27c34d51fa542f049e57f5746b4f9d"
+    },
+    {
+      "tid": 63,
+      "name": "Crew.Girl.S01E01.1080p.WEB.H264-CAKES [IPT]",
+      "canonical_btiha": "81edd98c9cdd01468fff52b90cd4dd0251312e1e",
+      "sha256": "5f728e14cf66b3471513cfd7321d9f910caf784b7835e0bc747c4605f750ee7a"
+    },
+    {
+      "tid": 64,
+      "name": "crew.girl.s01e01.1080p.web.h264-cakes[EZTVx.to].mkv",
+      "canonical_btiha": "760cd59730b7f7fff3184318a62c2f17e019e346",
+      "sha256": "9cd7bc8409ba94831c5194eeadee611e3a5621ea341e454a18f6c963710d986f"
+    },
+    {
+      "tid": 65,
+      "name": "Crew.Girl.S01E01.480p.x264-mSD [IPT]",
+      "canonical_btiha": "3d0f98ab604829e4f644977bdede5bcec8bf3d81",
+      "sha256": "0f112da59f1c19bdbeda7e46bb94d3532045060ee50a2cd6406fc94dfd34562b"
+    },
+    {
+      "tid": 66,
+      "name": "Crew.Girl.S01E01.480p.x264-mSD[EZTVx.to].mkv",
+      "canonical_btiha": "4ff0d5364e503f551ae4fa396ce342e81c34a2b7",
+      "sha256": "c720637cd692f0eaa8791bfd991ad45cff8903fa7e0ff808bfde98aa7aac054d"
+    },
+    {
+      "tid": 67,
+      "name": "Crew.Girl.S01E01.720p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "5f3ed5e6d87ef143dc49775807334ba90396573e",
+      "sha256": "47835160d7819fe0717fbdee09ffd20ec3181a42ea935d51edd76d9c2cfd5948"
+    },
+    {
+      "tid": 68,
+      "name": "Crew.Girl.S01E01.AAC.MP4-Mobile [IPT]",
+      "canonical_btiha": "784c117170eea7d9b9217921c98e54c713678cda",
+      "sha256": "e5082bfdc69362e776cd4f3f70fe09c0fb1249d04938de75896348b789fdb326"
+    },
+    {
+      "tid": 69,
+      "name": "Crew.Girl.S01E01.DV.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "4a592e7134dfef976975e79285d9ab50d6ae5ced",
+      "sha256": "c3739f0cd983f04a392c41af8b3551be3dcf324e7677ff67c96264058db493ce"
+    },
+    {
+      "tid": 70,
+      "name": "Crew.Girl.S01E01.HDR.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "87d44a0591512b26cf7c8b3324a31a4ab16f0447",
+      "sha256": "4b3c7cfcaf2a52cb18ea2163800115efe747fefc10aa9530098895d8c8ca29ff"
+    },
+    {
+      "tid": 71,
+      "name": "Crew.Girl.S01E01.MULTi.1080p.WEB.x264-AZR [IPT]",
+      "canonical_btiha": "f36141380a07ed203fe014f1288d1cac61b47087",
+      "sha256": "0d56ff257c7788715957f0ca9769e449ca8da5cdc4ac936569f78af9ba2cfda7"
+    },
+    {
+      "tid": 72,
+      "name": "Crew.Girl.S01E01.XviD-AFG [IPT]",
+      "canonical_btiha": "1bc6ef43fbe22e364909a3199ed5f187faf30235",
+      "sha256": "1b8c1dce55a6267f5ec9a525e805891afbb21090e01d15509036e866f3b8a72f"
+    },
+    {
+      "tid": 73,
+      "name": "Crew.Girl.S01E01.XviD-AFG[EZTVx.to].avi",
+      "canonical_btiha": "00d9d2a5021f71b4cfd6557c044a4334758bb1ff",
+      "sha256": "936f5c16da1fc82970978141c18ac8f779886cf420b673445d28d973a0efe6ea"
+    },
+    {
+      "tid": 74,
+      "name": "Crew.Girl.S01E02.1080p.AV1.10bit-MeGusta [IPT]",
+      "canonical_btiha": "790e89a8bd9f3e1c0b785111c5598c1092955b62",
+      "sha256": "8a20737b5d0da1947092837ee2fe0f6cb710cb8349318db5f0f7797734ea9633"
+    },
+    {
+      "tid": 75,
+      "name": "Crew.Girl.S01E02.1080p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "7d99f1d64e3a4e249d0b8e8f80469dd91620079f",
+      "sha256": "cff1de2a16c3b95e01cfbf36601b1c9284919bde655a6300ccfb2e4ed2b9a7aa"
+    },
+    {
+      "tid": 76,
+      "name": "Crew.Girl.S01E02.1080p.HEVC.x265-MeGusta",
+      "canonical_btiha": "622a53a04149c4ff5c73a946cb6e7ad64e530a52",
+      "sha256": "af0b4d8d3e33e62b22ff5c18d988295e0aa3a4ee9581292442af65653a2006fb"
+    },
+    {
+      "tid": 77,
+      "name": "Crew.Girl.S01E02.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "43267f2ac41cba9a6368c50adbcfd59cf49386cd",
+      "sha256": "29607c7383cef57256a56f6933c815199f361b0bbad4d7f4b1ad0e770c71c06d"
+    },
+    {
+      "tid": 78,
+      "name": "Crew.Girl.S01E02.1080p.WEB.H264-CAKES [IPT]",
+      "canonical_btiha": "3ab58b111e98eda1502853ab9500ea2f49280214",
+      "sha256": "07d21ab9f3dfcc6d47f317929188ceb3916d5bc9eaeb198b993450a7ffec2888"
+    },
+    {
+      "tid": 79,
+      "name": "Crew.Girl.S01E02.480p.x264-mSD [IPT]",
+      "canonical_btiha": "d7adeb50d42d5361678bd5414de083621e3d1ea5",
+      "sha256": "e94d7e3e1362afe3fbc6a23d56650a76b0283421b34912a6bba45000e50b58e7"
+    },
+    {
+      "tid": 80,
+      "name": "Crew.Girl.S01E02.720p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "0b789bca42b379f3b229eb0779b2a35fa250940e",
+      "sha256": "e5443f81ce1af6bff590079d4f3a47635dde9e0a85675759d965fecff10766b9"
+    },
+    {
+      "tid": 81,
+      "name": "Crew.Girl.S01E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "d1a1a947268ca6d11a6f3ffe6d1cceb07630fc33",
+      "sha256": "3c0a52b5c8dd6f25b6a50bc615e05eb236e4e69115862374005411c26b59b01d"
+    },
+    {
+      "tid": 82,
+      "name": "Crew.Girl.S01E02.AAC.MP4-Mobile [IPT]",
+      "canonical_btiha": "4d0ae70442131e777fa3ef02adf6b8dc5fde3ae1",
+      "sha256": "9215c3fa434f4275e7e90bef9a9cdd90ec561e4ca9d306d2b50de3f04b0f2cfe"
+    },
+    {
+      "tid": 83,
+      "name": "Crew.Girl.S01E02.DV.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "b4c546ad906e399298893fd1984916f2694514bc",
+      "sha256": "596bf8fd9645407348c4e35b54b059d46bcf22f21bb71f094c8038116855be6e"
+    },
+    {
+      "tid": 84,
+      "name": "Crew.Girl.S01E02.HDR.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "eb4bbcbea320b972c2aa974f37eaad2fe5b9f16d",
+      "sha256": "28413890cb5447634a928536f211bd17a5d592cef5b0cea3ea03b769d53c2482"
+    },
+    {
+      "tid": 85,
+      "name": "Crew.Girl.S01E02.MULTi.1080p.WEB.x264-AZR [IPT]",
+      "canonical_btiha": "80d253e78605670c75963f2dae76f1e0c0810cdc",
+      "sha256": "453c5ad34b3fb67add94003ed5cf93d7fa01aadef23b7cef7e742f2d31a4ed46"
+    },
+    {
+      "tid": 86,
+      "name": "Crew.Girl.S01E02.XviD-AFG [IPT]",
+      "canonical_btiha": "d7d6df348d7e82ef59649bfb512426449f9212cc",
+      "sha256": "101689d4c0fbdf5b2865709284f75a30141279e8138360a948413e07ffcb09af"
+    },
+    {
+      "tid": 87,
+      "name": "Crew.Girl.S01E02.XviD-AFG[EZTVx.to].avi",
+      "canonical_btiha": "13e90fb51171cbdb2b53b86ec0555ff4215bf918",
+      "sha256": "27eb75417fa27e7c0dffd1a39127ea7053dd0009683cb84fef5cd7ef47b21d74"
+    },
+    {
+      "tid": 88,
+      "name": "Crew.Girl.S01E03.1080p.AV1.10bit-MeGusta [IPT]",
+      "canonical_btiha": "ab65ce476ed456cf2f2db5f1bb557a3438593a35",
+      "sha256": "13306d1303e74ba2db4a3f88fb6aa75de2b02f2b0f4794df87243182300f914a"
+    },
+    {
+      "tid": 89,
+      "name": "Crew.Girl.S01E03.1080p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "28ec9a60d41054523cd4aef36a6fcc0a656300f2",
+      "sha256": "59f44087799ea2efb1b85229dbc04c5b9a744121af6ec181df44e281af9040ab"
+    },
+    {
+      "tid": 90,
+      "name": "Crew.Girl.S01E03.1080p.HEVC.x265-MeGusta",
+      "canonical_btiha": "db104100fe1468309c2fdaaf0a8daa22a7f089ed",
+      "sha256": "843c40587a281b9e2a03b111e29451dfeda71467cd340232453d9481ac067ec8"
+    },
+    {
+      "tid": 91,
+      "name": "Crew.Girl.S01E03.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "5f7f95cd1fa74ff2031b10ea72a0449311865cc6",
+      "sha256": "4222552ba63b65205a514878be806972ac02f0ec84ddb779b36421bcd8481c2e"
+    },
+    {
+      "tid": 92,
+      "name": "Crew.Girl.S01E03.1080p.WEB.H264-CAKES [IPT]",
+      "canonical_btiha": "ec15ccb2d5a4c8daae833081f525a0573a106810",
+      "sha256": "7760b9219ada2750e989da7bdca341e3d6d83f60a12e58ac8d759d0fa2bbbd40"
+    },
+    {
+      "tid": 93,
+      "name": "crew.girl.s01e03.1080p.web.h264-cakes[EZTVx.to].mkv",
+      "canonical_btiha": "c17173207dabb701ce1844efe3aec59e837f463c",
+      "sha256": "8ef1c8e276434ff34d6925c6e6f83b3f7b235a6af90267b806b582d578c73996"
+    },
+    {
+      "tid": 94,
+      "name": "Crew.Girl.S01E03.480p.x264-mSD [IPT]",
+      "canonical_btiha": "7261a773177df41550f78360b6344121233d7e0f",
+      "sha256": "fd4868c08bfaf5505adaae60e13e999d1bb1a261a12e382dc89df00bef973643"
+    },
+    {
+      "tid": 95,
+      "name": "Crew.Girl.S01E03.480p.x264-mSD[EZTVx.to].mkv",
+      "canonical_btiha": "a43d678b6c9366b0efbdfb07972a3f8040b3c38b",
+      "sha256": "e99d22213a04a66425feb59046a447701eba406b4064c0673ed1a39e065c356b"
+    },
+    {
+      "tid": 96,
+      "name": "Crew.Girl.S01E03.720p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "7d67b221ef806064138ac9d2a24373e6c38b6488",
+      "sha256": "270fdec0c50e0fdb0be5723aef609656aa897d39c485a6c5e60b8641b83d9200"
+    },
+    {
+      "tid": 97,
+      "name": "Crew.Girl.S01E03.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "c8477f3756b81653d1fd9699f6b2616147ffacd4",
+      "sha256": "6f6a10efbe12dde5eb99813db3ee0f9427132193441e7405de0ad581da49baa8"
+    },
+    {
+      "tid": 98,
+      "name": "Crew.Girl.S01E03.AAC.MP4-Mobile [IPT]",
+      "canonical_btiha": "a89471791bc18d1ccef1fad1e12c60941347efe6",
+      "sha256": "cc7c535def8ebc4b00e52a402ee1aa5c1cd3da699d4a6c69e186ae1e4bb1749b"
+    },
+    {
+      "tid": 99,
+      "name": "Crew.Girl.S01E03.DV.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "3479b90591433ab1914494559f898270e4a089ea",
+      "sha256": "34935ecaefc82f2d2deaf8c8b6b538811709fee4c46aa14b1e11e5de74834623"
+    },
+    {
+      "tid": 100,
+      "name": "Crew.Girl.S01E03.HDR.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "a3a2d140c8cf54280b5e580f74b1814130fe446e",
+      "sha256": "349ea927bf8eb74c9b72805e5586a3c9b2463b8e56f07afa28550b46c5e88c2a"
+    },
+    {
+      "tid": 101,
+      "name": "Crew.Girl.S01E03.MULTi.1080p.WEB.x264-AZR [IPT]",
+      "canonical_btiha": "060b95bf5bc49a420f7f5f4454d4c19b970629c5",
+      "sha256": "d16fabc651c4d42bfd028c9ddf4f17608c64780c64cc97475130c9ba50fdd261"
+    },
+    {
+      "tid": 102,
+      "name": "Crew.Girl.S01E03.XviD-AFG [IPT]",
+      "canonical_btiha": "4420f99b39f5053c744579b5d403168ce2bafd2d",
+      "sha256": "defc72d7b5fb65671cd0a04b04db0e099bdc3a9d7fd02a09953d1a1a22987f9f"
+    },
+    {
+      "tid": 103,
+      "name": "Crew.Girl.S01E03.XviD-AFG[EZTVx.to].avi",
+      "canonical_btiha": "0535d7fe24092ee2b8af7642ce66c17449823709",
+      "sha256": "3d8aaf6a0495d82220b6c1ae72cd13a45d1456da3fe3716066247010eb053cc4"
+    },
+    {
+      "tid": 104,
+      "name": "Crew.Girl.S01E04.1080p.AV1.10bit-MeGusta [IPT]",
+      "canonical_btiha": "6527751e77d8fe89e4009791fac292f5a3eb86ff",
+      "sha256": "ff1aae1b4cd4e080b4a59534b4c1773a5a62fff82cc3c6d315bb6a491357e4f9"
+    },
+    {
+      "tid": 105,
+      "name": "Crew.Girl.S01E04.1080p.WEB.H264-CAKES [IPT]",
+      "canonical_btiha": "3192d63396706670e61697504d9df9f3c9e5ac0d",
+      "sha256": "3e318b99d87c51459bb8cfb7d8e592ee35bc39e33911fd925995300adce01b87"
+    },
+    {
+      "tid": 106,
+      "name": "crew.girl.s01e04.1080p.web.h264-cakes[EZTVx.to].mkv",
+      "canonical_btiha": "568b1d7fff181c62d6ff17f213c654fad561ade7",
+      "sha256": "f009b21ef884e7048cb99c173b414746d94046393e800c39431440487ec6da9d"
+    },
+    {
+      "tid": 107,
+      "name": "Crew.Girl.S01E04.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "f7f020b873f29165493d2eb435c778a2917b553d",
+      "sha256": "28ce0d87626ce8cf4d1368a0614160bb21f4ba6706c509b9988fe0e6e37833c0"
+    },
+    {
+      "tid": 108,
+      "name": "Crew.Girl.S01E04.480p.x264-mSD [IPT]",
+      "canonical_btiha": "8ef7b73873a13c77ded90f9e6ac2056691640e2d",
+      "sha256": "b07629693d07caebe853e0135799d80e87685832a32af968023f41e832d5c89c"
+    },
+    {
+      "tid": 109,
+      "name": "Crew.Girl.S01E04.480p.x264-mSD[EZTVx.to].mkv",
+      "canonical_btiha": "91f7713df0229baca3fd3c4dfaa4d8b88b084e96",
+      "sha256": "4d04d1d38ceb341ce394db47afc032aa75b978cdbdf4d18d9aa2959edf155fea"
+    },
+    {
+      "tid": 110,
+      "name": "Crew.Girl.S01E04.720p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "01e769abfe16892d864c2e95c75b8c3b31834a2e",
+      "sha256": "9dd3eeea3557e1d742cd0f44dff7ae5f1060d1faa249f4a1d160aedaf38b801f"
+    },
+    {
+      "tid": 111,
+      "name": "Crew.Girl.S01E04.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "45641406777da13022a03c1dd7cde6203d8fa172",
+      "sha256": "2caababdb9b04f743bbacbd044f54eb2faee9345053ed28c166fc5d2ceb90ab5"
+    },
+    {
+      "tid": 112,
+      "name": "Crew.Girl.S01E04.AAC.MP4-Mobile [IPT]",
+      "canonical_btiha": "399716603ee82aa8c4da43feaae8ebe4c78b6ea1",
+      "sha256": "deec1543dc2a7b7e9fc088db21249c834a2879afe23ae554bb223459dcfa7bfb"
+    },
+    {
+      "tid": 113,
+      "name": "Crew.Girl.S01E04.DV.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "17d7a750aa825d8ff5a5aae01bf8d80c365facb7",
+      "sha256": "89d9c3466e7c157a42b3dd54a5d55a272197fef7542acf310a18899c7b128dfa"
+    },
+    {
+      "tid": 114,
+      "name": "Crew.Girl.S01E04.HDR.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "954237a44d390fe594b545e93ad03764babf11a5",
+      "sha256": "c94473e0cc1180fd65da465f7998305a5e57a52d6d72b77d54971432bb9cc159"
+    },
+    {
+      "tid": 115,
+      "name": "Crew.Girl.S01E04.MULTi.1080p.WEB.x264-AZR [IPT]",
+      "canonical_btiha": "d204833bdb3abaded8aac0c0a6e97d5ebf53774f",
+      "sha256": "9c8dc71d227329bd38f676cb1675142b99e28e262193c81fd013c3a0f144fe0f"
+    },
+    {
+      "tid": 116,
+      "name": "Crew.Girl.S01E04.XviD-AFG [IPT]",
+      "canonical_btiha": "ab171cd116430379260b1a86fac5f07eee521344",
+      "sha256": "a543819be210b4a92bd9464067486dfb5177e15506df95bfa1ac03f8b71c590d"
+    },
+    {
+      "tid": 117,
+      "name": "Crew.Girl.S01E04.XviD-AFG[EZTVx.to].avi",
+      "canonical_btiha": "39cb285f18127dd2de15fa872a51571d71058c3b",
+      "sha256": "c2b5ba0702acb40dd87c8e489efa3f1d76072f182a0f73d0fee60395306b0b29"
+    },
+    {
+      "tid": 118,
+      "name": "Crew.Girl.S01E05.1080p.AV1.10bit-MeGusta [IPT]",
+      "canonical_btiha": "e3488098c65581421b918113dbba895687687a29",
+      "sha256": "cd05ee0b173a69b13d45f2c353f64941a80d5791128d70e55c96e41bdc8ca3fe"
+    },
+    {
+      "tid": 119,
+      "name": "Crew.Girl.S01E05.1080p.WEB.H264-CAKES [IPT]",
+      "canonical_btiha": "ff39df15a131a1b595fa9ac010f68402e3207fea",
+      "sha256": "c71880771fc323945b42b01c51bda2d4779b47149224acb221345601d5db9b9b"
+    },
+    {
+      "tid": 120,
+      "name": "crew.girl.s01e05.1080p.web.h264-cakes[EZTVx.to].mkv",
+      "canonical_btiha": "ac4c4d9b2f951ccad50ecbb6824ea51a6d50cfb7",
+      "sha256": "da5a799aed015a4f5a78ca23017920fbcafe184f751f08d58418f8bc172b2df2"
+    },
+    {
+      "tid": 121,
+      "name": "Crew.Girl.S01E05.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "a91e67c6d5f0f24acd22c0b5ecd2baadcb011d50",
+      "sha256": "cafe834d439f603b39f5008e4d6e25ff9abb32ec4aad1562ab7489b67c150570"
+    },
+    {
+      "tid": 122,
+      "name": "Crew.Girl.S01E05.480p.x264-mSD[EZTVx.to].mkv",
+      "canonical_btiha": "ea4041db570c5bdcbb023eff9d7ea28366d586e7",
+      "sha256": "f7686926def8f0edb638c154868552a8bcc87c2767b90d0f486e18a0a104609b"
+    },
+    {
+      "tid": 123,
+      "name": "Crew.Girl.S01E05.720p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "5cd101c470fd4cd16312cc3d38f14a11c931a299",
+      "sha256": "26d252b408e1a6fcb8254df09fcf26c209ebb773c3a02f5af5d4a480b20a416a"
+    },
+    {
+      "tid": 124,
+      "name": "Crew.Girl.S01E05.AAC.MP4-Mobile [IPT]",
+      "canonical_btiha": "bf3c4e65c513a546e3436e81b44e03ca3e08ceae",
+      "sha256": "6675b4dcda43d86f1a3ca8aabf26623f113fec985ae3201549198e5c7567b1d4"
+    },
+    {
+      "tid": 125,
+      "name": "Crew.Girl.S01E05.DV.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "448679293b8831c9a1c5e49d373de0efb7ef6b0d",
+      "sha256": "942a649b30b8ed2c7dffd89ba97c09a2954b53551768c8193cfd31fabcc673e6"
+    },
+    {
+      "tid": 126,
+      "name": "Crew.Girl.S01E05.HDR.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "be1fc87dba91264cdd8c6b9c9ec700243caec523",
+      "sha256": "4b5ee1d9c2ba1f5d9a6ea60f7f9871591e43747f65f6d00a99c0d15d2706d733"
+    },
+    {
+      "tid": 127,
+      "name": "Crew.Girl.S01E05.MULTi.1080p.WEB.x264-AZR [IPT]",
+      "canonical_btiha": "da2d63ad5c07cce902b13b4d7f2cf70c467d1954",
+      "sha256": "0a63a5ced161182a232b95f4c00b3700f3f76099f4caef814f59032a25e3b5b8"
+    },
+    {
+      "tid": 128,
+      "name": "Crew.Girl.S01E05.XviD-AFG[EZTVx.to].avi",
+      "canonical_btiha": "d0bd97b4709dfd850aecf83e8593f35cb068cda7",
+      "sha256": "4f26f1361ee1560417509739ed42ea42eb5d062c2735dd7e2f0215af1aab0047"
+    },
+    {
+      "tid": 129,
+      "name": "Crew.Girl.S01E06.1080p.AV1.10bit-MeGusta [IPT]",
+      "canonical_btiha": "43f9cee77f41b094e5f7a8701e883cfece563523",
+      "sha256": "c068c3eb7ce0f70f0d28ea439da9a194ac4c30371cce9095fe3d23609f970220"
+    },
+    {
+      "tid": 130,
+      "name": "Crew.Girl.S01E06.1080p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "fe792bd3119396e07ad2f452d453351cd002410d",
+      "sha256": "9073fa48ffc14746e542d37f971d5ede704a578fbfedb48789e4515a8a6e8f2b"
+    },
+    {
+      "tid": 131,
+      "name": "Crew.Girl.S01E06.1080p.HEVC.x265-MeGusta",
+      "canonical_btiha": "afb8f52c470df6365f904a83db046fb4a5be4133",
+      "sha256": "22e454474878d6976246ffe1d2df91937d6a89e2b7db4ecee444372fac9f208b"
+    },
+    {
+      "tid": 132,
+      "name": "Crew.Girl.S01E06.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "c183713805228bb6541a135f02032d32aefbbe94",
+      "sha256": "f4c19304c37950b1e41777755406fb4d3748d94dea8587987124062e4e6a6416"
+    },
+    {
+      "tid": 133,
+      "name": "Crew.Girl.S01E06.1080p.WEB.H264-CAKES [IPT]",
+      "canonical_btiha": "cacd97309f5345bd6aae73781bd81f511e447c03",
+      "sha256": "32ada9ed0527875b18adc299429a906a71b817802a377ff0ab6deae50a4bdd6f"
+    },
+    {
+      "tid": 134,
+      "name": "crew.girl.s01e06.1080p.web.h264-cakes[EZTVx.to].mkv",
+      "canonical_btiha": "ac53997ac72c2592a8cb61180420c1f42291cf57",
+      "sha256": "5ed867e95a4050e752cb6b09eda9dc54e0bd455b4282cde0f8ca05613b08529c"
+    },
+    {
+      "tid": 135,
+      "name": "Crew.Girl.S01E06.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "d7f42b76cf10f4841a39c5064fc50c0686eff147",
+      "sha256": "39cfe222ec15a7da2c8b8025e786cd53206467aad058a30810b527410254ed3b"
+    },
+    {
+      "tid": 136,
+      "name": "Crew.Girl.S01E06.480p.x264-mSD [IPT]",
+      "canonical_btiha": "a341be2e8bdbaa45559c9cd3cee03d3faa2eaab3",
+      "sha256": "91a4e1f99ede1f61ad3952f2612c5e884d471cc852479ce34b8b986b50e17b17"
+    },
+    {
+      "tid": 137,
+      "name": "Crew.Girl.S01E06.480p.x264-mSD[EZTVx.to].mkv",
+      "canonical_btiha": "ee262001d5ed4080bc48f65ba01bfdba3d0cf4ca",
+      "sha256": "bf871f8ff688f2299782fa607068e313bb64e833ad8d73c61f0765d5716fe154"
+    },
+    {
+      "tid": 138,
+      "name": "Crew.Girl.S01E06.720p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "2ce7157e66e81d2237cb7166214f39adfbf12f69",
+      "sha256": "53a5e29150d8085628a715802217f02077415028faa7cc8ba3196ad5c7874591"
+    },
+    {
+      "tid": 139,
+      "name": "Crew.Girl.S01E06.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "857130cdbc084be2c93cbe4e3bb7643a65ff3ca5",
+      "sha256": "217ec5fd2cad0c98d00dcf97cde2f0cf4e1e7b8269301dbac3bbf0ac44f261e2"
+    },
+    {
+      "tid": 140,
+      "name": "Crew.Girl.S01E06.DV.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "5b8f7c165bd6ffb280ed4d4f833463727ae8e24e",
+      "sha256": "79979c8bfa7563aa4ca6de47eb8455248d2b520e58ab1fe090f9550bdaf64503"
+    },
+    {
+      "tid": 141,
+      "name": "Crew.Girl.S01E06.HDR.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "3c09ccf6e52e8c325cecc57ed59f465ef10c90a7",
+      "sha256": "9d3e1f4a4b43d967514479e28a2ad624e5578a9868285dc90044448a74c5301e"
+    },
+    {
+      "tid": 142,
+      "name": "Crew.Girl.S01E06.MULTi.1080p.WEB.x264-AZR [IPT]",
+      "canonical_btiha": "fc5ea82078d301e07edbfa3599f80e1933a250b0",
+      "sha256": "5c030b3dc9c223daf4246d140da07f3322b4f06449ee2676e794c45cbae2a385"
+    },
+    {
+      "tid": 143,
+      "name": "Crew.Girl.S01E06.XviD-AFG [IPT]",
+      "canonical_btiha": "fa5ec918c39d16c67b7f0d692b146bca5c0a52bc",
+      "sha256": "1ab4f9e8f97cce66eb8f3378bfd7326efbaa2373d256b69c34d1bb62e1483c4e"
+    },
+    {
+      "tid": 144,
+      "name": "Crew.Girl.S01E06.XviD-AFG[EZTVx.to].avi",
+      "canonical_btiha": "6017239aa0287def33b8a2838fb56aca84ef74c7",
+      "sha256": "dc03540fb1799e430eb1b411076a0f82b12ac8c3a020efe4e0af1ef045c2d132"
+    },
+    {
+      "tid": 145,
+      "name": "Crew.Girl.S01E07.1080p.AV1.10bit-MeGusta [IPT]",
+      "canonical_btiha": "230e3b4418bce9b33c9a59d6c8f3e52c4d45a6bf",
+      "sha256": "afd3a9c206a00c6acbbc61a4574b36ee4d664a43b1315c7a3ccbf0ef81787066"
+    },
+    {
+      "tid": 146,
+      "name": "Crew.Girl.S01E07.1080p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "de626d017d073170876933864bf38eafe6777385",
+      "sha256": "16a6344e210c5a7e9e0828f5802abc62b890353b057281b3ec23ab03190eb5ac"
+    },
+    {
+      "tid": 147,
+      "name": "Crew.Girl.S01E07.1080p.HEVC.x265-MeGusta",
+      "canonical_btiha": "9af1ba82d98b200538cbbdba973f7cfd6bb14b43",
+      "sha256": "77057733d5971d9f81d6b2f617efbe81db9ef3bd9d6d82d223d1a8f6d19dc6d3"
+    },
+    {
+      "tid": 148,
+      "name": "Crew.Girl.S01E07.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "5b5490bb66fbddc0aaf2d1d88a9d3f1e0aa121ff",
+      "sha256": "3f9aff5ac77dfe20941bb38b58dc3ef96784a5f1af081acc3e0a574dc0936bc1"
+    },
+    {
+      "tid": 149,
+      "name": "Crew.Girl.S01E07.1080p.WEB.H264-CAKES [IPT]",
+      "canonical_btiha": "2017f9ed0ff7d3eee7cb5b1208cd24dacd810fb6",
+      "sha256": "689b11025b990c4ed954f71da0b47a84cd6861482348a2a6559ec88f31d4c23d"
+    },
+    {
+      "tid": 150,
+      "name": "crew.girl.s01e07.1080p.web.h264-cakes[EZTVx.to].mkv",
+      "canonical_btiha": "3fd4bd7bf05cd6b3c13607e8b49e0e6a07fe1011",
+      "sha256": "2f69cbb3d5bfb3a2763ba0c2bc1e96cb8458303c9fbf9d1aa136971f567f2bc2"
+    },
+    {
+      "tid": 151,
+      "name": "Crew.Girl.S01E07.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "0667e6d91fb4559e4c714933dfca0b8d9bbd516a",
+      "sha256": "9f4981b35e98568e5f967bda370ddd5a086b7550107a25236bac1674b35aa791"
+    },
+    {
+      "tid": 152,
+      "name": "Crew.Girl.S01E07.480p.x264-mSD [IPT]",
+      "canonical_btiha": "6fd9cc849a1ed9e5f11e7b08e1ef0c91eaeb2dec",
+      "sha256": "a475e1c1d690edd07f01952bf7a107a075e514f2f2f249efa0b2f027da0e78ee"
+    },
+    {
+      "tid": 153,
+      "name": "Crew.Girl.S01E07.480p.x264-mSD[EZTVx.to].mkv",
+      "canonical_btiha": "7354983d117eb708f3be6c931f724f52add0afbe",
+      "sha256": "5cb8e7f15003b1a0eee22400285c6d463b6ef1e9505428023df283abfd6e74fb"
+    },
+    {
+      "tid": 154,
+      "name": "Crew.Girl.S01E07.720p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "d7bfcdd8e70aa1f9d409c7f139f97e589a0c0a53",
+      "sha256": "f418271f0f3898ec21ff4ba55e3104a16574ae046522a992e01621100b65ef89"
+    },
+    {
+      "tid": 155,
+      "name": "Crew.Girl.S01E07.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "23b929459d511adc7f2187b1d9e6d9bcfae2daad",
+      "sha256": "5428a205e6167001d6fc276b2819d7fa8c358177584470b4fae82a0894e80e4d"
+    },
+    {
+      "tid": 156,
+      "name": "Crew.Girl.S01E07.AAC.MP4-Mobile [IPT]",
+      "canonical_btiha": "8f5906e3c80a385fddca0bfb28f863c289fb3fc0",
+      "sha256": "6688bb42453e1b91c681cf805e4af9f2e583136d35a35eb30372a3b0ceff731d"
+    },
+    {
+      "tid": 157,
+      "name": "Crew.Girl.S01E07.DV.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "60a283dc2fa234bcefa301094c71d1444ca0d971",
+      "sha256": "6069910e5e65ecaa95e7e8aac428543e7fd9333c91ed251db7cee21a0ab3b4a4"
+    },
+    {
+      "tid": 158,
+      "name": "Crew.Girl.S01E07.HDR.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "aadbf948d466c82addcdd999b2490993355942c0",
+      "sha256": "f85273a64839dfb35b7d8a3e5dfac051cb77b19c49f907640339fbfd3ee948d1"
+    },
+    {
+      "tid": 159,
+      "name": "Crew.Girl.S01E07.MULTi.1080p.WEB.x264-AZR [IPT]",
+      "canonical_btiha": "7f4f1f195cffa93ae2e35c6dbfa727471843b98f",
+      "sha256": "d3e93fc88a909d347181814a2ae8b3f546579d3701e599ab5708db0ee163b83d"
+    },
+    {
+      "tid": 160,
+      "name": "Crew.Girl.S01E07.XviD-AFG [IPT]",
+      "canonical_btiha": "6b86b0b330a7859afdb04d20cf4b875bd5d721f9",
+      "sha256": "e2dd6e15e045920b268bbcf144353255b91af22d11ff606ef6828f020f3d77ae"
+    },
+    {
+      "tid": 161,
+      "name": "Crew.Girl.S01E07.XviD-AFG[EZTVx.to].avi",
+      "canonical_btiha": "11409a52a8ae0a625fedeb333dac33db2f11b1ac",
+      "sha256": "cf942d007227c22024bde5a81735fa157250d693d7b0761fafc173121c6314a8"
+    },
+    {
+      "tid": 162,
+      "name": "Crew.Girl.S01E08.1080p.WEB.H264-TRB",
+      "canonical_btiha": "7ba4f01ac9380bc50392f8f2469f74246fe5058e",
+      "sha256": "3d61f00e8fadcc317cf536290d674a1e7ead4adb3e87a53a0e150a4b02ee95bf"
+    },
+    {
+      "tid": 163,
+      "name": "Crew.Girl.S01E08.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "5caf5b7dbf356453279ae5f2f2b36615e190dde4",
+      "sha256": "0d82d7bab85da9421aab12aa364ed402df8e1f33357c69f0822780f29fc056f1"
+    },
+    {
+      "tid": 164,
+      "name": "Crew.Girl.S01E08.480p.x264-mSD [IPT]",
+      "canonical_btiha": "1c75c8c096896ba656cf3038be87b6487d5b2646",
+      "sha256": "690976e5a72b2da2b0832732cdde0562aacce60295415f761ffe9c8976156b29"
+    },
+    {
+      "tid": 165,
+      "name": "Crew.Girl.S01E08.480p.x264-mSD[EZTVx.to].mkv",
+      "canonical_btiha": "fe90935a2051335a5b47f3934906e43b026bf3d3",
+      "sha256": "2a0795f460f9d0eb1f7e4b65dc35a8a38e45c46af2a4675949cbf95b0d37e230"
+    },
+    {
+      "tid": 166,
+      "name": "Crew.Girl.S01E08.720p.HEVC.x265-MeGusta [IPT]",
+      "canonical_btiha": "4d1e97d9740318dd95e51806907febaa677327f3",
+      "sha256": "19742f72b27b231e4486e497c21cf332c1e77261b62b2856720085200be75c83"
+    },
+    {
+      "tid": 167,
+      "name": "Crew.Girl.S01E08.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "canonical_btiha": "b70f14deb647f2271dc3bb3458e2ccb7e9a3351f",
+      "sha256": "9f38b68c47693e3278d35523ba4d0e23ce69efa294618383192b243c50b0380c"
+    },
+    {
+      "tid": 168,
+      "name": "Crew.Girl.S01E08.DV.2160p.WEB.h265-ETHEL [IPT]",
+      "canonical_btiha": "6e1f89ff1fe790fd23adba7438c8d23b29d3fb81",
+      "sha256": "7873a458e5afbcd23f09188a25ffac16928e63c0e82573d50ac6747905de0677"
+    },
+    {
+      "tid": 169,
+      "name": "Crew.Girl.S01E08.XviD-AFG [IPT]",
+      "canonical_btiha": "73c71c8ea7bfbe657bc64b6c094f68cce47f9503",
+      "sha256": "75311523e3281bdf3ddf6b531d7eecf7248f51bc5870e53271b792f95a035749"
+    },
+    {
+      "tid": 170,
+      "name": "Crew.Girl.S01E08.XviD-AFG[EZTVx.to].avi",
+      "canonical_btiha": "c1b3605cc766ba06b60e658cf443e4010c29be2e",
+      "sha256": "4bcd28ce6ed52db7772e399dbf535230127eddcf55ab5a57be6df7f19768e36a"
+    },
+    {
+      "tid": 172,
+      "name": "www.UIndex.org    -    Crew Girl S01E01 The Catch 1080p NF WEB-DL DD 5 1 Atmos H 264-playWEB",
+      "canonical_btiha": "603b94e8bdfc616bdcc8c55fb7cb52ffbc9ab37e",
+      "sha256": "95968ec2c0f1e9e1ea8dbc748ade4ff26e25782a77587469be2d41c3dc510bc6"
+    },
+    {
+      "tid": 174,
+      "name": "www.UIndex.org    -    Crew Girl S01E02 The Hateful Eight 1080p NF WEB-DL DD 5 1 Atmos H 264-playWEB",
+      "canonical_btiha": "7cbbace7008cd6ba6ab82776e8393bfce68119f6",
+      "sha256": "26ace4b17d49827c379a3016e90d97b18abcf3fbb117ce1cd13b8eb12379b1dc"
+    },
+    {
+      "tid": 175,
+      "name": "www.UIndex.org    -    Crew Girl S01E02 The Hateful Eight 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX",
+      "canonical_btiha": "de2ed46ee5d1eb0e30051ea9c3e260ca99c0ade3",
+      "sha256": "943700d83a4b503cb909b627529e898be8782e6011e1d82bacd79bb99aa585fb"
+    },
+    {
+      "tid": 177,
+      "name": "www.UIndex.org    -    Crew Girl S01E04 True Rowmance 1080p NF WEB-DL DD 5 1 Atmos H 264-playWEB",
+      "canonical_btiha": "7ad395fc45f433df454abe61509516023bfc51cf",
+      "sha256": "48ec6806c0cb507784ce1e81ada5d5cddc34457e8cae435fae4881b8b41ff622"
+    },
+    {
+      "tid": 178,
+      "name": "www.UIndex.org    -    Crew Girl S01E04 True Rowmance 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX",
+      "canonical_btiha": "fe4d239d9709ebabd31bf64d56db9b83608c124b",
+      "sha256": "5b7bbbebeccdb0486e64f49ed4d93f23078910a48a793ada83ca47c16a6390e7"
+    },
+    {
+      "tid": 180,
+      "name": "www.UIndex.org    -    Crew Girl S01E05 Anatomy of a Fall Formal 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX",
+      "canonical_btiha": "55351bb693f2034d7c7f0229d0ce06a0eb6a731e",
+      "sha256": "11708286dc28a18d98749751ca5fe82007126291a4ebd1eeff16c0cdffbf8707"
+    },
+    {
+      "tid": 181,
+      "name": "www.UIndex.org    -    Crew Girl S01E06 Bad Break 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX",
+      "canonical_btiha": "16c9b674e1e1759ccb2eab8a5e2c1925cab18872",
+      "sha256": "b14a39e874f7e455742aebfb940d82c21343ea5e1f69f303486a9521d346fc65"
+    },
+    {
+      "tid": 183,
+      "name": "www.UIndex.org    -    Crew Girl S01E07 Under Pressure 1080p NF WEB-DL DD 5 1 Atmos H 264-playWEB",
+      "canonical_btiha": "88643c45e0ac22a007ab7286e980bd4cbf67d15a",
+      "sha256": "216b73f06c7d63684c2a27e5b1b36aff3319f05b1fc84c7c43dfcadd1a914026"
+    },
+    {
+      "tid": 184,
+      "name": "www.UIndex.org    -    Crew Girl S01E07 Under Pressure 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX",
+      "canonical_btiha": "fdba61f1884a1d93c4b2697764d2499449731156",
+      "sha256": "de9b6acd8008c384731558b9bfaf43893992b7ab05dedf28ff2b6cdfd312ccbc"
+    },
+    {
+      "tid": 185,
+      "name": "www.UIndex.org    -    Crew Girl S01E08 O Coxswain My Coxswain 1080p NF WEB-DL DDP5 1 Atmos H 264-FLUX",
+      "canonical_btiha": "cd93778b6ab4b7fa652024c50d358b74731ab565",
+      "sha256": "6ba9ff21227135958a5c3b5c9e44220666f3761fa7d966fd6a2f68cabf76ab7d"
+    },
+    {
+      "tid": 186,
+      "name": "www.UIndex.org    -    Crew.Girl.S01E01.1080p.AV1.10bit-MeGusta",
+      "canonical_btiha": "ed9331dcc326fbd92acc78b109db618e27ed9ed7",
+      "sha256": "9b3554d8779cd439dbcbab725636d7c017219085753093aab8d561ba84ea25b0"
+    },
+    {
+      "tid": 187,
+      "name": "www.UIndex.org    -    Crew.Girl.S01E02.1080p.AV1.10bit-MeGusta",
+      "canonical_btiha": "a8abfb46c52518d20037fc9f4a2526391d126a1b",
+      "sha256": "494738f0dc5896921ea41f17e6f761cf6aae18da9d4988e5c6f6639d90c0d0a6"
+    },
+    {
+      "tid": 188,
+      "name": "www.UIndex.org    -    Crew.Girl.S01E02.1080p.WEB.H264-CAKES",
+      "canonical_btiha": "29563384576e214aaf8172d057e49d70fdb99210",
+      "sha256": "e8b9632c4c761a55bc0e5431475461b268e2394b866b5c2d8659f8572a8bfaa7"
+    },
+    {
+      "tid": 189,
+      "name": "www.UIndex.org    -    Crew.Girl.S01E03.1080p.AV1.10bit-MeGusta",
+      "canonical_btiha": "f8688516fd086eb0e07de56c534d3354bbc23e19",
+      "sha256": "546c531ac1261b702fe46cc3587a05ecdef110fddca8aa2b22db669fcfde35c3"
+    },
+    {
+      "tid": 190,
+      "name": "www.UIndex.org    -    Crew.Girl.S01E04.1080p.WEB.H264-CAKES",
+      "canonical_btiha": "be5bb3ff52884dd2bab012c5121945f3efef2d9d",
+      "sha256": "8dcb45e5c282863bca123a9a00b2a07f0ae717bd50103d290fd06cd7801b0433"
+    },
+    {
+      "tid": 191,
+      "name": "www.UIndex.org    -    Crew.Girl.S01E05.1080p.AV1.10bit-MeGusta",
+      "canonical_btiha": "693f60ef854e0ccb835cbe6eab0f2d190e91c804",
+      "sha256": "92c891e2b3387897d2fcfbf17aabfe9b79297ad30e336929ec9aca471d3c65d4"
+    },
+    {
+      "tid": 192,
+      "name": "www.UIndex.org    -    Crew.Girl.S01E06.1080p.AV1.10bit-MeGusta",
+      "canonical_btiha": "d9d7af9371226650ad7e0ecfc42741647f5b755b",
+      "sha256": "8cb4ae5daa79065305586da61e283d769bbd0b26bddd666001e9f07c0ee82e1d"
+    },
+    {
+      "tid": 194,
+      "name": "www.UIndex.org    -    Crew.Girl.S01E07.1080p.HEVC.x265-MeGusta",
+      "canonical_btiha": "853552f3913a1cf576f2eda33271fdac3c7e56ca",
+      "sha256": "a1889b0457e97e31f1c50595f16586d921abef1166906e46ecf02370785d456a"
+    },
+    {
+      "tid": 195,
+      "name": "www.UIndex.org    -    Crew.Girl.S01E07.1080p.WEB.H264-CAKES",
+      "canonical_btiha": "894a26edc1435d3671272d88cb7936889c76cc33",
+      "sha256": "3633ac47f1005e9db3b247f418eda36ae227f624d86a55097d6f58e7359a8ebe"
+    },
+    {
+      "tid": 196,
+      "name": "www.UIndex.org    -    Crew.Girl.S01E08.1080p.WEB.H264-CAKES",
+      "canonical_btiha": "091fdcf8208ea73902f391764917b4fb8ba9fac4",
+      "sha256": "43c83ff15d4a68962ddab91d35c7cddc7276ce487a6bb0b318f9a0bb3d76bcf5"
+    },
+    {
+      "tid": 197,
+      "name": "【高清剧集网发布 www.BTHDTV.com】掌舵少女[全8集][简繁英字幕].Crew.Girl.S01.1080p.NF.WEB-DL.DDP.5.1.Atmos.H.264-BlackTV",
+      "canonical_btiha": "1e5ad2279f9a6ece486d8f1274c5550f40d2c5f5",
+      "sha256": "ed8f74ce2f9b91080cd31f3f54263967d6e91a22fea0c1b73009d7325686f3e5"
+    },
+    {
+      "tid": 198,
+      "name": "【高清剧集网发布 www.BTHDTV.com】掌舵少女[全8集][简繁英字幕].Crew.Girl.S01.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-BlackTV",
+      "canonical_btiha": "8cde4794f56e64fbff2e05e7d1a125022588cb55",
+      "sha256": "dfe65b961d5a5421f9e12f5cafae51618bfd674f3f86ad76039cf8eeca795d9d"
+    },
+    {
+      "tid": 199,
+      "name": "【高清剧集网发布 www.BTHDTV.com】掌舵少女[全8集][简繁英字幕].Crew.Girl.S01.2160p.NF.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-BlackTV",
+      "canonical_btiha": "075649b01da8262fce3d6d5d35f0223c8b6e6f7f",
+      "sha256": "467d08a7b5a3dd5d16400cc771b1b7cb26e5fa371442396c2b6f8cb6971107c6"
+    },
+    {
+      "tid": 200,
+      "name": "【高清剧集网发布 www.BTHDTV.com】掌舵少女[杜比视界版本][全8集][简繁英字幕].Crew.Girl.S01.2160p.NF.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV",
+      "canonical_btiha": "56225bcc16917731898bdda4823aae27d3ef9dcf",
+      "sha256": "a587acf4b6dd3901b3446968bf6aadbf7b0fd34a10f9ebedc471790d9e76a862"
+    },
+    {
+      "tid": 201,
+      "name": "掌舵少女.6v电影 地址发布页 www.6v123.net 收藏不迷路",
+      "canonical_btiha": "7bec11b4387e2101a4aafe4071c7d322177abb84",
+      "sha256": "b089ee1b2b40ed0b0cb70e1ab44b96a867544169b00ab4f64d5b95149e3deb00"
+    },
+    {
+      "tid": 202,
+      "name": "掌舵少女.Crew.Girl.S01.1080p.CHS&ENG.www.xingfan.cc",
+      "canonical_btiha": "be6e9668d74579ad7e6c2d9e1a08dcedeacbf71a",
+      "sha256": "be470bd14b07eebc0ce39ca08445e63b0d2c1666e3ae034b85e0b8dea6bf41ff"
+    }
+  ],
+  "native_check_required": "Join native names, including synthetic duplicate-group names, through metainfo to canonical BTIHA; record new native IDs separately from archive IDs."
+}

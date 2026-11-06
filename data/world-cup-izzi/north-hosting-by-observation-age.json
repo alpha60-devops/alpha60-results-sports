@@ -1,0 +1,1043 @@
+{
+  "renderer": {
+    "library": "Izzi",
+    "default_layout": "izzi-standard",
+    "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+    "interaction": "izzi-weekly-graph-hover.js",
+    "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+    "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+    "renderer_sha256": "1d132d25f4cc0f0776de98b77abb784fac34df52f5f8d3a2279e54b6403e4347",
+    "wrapper_sha256": "20cacde54126c3c004c3046e48e6a1a6a9b56d49351c656501627a9848a88b65",
+    "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+    "functions": [
+      "svg::make_line_graph",
+      "svg::make_line_graph_annotations",
+      "svg::transform_to_graph_points",
+      "svg::make_marker_instance"
+    ]
+  },
+  "charts": {
+    "north-hosting-by-observation-age": {
+      "title": "Hosting by collection observation age",
+      "subtitle": "First 14 observed dates · H3r8 · downloaders",
+      "description": "Separate country panels and a common 0 to 100 percent scale. Missing country-days are not zero. Calendar dates differ by media object. Media-object names appear directly on their lines; no separate legend.",
+      "xlabel": "COLLECTION OBSERVATION DAY",
+      "xmin": 1,
+      "xmax": 14,
+      "ticks": [
+        [
+          1,
+          "1"
+        ],
+        [
+          4,
+          "4"
+        ],
+        [
+          7,
+          "7"
+        ],
+        [
+          10,
+          "10"
+        ],
+        [
+          14,
+          "14"
+        ]
+      ],
+      "panels": [
+        {
+          "title": "United States · daily downloader hosting share",
+          "unit": "percent",
+          "ylabel": "HOSTING SHARE (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "World Cup",
+              "color": "#214f7a",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 0.0,
+                  "tooltip": "World Cup · 2026-06-29 · USA: 0 of 3; 0.0000% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 73.3674775928297,
+                  "tooltip": "World Cup · 2026-06-30 · USA: 573 of 781; 73.3675% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 69.96285979572887,
+                  "tooltip": "World Cup · 2026-07-01 · USA: 1,507 of 2,154; 69.9629% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 67.63980263157895,
+                  "tooltip": "World Cup · 2026-07-02 · USA: 3,290 of 4,864; 67.6398% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 62.327739118570065,
+                  "tooltip": "World Cup · 2026-07-03 · USA: 4,568 of 7,329; 62.3277% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 63.908350691156976,
+                  "tooltip": "World Cup · 2026-07-04 · USA: 6,750 of 10,562; 63.9084% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 61.3169004494076,
+                  "tooltip": "World Cup · 2026-07-05 · USA: 9,005 of 14,686; 61.3169% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 58.043581241117955,
+                  "tooltip": "World Cup · 2026-07-06 · USA: 12,253 of 21,110; 58.0436% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 58.5829011209637,
+                  "tooltip": "World Cup · 2026-07-07 · USA: 14,006 of 23,908; 58.5829% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 55.30060417973522,
+                  "tooltip": "World Cup · 2026-07-08 · USA: 16,750 of 30,289; 55.3006% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 54.50285679736389,
+                  "tooltip": "World Cup · 2026-07-09 · USA: 18,029 of 33,079; 54.5029% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 50.678114086146685,
+                  "tooltip": "World Cup · 2026-07-10 · USA: 17,413 of 34,360; 50.6781% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 55.35566925235187,
+                  "tooltip": "World Cup · 2026-07-11 · USA: 16,770 of 30,295; 55.3557% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 56.25060583540664,
+                  "tooltip": "World Cup · 2026-07-12 · USA: 17,409 of 30,949; 56.2506% hosting"
+                }
+              ],
+              "collection_key": "World Cup",
+              "line_label": "World Cup"
+            },
+            {
+              "name": "Crew Girl",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 70.23411371237458,
+                  "tooltip": "Crew Girl · 2026-09-10 · USA: 1,470 of 2,093; 70.2341% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 68.15548976702279,
+                  "tooltip": "Crew Girl · 2026-09-11 · USA: 5,295 of 7,769; 68.1555% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 66.62582700318549,
+                  "tooltip": "Crew Girl · 2026-09-12 · USA: 5,438 of 8,162; 66.6258% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 65.35785874307275,
+                  "tooltip": "Crew Girl · 2026-09-13 · USA: 5,543 of 8,481; 65.3579% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 67.54551903523291,
+                  "tooltip": "Crew Girl · 2026-09-14 · USA: 5,713 of 8,458; 67.5455% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 68.06056236481615,
+                  "tooltip": "Crew Girl · 2026-09-15 · USA: 5,664 of 8,322; 68.0606% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 68.99478598278162,
+                  "tooltip": "Crew Girl · 2026-09-16 · USA: 5,690 of 8,247; 68.9948% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 68.57211480725351,
+                  "tooltip": "Crew Girl · 2026-09-17 · USA: 5,710 of 8,327; 68.5721% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 70.34577800050113,
+                  "tooltip": "Crew Girl · 2026-09-18 · USA: 5,615 of 7,982; 70.3458% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 67.42119995132043,
+                  "tooltip": "Crew Girl · 2026-09-19 · USA: 5,540 of 8,217; 67.4212% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 66.5035478345975,
+                  "tooltip": "Crew Girl · 2026-09-20 · USA: 5,436 of 8,174; 66.5035% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 67.8083631014919,
+                  "tooltip": "Crew Girl · 2026-09-21 · USA: 6,454 of 9,518; 67.8084% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 69.69150853387046,
+                  "tooltip": "Crew Girl · 2026-09-22 · USA: 6,574 of 9,433; 69.6915% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 70.11505556101878,
+                  "tooltip": "Crew Girl · 2026-09-23 · USA: 7,130 of 10,169; 70.1151% hosting"
+                }
+              ],
+              "collection_key": "Crew Girl",
+              "line_label": "Crew Girl"
+            },
+            {
+              "name": "Dan Da Dan",
+              "color": "#6b5278",
+              "dash": "2 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 76.57894736842105,
+                  "tooltip": "Dan Da Dan · 2025-09-04 · USA: 582 of 760; 76.5789% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 71.2961279767315,
+                  "tooltip": "Dan Da Dan · 2025-09-05 · USA: 3,922 of 5,501; 71.2961% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 71.29425420777713,
+                  "tooltip": "Dan Da Dan · 2025-09-06 · USA: 6,142 of 8,615; 71.2943% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 73.39156107762332,
+                  "tooltip": "Dan Da Dan · 2025-09-07 · USA: 5,966 of 8,129; 73.3916% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 68.58389125583282,
+                  "tooltip": "Dan Da Dan · 2025-09-08 · USA: 6,761 of 9,858; 68.5839% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 70.28596472006136,
+                  "tooltip": "Dan Da Dan · 2025-09-09 · USA: 6,415 of 9,127; 70.2860% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 71.10822613006019,
+                  "tooltip": "Dan Da Dan · 2025-09-10 · USA: 6,025 of 8,473; 71.1082% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 66.38609828943795,
+                  "tooltip": "Dan Da Dan · 2025-09-11 · USA: 9,780 of 14,732; 66.3861% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 60.32919180216531,
+                  "tooltip": "Dan Da Dan · 2025-09-12 · USA: 15,101 of 25,031; 60.3292% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 65.55259586872393,
+                  "tooltip": "Dan Da Dan · 2025-09-13 · USA: 13,043 of 19,897; 65.5526% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 61.71783403534673,
+                  "tooltip": "Dan Da Dan · 2025-09-14 · USA: 14,213 of 23,029; 61.7178% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 63.17906574394463,
+                  "tooltip": "Dan Da Dan · 2025-09-15 · USA: 14,607 of 23,120; 63.1791% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 65.21759519789909,
+                  "tooltip": "Dan Da Dan · 2025-09-16 · USA: 13,907 of 21,324; 65.2176% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 65.1308754474871,
+                  "tooltip": "Dan Da Dan · 2025-09-17 · USA: 14,009 of 21,509; 65.1309% hosting"
+                }
+              ],
+              "collection_key": "Dan Da Dan",
+              "line_label": "Dan Da Dan"
+            },
+            {
+              "name": "Kung Fu Soccer",
+              "color": "#16857a",
+              "dash": "8 3 2 3",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 86.25592417061611,
+                  "tooltip": "Kung Fu Soccer · 2026-10-03 · USA: 182 of 211; 86.2559% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 76.47679324894514,
+                  "tooltip": "Kung Fu Soccer · 2026-10-04 · USA: 725 of 948; 76.4768% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 82.18673218673219,
+                  "tooltip": "Kung Fu Soccer · 2026-10-05 · USA: 669 of 814; 82.1867% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 76.96160267111853,
+                  "tooltip": "Kung Fu Soccer · 2026-10-06 · USA: 922 of 1,198; 76.9616% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 77.12280701754386,
+                  "tooltip": "Kung Fu Soccer · 2026-10-07 · USA: 1,099 of 1,425; 77.1228% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 76.5793528505393,
+                  "tooltip": "Kung Fu Soccer · 2026-10-08 · USA: 994 of 1,298; 76.5794% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 76.57894736842105,
+                  "tooltip": "Kung Fu Soccer · 2026-10-09 · USA: 1,455 of 1,900; 76.5789% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 67.67628963558921,
+                  "tooltip": "Kung Fu Soccer · 2026-10-10 · USA: 1,430 of 2,113; 67.6763% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 74.79591836734694,
+                  "tooltip": "Kung Fu Soccer · 2026-10-11 · USA: 1,466 of 1,960; 74.7959% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 74.19664268585132,
+                  "tooltip": "Kung Fu Soccer · 2026-10-12 · USA: 1,547 of 2,085; 74.1966% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 72.95154185022027,
+                  "tooltip": "Kung Fu Soccer · 2026-10-13 · USA: 1,656 of 2,270; 72.9515% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 73.15270935960591,
+                  "tooltip": "Kung Fu Soccer · 2026-10-14 · USA: 1,485 of 2,030; 73.1527% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 71.73913043478261,
+                  "tooltip": "Kung Fu Soccer · 2026-10-15 · USA: 1,518 of 2,116; 71.7391% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 67.2275641025641,
+                  "tooltip": "Kung Fu Soccer · 2026-10-16 · USA: 1,678 of 2,496; 67.2276% hosting"
+                }
+              ],
+              "collection_key": "Kung Fu Soccer",
+              "line_label": "Kung Fu Soccer"
+            }
+          ]
+        },
+        {
+          "title": "Mexico · daily downloader hosting share",
+          "unit": "percent",
+          "ylabel": "HOSTING SHARE (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "World Cup",
+              "color": "#214f7a",
+              "dash": "",
+              "points": [
+                {
+                  "x": 2,
+                  "y": 21.21212121212121,
+                  "tooltip": "World Cup · 2026-06-30 · MEX: 14 of 66; 21.2121% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 10.407239819004525,
+                  "tooltip": "World Cup · 2026-07-01 · MEX: 23 of 221; 10.4072% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 4.364569961489089,
+                  "tooltip": "World Cup · 2026-07-02 · MEX: 34 of 779; 4.3646% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 3.7833827893175074,
+                  "tooltip": "World Cup · 2026-07-03 · MEX: 51 of 1,348; 3.7834% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 2.2247575584711923,
+                  "tooltip": "World Cup · 2026-07-04 · MEX: 39 of 1,753; 2.2248% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 2.8606965174129355,
+                  "tooltip": "World Cup · 2026-07-05 · MEX: 69 of 2,412; 2.8607% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 2.522796352583587,
+                  "tooltip": "World Cup · 2026-07-06 · MEX: 83 of 3,290; 2.5228% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 4.292572719570742,
+                  "tooltip": "World Cup · 2026-07-07 · MEX: 152 of 3,541; 4.2926% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 2.0427828097899403,
+                  "tooltip": "World Cup · 2026-07-08 · MEX: 106 of 5,189; 2.0428% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 1.9658276685651295,
+                  "tooltip": "World Cup · 2026-07-09 · MEX: 107 of 5,443; 1.9658% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 2.5489823093018833,
+                  "tooltip": "World Cup · 2026-07-10 · MEX: 134 of 5,257; 2.5490% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 2.8086482117599516,
+                  "tooltip": "World Cup · 2026-07-11 · MEX: 139 of 4,949; 2.8086% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 1.942550113659847,
+                  "tooltip": "World Cup · 2026-07-12 · MEX: 94 of 4,839; 1.9426% hosting"
+                }
+              ],
+              "collection_key": "World Cup",
+              "line_label": "World Cup"
+            },
+            {
+              "name": "Crew Girl",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 17.142857142857142,
+                  "tooltip": "Crew Girl · 2026-09-10 · MEX: 18 of 105; 17.1429% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 0.7726269315673289,
+                  "tooltip": "Crew Girl · 2026-09-11 · MEX: 7 of 906; 0.7726% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 0.7713884992987378,
+                  "tooltip": "Crew Girl · 2026-09-12 · MEX: 11 of 1,426; 0.7714% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 0.47619047619047616,
+                  "tooltip": "Crew Girl · 2026-09-13 · MEX: 8 of 1,680; 0.4762% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 1.7866811044937736,
+                  "tooltip": "Crew Girl · 2026-09-14 · MEX: 33 of 1,847; 1.7867% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 0.862895493767977,
+                  "tooltip": "Crew Girl · 2026-09-15 · MEX: 18 of 2,086; 0.8629% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 1.5245623941276114,
+                  "tooltip": "Crew Girl · 2026-09-16 · MEX: 27 of 1,771; 1.5246% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 0.7473143390938813,
+                  "tooltip": "Crew Girl · 2026-09-17 · MEX: 16 of 2,141; 0.7473% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 2.266839378238342,
+                  "tooltip": "Crew Girl · 2026-09-18 · MEX: 35 of 1,544; 2.2668% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 1.560758082497213,
+                  "tooltip": "Crew Girl · 2026-09-19 · MEX: 28 of 1,794; 1.5608% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 2.0276953511374876,
+                  "tooltip": "Crew Girl · 2026-09-20 · MEX: 41 of 2,022; 2.0277% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 1.3513513513513513,
+                  "tooltip": "Crew Girl · 2026-09-21 · MEX: 27 of 1,998; 1.3514% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 1.0857763300760044,
+                  "tooltip": "Crew Girl · 2026-09-22 · MEX: 20 of 1,842; 1.0858% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 0.9813542688910697,
+                  "tooltip": "Crew Girl · 2026-09-23 · MEX: 20 of 2,038; 0.9814% hosting"
+                }
+              ],
+              "collection_key": "Crew Girl",
+              "line_label": "Crew Girl"
+            },
+            {
+              "name": "Dan Da Dan",
+              "color": "#6b5278",
+              "dash": "2 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 9.615384615384615,
+                  "tooltip": "Dan Da Dan · 2025-09-04 · MEX: 5 of 52; 9.6154% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 4.669260700389105,
+                  "tooltip": "Dan Da Dan · 2025-09-05 · MEX: 24 of 514; 4.6693% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 4.82695810564663,
+                  "tooltip": "Dan Da Dan · 2025-09-06 · MEX: 53 of 1,098; 4.8270% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 5.105973025048169,
+                  "tooltip": "Dan Da Dan · 2025-09-07 · MEX: 53 of 1,038; 5.1060% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 3.644224830142063,
+                  "tooltip": "Dan Da Dan · 2025-09-08 · MEX: 59 of 1,619; 3.6442% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 3.3560864618885096,
+                  "tooltip": "Dan Da Dan · 2025-09-09 · MEX: 59 of 1,758; 3.3561% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 6.0227272727272725,
+                  "tooltip": "Dan Da Dan · 2025-09-10 · MEX: 53 of 880; 6.0227% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 10.444674250258531,
+                  "tooltip": "Dan Da Dan · 2025-09-11 · MEX: 101 of 967; 10.4447% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 6.825619448340346,
+                  "tooltip": "Dan Da Dan · 2025-09-12 · MEX: 146 of 2,139; 6.8256% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 6.085842408712364,
+                  "tooltip": "Dan Da Dan · 2025-09-13 · MEX: 95 of 1,561; 6.0858% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 6.937095825984715,
+                  "tooltip": "Dan Da Dan · 2025-09-14 · MEX: 118 of 1,701; 6.9371% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 3.8965768390386017,
+                  "tooltip": "Dan Da Dan · 2025-09-15 · MEX: 107 of 2,746; 3.8966% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 5.435801312089972,
+                  "tooltip": "Dan Da Dan · 2025-09-16 · MEX: 116 of 2,134; 5.4358% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 5.36256323777403,
+                  "tooltip": "Dan Da Dan · 2025-09-17 · MEX: 159 of 2,965; 5.3626% hosting"
+                }
+              ],
+              "collection_key": "Dan Da Dan",
+              "line_label": "Dan Da Dan"
+            },
+            {
+              "name": "Kung Fu Soccer",
+              "color": "#16857a",
+              "dash": "8 3 2 3",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 4.761904761904762,
+                  "tooltip": "Kung Fu Soccer · 2026-10-03 · MEX: 1 of 21; 4.7619% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 0.5050505050505051,
+                  "tooltip": "Kung Fu Soccer · 2026-10-04 · MEX: 1 of 198; 0.5051% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 1.0309278350515463,
+                  "tooltip": "Kung Fu Soccer · 2026-10-05 · MEX: 1 of 97; 1.0309% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 0.5050505050505051,
+                  "tooltip": "Kung Fu Soccer · 2026-10-06 · MEX: 1 of 198; 0.5051% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 1.6025641025641026,
+                  "tooltip": "Kung Fu Soccer · 2026-10-07 · MEX: 5 of 312; 1.6026% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 3.4220532319391634,
+                  "tooltip": "Kung Fu Soccer · 2026-10-08 · MEX: 9 of 263; 3.4221% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 0.6593406593406593,
+                  "tooltip": "Kung Fu Soccer · 2026-10-09 · MEX: 3 of 455; 0.6593% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 0.3787878787878788,
+                  "tooltip": "Kung Fu Soccer · 2026-10-10 · MEX: 2 of 528; 0.3788% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 0.0,
+                  "tooltip": "Kung Fu Soccer · 2026-10-11 · MEX: 0 of 469; 0.0000% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 1.0159651669085632,
+                  "tooltip": "Kung Fu Soccer · 2026-10-12 · MEX: 7 of 689; 1.0160% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 0.5873715124816447,
+                  "tooltip": "Kung Fu Soccer · 2026-10-13 · MEX: 4 of 681; 0.5874% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 0.28653295128939826,
+                  "tooltip": "Kung Fu Soccer · 2026-10-14 · MEX: 2 of 698; 0.2865% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 0.3968253968253968,
+                  "tooltip": "Kung Fu Soccer · 2026-10-15 · MEX: 2 of 504; 0.3968% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 0.6887052341597796,
+                  "tooltip": "Kung Fu Soccer · 2026-10-16 · MEX: 5 of 726; 0.6887% hosting"
+                }
+              ],
+              "collection_key": "Kung Fu Soccer",
+              "line_label": "Kung Fu Soccer"
+            }
+          ]
+        },
+        {
+          "title": "Canada · daily downloader hosting share",
+          "unit": "percent",
+          "ylabel": "HOSTING SHARE (%)",
+          "y_max": 100,
+          "series": [
+            {
+              "name": "World Cup",
+              "color": "#214f7a",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 75.0,
+                  "tooltip": "World Cup · 2026-06-29 · CAN: 3 of 4; 75.0000% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 54.045307443365694,
+                  "tooltip": "World Cup · 2026-06-30 · CAN: 167 of 309; 54.0453% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 44.95073891625616,
+                  "tooltip": "World Cup · 2026-07-01 · CAN: 365 of 812; 44.9507% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 44.66423737636648,
+                  "tooltip": "World Cup · 2026-07-02 · CAN: 858 of 1,921; 44.6642% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 42.78180619644034,
+                  "tooltip": "World Cup · 2026-07-03 · CAN: 1,298 of 3,034; 42.7818% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 40.93714285714286,
+                  "tooltip": "World Cup · 2026-07-04 · CAN: 1,791 of 4,375; 40.9371% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 42.17142857142857,
+                  "tooltip": "World Cup · 2026-07-05 · CAN: 2,583 of 6,125; 42.1714% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 39.903181189488244,
+                  "tooltip": "World Cup · 2026-07-06 · CAN: 3,462 of 8,676; 39.9032% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 39.77460711331679,
+                  "tooltip": "World Cup · 2026-07-07 · CAN: 3,847 of 9,672; 39.7746% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 39.58282208588957,
+                  "tooltip": "World Cup · 2026-07-08 · CAN: 4,839 of 12,225; 39.5828% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 37.57880516361453,
+                  "tooltip": "World Cup · 2026-07-09 · CAN: 5,007 of 13,324; 37.5788% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 35.82146104880267,
+                  "tooltip": "World Cup · 2026-07-10 · CAN: 4,727 of 13,196; 35.8215% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 39.76162886939248,
+                  "tooltip": "World Cup · 2026-07-11 · CAN: 4,804 of 12,082; 39.7616% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 37.04471628999931,
+                  "tooltip": "World Cup · 2026-07-12 · CAN: 5,360 of 14,469; 37.0447% hosting"
+                }
+              ],
+              "collection_key": "World Cup",
+              "line_label": "World Cup"
+            },
+            {
+              "name": "Crew Girl",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 45.18430439952438,
+                  "tooltip": "Crew Girl · 2026-09-10 · CAN: 380 of 841; 45.1843% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 44.50296247531271,
+                  "tooltip": "Crew Girl · 2026-09-11 · CAN: 1,352 of 3,038; 44.5030% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 42.592592592592595,
+                  "tooltip": "Crew Girl · 2026-09-12 · CAN: 1,242 of 2,916; 42.5926% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 47.92754068160884,
+                  "tooltip": "Crew Girl · 2026-09-13 · CAN: 1,561 of 3,257; 47.9275% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 48.23712948517941,
+                  "tooltip": "Crew Girl · 2026-09-14 · CAN: 1,546 of 3,205; 48.2371% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 51.27450980392157,
+                  "tooltip": "Crew Girl · 2026-09-15 · CAN: 1,569 of 3,060; 51.2745% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 49.29139301762876,
+                  "tooltip": "Crew Girl · 2026-09-16 · CAN: 1,426 of 2,893; 49.2914% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 49.3657867672266,
+                  "tooltip": "Crew Girl · 2026-09-17 · CAN: 1,440 of 2,917; 49.3658% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 53.28798185941043,
+                  "tooltip": "Crew Girl · 2026-09-18 · CAN: 1,645 of 3,087; 53.2880% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 47.407407407407405,
+                  "tooltip": "Crew Girl · 2026-09-19 · CAN: 1,344 of 2,835; 47.4074% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 48.07899461400359,
+                  "tooltip": "Crew Girl · 2026-09-20 · CAN: 1,339 of 2,785; 48.0790% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 45.492085340674464,
+                  "tooltip": "Crew Girl · 2026-09-21 · CAN: 1,322 of 2,906; 45.4921% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 44.77281123014407,
+                  "tooltip": "Crew Girl · 2026-09-22 · CAN: 1,212 of 2,707; 44.7728% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 46.348782927642546,
+                  "tooltip": "Crew Girl · 2026-09-23 · CAN: 1,390 of 2,999; 46.3488% hosting"
+                }
+              ],
+              "collection_key": "Crew Girl",
+              "line_label": "Crew Girl"
+            },
+            {
+              "name": "Dan Da Dan",
+              "color": "#6b5278",
+              "dash": "2 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 62.28956228956229,
+                  "tooltip": "Dan Da Dan · 2025-09-04 · CAN: 185 of 297; 62.2896% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 55.94231725509697,
+                  "tooltip": "Dan Da Dan · 2025-09-05 · CAN: 1,125 of 2,011; 55.9423% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 53.719874257771565,
+                  "tooltip": "Dan Da Dan · 2025-09-06 · CAN: 1,538 of 2,863; 53.7199% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 56.52813534387643,
+                  "tooltip": "Dan Da Dan · 2025-09-07 · CAN: 1,537 of 2,719; 56.5281% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 54.3012289225493,
+                  "tooltip": "Dan Da Dan · 2025-09-08 · CAN: 1,900 of 3,499; 54.3012% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 56.90287110568112,
+                  "tooltip": "Dan Da Dan · 2025-09-09 · CAN: 1,863 of 3,274; 56.9029% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 53.040877367896314,
+                  "tooltip": "Dan Da Dan · 2025-09-10 · CAN: 1,596 of 3,009; 53.0409% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 53.26707159948463,
+                  "tooltip": "Dan Da Dan · 2025-09-11 · CAN: 2,894 of 5,433; 53.2671% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 48.89770208795054,
+                  "tooltip": "Dan Da Dan · 2025-09-12 · CAN: 4,192 of 8,573; 48.8977% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 50.83382094792276,
+                  "tooltip": "Dan Da Dan · 2025-09-13 · CAN: 3,475 of 6,836; 50.8338% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 46.28578635389078,
+                  "tooltip": "Dan Da Dan · 2025-09-14 · CAN: 3,670 of 7,929; 46.2858% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 46.91486592033325,
+                  "tooltip": "Dan Da Dan · 2025-09-15 · CAN: 3,604 of 7,682; 46.9149% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 51.74046583056053,
+                  "tooltip": "Dan Da Dan · 2025-09-16 · CAN: 4,043 of 7,814; 51.7405% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 51.73716012084592,
+                  "tooltip": "Dan Da Dan · 2025-09-17 · CAN: 4,110 of 7,944; 51.7372% hosting"
+                }
+              ],
+              "collection_key": "Dan Da Dan",
+              "line_label": "Dan Da Dan"
+            },
+            {
+              "name": "Kung Fu Soccer",
+              "color": "#16857a",
+              "dash": "8 3 2 3",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 53.6231884057971,
+                  "tooltip": "Kung Fu Soccer · 2026-10-03 · CAN: 37 of 69; 53.6232% hosting"
+                },
+                {
+                  "x": 2,
+                  "y": 42.73972602739726,
+                  "tooltip": "Kung Fu Soccer · 2026-10-04 · CAN: 156 of 365; 42.7397% hosting"
+                },
+                {
+                  "x": 3,
+                  "y": 45.52238805970149,
+                  "tooltip": "Kung Fu Soccer · 2026-10-05 · CAN: 122 of 268; 45.5224% hosting"
+                },
+                {
+                  "x": 4,
+                  "y": 44.766146993318486,
+                  "tooltip": "Kung Fu Soccer · 2026-10-06 · CAN: 201 of 449; 44.7661% hosting"
+                },
+                {
+                  "x": 5,
+                  "y": 42.672413793103445,
+                  "tooltip": "Kung Fu Soccer · 2026-10-07 · CAN: 198 of 464; 42.6724% hosting"
+                },
+                {
+                  "x": 6,
+                  "y": 47.36842105263158,
+                  "tooltip": "Kung Fu Soccer · 2026-10-08 · CAN: 198 of 418; 47.3684% hosting"
+                },
+                {
+                  "x": 7,
+                  "y": 49.55116696588869,
+                  "tooltip": "Kung Fu Soccer · 2026-10-09 · CAN: 276 of 557; 49.5512% hosting"
+                },
+                {
+                  "x": 8,
+                  "y": 44.246353322528364,
+                  "tooltip": "Kung Fu Soccer · 2026-10-10 · CAN: 273 of 617; 44.2464% hosting"
+                },
+                {
+                  "x": 9,
+                  "y": 42.465753424657535,
+                  "tooltip": "Kung Fu Soccer · 2026-10-11 · CAN: 248 of 584; 42.4658% hosting"
+                },
+                {
+                  "x": 10,
+                  "y": 45.92933947772657,
+                  "tooltip": "Kung Fu Soccer · 2026-10-12 · CAN: 299 of 651; 45.9293% hosting"
+                },
+                {
+                  "x": 11,
+                  "y": 40.973111395646605,
+                  "tooltip": "Kung Fu Soccer · 2026-10-13 · CAN: 320 of 781; 40.9731% hosting"
+                },
+                {
+                  "x": 12,
+                  "y": 43.78453038674033,
+                  "tooltip": "Kung Fu Soccer · 2026-10-14 · CAN: 317 of 724; 43.7845% hosting"
+                },
+                {
+                  "x": 13,
+                  "y": 44.166666666666664,
+                  "tooltip": "Kung Fu Soccer · 2026-10-15 · CAN: 318 of 720; 44.1667% hosting"
+                },
+                {
+                  "x": 14,
+                  "y": 39.53488372093023,
+                  "tooltip": "Kung Fu Soccer · 2026-10-16 · CAN: 357 of 903; 39.5349% hosting"
+                }
+              ],
+              "collection_key": "Kung Fu Soccer",
+              "line_label": "Kung Fu Soccer"
+            }
+          ]
+        }
+      ],
+      "footer": "Daily IP–torrent memberships · separate observation dates · common IPinfo snapshot",
+      "allow_label_callouts": true,
+      "layout": "izzi-standard",
+      "columns": 1
+    }
+  },
+  "chart_renderers": {
+    "north-hosting-by-observation-age": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "1d132d25f4cc0f0776de98b77abb784fac34df52f5f8d3a2279e54b6403e4347",
+      "wrapper_sha256": "20cacde54126c3c004c3046e48e6a1a6a9b56d49351c656501627a9848a88b65",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    }
+  }
+}

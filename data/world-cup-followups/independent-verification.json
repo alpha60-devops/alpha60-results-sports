@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "independent_H3r5_cohort_reconciliations": 4,
+  "historical_Crew_Girl_files_checked_against_Git": 196,
+  "raw_cumulative_regions_checked": 2,
+  "canonical_ranking_rows_checked": 2465,
+  "native_bar_values_and_lengths": 68,
+  "native_line_values_and_coordinates": 807,
+  "new_native_charts": 9,
+  "overview_structure": "passed",
+  "runtime_deduplication": "passed"
+}

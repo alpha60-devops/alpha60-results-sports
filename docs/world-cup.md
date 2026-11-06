@@ -2,7 +2,7 @@
 layout: default
 title: "World Cup 2026: distribution, languages, and sources"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
-description: "Seven reports share one canonical torrent inventory, IPinfo geography at H3 resolution 8, and inspectable evidence for every comparison."
+description: "Eight reports share one canonical torrent inventory, IPinfo geography at H3 resolution 8, and inspectable evidence for every comparison."
 ---
 
 <link rel="stylesheet" href="../resources/world-cup-stage1/report.css">
@@ -10,19 +10,23 @@ description: "Seven reports share one canonical torrent inventory, IPinfo geogra
 
 [![Alpha60](../resources/a60-logo-block-gray.simple.svg)](world-cup.html)
 
-<nav class="wc-nav" aria-label="World Cup reports"><a href="world-cup.html">Overview</a><a href="world-cup-swarm-media.html">Formats and resolution</a><a href="world-cup-languages.html">Audio and subtitles</a><a href="world-cup-distro-en-es-fr.html">Language and geography</a><a href="world-cup-distro-usa-mex.html">North America and matches</a><a href="world-cup-ott-vendors.html">Broadcasters and services</a><a href="world-cup-asia-28.html">Asia-28 and China</a><a href="world-cup-2027-thoughts.html">Preparing for 2027</a></nav>
 
-<p class="wc-kicker">World Cup 2026 · Stage one · November 6, 2026</p>
+
+
 
 # World Cup 2026: distribution, languages, and sources
 
-Seven reports share one canonical torrent inventory, IPinfo geography at H3 resolution 8, and inspectable evidence for every comparison.
-
 <div class="wc-callout" markdown="1">
 **Sampling began June 29, 2026 — Round of 32.** This snapshot runs through November 3. It describes observed peer-to-peer distribution during that window, including later circulation of older matches. It does not measure the full tournament's live audience.
+
+Eight reports share one canonical torrent inventory, IPinfo geography at H3 resolution 8, and inspectable evidence for every comparison.
 </div>
 
-## Explore the seven reports
+## Results
+
+[World Cup 2026 sample and cache audit](https://alpha60-devops.github.io/alpha60-results-2026/docs/itemized/world-cup-2026-sample-cache-audit.html)
+
+## Explore the eight reports
 
 <div class="wc-card-grid">
 <div class="wc-card"><h3><a href="world-cup-swarm-media.html">Formats and resolution</a></h3><p>Video dimensions, codecs, encoder coverage and regional resolution mix.</p></div>
@@ -31,6 +35,7 @@ Seven reports share one canonical torrent inventory, IPinfo geography at H3 reso
 <div class="wc-card"><h3><a href="world-cup-distro-usa-mex.html">North America and matches</a></h3><p>Host-country totals, top upload/download locations, and equal-age match windows.</p></div>
 <div class="wc-card"><h3><a href="world-cup-ott-vendors.html">Broadcasters and services</a></h3><p>Evidence-based branding candidates and 22 native Cahill–Keyes maps.</p></div>
 <div class="wc-card"><h3><a href="world-cup-asia-28.html">Asia-28 and China</a></h3><p>Asia-28 rankings, temporal coverage, matched-age media comparisons and China hypotheses.</p></div>
+<div class="wc-card"><h3><a href="world-cup-southern.html">Latin America and South America</a></h3><p>Latin America and the Caribbean, with South America shown separately: places, networks, files and observation age.</p></div>
 <div class="wc-card"><h3><a href="world-cup-2027-thoughts.html">Preparing for 2027</a></h3><p>What changes in Brazil, and a concrete sampling and analysis backlog.</p></div>
 </div>
 
@@ -51,7 +56,44 @@ Seven reports share one canonical torrent inventory, IPinfo geography at H3 reso
 </div>
 The largest identified format is 1080-height AVC video. Language evidence is substantially stronger for English than Spanish or French. South Korea and China lead the observed Asia-28 distribution. The data do not establish individual listening choices, ethnic identity, national fandom, or a FOX–Telemundo audience crossover.
 
-## H3r8 products
+<a id="methods"></a>
+
+## Methods and coverage
+
+The [shared inventory builder](https://github.com/bdekoz/alpha60/blob/main/scripts/build-torrent-inventory.py) preserves original `.torrent` info-byte hashes, full v2 hashes and verified hybrid aliases. Filenames are content evidence and source references, not identity keys. The six initially unmatched media hashes are verified v1/v2 aliases; no unmatched media records remain. The one metadata variation is a zero versus nonzero cached-file-size reading, not conflicting language or codec values.
+
+The geographic denominator begins with **56,594,924 downloader and 539,766 uploader IP–canonical-torrent memberships**. An IP is unique within each torrent, role and interval; it may recur across torrents, roles and dates. Native “downloader” and “uploader” labels do not measure viewing or transferred traffic.
+
+The native producer excludes unusable coordinates before H3 aggregation. Minimum-cell filtering then depends on whether counts are grouped per torrent or across the collection. Both representations are retained and labeled:
+
+<div class="wc-table-wrap" tabindex="0" role="region" aria-label="Representation">
+<table>
+<thead><tr><th scope="col">Representation</th><th scope="col">Downloader memberships</th><th scope="col">Uploader memberships</th></tr></thead>
+<tbody>
+<tr><td>Unfiltered source memberships</td><td>56,594,924</td><td>539,766</td></tr>
+<tr><td>Excluded: missing usable coordinates</td><td>171,965</td><td>77</td></tr>
+<tr><td>Mapped before cell threshold</td><td>56,422,959</td><td>539,689</td></tr>
+<tr><td>H3r5, collection aggregate, retained</td><td>56,416,490</td><td>539,660</td></tr>
+<tr><td>H3r5, per torrent, retained</td><td>53,602,334</td><td>525,502</td></tr>
+<tr><td>H3r8, collection aggregate, retained</td><td>56,407,686</td><td>539,629</td></tr>
+<tr><td>H3r8, per torrent, retained</td><td>52,333,440</td><td>519,041</td></tr>
+</tbody></table>
+</div>
+For H3r8, the per-torrent threshold removes 4,089,519 mapped downloader memberships and 20,648 uploader memberships. The aggregate threshold removes 15,273 and 60 respectively. Content tables and vendor maps use the per-torrent representation; overall country/city rankings use the aggregate. Their totals should not be added or substituted for each other. [Complete loss accounting](../data/world-cup-stage1/resolution-sensitivity.json)
+
+IPinfo's location database build epoch is `1777968300` (May 5, 2026). Its version and the companion database checksums are [pinned in the source manifest](../data/world-cup-stage1/ipinfo-snapshot.json). This is a retrospective, fixed-snapshot lookup, not proof that every address had the same location throughout collection. The generator reports zero lookup exceptions, but that metric is not equivalent to complete geolocation coverage.
+
+An H3r8 cell averages about 0.74 square kilometers, which can be much smaller than IP geolocation uncertainty. The standard location source used here does not provide an accuracy-radius field for this analysis. Native cells retain one representative country's/city's label from the first constituent location; H3r5 and H3r8 can therefore differ in country/city assignment as well as filtering. This is why the resolution comparison remains part of the evidence. [H3 statistics](https://h3geo.org/docs/core-library/restable/), [IPinfo extended-geolocation fields](https://ipinfo.io/developers/ip-to-geolocation-extended)
+
+The catalog expands from **two torrents with a daily cache on June 29 to 416 on July 19**, and 491 on November 3. Fixed-cohort and first-observation windows are therefore preferable to interpreting a growing total as changing interest. The two focus-match comparisons include seven observed dates for every selected canonical torrent, with alias coverage retained separately.
+
+The public files contain aggregated geography and content metadata. Unfiltered small-cell products and cached video fragments remain local; their checksums and review evidence support the analysis.
+
+## Reuse and audit
+
+[Canonical torrent inventory](../data/world-cup-stage1/torrent-inventory.json.gz) · [All language indicators](../data/world-cup-stage1/torrent-language-indicators.csv) · [Country memberships by torrent](../data/world-cup-stage1/torrent-country-memberships.csv) · [Vendor evidence](../data/world-cup-stage1/vendor-attribution.csv) · [Validation summary](../data/world-cup-stage1/validation-summary.json) · [Source and calculation manifest](../data/world-cup-stage1/provenance.json)
+
+### H3r8 products
 
 **Resolution 8 is the highest resolution used in this analysis.** The full native products are saved in the top-level `H3r8` directory and available below as compressed GeoJSON: 128 daily files, 19 weekly files, and two cumulative representations. All serialized cell indices and recorded resolution fields passed validation. The H3r5 baseline uses exactly the same frozen IPinfo databases.
 
@@ -212,43 +254,6 @@ The largest identified format is 1080-height AVC video. Language evidence is sub
 </tbody></table></div>
 
 </details>
-
-<a id="methods"></a>
-
-## Methods and coverage
-
-The [shared inventory builder](https://github.com/bdekoz/alpha60/blob/main/scripts/build-torrent-inventory.py) preserves original `.torrent` info-byte hashes, full v2 hashes and verified hybrid aliases. Filenames are content evidence and source references, not identity keys. The six initially unmatched media hashes are verified v1/v2 aliases; no unmatched media records remain. The one metadata variation is a zero versus nonzero cached-file-size reading, not conflicting language or codec values.
-
-The geographic denominator begins with **56,594,924 downloader and 539,766 uploader IP–canonical-torrent memberships**. An IP is unique within each torrent, role and interval; it may recur across torrents, roles and dates. Native “downloader” and “uploader” labels do not measure viewing or transferred traffic.
-
-The native producer excludes unusable coordinates before H3 aggregation. Minimum-cell filtering then depends on whether counts are grouped per torrent or across the collection. Both representations are retained and labeled:
-
-<div class="wc-table-wrap" tabindex="0" role="region" aria-label="Representation">
-<table>
-<thead><tr><th scope="col">Representation</th><th scope="col">Downloader memberships</th><th scope="col">Uploader memberships</th></tr></thead>
-<tbody>
-<tr><td>Unfiltered source memberships</td><td>56,594,924</td><td>539,766</td></tr>
-<tr><td>Excluded: missing usable coordinates</td><td>171,965</td><td>77</td></tr>
-<tr><td>Mapped before cell threshold</td><td>56,422,959</td><td>539,689</td></tr>
-<tr><td>H3r5, collection aggregate, retained</td><td>56,416,490</td><td>539,660</td></tr>
-<tr><td>H3r5, per torrent, retained</td><td>53,602,334</td><td>525,502</td></tr>
-<tr><td>H3r8, collection aggregate, retained</td><td>56,407,686</td><td>539,629</td></tr>
-<tr><td>H3r8, per torrent, retained</td><td>52,333,440</td><td>519,041</td></tr>
-</tbody></table>
-</div>
-For H3r8, the per-torrent threshold removes 4,089,519 mapped downloader memberships and 20,648 uploader memberships. The aggregate threshold removes 15,273 and 60 respectively. Content tables and vendor maps use the per-torrent representation; overall country/city rankings use the aggregate. Their totals should not be added or substituted for each other. [Complete loss accounting](../data/world-cup-stage1/resolution-sensitivity.json)
-
-IPinfo's location database build epoch is `1777968300` (May 5, 2026). Its version and the companion database checksums are [pinned in the source manifest](../data/world-cup-stage1/ipinfo-snapshot.json). This is a retrospective, fixed-snapshot lookup, not proof that every address had the same location throughout collection. The generator reports zero lookup exceptions, but that metric is not equivalent to complete geolocation coverage.
-
-An H3r8 cell averages about 0.74 square kilometers, which can be much smaller than IP geolocation uncertainty. The standard location source used here does not provide an accuracy-radius field for this analysis. Native cells retain one representative country's/city's label from the first constituent location; H3r5 and H3r8 can therefore differ in country/city assignment as well as filtering. This is why the resolution comparison remains part of the evidence. [H3 statistics](https://h3geo.org/docs/core-library/restable/), [IPinfo extended-geolocation fields](https://ipinfo.io/developers/ip-to-geolocation-extended)
-
-The catalog expands from **two torrents with a daily cache on June 29 to 416 on July 19**, and 491 on November 3. Fixed-cohort and first-observation windows are therefore preferable to interpreting a growing total as changing interest. The two focus-match comparisons include seven observed dates for every selected canonical torrent, with alias coverage retained separately.
-
-The public files contain aggregated geography and content metadata. Unfiltered small-cell products and cached video fragments remain local; their checksums and review evidence support the analysis.
-
-## Reuse and audit
-
-[Canonical torrent inventory](../data/world-cup-stage1/torrent-inventory.json.gz) · [All language indicators](../data/world-cup-stage1/torrent-language-indicators.csv) · [Country memberships by torrent](../data/world-cup-stage1/torrent-country-memberships.csv) · [Vendor evidence](../data/world-cup-stage1/vendor-attribution.csv) · [Validation summary](../data/world-cup-stage1/validation-summary.json) · [Source and calculation manifest](../data/world-cup-stage1/provenance.json)
 
 <details markdown="1"><summary>Original research references</summary>
 
