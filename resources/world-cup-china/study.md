@@ -21,9 +21,8 @@ D-days and U-days are sums of daily IP–canonical-torrent memberships. The same
 
 The controls update both charts and the exact network table. The prose and tables below the explorer retain the first-14-day comparison unless explicitly labeled otherwise.
 
-<link rel="stylesheet" href="../resources/world-cup-china/chart-host.css">
 <link rel="stylesheet" href="../resources/world-cup-china/china.css">
-<section id="china-explorer" aria-label="China comparison explorer" data-data-chart data-viz-composition data-appearance="light">
+<section id="china-explorer" aria-label="China comparison explorer" data-renderer="izzi">
 <div class="china-controls">
 <label>Observation window <select id="china-window">
 <option value="first14">First 14 collection days</option>
@@ -36,8 +35,12 @@ The controls update both charts and the exact network table. The prose and table
 </div>
 <p id="china-caption" aria-live="polite"></p>
 <p id="china-overlap"></p>
-<div id="china-city-chart" data-viz-container style="min-height:650px"></div>
-<div id="china-network-chart" data-viz-container style="min-height:500px"></div>
+<p class="wc-izzi-legend"><span>WC = World Cup</span><span>KFS = Kung Fu Soccer</span></p>
+<p>Bars use a shared zero baseline within each chart. Axis maxima adjust to the selected comparison. Hover, focus or tap a value for exact counts. On narrow screens, scroll within each chart.</p>
+<div id="china-city-chart" class="wc-izzi-scroll" tabindex="0" role="region" aria-label="China city distributions">{% include china-first14-downloaders-city.svg %}</div>
+<p><a id="china-city-svg" href="../resources/china-first14-downloaders-city.svg">Open city chart (SVG)</a> · <a id="china-city-spec" href="../data/world-cup-izzi/china-first14-downloaders-city.json">City chart values (JSON)</a></p>
+<div id="china-network-chart" class="wc-izzi-scroll" tabindex="0" role="region" aria-label="China network flags">{% include china-first14-downloaders-network.svg %}</div>
+<p><a id="china-network-svg" href="../resources/china-first14-downloaders-network.svg">Open network chart (SVG)</a> · <a id="china-network-spec" href="../data/world-cup-izzi/china-first14-downloaders-network.json">Network chart values (JSON)</a></p>
 <details><summary>Exact values for the selected network comparison</summary><div id="china-network-values" class="wc-table-wrap" tabindex="0" role="region" aria-label="Selected network counts"></div></details>
 <p id="china-chart-error" hidden>Interactive charts could not load. The first-14-day results and downloadable tables remain available below.</p>
 <noscript><p>Enable JavaScript to change the charts. Exact first-14-day figures and CSV downloads are provided below.</p></noscript>

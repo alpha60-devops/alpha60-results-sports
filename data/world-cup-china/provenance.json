@@ -1519,7 +1519,19 @@
   ],
   "builder": {
     "path": "/home/bkoz/src/alpha60/scripts/build-world-cup-china-site.py",
-    "sha256": "08e8196229fb53c3701f8dfe78280cee616af4d316c300938d79595bcba289db"
+    "sha256": "e7245d93e3f7a67709b2da4b98498363529643d8e4128aba2a9d494e9ae3fe42"
+  },
+  "chart_renderer": {
+    "library": "Izzi",
+    "functions": [
+      "svg::emit_bar_graph"
+    ],
+    "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+    "bar_header_sha256": "6a064f6a7ce1ac8544684c1179bf2f40284ca253258d5f898bbe143b79135a5e",
+    "renderer_sha256": "abdc56a156258e5fd882b1637daf74a9d8936120ea82acc95199036e73cf97fb",
+    "wrapper_sha256": "88aba6568595ef39c734e3b54de7883d4408117a67e771a47775911a71d1c0f1",
+    "axis_policy": "Native zero baseline and automatic maximum; shared across collections within each chart.",
+    "postprocessing": "Accessible metadata, collection colors, and percentage precision; native geometry retained."
   },
   "exports": [
     {
@@ -1528,7 +1540,7 @@
     },
     {
       "file": "chart-data.json",
-      "sha256": "cde388bd3b22038701efdbbd5bbb5ce73db158c8c92e77da4e254c921b17ece1"
+      "sha256": "9ca25f00692270ed2f76e4f131a6e8697ea41342c6fb0bb7e4c367000e97114a"
     },
     {
       "file": "china-city-day-memberships.csv",

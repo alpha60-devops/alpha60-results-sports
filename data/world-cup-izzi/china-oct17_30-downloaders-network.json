@@ -1,0 +1,263 @@
+{
+  "schema": "izzi.visualization/1",
+  "kind": "bar-graph",
+  "title": "Network flags · downloaders",
+  "description": "Same dates: October 17–30. World Cup: 2026-10-17 to 2026-10-30, 802,609 memberships; Kung Fu Soccer: 2026-10-17 to 2026-10-30, 496,598 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
+  "source": "../data/world-cup-china/analysis.json.gz",
+  "x_label": "Share of China downloaders memberships (%)",
+  "y_label": "Flag / collection",
+  "viewport": [
+    1280,
+    1012
+  ],
+  "bars": [
+    [
+      "Hosting · WC",
+      5.399142047995973
+    ],
+    [
+      "Hosting · KFS",
+      0.6377391773627763
+    ],
+    [
+      "VPN · WC",
+      1.942913672784631
+    ],
+    [
+      "VPN · KFS",
+      1.1041123806378599
+    ],
+    [
+      "Mobile carrier · WC",
+      1.0985423786675703
+    ],
+    [
+      "Mobile carrier · KFS",
+      0.5277910905803084
+    ],
+    [
+      "Satellite · WC",
+      0.0
+    ],
+    [
+      "Satellite · KFS",
+      0.0
+    ],
+    [
+      "Proxy · WC",
+      0.09930115411115499
+    ],
+    [
+      "Proxy · KFS",
+      0.012283577461044949
+    ],
+    [
+      "Relay · WC",
+      0.004734559418097729
+    ],
+    [
+      "Relay · KFS",
+      0.004228772568556458
+    ],
+    [
+      "Tor (IPinfo) · WC",
+      0.0
+    ],
+    [
+      "Tor (IPinfo) · KFS",
+      0.0
+    ],
+    [
+      "Tor (exit list) · WC",
+      0.0
+    ],
+    [
+      "Tor (exit list) · KFS",
+      0.0
+    ],
+    [
+      "Named privacy service · WC",
+      0.005606715100378889
+    ],
+    [
+      "Named privacy service · KFS",
+      0.004228772568556458
+    ]
+  ],
+  "observations": [
+    {
+      "label": "Hosting",
+      "flag": "hosting",
+      "collection": "World Cup",
+      "share": 0.05399142047995973,
+      "memberships": 43334,
+      "denominator": 802609,
+      "bar_label": "Hosting · WC"
+    },
+    {
+      "label": "Hosting",
+      "flag": "hosting",
+      "collection": "Kung Fu Soccer",
+      "share": 0.006377391773627763,
+      "memberships": 3167,
+      "denominator": 496598,
+      "bar_label": "Hosting · KFS"
+    },
+    {
+      "label": "VPN",
+      "flag": "vpn",
+      "collection": "World Cup",
+      "share": 0.01942913672784631,
+      "memberships": 15594,
+      "denominator": 802609,
+      "bar_label": "VPN · WC"
+    },
+    {
+      "label": "VPN",
+      "flag": "vpn",
+      "collection": "Kung Fu Soccer",
+      "share": 0.0110411238063786,
+      "memberships": 5483,
+      "denominator": 496598,
+      "bar_label": "VPN · KFS"
+    },
+    {
+      "label": "Mobile carrier",
+      "flag": "mobile",
+      "collection": "World Cup",
+      "share": 0.010985423786675703,
+      "memberships": 8817,
+      "denominator": 802609,
+      "bar_label": "Mobile carrier · WC"
+    },
+    {
+      "label": "Mobile carrier",
+      "flag": "mobile",
+      "collection": "Kung Fu Soccer",
+      "share": 0.005277910905803084,
+      "memberships": 2621,
+      "denominator": 496598,
+      "bar_label": "Mobile carrier · KFS"
+    },
+    {
+      "label": "Satellite",
+      "flag": "satellite",
+      "collection": "World Cup",
+      "share": 0.0,
+      "memberships": 0,
+      "denominator": 802609,
+      "bar_label": "Satellite · WC"
+    },
+    {
+      "label": "Satellite",
+      "flag": "satellite",
+      "collection": "Kung Fu Soccer",
+      "share": 0.0,
+      "memberships": 0,
+      "denominator": 496598,
+      "bar_label": "Satellite · KFS"
+    },
+    {
+      "label": "Proxy",
+      "flag": "proxy",
+      "collection": "World Cup",
+      "share": 0.00099301154111155,
+      "memberships": 797,
+      "denominator": 802609,
+      "bar_label": "Proxy · WC"
+    },
+    {
+      "label": "Proxy",
+      "flag": "proxy",
+      "collection": "Kung Fu Soccer",
+      "share": 0.0001228357746104495,
+      "memberships": 61,
+      "denominator": 496598,
+      "bar_label": "Proxy · KFS"
+    },
+    {
+      "label": "Relay",
+      "flag": "relay",
+      "collection": "World Cup",
+      "share": 4.734559418097729e-05,
+      "memberships": 38,
+      "denominator": 802609,
+      "bar_label": "Relay · WC"
+    },
+    {
+      "label": "Relay",
+      "flag": "relay",
+      "collection": "Kung Fu Soccer",
+      "share": 4.228772568556458e-05,
+      "memberships": 21,
+      "denominator": 496598,
+      "bar_label": "Relay · KFS"
+    },
+    {
+      "label": "Tor (IPinfo)",
+      "flag": "tor",
+      "collection": "World Cup",
+      "share": 0.0,
+      "memberships": 0,
+      "denominator": 802609,
+      "bar_label": "Tor (IPinfo) · WC"
+    },
+    {
+      "label": "Tor (IPinfo)",
+      "flag": "tor",
+      "collection": "Kung Fu Soccer",
+      "share": 0.0,
+      "memberships": 0,
+      "denominator": 496598,
+      "bar_label": "Tor (IPinfo) · KFS"
+    },
+    {
+      "label": "Tor (exit list)",
+      "flag": "tor_exit_nodes",
+      "collection": "World Cup",
+      "share": 0.0,
+      "memberships": 0,
+      "denominator": 802609,
+      "bar_label": "Tor (exit list) · WC"
+    },
+    {
+      "label": "Tor (exit list)",
+      "flag": "tor_exit_nodes",
+      "collection": "Kung Fu Soccer",
+      "share": 0.0,
+      "memberships": 0,
+      "denominator": 496598,
+      "bar_label": "Tor (exit list) · KFS"
+    },
+    {
+      "label": "Named privacy service",
+      "flag": "service",
+      "collection": "World Cup",
+      "share": 5.606715100378889e-05,
+      "memberships": 45,
+      "denominator": 802609,
+      "bar_label": "Named privacy service · WC"
+    },
+    {
+      "label": "Named privacy service",
+      "flag": "service",
+      "collection": "Kung Fu Soccer",
+      "share": 4.228772568556458e-05,
+      "memberships": 21,
+      "denominator": 496598,
+      "bar_label": "Named privacy service · KFS"
+    }
+  ],
+  "renderer": {
+    "library": "Izzi",
+    "functions": [
+      "svg::emit_bar_graph"
+    ],
+    "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+    "bar_header_sha256": "6a064f6a7ce1ac8544684c1179bf2f40284ca253258d5f898bbe143b79135a5e",
+    "renderer_sha256": "abdc56a156258e5fd882b1637daf74a9d8936120ea82acc95199036e73cf97fb",
+    "wrapper_sha256": "88aba6568595ef39c734e3b54de7883d4408117a67e771a47775911a71d1c0f1",
+    "axis_policy": "Native zero baseline and automatic maximum; shared across collections within each chart.",
+    "postprocessing": "Accessible metadata, collection colors, and percentage precision; native geometry retained."
+  }
+}

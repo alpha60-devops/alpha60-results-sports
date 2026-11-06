@@ -58,9 +58,14 @@ South Korea and China lead observed Asia-28 distribution. Matched-age comparison
 </div>
 Asia-28 uses the repository's fixed 28-code definition. Macao (`MAC`) and Taiwan (`TWN`) each appear once. Its geographic membership is an analytical convention, not a statement about political status.
 
+<link rel="stylesheet" href="../resources/world-cup-izzi.css">
+<script type="module" src="../resources/world-cup-izzi.js"></script>
+<script src="../resources/izzi-weekly-graph-hover.js" defer></script>
 ## Timing, duration, and coverage
 
-<figure><a href="../resources/world-cup-stage1/asia-activity-coverage.svg"><picture><img src="../resources/world-cup-stage1/asia-activity-coverage.png" alt="Daily South Korean, Chinese and Japanese downloader memberships above daily catalog coverage." loading="lazy"></picture></a><figcaption>The dashed line marks the July 19 final. Catalog coverage grows from two torrents on June 29 to 416 on July 19. Memberships are counted anew each day; the lower panel shows availability coverage, not viewer counts. <a href="../resources/world-cup-stage1/asia-activity-coverage.svg">Open full-size chart (SVG)</a>.</figcaption></figure>
+<figure class="wc-izzi-figure" id="asia-activity-coverage-figure">
+<div class="wc-izzi-scroll" tabindex="0" role="region" aria-label="The dashed line marks the July 19 final. Catalog coverage grows from two torrents on June 29 to 416 on July 19. Memberships are counted anew each day; the lower panel shows availability coverage, not viewer counts. Focus or tap a line for emphasis and a point for exact values. On narrow screens, scroll within the chart.">{% include asia-activity-coverage.svg %}</div>
+<figcaption>The dashed line marks the July 19 final. Catalog coverage grows from two torrents on June 29 to 416 on July 19. Memberships are counted anew each day; the lower panel shows availability coverage, not viewer counts. Focus or tap a line for emphasis and a point for exact values. On narrow screens, scroll within the chart. <a href="../resources/asia-activity-coverage.svg">Open full-size izzi chart (SVG)</a>. <a href="../data/world-cup-izzi/asia-activity-coverage.json">Chart values and rendering specification (JSON)</a>.</figcaption></figure>
 <div class="wc-table-wrap" tabindex="0" role="region" aria-label="Location">
 <table>
 <thead><tr><th scope="col">Location</th><th scope="col">Peak observed date</th><th scope="col">Peak daily D</th><th scope="col">Daily mass after final</th><th scope="col">Days with retained D</th></tr></thead>
@@ -106,7 +111,9 @@ All four objects are compared at **H3r5**, with the same recorded IPinfo locatio
 <tr><td>dan-da-dan-210</td><td>2025-09-04 to 2025-09-17</td><td>164</td><td>1,932,896</td><td>521,871</td><td>27.0%</td></tr>
 </tbody></table>
 </div>
-<figure><a href="../resources/world-cup-stage1/asia-cohort-comparison.svg"><picture><img src="../resources/world-cup-stage1/asia-cohort-comparison.png" alt="Asia-28 shares for World Cup, Kung Fu Soccer, Crew Girl and Dan Da Dan over each first 14 observed days." loading="lazy"></picture></a><figcaption>The comparison controls observation age and grid resolution. Different release types, collection dates, discovery practices and active torrent supplies remain confounders. <a href="../resources/world-cup-stage1/asia-cohort-comparison.svg">Open full-size chart (SVG)</a>.</figcaption></figure>
+<figure class="wc-izzi-figure" id="asia-cohort-comparison-figure">
+<div class="wc-izzi-scroll" tabindex="0" role="region" aria-label="The comparison controls observation age and grid resolution. Different release types, collection dates, discovery practices and active torrent supplies remain confounders.">{% include asia-cohort-comparison.svg %}</div>
+<figcaption>The comparison controls observation age and grid resolution. Different release types, collection dates, discovery practices and active torrent supplies remain confounders. <a href="../resources/asia-cohort-comparison.svg">Open full-size izzi chart (SVG)</a>. <a href="../data/world-cup-izzi/asia-cohort-comparison.json">Chart values and rendering specification (JSON)</a>.</figcaption></figure>
 Kung Fu Soccer has the largest Asia-28 share at 61.2%, compared with 30.5% for the World Cup. Its regional activity is heavily concentrated in China. The World Cup has a larger South Korean contribution. These are differences between the sampled media objects, not estimates of comparative fan populations.
 
 The historical Dan Da Dan headers do not record a selection-policy label. An explicit check of its first 14 daily products found all 47,218 serialized cells at or above three downloaders, including 14,760 cells with zero uploaders, consistent with the downloader threshold used here. The underlying historical sample was not regenerated in this task.
@@ -136,9 +143,8 @@ D-days and U-days are sums of daily IP–canonical-torrent memberships. The same
 
 The controls update both charts and the exact network table. The prose and tables below the explorer retain the first-14-day comparison unless explicitly labeled otherwise.
 
-<link rel="stylesheet" href="../resources/world-cup-china/chart-host.css">
 <link rel="stylesheet" href="../resources/world-cup-china/china.css">
-<section id="china-explorer" aria-label="China comparison explorer" data-data-chart data-viz-composition data-appearance="light">
+<section id="china-explorer" aria-label="China comparison explorer" data-renderer="izzi">
 <div class="china-controls">
 <label>Observation window <select id="china-window">
 <option value="first14">First 14 collection days</option>
@@ -151,8 +157,12 @@ The controls update both charts and the exact network table. The prose and table
 </div>
 <p id="china-caption" aria-live="polite"></p>
 <p id="china-overlap"></p>
-<div id="china-city-chart" data-viz-container style="min-height:650px"></div>
-<div id="china-network-chart" data-viz-container style="min-height:500px"></div>
+<p class="wc-izzi-legend"><span>WC = World Cup</span><span>KFS = Kung Fu Soccer</span></p>
+<p>Bars use a shared zero baseline within each chart. Axis maxima adjust to the selected comparison. Hover, focus or tap a value for exact counts. On narrow screens, scroll within each chart.</p>
+<div id="china-city-chart" class="wc-izzi-scroll" tabindex="0" role="region" aria-label="China city distributions">{% include china-first14-downloaders-city.svg %}</div>
+<p><a id="china-city-svg" href="../resources/china-first14-downloaders-city.svg">Open city chart (SVG)</a> · <a id="china-city-spec" href="../data/world-cup-izzi/china-first14-downloaders-city.json">City chart values (JSON)</a></p>
+<div id="china-network-chart" class="wc-izzi-scroll" tabindex="0" role="region" aria-label="China network flags">{% include china-first14-downloaders-network.svg %}</div>
+<p><a id="china-network-svg" href="../resources/china-first14-downloaders-network.svg">Open network chart (SVG)</a> · <a id="china-network-spec" href="../data/world-cup-izzi/china-first14-downloaders-network.json">Network chart values (JSON)</a></p>
 <details><summary>Exact values for the selected network comparison</summary><div id="china-network-values" class="wc-table-wrap" tabindex="0" role="region" aria-label="Selected network counts"></div></details>
 <p id="china-chart-error" hidden>Interactive charts could not load. The first-14-day results and downloadable tables remain available below.</p>
 <noscript><p>Enable JavaScript to change the charts. Exact first-14-day figures and CSV downloads are provided below.</p></noscript>

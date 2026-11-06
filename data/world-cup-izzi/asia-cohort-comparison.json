@@ -1,0 +1,69 @@
+{
+  "schema": "izzi.visualization/1",
+  "kind": "bar-graph",
+  "title": "Matched observation age · H3r5",
+  "description": "First 14 observed dates for each collection. Daily memberships, with different catalogs and release types.",
+  "source": "../data/world-cup-stage1/supplement.json",
+  "x_label": "Asia-28 share of first-14-day downloader memberships (%)",
+  "y_label": "Media object",
+  "viewport": [
+    1280,
+    640
+  ],
+  "bars": [
+    [
+      "world-cup-2026",
+      30.51001475458627
+    ],
+    [
+      "kung-fu-soccer-2026",
+      61.221691490972795
+    ],
+    [
+      "crew-girl-01",
+      19.96728308721188
+    ],
+    [
+      "dan-da-dan-210",
+      26.999435044616988
+    ]
+  ],
+  "observations": [
+    {
+      "label": "world-cup-2026",
+      "share": 0.3051001475458627,
+      "memberships": 1059971,
+      "denominator": 3474174
+    },
+    {
+      "label": "kung-fu-soccer-2026",
+      "share": 0.612216914909728,
+      "memberships": 448725,
+      "denominator": 732951
+    },
+    {
+      "label": "crew-girl-01",
+      "share": 0.1996728308721188,
+      "memberships": 290505,
+      "denominator": 1454905
+    },
+    {
+      "label": "dan-da-dan-210",
+      "share": 0.2699943504461699,
+      "memberships": 521871,
+      "denominator": 1932896
+    }
+  ],
+  "renderer": {
+    "library": "Izzi",
+    "functions": [
+      "svg::emit_bar_graph"
+    ],
+    "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+    "bar_header_sha256": "6a064f6a7ce1ac8544684c1179bf2f40284ca253258d5f898bbe143b79135a5e",
+    "renderer_sha256": "abdc56a156258e5fd882b1637daf74a9d8936120ea82acc95199036e73cf97fb",
+    "wrapper_sha256": "88aba6568595ef39c734e3b54de7883d4408117a67e771a47775911a71d1c0f1",
+    "axis_policy": "Native zero baseline and automatic maximum; shared across collections within each chart.",
+    "postprocessing": "Accessible metadata, collection colors, and percentage precision; native geometry retained."
+  }
+}

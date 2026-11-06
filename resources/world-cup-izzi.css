@@ -1,0 +1,12 @@
+.wc-izzi-scroll{overflow-x:auto;max-width:100%;background:#fff;border:1px solid #e5e9ed;border-radius:4px}
+.wc-izzi-scroll .analysis-svg{display:block;width:100%;height:auto;min-width:1000px;background:white}
+#china-explorer{display:block;float:none;clear:both;width:100%;max-width:none;padding:0}
+.wc-izzi-scroll .izzi-bar:focus{outline:none}
+.wc-izzi-scroll .izzi-bar:focus text{fill:#8c3200;font-weight:bold}
+.wc-izzi-scroll .izzi-bar:focus rect{stroke:#8c3200;stroke-width:2px}
+.wc-izzi-legend{display:flex;gap:1.5rem;flex-wrap:wrap;font-size:.9rem}
+.wc-izzi-legend span:before{content:'';display:inline-block;width:1rem;height:.7rem;margin-right:.4rem;background:#214f7a}
+.wc-izzi-legend span+span:before{background:#16857a}
+.wc-izzi-tip{position:fixed;z-index:1000;max-width:min(420px,calc(100vw - 24px));padding:.5rem .7rem;background:#243342;color:white;border-radius:4px;font:14px/1.4 sans-serif;pointer-events:none}
+.wc-izzi-tip[hidden]{display:none}
+@media(max-width:700px){#china-explorer .analysis-svg,#asia-cohort-comparison-figure .analysis-svg{min-width:800px}}

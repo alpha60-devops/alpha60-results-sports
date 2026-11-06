@@ -6,316 +6,400 @@
         "city": {
           "id": "china-city",
           "title": "City distribution · downloaders",
-          "height": 650,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China downloaders memberships",
-            "xDomain": [
-              0,
-              1
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 1
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "World Cup",
               "share": 0.30333574449143114,
-              "memberships": 109031
+              "memberships": 109031,
+              "denominator": 359440,
+              "bar_label": "Nanjing · WC"
             },
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "Kung Fu Soccer",
               "share": 0.599276279898499,
-              "memberships": 239472
+              "memberships": 239472,
+              "denominator": 399602,
+              "bar_label": "Nanjing · KFS"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "World Cup",
               "share": 0.15442354774093034,
-              "memberships": 55506
+              "memberships": 55506,
+              "denominator": 359440,
+              "bar_label": "Shanghai · WC"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "Kung Fu Soccer",
               "share": 0.058275484106686155,
-              "memberships": 23287
+              "memberships": 23287,
+              "denominator": 399602,
+              "bar_label": "Shanghai · KFS"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "World Cup",
               "share": 0.14952982417093255,
-              "memberships": 53747
+              "memberships": 53747,
+              "denominator": 359440,
+              "bar_label": "Hangzhou · WC"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "Kung Fu Soccer",
               "share": 0.01534276605222196,
-              "memberships": 6131
+              "memberships": 6131,
+              "denominator": 399602,
+              "bar_label": "Hangzhou · KFS"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "World Cup",
               "share": 0.10592588470954818,
-              "memberships": 38074
+              "memberships": 38074,
+              "denominator": 359440,
+              "bar_label": "Shenzhen · WC"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "Kung Fu Soccer",
               "share": 0.04044023803684666,
-              "memberships": 16160
+              "memberships": 16160,
+              "denominator": 399602,
+              "bar_label": "Shenzhen · KFS"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "World Cup",
               "share": 0.016086133986200755,
-              "memberships": 5782
+              "memberships": 5782,
+              "denominator": 359440,
+              "bar_label": "Xi’an · WC"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "Kung Fu Soccer",
               "share": 0.06439407210174124,
-              "memberships": 25732
+              "memberships": 25732,
+              "denominator": 399602,
+              "bar_label": "Xi’an · KFS"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "World Cup",
               "share": 0.0060093478744714,
-              "memberships": 2160
+              "memberships": 2160,
+              "denominator": 359440,
+              "bar_label": "Wuxi · WC"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "Kung Fu Soccer",
               "share": 0.041033328161520714,
-              "memberships": 16397
+              "memberships": 16397,
+              "denominator": 399602,
+              "bar_label": "Wuxi · KFS"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "World Cup",
               "share": 0.03022757622969063,
-              "memberships": 10865
+              "memberships": 10865,
+              "denominator": 359440,
+              "bar_label": "Jiaxing · WC"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "Kung Fu Soccer",
               "share": 0.014541969259413116,
-              "memberships": 5811
+              "memberships": 5811,
+              "denominator": 399602,
+              "bar_label": "Jiaxing · KFS"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "World Cup",
               "share": 0.026043289561540173,
-              "memberships": 9361
+              "memberships": 9361,
+              "denominator": 359440,
+              "bar_label": "Beijing · WC"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "Kung Fu Soccer",
               "share": 0.013791222266154824,
-              "memberships": 5511
+              "memberships": 5511,
+              "denominator": 399602,
+              "bar_label": "Beijing · KFS"
             },
             {
               "label": "Suzhou",
+              "location_id": "geoname:1886760",
               "collection": "World Cup",
               "share": 0.0174298909414645,
-              "memberships": 6265
+              "memberships": 6265,
+              "denominator": 359440,
+              "bar_label": "Suzhou · WC"
             },
             {
               "label": "Suzhou",
+              "location_id": "geoname:1886760",
               "collection": "Kung Fu Soccer",
               "share": 0.003523505888358917,
-              "memberships": 1408
+              "memberships": 1408,
+              "denominator": 399602,
+              "bar_label": "Suzhou · KFS"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "World Cup",
               "share": 0.01412753171600267,
-              "memberships": 5078
+              "memberships": 5078,
+              "denominator": 359440,
+              "bar_label": "Zhengzhou · WC"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "Kung Fu Soccer",
               "share": 0.010573020155054279,
-              "memberships": 4225
+              "memberships": 4225,
+              "denominator": 399602,
+              "bar_label": "Zhengzhou · KFS"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "World Cup",
               "share": 0.014085800133541064,
-              "memberships": 5063
+              "memberships": 5063,
+              "denominator": 359440,
+              "bar_label": "Qingdao · WC"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "Kung Fu Soccer",
               "share": 0.011226170039188993,
-              "memberships": 4486
+              "memberships": 4486,
+              "denominator": 399602,
+              "bar_label": "Qingdao · KFS"
             },
             {
               "label": "Chengdu",
+              "location_id": "geoname:1815286",
               "collection": "World Cup",
               "share": 0.010855775651012686,
-              "memberships": 3902
+              "memberships": 3902,
+              "denominator": 359440,
+              "bar_label": "Chengdu · WC"
             },
             {
               "label": "Chengdu",
+              "location_id": "geoname:1815286",
               "collection": "Kung Fu Soccer",
               "share": 0.011268712368806963,
-              "memberships": 4503
+              "memberships": 4503,
+              "denominator": 399602,
+              "bar_label": "Chengdu · KFS"
             }
-          ]
+          ],
+          "svg": "china-first14-downloaders-city.svg",
+          "specification": "china-first14-downloaders-city.json",
+          "svg_sha256": "eb7f36f6f5615457503a73cfee1f184cd873808e4da6de4d5798554e5d82a594"
         },
         "network": {
           "id": "china-network",
           "title": "Network flags · downloaders",
-          "height": 500,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China downloaders memberships",
-            "xDomain": [
-              0,
-              0.2
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 2
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "World Cup",
               "share": 0.05048408635655464,
-              "memberships": 18146
+              "memberships": 18146,
+              "denominator": 359440,
+              "bar_label": "Hosting · WC"
             },
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "Kung Fu Soccer",
               "share": 0.005347821081976567,
-              "memberships": 2137
+              "memberships": 2137,
+              "denominator": 399602,
+              "bar_label": "Hosting · KFS"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "World Cup",
               "share": 0.020440129089695083,
-              "memberships": 7347
+              "memberships": 7347,
+              "denominator": 359440,
+              "bar_label": "VPN · WC"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "Kung Fu Soccer",
               "share": 0.010915861281975565,
-              "memberships": 4362
+              "memberships": 4362,
+              "denominator": 399602,
+              "bar_label": "VPN · KFS"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "World Cup",
               "share": 0.011506788337413755,
-              "memberships": 4136
+              "memberships": 4136,
+              "denominator": 359440,
+              "bar_label": "Mobile carrier · WC"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "Kung Fu Soccer",
               "share": 0.013293226760626824,
-              "memberships": 5312
+              "memberships": 5312,
+              "denominator": 399602,
+              "bar_label": "Mobile carrier · KFS"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 359440,
+              "bar_label": "Satellite · WC"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 399602,
+              "bar_label": "Satellite · KFS"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "World Cup",
               "share": 0.00026430002225684396,
-              "memberships": 95
+              "memberships": 95,
+              "denominator": 359440,
+              "bar_label": "Proxy · WC"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "Kung Fu Soccer",
               "share": 0.00011761702894379908,
-              "memberships": 47
+              "memberships": 47,
+              "denominator": 399602,
+              "bar_label": "Proxy · KFS"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 359440,
+              "bar_label": "Relay · WC"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "Kung Fu Soccer",
               "share": 6.2562249438191e-05,
-              "memberships": 25
+              "memberships": 25,
+              "denominator": 399602,
+              "bar_label": "Relay · KFS"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 359440,
+              "bar_label": "Tor (IPinfo) · WC"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 399602,
+              "bar_label": "Tor (IPinfo) · KFS"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 359440,
+              "bar_label": "Tor (exit list) · WC"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 399602,
+              "bar_label": "Tor (exit list) · KFS"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 359440,
+              "bar_label": "Named privacy service · WC"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "Kung Fu Soccer",
               "share": 6.2562249438191e-05,
-              "memberships": 25
+              "memberships": 25,
+              "denominator": 399602,
+              "bar_label": "Named privacy service · KFS"
             }
-          ]
+          ],
+          "svg": "china-first14-downloaders-network.svg",
+          "specification": "china-first14-downloaders-network.json",
+          "svg_sha256": "decf8c3859bcddffaac241d26762281fddc94d867d71f612ecc36b5394705475"
         },
         "caption": "First 14 collection days. World Cup: 2026-06-29 to 2026-07-12, 359,440 memberships; Kung Fu Soccer: 2026-10-03 to 2026-10-16, 399,602 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
         "overlap": 0.5952657488152414
@@ -324,328 +408,418 @@
         "city": {
           "id": "china-city",
           "title": "City distribution · uploaders",
-          "height": 650,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China uploaders memberships",
-            "xDomain": [
-              0,
-              1
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 1
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "World Cup",
               "share": 0.547308020998657,
-              "memberships": 4483
+              "memberships": 4483,
+              "denominator": 8191,
+              "bar_label": "Nanjing · WC"
             },
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "Kung Fu Soccer",
               "share": 0.8037835895784036,
-              "memberships": 64879
+              "memberships": 64879,
+              "denominator": 80717,
+              "bar_label": "Nanjing · KFS"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "World Cup",
               "share": 0.11524844341350263,
-              "memberships": 944
+              "memberships": 944,
+              "denominator": 8191,
+              "bar_label": "Xi’an · WC"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "Kung Fu Soccer",
               "share": 0.025112429847491853,
-              "memberships": 2027
+              "memberships": 2027,
+              "denominator": 80717,
+              "bar_label": "Xi’an · KFS"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "World Cup",
               "share": 0.02661457697472836,
-              "memberships": 218
+              "memberships": 218,
+              "denominator": 8191,
+              "bar_label": "Wuxi · WC"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "Kung Fu Soccer",
               "share": 0.05780690560848396,
-              "memberships": 4666
+              "memberships": 4666,
+              "denominator": 80717,
+              "bar_label": "Wuxi · KFS"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "World Cup",
               "share": 0.05530460261262361,
-              "memberships": 453
+              "memberships": 453,
+              "denominator": 8191,
+              "bar_label": "Shanghai · WC"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "Kung Fu Soccer",
               "share": 0.022572692245747487,
-              "memberships": 1822
+              "memberships": 1822,
+              "denominator": 80717,
+              "bar_label": "Shanghai · KFS"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "World Cup",
               "share": 0.04504944451226956,
-              "memberships": 369
+              "memberships": 369,
+              "denominator": 8191,
+              "bar_label": "Shenzhen · WC"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "Kung Fu Soccer",
               "share": 0.017617106681368237,
-              "memberships": 1422
+              "memberships": 1422,
+              "denominator": 80717,
+              "bar_label": "Shenzhen · KFS"
             },
             {
               "label": "Luancheng",
+              "location_id": "geoname:1802204",
               "collection": "World Cup",
               "share": 0.041020632401416186,
-              "memberships": 336
+              "memberships": 336,
+              "denominator": 8191,
+              "bar_label": "Luancheng · WC"
             },
             {
               "label": "Luancheng",
+              "location_id": "geoname:1802204",
               "collection": "Kung Fu Soccer",
               "share": 0.00310962994164798,
-              "memberships": 251
+              "memberships": 251,
+              "denominator": 80717,
+              "bar_label": "Luancheng · KFS"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "World Cup",
               "share": 0.03332926382615065,
-              "memberships": 273
+              "memberships": 273,
+              "denominator": 8191,
+              "bar_label": "Beijing · WC"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "Kung Fu Soccer",
               "share": 0.005525477904282865,
-              "memberships": 446
+              "memberships": 446,
+              "denominator": 80717,
+              "bar_label": "Beijing · KFS"
             },
             {
               "label": "Baoding",
+              "location_id": "geoname:1816971",
               "collection": "World Cup",
               "share": 0.014528140642168234,
-              "memberships": 119
+              "memberships": 119,
+              "denominator": 8191,
+              "bar_label": "Baoding · WC"
             },
             {
               "label": "Baoding",
+              "location_id": "geoname:1816971",
               "collection": "Kung Fu Soccer",
               "share": 8.67227473766369e-05,
-              "memberships": 7
+              "memberships": 7,
+              "denominator": 80717,
+              "bar_label": "Baoding · KFS"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "World Cup",
               "share": 0.009156391161030399,
-              "memberships": 75
+              "memberships": 75,
+              "denominator": 8191,
+              "bar_label": "Jiaxing · WC"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "Kung Fu Soccer",
               "share": 0.00621925988329596,
-              "memberships": 502
+              "memberships": 502,
+              "denominator": 80717,
+              "bar_label": "Jiaxing · KFS"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "World Cup",
               "share": 0.009034305945549994,
-              "memberships": 74
+              "memberships": 74,
+              "denominator": 8191,
+              "bar_label": "Hangzhou · WC"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "Kung Fu Soccer",
               "share": 0.002923795482983758,
-              "memberships": 236
+              "memberships": 236,
+              "denominator": 80717,
+              "bar_label": "Hangzhou · KFS"
             },
             {
               "label": "Chengdu",
+              "location_id": "geoname:1815286",
               "collection": "World Cup",
               "share": 0.006958857282383104,
-              "memberships": 57
+              "memberships": 57,
+              "denominator": 8191,
+              "bar_label": "Chengdu · WC"
             },
             {
               "label": "Chengdu",
+              "location_id": "geoname:1815286",
               "collection": "Kung Fu Soccer",
               "share": 0.004422860116208482,
-              "memberships": 357
+              "memberships": 357,
+              "denominator": 80717,
+              "bar_label": "Chengdu · KFS"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "World Cup",
               "share": 0.005493834696618239,
-              "memberships": 45
+              "memberships": 45,
+              "denominator": 8191,
+              "bar_label": "Zhengzhou · WC"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "Kung Fu Soccer",
               "share": 0.003989246379325297,
-              "memberships": 322
+              "memberships": 322,
+              "denominator": 80717,
+              "bar_label": "Zhengzhou · KFS"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "World Cup",
               "share": 0.004639238188255402,
-              "memberships": 38
+              "memberships": 38,
+              "denominator": 8191,
+              "bar_label": "Qingdao · WC"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "Kung Fu Soccer",
               "share": 0.003989246379325297,
-              "memberships": 322
+              "memberships": 322,
+              "denominator": 80717,
+              "bar_label": "Qingdao · KFS"
             }
-          ]
+          ],
+          "svg": "china-first14-uploaders-city.svg",
+          "specification": "china-first14-uploaders-city.json",
+          "svg_sha256": "9d86200a5c2c74198be8e39feed4e38fc2e17e5fc685b8dfa391c0a4f2c91004"
         },
         "network": {
           "id": "china-network",
           "title": "Network flags · uploaders",
-          "height": 500,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China uploaders memberships",
-            "xDomain": [
-              0,
-              0.2
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 2
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "World Cup",
               "share": 0.027225003052130388,
-              "memberships": 223
+              "memberships": 223,
+              "denominator": 8191,
+              "bar_label": "Hosting · WC"
             },
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "Kung Fu Soccer",
               "share": 0.001164562607629124,
-              "memberships": 94
+              "memberships": 94,
+              "denominator": 80717,
+              "bar_label": "Hosting · KFS"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "World Cup",
               "share": 0.0114760102551581,
-              "memberships": 94
+              "memberships": 94,
+              "denominator": 8191,
+              "bar_label": "VPN · WC"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "Kung Fu Soccer",
               "share": 0.011150067519853315,
-              "memberships": 900
+              "memberships": 900,
+              "denominator": 80717,
+              "bar_label": "VPN · KFS"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "World Cup",
               "share": 0.0297887925772189,
-              "memberships": 244
+              "memberships": 244,
+              "denominator": 8191,
+              "bar_label": "Mobile carrier · WC"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "Kung Fu Soccer",
               "share": 0.0038405788123939194,
-              "memberships": 310
+              "memberships": 310,
+              "denominator": 80717,
+              "bar_label": "Mobile carrier · KFS"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 8191,
+              "bar_label": "Satellite · WC"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 80717,
+              "bar_label": "Satellite · KFS"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "World Cup",
               "share": 0.00024417043096081065,
-              "memberships": 2
+              "memberships": 2,
+              "denominator": 8191,
+              "bar_label": "Proxy · WC"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "Kung Fu Soccer",
               "share": 4.955585564379251e-05,
-              "memberships": 4
+              "memberships": 4,
+              "denominator": 80717,
+              "bar_label": "Proxy · KFS"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 8191,
+              "bar_label": "Relay · WC"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 80717,
+              "bar_label": "Relay · KFS"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 8191,
+              "bar_label": "Tor (IPinfo) · WC"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 80717,
+              "bar_label": "Tor (IPinfo) · KFS"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 8191,
+              "bar_label": "Tor (exit list) · WC"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 80717,
+              "bar_label": "Tor (exit list) · KFS"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 8191,
+              "bar_label": "Named privacy service · WC"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 80717,
+              "bar_label": "Named privacy service · KFS"
             }
-          ]
+          ],
+          "svg": "china-first14-uploaders-network.svg",
+          "specification": "china-first14-uploaders-network.json",
+          "svg_sha256": "3fbd4d8d312b02dc5febfc68bda9db1784152d699925594e6d7a4bef4af4d47b"
         },
         "caption": "First 14 collection days. World Cup: 2026-06-29 to 2026-07-12, 8,191 memberships; Kung Fu Soccer: 2026-10-03 to 2026-10-16, 80,717 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
         "overlap": 0.7066110423009276
@@ -659,316 +833,400 @@
         "city": {
           "id": "china-city",
           "title": "City distribution · downloaders",
-          "height": 650,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China downloaders memberships",
-            "xDomain": [
-              0,
-              1
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 1
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "World Cup",
               "share": 0.28617964225144793,
-              "memberships": 268302
+              "memberships": 268302,
+              "denominator": 937530,
+              "bar_label": "Nanjing · WC"
             },
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "Kung Fu Soccer",
               "share": 0.7312333114511134,
-              "memberships": 363129
+              "memberships": 363129,
+              "denominator": 496598,
+              "bar_label": "Nanjing · KFS"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "World Cup",
               "share": 0.16187961985216473,
-              "memberships": 151767
+              "memberships": 151767,
+              "denominator": 937530,
+              "bar_label": "Shanghai · WC"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "Kung Fu Soccer",
               "share": 0.03981087318112437,
-              "memberships": 19770
+              "memberships": 19770,
+              "denominator": 496598,
+              "bar_label": "Shanghai · KFS"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "World Cup",
               "share": 0.15539556067539173,
-              "memberships": 145688
+              "memberships": 145688,
+              "denominator": 937530,
+              "bar_label": "Hangzhou · WC"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "Kung Fu Soccer",
               "share": 0.018447516905021766,
-              "memberships": 9161
+              "memberships": 9161,
+              "denominator": 496598,
+              "bar_label": "Hangzhou · KFS"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "World Cup",
               "share": 0.10947596343583672,
-              "memberships": 102637
+              "memberships": 102637,
+              "denominator": 937530,
+              "bar_label": "Shenzhen · WC"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "Kung Fu Soccer",
               "share": 0.02511689535600224,
-              "memberships": 12473
+              "memberships": 12473,
+              "denominator": 496598,
+              "bar_label": "Shenzhen · KFS"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "World Cup",
               "share": 0.004235597794203919,
-              "memberships": 3971
+              "memberships": 3971,
+              "denominator": 937530,
+              "bar_label": "Wuxi · WC"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "Kung Fu Soccer",
               "share": 0.06351817768094112,
-              "memberships": 31543
+              "memberships": 31543,
+              "denominator": 496598,
+              "bar_label": "Wuxi · KFS"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "World Cup",
               "share": 0.033404797713139846,
-              "memberships": 31318
+              "memberships": 31318,
+              "denominator": 937530,
+              "bar_label": "Jiaxing · WC"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "Kung Fu Soccer",
               "share": 0.009720135804010488,
-              "memberships": 4827
+              "memberships": 4827,
+              "denominator": 496598,
+              "bar_label": "Jiaxing · KFS"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "World Cup",
               "share": 0.01423314453937474,
-              "memberships": 13344
+              "memberships": 13344,
+              "denominator": 937530,
+              "bar_label": "Xi’an · WC"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "Kung Fu Soccer",
               "share": 0.02843748867293062,
-              "memberships": 14122
+              "memberships": 14122,
+              "denominator": 496598,
+              "bar_label": "Xi’an · KFS"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "World Cup",
               "share": 0.02442801830341429,
-              "memberships": 22902
+              "memberships": 22902,
+              "denominator": 937530,
+              "bar_label": "Beijing · WC"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "Kung Fu Soccer",
               "share": 0.0075634617940466935,
-              "memberships": 3756
+              "memberships": 3756,
+              "denominator": 496598,
+              "bar_label": "Beijing · KFS"
             },
             {
               "label": "Suzhou",
+              "location_id": "geoname:1886760",
               "collection": "World Cup",
               "share": 0.020133755719816966,
-              "memberships": 18876
+              "memberships": 18876,
+              "denominator": 937530,
+              "bar_label": "Suzhou · WC"
             },
             {
               "label": "Suzhou",
+              "location_id": "geoname:1886760",
               "collection": "Kung Fu Soccer",
               "share": 0.0035139086343481045,
-              "memberships": 1745
+              "memberships": 1745,
+              "denominator": 496598,
+              "bar_label": "Suzhou · KFS"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "World Cup",
               "share": 0.014760061011380969,
-              "memberships": 13838
+              "memberships": 13838,
+              "denominator": 937530,
+              "bar_label": "Qingdao · WC"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "Kung Fu Soccer",
               "share": 0.005765226601798638,
-              "memberships": 2863
+              "memberships": 2863,
+              "denominator": 496598,
+              "bar_label": "Qingdao · KFS"
             },
             {
               "label": "Quanzhou",
+              "location_id": "geoname:1797353",
               "collection": "World Cup",
               "share": 0.01383635723656843,
-              "memberships": 12972
+              "memberships": 12972,
+              "denominator": 937530,
+              "bar_label": "Quanzhou · WC"
             },
             {
               "label": "Quanzhou",
+              "location_id": "geoname:1797353",
               "collection": "Kung Fu Soccer",
               "share": 0.0019955779121140237,
-              "memberships": 991
+              "memberships": 991,
+              "denominator": 496598,
+              "bar_label": "Quanzhou · KFS"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "World Cup",
               "share": 0.013397971264919522,
-              "memberships": 12561
+              "memberships": 12561,
+              "denominator": 937530,
+              "bar_label": "Zhengzhou · WC"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "Kung Fu Soccer",
               "share": 0.005408801485306022,
-              "memberships": 2686
+              "memberships": 2686,
+              "denominator": 496598,
+              "bar_label": "Zhengzhou · KFS"
             }
-          ]
+          ],
+          "svg": "china-next14-downloaders-city.svg",
+          "specification": "china-next14-downloaders-city.json",
+          "svg_sha256": "a1eecaab3d59923b308fc96381d1759f532911be97f83c91320ce750cb1e0692"
         },
         "network": {
           "id": "china-network",
           "title": "Network flags · downloaders",
-          "height": 500,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China downloaders memberships",
-            "xDomain": [
-              0,
-              0.2
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 2
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "World Cup",
               "share": 0.05234285836186575,
-              "memberships": 49073
+              "memberships": 49073,
+              "denominator": 937530,
+              "bar_label": "Hosting · WC"
             },
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "Kung Fu Soccer",
               "share": 0.006377391773627763,
-              "memberships": 3167
+              "memberships": 3167,
+              "denominator": 496598,
+              "bar_label": "Hosting · KFS"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "World Cup",
               "share": 0.01976256759783687,
-              "memberships": 18528
+              "memberships": 18528,
+              "denominator": 937530,
+              "bar_label": "VPN · WC"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "Kung Fu Soccer",
               "share": 0.0110411238063786,
-              "memberships": 5483
+              "memberships": 5483,
+              "denominator": 496598,
+              "bar_label": "VPN · KFS"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "World Cup",
               "share": 0.010772988597698208,
-              "memberships": 10100
+              "memberships": 10100,
+              "denominator": 937530,
+              "bar_label": "Mobile carrier · WC"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "Kung Fu Soccer",
               "share": 0.005277910905803084,
-              "memberships": 2621
+              "memberships": 2621,
+              "denominator": 496598,
+              "bar_label": "Mobile carrier · KFS"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 937530,
+              "bar_label": "Satellite · WC"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 496598,
+              "bar_label": "Satellite · KFS"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "World Cup",
               "share": 0.0004479856644587373,
-              "memberships": 420
+              "memberships": 420,
+              "denominator": 937530,
+              "bar_label": "Proxy · WC"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "Kung Fu Soccer",
               "share": 0.0001228357746104495,
-              "memberships": 61
+              "memberships": 61,
+              "denominator": 496598,
+              "bar_label": "Proxy · KFS"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 937530,
+              "bar_label": "Relay · WC"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "Kung Fu Soccer",
               "share": 4.228772568556458e-05,
-              "memberships": 21
+              "memberships": 21,
+              "denominator": 496598,
+              "bar_label": "Relay · KFS"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 937530,
+              "bar_label": "Tor (IPinfo) · WC"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 496598,
+              "bar_label": "Tor (IPinfo) · KFS"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 937530,
+              "bar_label": "Tor (exit list) · WC"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 496598,
+              "bar_label": "Tor (exit list) · KFS"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "World Cup",
               "share": 7.466427740978955e-06,
-              "memberships": 7
+              "memberships": 7,
+              "denominator": 937530,
+              "bar_label": "Named privacy service · WC"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "Kung Fu Soccer",
               "share": 4.228772568556458e-05,
-              "memberships": 21
+              "memberships": 21,
+              "denominator": 496598,
+              "bar_label": "Named privacy service · KFS"
             }
-          ]
+          ],
+          "svg": "china-next14-downloaders-network.svg",
+          "specification": "china-next14-downloaders-network.json",
+          "svg_sha256": "b5ea3999ec01983c611a4f40c150487682c536e0ab16ba9db3332804386a9600"
         },
         "caption": "Collection days 15–28. World Cup: 2026-07-13 to 2026-07-26, 937,530 memberships; Kung Fu Soccer: 2026-10-17 to 2026-10-30, 496,598 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
         "overlap": 0.4803624214815557
@@ -977,316 +1235,400 @@
         "city": {
           "id": "china-city",
           "title": "City distribution · uploaders",
-          "height": 650,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China uploaders memberships",
-            "xDomain": [
-              0,
-              1
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 1
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "World Cup",
               "share": 0.38520696674960414,
-              "memberships": 5109
+              "memberships": 5109,
+              "denominator": 13263,
+              "bar_label": "Nanjing · WC"
             },
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "Kung Fu Soccer",
               "share": 0.8835974340456264,
-              "memberships": 145593
+              "memberships": 145593,
+              "denominator": 164773,
+              "bar_label": "Nanjing · KFS"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "World Cup",
               "share": 0.24564578149739877,
-              "memberships": 3258
+              "memberships": 3258,
+              "denominator": 13263,
+              "bar_label": "Xi’an · WC"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "Kung Fu Soccer",
               "share": 0.0053770945482573,
-              "memberships": 886
+              "memberships": 886,
+              "denominator": 164773,
+              "bar_label": "Xi’an · KFS"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "World Cup",
               "share": 0.021337555605820704,
-              "memberships": 283
+              "memberships": 283,
+              "denominator": 13263,
+              "bar_label": "Wuxi · WC"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "Kung Fu Soccer",
               "share": 0.07748842346743702,
-              "memberships": 12768
+              "memberships": 12768,
+              "denominator": 164773,
+              "bar_label": "Wuxi · KFS"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "World Cup",
               "share": 0.06680238256804645,
-              "memberships": 886
+              "memberships": 886,
+              "denominator": 13263,
+              "bar_label": "Shanghai · WC"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "Kung Fu Soccer",
               "share": 0.007616539117452495,
-              "memberships": 1255
+              "memberships": 1255,
+              "denominator": 164773,
+              "bar_label": "Shanghai · KFS"
             },
             {
               "label": "Luancheng",
+              "location_id": "geoname:1802204",
               "collection": "World Cup",
               "share": 0.041167156751866094,
-              "memberships": 546
+              "memberships": 546,
+              "denominator": 13263,
+              "bar_label": "Luancheng · WC"
             },
             {
               "label": "Luancheng",
+              "location_id": "geoname:1802204",
               "collection": "Kung Fu Soccer",
               "share": 0.0005340680815424857,
-              "memberships": 88
+              "memberships": 88,
+              "denominator": 164773,
+              "bar_label": "Luancheng · KFS"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "World Cup",
               "share": 0.038151247832315466,
-              "memberships": 506
+              "memberships": 506,
+              "denominator": 13263,
+              "bar_label": "Beijing · WC"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "Kung Fu Soccer",
               "share": 0.0016628937993481941,
-              "memberships": 274
+              "memberships": 274,
+              "denominator": 164773,
+              "bar_label": "Beijing · KFS"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "World Cup",
               "share": 0.03558772525069743,
-              "memberships": 472
+              "memberships": 472,
+              "denominator": 13263,
+              "bar_label": "Shenzhen · WC"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "Kung Fu Soccer",
               "share": 0.005832266208662827,
-              "memberships": 961
+              "memberships": 961,
+              "denominator": 164773,
+              "bar_label": "Shenzhen · KFS"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "World Cup",
               "share": 0.017643067179371183,
-              "memberships": 234
+              "memberships": 234,
+              "denominator": 13263,
+              "bar_label": "Jiaxing · WC"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "Kung Fu Soccer",
               "share": 0.002154479192586164,
-              "memberships": 355
+              "memberships": 355,
+              "denominator": 164773,
+              "bar_label": "Jiaxing · KFS"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "World Cup",
               "share": 0.016512101334539696,
-              "memberships": 219
+              "memberships": 219,
+              "denominator": 13263,
+              "bar_label": "Hangzhou · WC"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "Kung Fu Soccer",
               "share": 0.0009831707864759397,
-              "memberships": 162
+              "memberships": 162,
+              "denominator": 164773,
+              "bar_label": "Hangzhou · KFS"
             },
             {
               "label": "Chengdu",
+              "location_id": "geoname:1815286",
               "collection": "World Cup",
               "share": 0.012817612908090175,
-              "memberships": 170
+              "memberships": 170,
+              "denominator": 13263,
+              "bar_label": "Chengdu · WC"
             },
             {
               "label": "Chengdu",
+              "location_id": "geoname:1815286",
               "collection": "Kung Fu Soccer",
               "share": 0.0011409636287498558,
-              "memberships": 188
+              "memberships": 188,
+              "denominator": 164773,
+              "bar_label": "Chengdu · KFS"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "World Cup",
               "share": 0.00919852220462942,
-              "memberships": 122
+              "memberships": 122,
+              "denominator": 13263,
+              "bar_label": "Qingdao · WC"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "Kung Fu Soccer",
               "share": 0.001116687806861561,
-              "memberships": 184
+              "memberships": 184,
+              "denominator": 164773,
+              "bar_label": "Qingdao · KFS"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "World Cup",
               "share": 0.00407147704139335,
-              "memberships": 54
+              "memberships": 54,
+              "denominator": 13263,
+              "bar_label": "Zhengzhou · WC"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "Kung Fu Soccer",
               "share": 0.0013533770702724354,
-              "memberships": 223
+              "memberships": 223,
+              "denominator": 164773,
+              "bar_label": "Zhengzhou · KFS"
             }
-          ]
+          ],
+          "svg": "china-next14-uploaders-city.svg",
+          "specification": "china-next14-uploaders-city.json",
+          "svg_sha256": "46a240129e00909bdb1044ca008e61828ba77972a2dfb6f014d22cc22694c930"
         },
         "network": {
           "id": "china-network",
           "title": "Network flags · uploaders",
-          "height": 500,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China uploaders memberships",
-            "xDomain": [
-              0,
-              0.2
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 2
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "World Cup",
               "share": 0.034607554851843476,
-              "memberships": 459
+              "memberships": 459,
+              "denominator": 13263,
+              "bar_label": "Hosting · WC"
             },
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "Kung Fu Soccer",
               "share": 0.00026703404077124286,
-              "memberships": 44
+              "memberships": 44,
+              "denominator": 164773,
+              "bar_label": "Hosting · KFS"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "World Cup",
               "share": 0.013420794692000302,
-              "memberships": 178
+              "memberships": 178,
+              "denominator": 13263,
+              "bar_label": "VPN · WC"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "Kung Fu Soccer",
               "share": 0.010711706408210083,
-              "memberships": 1765
+              "memberships": 1765,
+              "denominator": 164773,
+              "bar_label": "VPN · KFS"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "World Cup",
               "share": 0.04350448616451783,
-              "memberships": 577
+              "memberships": 577,
+              "denominator": 13263,
+              "bar_label": "Mobile carrier · WC"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "Kung Fu Soccer",
               "share": 0.0008071710777858023,
-              "memberships": 133
+              "memberships": 133,
+              "denominator": 164773,
+              "bar_label": "Mobile carrier · KFS"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 13263,
+              "bar_label": "Satellite · WC"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 164773,
+              "bar_label": "Satellite · KFS"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 13263,
+              "bar_label": "Proxy · WC"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "Kung Fu Soccer",
               "share": 2.4275821888294805e-05,
-              "memberships": 4
+              "memberships": 4,
+              "denominator": 164773,
+              "bar_label": "Proxy · KFS"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 13263,
+              "bar_label": "Relay · WC"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "Kung Fu Soccer",
               "share": 1.2137910944147403e-05,
-              "memberships": 2
+              "memberships": 2,
+              "denominator": 164773,
+              "bar_label": "Relay · KFS"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 13263,
+              "bar_label": "Tor (IPinfo) · WC"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 164773,
+              "bar_label": "Tor (IPinfo) · KFS"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 13263,
+              "bar_label": "Tor (exit list) · WC"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 164773,
+              "bar_label": "Tor (exit list) · KFS"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 13263,
+              "bar_label": "Named privacy service · WC"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "Kung Fu Soccer",
               "share": 1.2137910944147403e-05,
-              "memberships": 2
+              "memberships": 2,
+              "denominator": 164773,
+              "bar_label": "Named privacy service · KFS"
             }
-          ]
+          ],
+          "svg": "china-next14-uploaders-network.svg",
+          "specification": "china-next14-uploaders-network.json",
+          "svg_sha256": "2639fea82ad920b64696953c2761cf47af992b1653e75975190fab7e197f878e"
         },
         "caption": "Collection days 15–28. World Cup: 2026-07-13 to 2026-07-26, 13,263 memberships; Kung Fu Soccer: 2026-10-17 to 2026-10-30, 164,773 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
         "overlap": 0.4449675777596497
@@ -1300,328 +1642,418 @@
         "city": {
           "id": "china-city",
           "title": "City distribution · downloaders",
-          "height": 650,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China downloaders memberships",
-            "xDomain": [
-              0,
-              1
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 1
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "World Cup",
               "share": 0.268431301927221,
-              "memberships": 175888
+              "memberships": 175888,
+              "denominator": 655244,
+              "bar_label": "Nanjing · WC"
             },
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "Kung Fu Soccer",
               "share": 0.599276279898499,
-              "memberships": 239472
+              "memberships": 239472,
+              "denominator": 399602,
+              "bar_label": "Nanjing · KFS"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "World Cup",
               "share": 0.18307836470078323,
-              "memberships": 119961
+              "memberships": 119961,
+              "denominator": 655244,
+              "bar_label": "Shanghai · WC"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "Kung Fu Soccer",
               "share": 0.058275484106686155,
-              "memberships": 23287
+              "memberships": 23287,
+              "denominator": 399602,
+              "bar_label": "Shanghai · KFS"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "World Cup",
               "share": 0.1335410930889867,
-              "memberships": 87502
+              "memberships": 87502,
+              "denominator": 655244,
+              "bar_label": "Hangzhou · WC"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "Kung Fu Soccer",
               "share": 0.01534276605222196,
-              "memberships": 6131
+              "memberships": 6131,
+              "denominator": 399602,
+              "bar_label": "Hangzhou · KFS"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "World Cup",
               "share": 0.11042756591437694,
-              "memberships": 72357
+              "memberships": 72357,
+              "denominator": 655244,
+              "bar_label": "Shenzhen · WC"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "Kung Fu Soccer",
               "share": 0.04044023803684666,
-              "memberships": 16160
+              "memberships": 16160,
+              "denominator": 399602,
+              "bar_label": "Shenzhen · KFS"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "World Cup",
               "share": 0.006354884592609776,
-              "memberships": 4164
+              "memberships": 4164,
+              "denominator": 655244,
+              "bar_label": "Xi’an · WC"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "Kung Fu Soccer",
               "share": 0.06439407210174124,
-              "memberships": 25732
+              "memberships": 25732,
+              "denominator": 399602,
+              "bar_label": "Xi’an · KFS"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "World Cup",
               "share": 0.002038935114247517,
-              "memberships": 1336
+              "memberships": 1336,
+              "denominator": 655244,
+              "bar_label": "Wuxi · WC"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "Kung Fu Soccer",
               "share": 0.041033328161520714,
-              "memberships": 16397
+              "memberships": 16397,
+              "denominator": 399602,
+              "bar_label": "Wuxi · KFS"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "World Cup",
               "share": 0.04004309844882212,
-              "memberships": 26238
+              "memberships": 26238,
+              "denominator": 655244,
+              "bar_label": "Jiaxing · WC"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "Kung Fu Soccer",
               "share": 0.014541969259413116,
-              "memberships": 5811
+              "memberships": 5811,
+              "denominator": 399602,
+              "bar_label": "Jiaxing · KFS"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "World Cup",
               "share": 0.026977736537839338,
-              "memberships": 17677
+              "memberships": 17677,
+              "denominator": 655244,
+              "bar_label": "Beijing · WC"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "Kung Fu Soccer",
               "share": 0.013791222266154824,
-              "memberships": 5511
+              "memberships": 5511,
+              "denominator": 399602,
+              "bar_label": "Beijing · KFS"
             },
             {
               "label": "Suzhou",
+              "location_id": "geoname:1886760",
               "collection": "World Cup",
               "share": 0.019936084878304876,
-              "memberships": 13063
+              "memberships": 13063,
+              "denominator": 655244,
+              "bar_label": "Suzhou · WC"
             },
             {
               "label": "Suzhou",
+              "location_id": "geoname:1886760",
               "collection": "Kung Fu Soccer",
               "share": 0.003523505888358917,
-              "memberships": 1408
+              "memberships": 1408,
+              "denominator": 399602,
+              "bar_label": "Suzhou · KFS"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "World Cup",
               "share": 0.016027617192984598,
-              "memberships": 10502
+              "memberships": 10502,
+              "denominator": 655244,
+              "bar_label": "Qingdao · WC"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "Kung Fu Soccer",
               "share": 0.011226170039188993,
-              "memberships": 4486
+              "memberships": 4486,
+              "denominator": 399602,
+              "bar_label": "Qingdao · KFS"
             },
             {
               "label": "Quanzhou",
+              "location_id": "geoname:1797353",
               "collection": "World Cup",
               "share": 0.013892534689367625,
-              "memberships": 9103
+              "memberships": 9103,
+              "denominator": 655244,
+              "bar_label": "Quanzhou · WC"
             },
             {
               "label": "Quanzhou",
+              "location_id": "geoname:1797353",
               "collection": "Kung Fu Soccer",
               "share": 0.0014189118172581719,
-              "memberships": 567
+              "memberships": 567,
+              "denominator": 399602,
+              "bar_label": "Quanzhou · KFS"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "World Cup",
               "share": 0.013170666194577898,
-              "memberships": 8630
+              "memberships": 8630,
+              "denominator": 655244,
+              "bar_label": "Zhengzhou · WC"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "Kung Fu Soccer",
               "share": 0.010573020155054279,
-              "memberships": 4225
+              "memberships": 4225,
+              "denominator": 399602,
+              "bar_label": "Zhengzhou · KFS"
             },
             {
               "label": "Chengdu",
+              "location_id": "geoname:1815286",
               "collection": "World Cup",
               "share": 0.01127518908986576,
-              "memberships": 7388
+              "memberships": 7388,
+              "denominator": 655244,
+              "bar_label": "Chengdu · WC"
             },
             {
               "label": "Chengdu",
+              "location_id": "geoname:1815286",
               "collection": "Kung Fu Soccer",
               "share": 0.011268712368806963,
-              "memberships": 4503
+              "memberships": 4503,
+              "denominator": 399602,
+              "bar_label": "Chengdu · KFS"
             }
-          ]
+          ],
+          "svg": "china-oct03_16-downloaders-city.svg",
+          "specification": "china-oct03_16-downloaders-city.json",
+          "svg_sha256": "650a6c085a0d6c44ed6c6f55f01a0177fc6331fa2100ebc723a2027aa53f1ecb"
         },
         "network": {
           "id": "china-network",
           "title": "Network flags · downloaders",
-          "height": 500,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China downloaders memberships",
-            "xDomain": [
-              0,
-              0.2
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 2
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "World Cup",
               "share": 0.056797162583709274,
-              "memberships": 37216
+              "memberships": 37216,
+              "denominator": 655244,
+              "bar_label": "Hosting · WC"
             },
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "Kung Fu Soccer",
               "share": 0.005347821081976567,
-              "memberships": 2137
+              "memberships": 2137,
+              "denominator": 399602,
+              "bar_label": "Hosting · KFS"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "World Cup",
               "share": 0.02017874257528493,
-              "memberships": 13222
+              "memberships": 13222,
+              "denominator": 655244,
+              "bar_label": "VPN · WC"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "Kung Fu Soccer",
               "share": 0.010915861281975565,
-              "memberships": 4362
+              "memberships": 4362,
+              "denominator": 399602,
+              "bar_label": "VPN · KFS"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "World Cup",
               "share": 0.01043428097014242,
-              "memberships": 6837
+              "memberships": 6837,
+              "denominator": 655244,
+              "bar_label": "Mobile carrier · WC"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "Kung Fu Soccer",
               "share": 0.013293226760626824,
-              "memberships": 5312
+              "memberships": 5312,
+              "denominator": 399602,
+              "bar_label": "Mobile carrier · KFS"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 655244,
+              "bar_label": "Satellite · WC"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 399602,
+              "bar_label": "Satellite · KFS"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "World Cup",
               "share": 0.0007157638986392855,
-              "memberships": 469
+              "memberships": 469,
+              "denominator": 655244,
+              "bar_label": "Proxy · WC"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "Kung Fu Soccer",
               "share": 0.00011761702894379908,
-              "memberships": 47
+              "memberships": 47,
+              "denominator": 399602,
+              "bar_label": "Proxy · KFS"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "World Cup",
               "share": 4.578447112831251e-06,
-              "memberships": 3
+              "memberships": 3,
+              "denominator": 655244,
+              "bar_label": "Relay · WC"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "Kung Fu Soccer",
               "share": 6.2562249438191e-05,
-              "memberships": 25
+              "memberships": 25,
+              "denominator": 399602,
+              "bar_label": "Relay · KFS"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 655244,
+              "bar_label": "Tor (IPinfo) · WC"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 399602,
+              "bar_label": "Tor (IPinfo) · KFS"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 655244,
+              "bar_label": "Tor (exit list) · WC"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 399602,
+              "bar_label": "Tor (exit list) · KFS"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "World Cup",
               "share": 1.3735341338493752e-05,
-              "memberships": 9
+              "memberships": 9,
+              "denominator": 655244,
+              "bar_label": "Named privacy service · WC"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "Kung Fu Soccer",
               "share": 6.2562249438191e-05,
-              "memberships": 25
+              "memberships": 25,
+              "denominator": 399602,
+              "bar_label": "Named privacy service · KFS"
             }
-          ]
+          ],
+          "svg": "china-oct03_16-downloaders-network.svg",
+          "specification": "china-oct03_16-downloaders-network.json",
+          "svg_sha256": "37be168dff1c26ab151ee6ea7a35c07b38262e30b0245db5a88f7a9e3471d185"
         },
         "caption": "Same dates: October 3–16. World Cup: 2026-10-03 to 2026-10-16, 655,244 memberships; Kung Fu Soccer: 2026-10-03 to 2026-10-16, 399,602 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
         "overlap": 0.5474814489027481
@@ -1630,328 +2062,418 @@
         "city": {
           "id": "china-city",
           "title": "City distribution · uploaders",
-          "height": 650,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China uploaders memberships",
-            "xDomain": [
-              0,
-              1
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 1
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "World Cup",
               "share": 0.09060555471239945,
-              "memberships": 597
+              "memberships": 597,
+              "denominator": 6589,
+              "bar_label": "Nanjing · WC"
             },
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "Kung Fu Soccer",
               "share": 0.8037835895784036,
-              "memberships": 64879
+              "memberships": 64879,
+              "denominator": 80717,
+              "bar_label": "Nanjing · KFS"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "World Cup",
               "share": 0.46987403247837306,
-              "memberships": 3096
+              "memberships": 3096,
+              "denominator": 6589,
+              "bar_label": "Shanghai · WC"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "Kung Fu Soccer",
               "share": 0.022572692245747487,
-              "memberships": 1822
+              "memberships": 1822,
+              "denominator": 80717,
+              "bar_label": "Shanghai · KFS"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "World Cup",
               "share": 0.12247685536500227,
-              "memberships": 807
+              "memberships": 807,
+              "denominator": 6589,
+              "bar_label": "Beijing · WC"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "Kung Fu Soccer",
               "share": 0.005525477904282865,
-              "memberships": 446
+              "memberships": 446,
+              "denominator": 80717,
+              "bar_label": "Beijing · KFS"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "World Cup",
               "share": 0.002731825770223099,
-              "memberships": 18
+              "memberships": 18,
+              "denominator": 6589,
+              "bar_label": "Wuxi · WC"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "Kung Fu Soccer",
               "share": 0.05780690560848396,
-              "memberships": 4666
+              "memberships": 4666,
+              "denominator": 80717,
+              "bar_label": "Wuxi · KFS"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "World Cup",
               "share": 0.04203976324176658,
-              "memberships": 277
+              "memberships": 277,
+              "denominator": 6589,
+              "bar_label": "Shenzhen · WC"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "Kung Fu Soccer",
               "share": 0.017617106681368237,
-              "memberships": 1422
+              "memberships": 1422,
+              "denominator": 80717,
+              "bar_label": "Shenzhen · KFS"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "World Cup",
               "share": 0.0333889816360601,
-              "memberships": 220
+              "memberships": 220,
+              "denominator": 6589,
+              "bar_label": "Hangzhou · WC"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "Kung Fu Soccer",
               "share": 0.002923795482983758,
-              "memberships": 236
+              "memberships": 236,
+              "denominator": 80717,
+              "bar_label": "Hangzhou · KFS"
             },
             {
               "label": "Chengdu",
+              "location_id": "geoname:1815286",
               "collection": "World Cup",
               "share": 0.027773561997268173,
-              "memberships": 183
+              "memberships": 183,
+              "denominator": 6589,
+              "bar_label": "Chengdu · WC"
             },
             {
               "label": "Chengdu",
+              "location_id": "geoname:1815286",
               "collection": "Kung Fu Soccer",
               "share": 0.004422860116208482,
-              "memberships": 357
+              "memberships": 357,
+              "denominator": 80717,
+              "bar_label": "Chengdu · KFS"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "World Cup",
               "share": 0.012596752162695402,
-              "memberships": 83
+              "memberships": 83,
+              "denominator": 6589,
+              "bar_label": "Xi’an · WC"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "Kung Fu Soccer",
               "share": 0.025112429847491853,
-              "memberships": 2027
+              "memberships": 2027,
+              "denominator": 80717,
+              "bar_label": "Xi’an · KFS"
             },
             {
               "label": "Wuhan",
+              "location_id": "geoname:1791247",
               "collection": "World Cup",
               "share": 0.023068750948550616,
-              "memberships": 152
+              "memberships": 152,
+              "denominator": 6589,
+              "bar_label": "Wuhan · WC"
             },
             {
               "label": "Wuhan",
+              "location_id": "geoname:1791247",
               "collection": "Kung Fu Soccer",
               "share": 0.003196352689024617,
-              "memberships": 258
+              "memberships": 258,
+              "denominator": 80717,
+              "bar_label": "Wuhan · KFS"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "World Cup",
               "share": 0.021095765670056155,
-              "memberships": 139
+              "memberships": 139,
+              "denominator": 6589,
+              "bar_label": "Qingdao · WC"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "Kung Fu Soccer",
               "share": 0.003989246379325297,
-              "memberships": 322
+              "memberships": 322,
+              "denominator": 80717,
+              "bar_label": "Qingdao · KFS"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "World Cup",
               "share": 0.013659128851115495,
-              "memberships": 90
+              "memberships": 90,
+              "denominator": 6589,
+              "bar_label": "Jiaxing · WC"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "Kung Fu Soccer",
               "share": 0.00621925988329596,
-              "memberships": 502
+              "memberships": 502,
+              "denominator": 80717,
+              "bar_label": "Jiaxing · KFS"
             },
             {
               "label": "Haikou",
+              "location_id": "geoname:1809078",
               "collection": "World Cup",
               "share": 0.013507360752769768,
-              "memberships": 89
+              "memberships": 89,
+              "denominator": 6589,
+              "bar_label": "Haikou · WC"
             },
             {
               "label": "Haikou",
+              "location_id": "geoname:1809078",
               "collection": "Kung Fu Soccer",
               "share": 0.0004460027007941326,
-              "memberships": 36
+              "memberships": 36,
+              "denominator": 80717,
+              "bar_label": "Haikou · KFS"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "World Cup",
               "share": 0.006981332523903475,
-              "memberships": 46
+              "memberships": 46,
+              "denominator": 6589,
+              "bar_label": "Zhengzhou · WC"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "Kung Fu Soccer",
               "share": 0.003989246379325297,
-              "memberships": 322
+              "memberships": 322,
+              "denominator": 80717,
+              "bar_label": "Zhengzhou · KFS"
             }
-          ]
+          ],
+          "svg": "china-oct03_16-uploaders-city.svg",
+          "specification": "china-oct03_16-uploaders-city.json",
+          "svg_sha256": "ad5b9c6fcd3add76d91d67aa101e789369678d01516bac226189c889fe9da05e"
         },
         "network": {
           "id": "china-network",
           "title": "Network flags · uploaders",
-          "height": 500,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China uploaders memberships",
-            "xDomain": [
-              0,
-              0.2
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 2
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "World Cup",
               "share": 0.16163302473820004,
-              "memberships": 1065
+              "memberships": 1065,
+              "denominator": 6589,
+              "bar_label": "Hosting · WC"
             },
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "Kung Fu Soccer",
               "share": 0.001164562607629124,
-              "memberships": 94
+              "memberships": 94,
+              "denominator": 80717,
+              "bar_label": "Hosting · KFS"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "World Cup",
               "share": 0.017301563211412962,
-              "memberships": 114
+              "memberships": 114,
+              "denominator": 6589,
+              "bar_label": "VPN · WC"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "Kung Fu Soccer",
               "share": 0.011150067519853315,
-              "memberships": 900
+              "memberships": 900,
+              "denominator": 80717,
+              "bar_label": "VPN · KFS"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "World Cup",
               "share": 0.014569737441189862,
-              "memberships": 96
+              "memberships": 96,
+              "denominator": 6589,
+              "bar_label": "Mobile carrier · WC"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "Kung Fu Soccer",
               "share": 0.0038405788123939194,
-              "memberships": 310
+              "memberships": 310,
+              "denominator": 80717,
+              "bar_label": "Mobile carrier · KFS"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 6589,
+              "bar_label": "Satellite · WC"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 80717,
+              "bar_label": "Satellite · KFS"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 6589,
+              "bar_label": "Proxy · WC"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "Kung Fu Soccer",
               "share": 4.955585564379251e-05,
-              "memberships": 4
+              "memberships": 4,
+              "denominator": 80717,
+              "bar_label": "Proxy · KFS"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 6589,
+              "bar_label": "Relay · WC"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 80717,
+              "bar_label": "Relay · KFS"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 6589,
+              "bar_label": "Tor (IPinfo) · WC"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 80717,
+              "bar_label": "Tor (IPinfo) · KFS"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 6589,
+              "bar_label": "Tor (exit list) · WC"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 80717,
+              "bar_label": "Tor (exit list) · KFS"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 6589,
+              "bar_label": "Named privacy service · WC"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 80717,
+              "bar_label": "Named privacy service · KFS"
             }
-          ]
+          ],
+          "svg": "china-oct03_16-uploaders-network.svg",
+          "specification": "china-oct03_16-uploaders-network.json",
+          "svg_sha256": "077a684a2794435d07661846e05317303d080cf2e25d20a8a075c26f9124251c"
         },
         "caption": "Same dates: October 3–16. World Cup: 2026-10-03 to 2026-10-16, 6,589 memberships; Kung Fu Soccer: 2026-10-03 to 2026-10-16, 80,717 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
         "overlap": 0.21094924446432878
@@ -1965,316 +2487,400 @@
         "city": {
           "id": "china-city",
           "title": "City distribution · downloaders",
-          "height": 650,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China downloaders memberships",
-            "xDomain": [
-              0,
-              1
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 1
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "World Cup",
               "share": 0.27643348130908074,
-              "memberships": 221868
+              "memberships": 221868,
+              "denominator": 802609,
+              "bar_label": "Nanjing · WC"
             },
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "Kung Fu Soccer",
               "share": 0.7312333114511134,
-              "memberships": 363129
+              "memberships": 363129,
+              "denominator": 496598,
+              "bar_label": "Nanjing · KFS"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "World Cup",
               "share": 0.17350291362294717,
-              "memberships": 139255
+              "memberships": 139255,
+              "denominator": 802609,
+              "bar_label": "Shanghai · WC"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "Kung Fu Soccer",
               "share": 0.03981087318112437,
-              "memberships": 19770
+              "memberships": 19770,
+              "denominator": 496598,
+              "bar_label": "Shanghai · KFS"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "World Cup",
               "share": 0.14375243736364782,
-              "memberships": 115377
+              "memberships": 115377,
+              "denominator": 802609,
+              "bar_label": "Hangzhou · WC"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "Kung Fu Soccer",
               "share": 0.018447516905021766,
-              "memberships": 9161
+              "memberships": 9161,
+              "denominator": 496598,
+              "bar_label": "Hangzhou · KFS"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "World Cup",
               "share": 0.10071030850638356,
-              "memberships": 80831
+              "memberships": 80831,
+              "denominator": 802609,
+              "bar_label": "Shenzhen · WC"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "Kung Fu Soccer",
               "share": 0.02511689535600224,
-              "memberships": 12473
+              "memberships": 12473,
+              "denominator": 496598,
+              "bar_label": "Shenzhen · KFS"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "World Cup",
               "share": 0.003800106901367914,
-              "memberships": 3050
+              "memberships": 3050,
+              "denominator": 802609,
+              "bar_label": "Wuxi · WC"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "Kung Fu Soccer",
               "share": 0.06351817768094112,
-              "memberships": 31543
+              "memberships": 31543,
+              "denominator": 496598,
+              "bar_label": "Wuxi · KFS"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "World Cup",
               "share": 0.03511921745208439,
-              "memberships": 28187
+              "memberships": 28187,
+              "denominator": 802609,
+              "bar_label": "Jiaxing · WC"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "Kung Fu Soccer",
               "share": 0.009720135804010488,
-              "memberships": 4827
+              "memberships": 4827,
+              "denominator": 496598,
+              "bar_label": "Jiaxing · KFS"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "World Cup",
               "share": 0.006853897726040949,
-              "memberships": 5501
+              "memberships": 5501,
+              "denominator": 802609,
+              "bar_label": "Xi’an · WC"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "Kung Fu Soccer",
               "share": 0.02843748867293062,
-              "memberships": 14122
+              "memberships": 14122,
+              "denominator": 496598,
+              "bar_label": "Xi’an · KFS"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "World Cup",
               "share": 0.027895276529418433,
-              "memberships": 22389
+              "memberships": 22389,
+              "denominator": 802609,
+              "bar_label": "Beijing · WC"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "Kung Fu Soccer",
               "share": 0.0075634617940466935,
-              "memberships": 3756
+              "memberships": 3756,
+              "denominator": 496598,
+              "bar_label": "Beijing · KFS"
             },
             {
               "label": "Suzhou",
+              "location_id": "geoname:1886760",
               "collection": "World Cup",
               "share": 0.020063318502533612,
-              "memberships": 16103
+              "memberships": 16103,
+              "denominator": 802609,
+              "bar_label": "Suzhou · WC"
             },
             {
               "label": "Suzhou",
+              "location_id": "geoname:1886760",
               "collection": "Kung Fu Soccer",
               "share": 0.0035139086343481045,
-              "memberships": 1745
+              "memberships": 1745,
+              "denominator": 496598,
+              "bar_label": "Suzhou · KFS"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "World Cup",
               "share": 0.01711543229642329,
-              "memberships": 13737
+              "memberships": 13737,
+              "denominator": 802609,
+              "bar_label": "Qingdao · WC"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "Kung Fu Soccer",
               "share": 0.005765226601798638,
-              "memberships": 2863
+              "memberships": 2863,
+              "denominator": 496598,
+              "bar_label": "Qingdao · KFS"
             },
             {
               "label": "Quanzhou",
+              "location_id": "geoname:1797353",
               "collection": "World Cup",
               "share": 0.015450860879955246,
-              "memberships": 12401
+              "memberships": 12401,
+              "denominator": 802609,
+              "bar_label": "Quanzhou · WC"
             },
             {
               "label": "Quanzhou",
+              "location_id": "geoname:1797353",
               "collection": "Kung Fu Soccer",
               "share": 0.0019955779121140237,
-              "memberships": 991
+              "memberships": 991,
+              "denominator": 496598,
+              "bar_label": "Quanzhou · KFS"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "World Cup",
               "share": 0.014739431030551614,
-              "memberships": 11830
+              "memberships": 11830,
+              "denominator": 802609,
+              "bar_label": "Zhengzhou · WC"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "Kung Fu Soccer",
               "share": 0.005408801485306022,
-              "memberships": 2686
+              "memberships": 2686,
+              "denominator": 496598,
+              "bar_label": "Zhengzhou · KFS"
             }
-          ]
+          ],
+          "svg": "china-oct17_30-downloaders-city.svg",
+          "specification": "china-oct17_30-downloaders-city.json",
+          "svg_sha256": "02d54212c88cf2f370206644fd2a3d13507432b5155b5d926c2a63608685914d"
         },
         "network": {
           "id": "china-network",
           "title": "Network flags · downloaders",
-          "height": 500,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China downloaders memberships",
-            "xDomain": [
-              0,
-              0.2
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 2
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "World Cup",
               "share": 0.05399142047995973,
-              "memberships": 43334
+              "memberships": 43334,
+              "denominator": 802609,
+              "bar_label": "Hosting · WC"
             },
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "Kung Fu Soccer",
               "share": 0.006377391773627763,
-              "memberships": 3167
+              "memberships": 3167,
+              "denominator": 496598,
+              "bar_label": "Hosting · KFS"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "World Cup",
               "share": 0.01942913672784631,
-              "memberships": 15594
+              "memberships": 15594,
+              "denominator": 802609,
+              "bar_label": "VPN · WC"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "Kung Fu Soccer",
               "share": 0.0110411238063786,
-              "memberships": 5483
+              "memberships": 5483,
+              "denominator": 496598,
+              "bar_label": "VPN · KFS"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "World Cup",
               "share": 0.010985423786675703,
-              "memberships": 8817
+              "memberships": 8817,
+              "denominator": 802609,
+              "bar_label": "Mobile carrier · WC"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "Kung Fu Soccer",
               "share": 0.005277910905803084,
-              "memberships": 2621
+              "memberships": 2621,
+              "denominator": 496598,
+              "bar_label": "Mobile carrier · KFS"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 802609,
+              "bar_label": "Satellite · WC"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 496598,
+              "bar_label": "Satellite · KFS"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "World Cup",
               "share": 0.00099301154111155,
-              "memberships": 797
+              "memberships": 797,
+              "denominator": 802609,
+              "bar_label": "Proxy · WC"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "Kung Fu Soccer",
               "share": 0.0001228357746104495,
-              "memberships": 61
+              "memberships": 61,
+              "denominator": 496598,
+              "bar_label": "Proxy · KFS"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "World Cup",
               "share": 4.734559418097729e-05,
-              "memberships": 38
+              "memberships": 38,
+              "denominator": 802609,
+              "bar_label": "Relay · WC"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "Kung Fu Soccer",
               "share": 4.228772568556458e-05,
-              "memberships": 21
+              "memberships": 21,
+              "denominator": 496598,
+              "bar_label": "Relay · KFS"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 802609,
+              "bar_label": "Tor (IPinfo) · WC"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 496598,
+              "bar_label": "Tor (IPinfo) · KFS"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 802609,
+              "bar_label": "Tor (exit list) · WC"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 496598,
+              "bar_label": "Tor (exit list) · KFS"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "World Cup",
               "share": 5.606715100378889e-05,
-              "memberships": 45
+              "memberships": 45,
+              "denominator": 802609,
+              "bar_label": "Named privacy service · WC"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "Kung Fu Soccer",
               "share": 4.228772568556458e-05,
-              "memberships": 21
+              "memberships": 21,
+              "denominator": 496598,
+              "bar_label": "Named privacy service · KFS"
             }
-          ]
+          ],
+          "svg": "china-oct17_30-downloaders-network.svg",
+          "specification": "china-oct17_30-downloaders-network.json",
+          "svg_sha256": "9fb722971fa41b2e0a0ed6376eb615e336b85ac55418e46c0231ca00dd482afa"
         },
         "caption": "Same dates: October 17–30. World Cup: 2026-10-17 to 2026-10-30, 802,609 memberships; Kung Fu Soccer: 2026-10-17 to 2026-10-30, 496,598 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
         "overlap": 0.46194637045119064
@@ -2283,328 +2889,418 @@
         "city": {
           "id": "china-city",
           "title": "City distribution · uploaders",
-          "height": 650,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China uploaders memberships",
-            "xDomain": [
-              0,
-              1
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 1
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "World Cup",
               "share": 0.279876240814748,
-              "memberships": 2171
+              "memberships": 2171,
+              "denominator": 7757,
+              "bar_label": "Nanjing · WC"
             },
             {
               "label": "Nanjing",
+              "location_id": "geoname:1799962",
               "collection": "Kung Fu Soccer",
               "share": 0.8835974340456264,
-              "memberships": 145593
+              "memberships": 145593,
+              "denominator": 164773,
+              "bar_label": "Nanjing · KFS"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "World Cup",
               "share": 0.3162305014825319,
-              "memberships": 2453
+              "memberships": 2453,
+              "denominator": 7757,
+              "bar_label": "Shanghai · WC"
             },
             {
               "label": "Shanghai",
+              "location_id": "geoname:1796236",
               "collection": "Kung Fu Soccer",
               "share": 0.007616539117452495,
-              "memberships": 1255
+              "memberships": 1255,
+              "denominator": 164773,
+              "bar_label": "Shanghai · KFS"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "World Cup",
               "share": 0.08792058785612995,
-              "memberships": 682
+              "memberships": 682,
+              "denominator": 7757,
+              "bar_label": "Beijing · WC"
             },
             {
               "label": "Beijing",
+              "location_id": "geoname:1816670",
               "collection": "Kung Fu Soccer",
               "share": 0.0016628937993481941,
-              "memberships": 274
+              "memberships": 274,
+              "denominator": 164773,
+              "bar_label": "Beijing · KFS"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "World Cup",
               "share": 0.015083150702591207,
-              "memberships": 117
+              "memberships": 117,
+              "denominator": 7757,
+              "bar_label": "Wuxi · WC"
             },
             {
               "label": "Wuxi",
+              "location_id": "geoname:1790923",
               "collection": "Kung Fu Soccer",
               "share": 0.07748842346743702,
-              "memberships": 12768
+              "memberships": 12768,
+              "denominator": 164773,
+              "bar_label": "Wuxi · KFS"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "World Cup",
               "share": 0.03880366120923037,
-              "memberships": 301
+              "memberships": 301,
+              "denominator": 7757,
+              "bar_label": "Shenzhen · WC"
             },
             {
               "label": "Shenzhen",
+              "location_id": "geoname:1795565",
               "collection": "Kung Fu Soccer",
               "share": 0.005832266208662827,
-              "memberships": 961
+              "memberships": 961,
+              "denominator": 164773,
+              "bar_label": "Shenzhen · KFS"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "World Cup",
               "share": 0.03326028103648317,
-              "memberships": 258
+              "memberships": 258,
+              "denominator": 7757,
+              "bar_label": "Hangzhou · WC"
             },
             {
               "label": "Hangzhou",
+              "location_id": "geoname:1808926",
               "collection": "Kung Fu Soccer",
               "share": 0.0009831707864759397,
-              "memberships": 162
+              "memberships": 162,
+              "denominator": 164773,
+              "bar_label": "Hangzhou · KFS"
             },
             {
               "label": "Chengdu",
+              "location_id": "geoname:1815286",
               "collection": "World Cup",
               "share": 0.03326028103648317,
-              "memberships": 258
+              "memberships": 258,
+              "denominator": 7757,
+              "bar_label": "Chengdu · WC"
             },
             {
               "label": "Chengdu",
+              "location_id": "geoname:1815286",
               "collection": "Kung Fu Soccer",
               "share": 0.0011409636287498558,
-              "memberships": 188
+              "memberships": 188,
+              "denominator": 164773,
+              "bar_label": "Chengdu · KFS"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "World Cup",
               "share": 0.02256026814490138,
-              "memberships": 175
+              "memberships": 175,
+              "denominator": 7757,
+              "bar_label": "Qingdao · WC"
             },
             {
               "label": "Qingdao",
+              "location_id": "geoname:1797929",
               "collection": "Kung Fu Soccer",
               "share": 0.001116687806861561,
-              "memberships": 184
+              "memberships": 184,
+              "denominator": 164773,
+              "bar_label": "Qingdao · KFS"
             },
             {
               "label": "Wuhan",
+              "location_id": "geoname:1791247",
               "collection": "World Cup",
               "share": 0.019595204331571484,
-              "memberships": 152
+              "memberships": 152,
+              "denominator": 7757,
+              "bar_label": "Wuhan · WC"
             },
             {
               "label": "Wuhan",
+              "location_id": "geoname:1791247",
               "collection": "Kung Fu Soccer",
               "share": 0.0006615161464560334,
-              "memberships": 109
+              "memberships": 109,
+              "denominator": 164773,
+              "bar_label": "Wuhan · KFS"
             },
             {
               "label": "Chongqing",
+              "location_id": "geoname:1814906",
               "collection": "World Cup",
               "share": 0.011473507799406988,
-              "memberships": 89
+              "memberships": 89,
+              "denominator": 7757,
+              "bar_label": "Chongqing · WC"
             },
             {
               "label": "Chongqing",
+              "location_id": "geoname:1814906",
               "collection": "Kung Fu Soccer",
               "share": 0.0005279991260704121,
-              "memberships": 87
+              "memberships": 87,
+              "denominator": 164773,
+              "bar_label": "Chongqing · KFS"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "World Cup",
               "share": 0.011344591981436123,
-              "memberships": 88
+              "memberships": 88,
+              "denominator": 7757,
+              "bar_label": "Xi’an · WC"
             },
             {
               "label": "Xi’an",
+              "location_id": "geoname:1790630",
               "collection": "Kung Fu Soccer",
               "share": 0.0053770945482573,
-              "memberships": 886
+              "memberships": 886,
+              "denominator": 164773,
+              "bar_label": "Xi’an · KFS"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "World Cup",
               "share": 0.009926517983756607,
-              "memberships": 77
+              "memberships": 77,
+              "denominator": 7757,
+              "bar_label": "Jiaxing · WC"
             },
             {
               "label": "Jiaxing",
+              "location_id": "geoname:1805953",
               "collection": "Kung Fu Soccer",
               "share": 0.002154479192586164,
-              "memberships": 355
+              "memberships": 355,
+              "denominator": 164773,
+              "bar_label": "Jiaxing · KFS"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "World Cup",
               "share": 0.008121696532164496,
-              "memberships": 63
+              "memberships": 63,
+              "denominator": 7757,
+              "bar_label": "Zhengzhou · WC"
             },
             {
               "label": "Zhengzhou",
+              "location_id": "geoname:1784658",
               "collection": "Kung Fu Soccer",
               "share": 0.0013533770702724354,
-              "memberships": 223
+              "memberships": 223,
+              "denominator": 164773,
+              "bar_label": "Zhengzhou · KFS"
             }
-          ]
+          ],
+          "svg": "china-oct17_30-uploaders-city.svg",
+          "specification": "china-oct17_30-uploaders-city.json",
+          "svg_sha256": "a01ec8cd869605eb1d60a057a2c03ff7519f844e897bd1b4bca0879487eb4b9c"
         },
         "network": {
           "id": "china-network",
           "title": "Network flags · uploaders",
-          "height": 500,
-          "spec": {
-            "type": "horizontalBar",
-            "x": "share",
-            "y": "label",
-            "series": "collection",
-            "xLabel": "Share of China uploaders memberships",
-            "xDomain": [
-              0,
-              0.2
-            ],
-            "seriesOrder": [
-              "World Cup",
-              "Kung Fu Soccer"
-            ],
-            "showValues": true,
-            "valueFormat": {
-              "style": "percent",
-              "maximumFractionDigits": 2
-            },
-            "colors": {
-              "World Cup": "#214f7a",
-              "Kung Fu Soccer": "#16857a"
-            }
-          },
+          "renderer": "izzi",
           "rows": [
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "World Cup",
               "share": 0.09385071548278974,
-              "memberships": 728
+              "memberships": 728,
+              "denominator": 7757,
+              "bar_label": "Hosting · WC"
             },
             {
               "label": "Hosting",
+              "flag": "hosting",
               "collection": "Kung Fu Soccer",
               "share": 0.00026703404077124286,
-              "memberships": 44
+              "memberships": 44,
+              "denominator": 164773,
+              "bar_label": "Hosting · KFS"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "World Cup",
               "share": 0.020755446693309268,
-              "memberships": 161
+              "memberships": 161,
+              "denominator": 7757,
+              "bar_label": "VPN · WC"
             },
             {
               "label": "VPN",
+              "flag": "vpn",
               "collection": "Kung Fu Soccer",
               "share": 0.010711706408210083,
-              "memberships": 1765
+              "memberships": 1765,
+              "denominator": 164773,
+              "bar_label": "VPN · KFS"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "World Cup",
               "share": 0.010957844527523528,
-              "memberships": 85
+              "memberships": 85,
+              "denominator": 7757,
+              "bar_label": "Mobile carrier · WC"
             },
             {
               "label": "Mobile carrier",
+              "flag": "mobile",
               "collection": "Kung Fu Soccer",
               "share": 0.0008071710777858023,
-              "memberships": 133
+              "memberships": 133,
+              "denominator": 164773,
+              "bar_label": "Mobile carrier · KFS"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 7757,
+              "bar_label": "Satellite · WC"
             },
             {
               "label": "Satellite",
+              "flag": "satellite",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 164773,
+              "bar_label": "Satellite · KFS"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 7757,
+              "bar_label": "Proxy · WC"
             },
             {
               "label": "Proxy",
+              "flag": "proxy",
               "collection": "Kung Fu Soccer",
               "share": 2.4275821888294805e-05,
-              "memberships": 4
+              "memberships": 4,
+              "denominator": 164773,
+              "bar_label": "Proxy · KFS"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 7757,
+              "bar_label": "Relay · WC"
             },
             {
               "label": "Relay",
+              "flag": "relay",
               "collection": "Kung Fu Soccer",
               "share": 1.2137910944147403e-05,
-              "memberships": 2
+              "memberships": 2,
+              "denominator": 164773,
+              "bar_label": "Relay · KFS"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 7757,
+              "bar_label": "Tor (IPinfo) · WC"
             },
             {
               "label": "Tor (IPinfo)",
+              "flag": "tor",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 164773,
+              "bar_label": "Tor (IPinfo) · KFS"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 7757,
+              "bar_label": "Tor (exit list) · WC"
             },
             {
               "label": "Tor (exit list)",
+              "flag": "tor_exit_nodes",
               "collection": "Kung Fu Soccer",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 164773,
+              "bar_label": "Tor (exit list) · KFS"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "World Cup",
               "share": 0.0,
-              "memberships": 0
+              "memberships": 0,
+              "denominator": 7757,
+              "bar_label": "Named privacy service · WC"
             },
             {
               "label": "Named privacy service",
+              "flag": "service",
               "collection": "Kung Fu Soccer",
               "share": 1.2137910944147403e-05,
-              "memberships": 2
+              "memberships": 2,
+              "denominator": 164773,
+              "bar_label": "Named privacy service · KFS"
             }
-          ]
+          ],
+          "svg": "china-oct17_30-uploaders-network.svg",
+          "specification": "china-oct17_30-uploaders-network.json",
+          "svg_sha256": "e2584b2e92e593a7ffe423dbff356d5167c381e3d530c0519ba658e1d4e92fa8"
         },
         "caption": "Same dates: October 17–30. World Cup: 2026-10-17 to 2026-10-30, 7,757 memberships; Kung Fu Soccer: 2026-10-17 to 2026-10-30, 164,773 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
         "overlap": 0.33339408652198194

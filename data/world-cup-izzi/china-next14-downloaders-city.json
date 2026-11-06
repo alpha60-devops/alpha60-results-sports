@@ -1,0 +1,341 @@
+{
+  "schema": "izzi.visualization/1",
+  "kind": "bar-graph",
+  "title": "City distribution · downloaders",
+  "description": "Collection days 15–28. World Cup: 2026-07-13 to 2026-07-26, 937,530 memberships; Kung Fu Soccer: 2026-10-17 to 2026-10-30, 496,598 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
+  "source": "../data/world-cup-china/analysis.json.gz",
+  "x_label": "Share of China downloaders memberships (%)",
+  "y_label": "City / collection",
+  "viewport": [
+    1280,
+    1216
+  ],
+  "bars": [
+    [
+      "Nanjing · WC",
+      28.617964225144792
+    ],
+    [
+      "Nanjing · KFS",
+      73.12333114511134
+    ],
+    [
+      "Shanghai · WC",
+      16.18796198521647
+    ],
+    [
+      "Shanghai · KFS",
+      3.981087318112437
+    ],
+    [
+      "Hangzhou · WC",
+      15.539556067539174
+    ],
+    [
+      "Hangzhou · KFS",
+      1.8447516905021766
+    ],
+    [
+      "Shenzhen · WC",
+      10.947596343583673
+    ],
+    [
+      "Shenzhen · KFS",
+      2.511689535600224
+    ],
+    [
+      "Wuxi · WC",
+      0.42355977942039186
+    ],
+    [
+      "Wuxi · KFS",
+      6.3518177680941115
+    ],
+    [
+      "Jiaxing · WC",
+      3.3404797713139844
+    ],
+    [
+      "Jiaxing · KFS",
+      0.9720135804010488
+    ],
+    [
+      "Xi’an · WC",
+      1.423314453937474
+    ],
+    [
+      "Xi’an · KFS",
+      2.843748867293062
+    ],
+    [
+      "Beijing · WC",
+      2.4428018303414287
+    ],
+    [
+      "Beijing · KFS",
+      0.7563461794046693
+    ],
+    [
+      "Suzhou · WC",
+      2.0133755719816966
+    ],
+    [
+      "Suzhou · KFS",
+      0.35139086343481046
+    ],
+    [
+      "Qingdao · WC",
+      1.476006101138097
+    ],
+    [
+      "Qingdao · KFS",
+      0.5765226601798638
+    ],
+    [
+      "Quanzhou · WC",
+      1.383635723656843
+    ],
+    [
+      "Quanzhou · KFS",
+      0.19955779121140238
+    ],
+    [
+      "Zhengzhou · WC",
+      1.3397971264919522
+    ],
+    [
+      "Zhengzhou · KFS",
+      0.5408801485306023
+    ]
+  ],
+  "observations": [
+    {
+      "label": "Nanjing",
+      "location_id": "geoname:1799962",
+      "collection": "World Cup",
+      "share": 0.28617964225144793,
+      "memberships": 268302,
+      "denominator": 937530,
+      "bar_label": "Nanjing · WC"
+    },
+    {
+      "label": "Nanjing",
+      "location_id": "geoname:1799962",
+      "collection": "Kung Fu Soccer",
+      "share": 0.7312333114511134,
+      "memberships": 363129,
+      "denominator": 496598,
+      "bar_label": "Nanjing · KFS"
+    },
+    {
+      "label": "Shanghai",
+      "location_id": "geoname:1796236",
+      "collection": "World Cup",
+      "share": 0.16187961985216473,
+      "memberships": 151767,
+      "denominator": 937530,
+      "bar_label": "Shanghai · WC"
+    },
+    {
+      "label": "Shanghai",
+      "location_id": "geoname:1796236",
+      "collection": "Kung Fu Soccer",
+      "share": 0.03981087318112437,
+      "memberships": 19770,
+      "denominator": 496598,
+      "bar_label": "Shanghai · KFS"
+    },
+    {
+      "label": "Hangzhou",
+      "location_id": "geoname:1808926",
+      "collection": "World Cup",
+      "share": 0.15539556067539173,
+      "memberships": 145688,
+      "denominator": 937530,
+      "bar_label": "Hangzhou · WC"
+    },
+    {
+      "label": "Hangzhou",
+      "location_id": "geoname:1808926",
+      "collection": "Kung Fu Soccer",
+      "share": 0.018447516905021766,
+      "memberships": 9161,
+      "denominator": 496598,
+      "bar_label": "Hangzhou · KFS"
+    },
+    {
+      "label": "Shenzhen",
+      "location_id": "geoname:1795565",
+      "collection": "World Cup",
+      "share": 0.10947596343583672,
+      "memberships": 102637,
+      "denominator": 937530,
+      "bar_label": "Shenzhen · WC"
+    },
+    {
+      "label": "Shenzhen",
+      "location_id": "geoname:1795565",
+      "collection": "Kung Fu Soccer",
+      "share": 0.02511689535600224,
+      "memberships": 12473,
+      "denominator": 496598,
+      "bar_label": "Shenzhen · KFS"
+    },
+    {
+      "label": "Wuxi",
+      "location_id": "geoname:1790923",
+      "collection": "World Cup",
+      "share": 0.004235597794203919,
+      "memberships": 3971,
+      "denominator": 937530,
+      "bar_label": "Wuxi · WC"
+    },
+    {
+      "label": "Wuxi",
+      "location_id": "geoname:1790923",
+      "collection": "Kung Fu Soccer",
+      "share": 0.06351817768094112,
+      "memberships": 31543,
+      "denominator": 496598,
+      "bar_label": "Wuxi · KFS"
+    },
+    {
+      "label": "Jiaxing",
+      "location_id": "geoname:1805953",
+      "collection": "World Cup",
+      "share": 0.033404797713139846,
+      "memberships": 31318,
+      "denominator": 937530,
+      "bar_label": "Jiaxing · WC"
+    },
+    {
+      "label": "Jiaxing",
+      "location_id": "geoname:1805953",
+      "collection": "Kung Fu Soccer",
+      "share": 0.009720135804010488,
+      "memberships": 4827,
+      "denominator": 496598,
+      "bar_label": "Jiaxing · KFS"
+    },
+    {
+      "label": "Xi’an",
+      "location_id": "geoname:1790630",
+      "collection": "World Cup",
+      "share": 0.01423314453937474,
+      "memberships": 13344,
+      "denominator": 937530,
+      "bar_label": "Xi’an · WC"
+    },
+    {
+      "label": "Xi’an",
+      "location_id": "geoname:1790630",
+      "collection": "Kung Fu Soccer",
+      "share": 0.02843748867293062,
+      "memberships": 14122,
+      "denominator": 496598,
+      "bar_label": "Xi’an · KFS"
+    },
+    {
+      "label": "Beijing",
+      "location_id": "geoname:1816670",
+      "collection": "World Cup",
+      "share": 0.02442801830341429,
+      "memberships": 22902,
+      "denominator": 937530,
+      "bar_label": "Beijing · WC"
+    },
+    {
+      "label": "Beijing",
+      "location_id": "geoname:1816670",
+      "collection": "Kung Fu Soccer",
+      "share": 0.0075634617940466935,
+      "memberships": 3756,
+      "denominator": 496598,
+      "bar_label": "Beijing · KFS"
+    },
+    {
+      "label": "Suzhou",
+      "location_id": "geoname:1886760",
+      "collection": "World Cup",
+      "share": 0.020133755719816966,
+      "memberships": 18876,
+      "denominator": 937530,
+      "bar_label": "Suzhou · WC"
+    },
+    {
+      "label": "Suzhou",
+      "location_id": "geoname:1886760",
+      "collection": "Kung Fu Soccer",
+      "share": 0.0035139086343481045,
+      "memberships": 1745,
+      "denominator": 496598,
+      "bar_label": "Suzhou · KFS"
+    },
+    {
+      "label": "Qingdao",
+      "location_id": "geoname:1797929",
+      "collection": "World Cup",
+      "share": 0.014760061011380969,
+      "memberships": 13838,
+      "denominator": 937530,
+      "bar_label": "Qingdao · WC"
+    },
+    {
+      "label": "Qingdao",
+      "location_id": "geoname:1797929",
+      "collection": "Kung Fu Soccer",
+      "share": 0.005765226601798638,
+      "memberships": 2863,
+      "denominator": 496598,
+      "bar_label": "Qingdao · KFS"
+    },
+    {
+      "label": "Quanzhou",
+      "location_id": "geoname:1797353",
+      "collection": "World Cup",
+      "share": 0.01383635723656843,
+      "memberships": 12972,
+      "denominator": 937530,
+      "bar_label": "Quanzhou · WC"
+    },
+    {
+      "label": "Quanzhou",
+      "location_id": "geoname:1797353",
+      "collection": "Kung Fu Soccer",
+      "share": 0.0019955779121140237,
+      "memberships": 991,
+      "denominator": 496598,
+      "bar_label": "Quanzhou · KFS"
+    },
+    {
+      "label": "Zhengzhou",
+      "location_id": "geoname:1784658",
+      "collection": "World Cup",
+      "share": 0.013397971264919522,
+      "memberships": 12561,
+      "denominator": 937530,
+      "bar_label": "Zhengzhou · WC"
+    },
+    {
+      "label": "Zhengzhou",
+      "location_id": "geoname:1784658",
+      "collection": "Kung Fu Soccer",
+      "share": 0.005408801485306022,
+      "memberships": 2686,
+      "denominator": 496598,
+      "bar_label": "Zhengzhou · KFS"
+    }
+  ],
+  "renderer": {
+    "library": "Izzi",
+    "functions": [
+      "svg::emit_bar_graph"
+    ],
+    "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+    "bar_header_sha256": "6a064f6a7ce1ac8544684c1179bf2f40284ca253258d5f898bbe143b79135a5e",
+    "renderer_sha256": "abdc56a156258e5fd882b1637daf74a9d8936120ea82acc95199036e73cf97fb",
+    "wrapper_sha256": "88aba6568595ef39c734e3b54de7883d4408117a67e771a47775911a71d1c0f1",
+    "axis_policy": "Native zero baseline and automatic maximum; shared across collections within each chart.",
+    "postprocessing": "Accessible metadata, collection colors, and percentage precision; native geometry retained."
+  }
+}

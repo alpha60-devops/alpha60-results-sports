@@ -1,0 +1,2697 @@
+{
+  "renderer": {
+    "library": "Izzi",
+    "default_layout": "izzi-standard",
+    "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+    "interaction": "izzi-weekly-graph-hover.js",
+    "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+    "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+    "renderer_sha256": "1d132d25f4cc0f0776de98b77abb784fac34df52f5f8d3a2279e54b6403e4347",
+    "wrapper_sha256": "20cacde54126c3c004c3046e48e6a1a6a9b56d49351c656501627a9848a88b65",
+    "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+    "functions": [
+      "svg::make_line_graph",
+      "svg::make_line_graph_annotations",
+      "svg::transform_to_graph_points",
+      "svg::make_marker_instance"
+    ]
+  },
+  "charts": {
+    "asia-activity-coverage": {
+      "title": "Activity and changing catalog coverage · H3r8",
+      "subtitle": "World Cup 2026 · June 29 (Round of 32) to November 3",
+      "description": "Daily IP–torrent memberships and catalog coverage; neither estimates viewers. The dashed vertical line marks the July 19 final. Media-object names appear directly on their lines; no separate legend.",
+      "xlabel": "DATE (2026)",
+      "xmin": 1,
+      "xmax": 128,
+      "ticks": [
+        [
+          1,
+          "Jun 29"
+        ],
+        [
+          21,
+          "Jul 19"
+        ],
+        [
+          49,
+          "Aug 16"
+        ],
+        [
+          77,
+          "Sep 13"
+        ],
+        [
+          105,
+          "Oct 11"
+        ],
+        [
+          128,
+          "Nov 03"
+        ]
+      ],
+      "panels": [
+        {
+          "title": "Daily downloader memberships · H3r8",
+          "unit": "count",
+          "ylabel": "DOWNLOADER MEMBERSHIPS",
+          "series": [
+            {
+              "name": "South Korea",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 0,
+                  "tooltip": "South Korea · 2026-06-29: 0 downloader memberships"
+                },
+                {
+                  "x": 2,
+                  "y": 1036,
+                  "tooltip": "South Korea · 2026-06-30: 1,036 downloader memberships"
+                },
+                {
+                  "x": 3,
+                  "y": 3513,
+                  "tooltip": "South Korea · 2026-07-01: 3,513 downloader memberships"
+                },
+                {
+                  "x": 4,
+                  "y": 9455,
+                  "tooltip": "South Korea · 2026-07-02: 9,455 downloader memberships"
+                },
+                {
+                  "x": 5,
+                  "y": 12725,
+                  "tooltip": "South Korea · 2026-07-03: 12,725 downloader memberships"
+                },
+                {
+                  "x": 6,
+                  "y": 25056,
+                  "tooltip": "South Korea · 2026-07-04: 25,056 downloader memberships"
+                },
+                {
+                  "x": 7,
+                  "y": 34249,
+                  "tooltip": "South Korea · 2026-07-05: 34,249 downloader memberships"
+                },
+                {
+                  "x": 8,
+                  "y": 44966,
+                  "tooltip": "South Korea · 2026-07-06: 44,966 downloader memberships"
+                },
+                {
+                  "x": 9,
+                  "y": 49135,
+                  "tooltip": "South Korea · 2026-07-07: 49,135 downloader memberships"
+                },
+                {
+                  "x": 10,
+                  "y": 62641,
+                  "tooltip": "South Korea · 2026-07-08: 62,641 downloader memberships"
+                },
+                {
+                  "x": 11,
+                  "y": 72330,
+                  "tooltip": "South Korea · 2026-07-09: 72,330 downloader memberships"
+                },
+                {
+                  "x": 12,
+                  "y": 68790,
+                  "tooltip": "South Korea · 2026-07-10: 68,790 downloader memberships"
+                },
+                {
+                  "x": 13,
+                  "y": 76091,
+                  "tooltip": "South Korea · 2026-07-11: 76,091 downloader memberships"
+                },
+                {
+                  "x": 14,
+                  "y": 73310,
+                  "tooltip": "South Korea · 2026-07-12: 73,310 downloader memberships"
+                },
+                {
+                  "x": 15,
+                  "y": 82406,
+                  "tooltip": "South Korea · 2026-07-13: 82,406 downloader memberships"
+                },
+                {
+                  "x": 16,
+                  "y": 84059,
+                  "tooltip": "South Korea · 2026-07-14: 84,059 downloader memberships"
+                },
+                {
+                  "x": 17,
+                  "y": 88133,
+                  "tooltip": "South Korea · 2026-07-15: 88,133 downloader memberships"
+                },
+                {
+                  "x": 18,
+                  "y": 94152,
+                  "tooltip": "South Korea · 2026-07-16: 94,152 downloader memberships"
+                },
+                {
+                  "x": 19,
+                  "y": 86999,
+                  "tooltip": "South Korea · 2026-07-17: 86,999 downloader memberships"
+                },
+                {
+                  "x": 20,
+                  "y": 106973,
+                  "tooltip": "South Korea · 2026-07-18: 106,973 downloader memberships"
+                },
+                {
+                  "x": 21,
+                  "y": 103733,
+                  "tooltip": "South Korea · 2026-07-19: 103,733 downloader memberships"
+                },
+                {
+                  "x": 22,
+                  "y": 103651,
+                  "tooltip": "South Korea · 2026-07-20: 103,651 downloader memberships"
+                },
+                {
+                  "x": 23,
+                  "y": 107171,
+                  "tooltip": "South Korea · 2026-07-21: 107,171 downloader memberships"
+                },
+                {
+                  "x": 24,
+                  "y": 95923,
+                  "tooltip": "South Korea · 2026-07-22: 95,923 downloader memberships"
+                },
+                {
+                  "x": 25,
+                  "y": 92642,
+                  "tooltip": "South Korea · 2026-07-23: 92,642 downloader memberships"
+                },
+                {
+                  "x": 26,
+                  "y": 89462,
+                  "tooltip": "South Korea · 2026-07-24: 89,462 downloader memberships"
+                },
+                {
+                  "x": 27,
+                  "y": 97794,
+                  "tooltip": "South Korea · 2026-07-25: 97,794 downloader memberships"
+                },
+                {
+                  "x": 28,
+                  "y": 92712,
+                  "tooltip": "South Korea · 2026-07-26: 92,712 downloader memberships"
+                },
+                {
+                  "x": 29,
+                  "y": 87312,
+                  "tooltip": "South Korea · 2026-07-27: 87,312 downloader memberships"
+                },
+                {
+                  "x": 30,
+                  "y": 84860,
+                  "tooltip": "South Korea · 2026-07-28: 84,860 downloader memberships"
+                },
+                {
+                  "x": 31,
+                  "y": 89690,
+                  "tooltip": "South Korea · 2026-07-29: 89,690 downloader memberships"
+                },
+                {
+                  "x": 32,
+                  "y": 90066,
+                  "tooltip": "South Korea · 2026-07-30: 90,066 downloader memberships"
+                },
+                {
+                  "x": 33,
+                  "y": 89458,
+                  "tooltip": "South Korea · 2026-07-31: 89,458 downloader memberships"
+                },
+                {
+                  "x": 34,
+                  "y": 88229,
+                  "tooltip": "South Korea · 2026-08-01: 88,229 downloader memberships"
+                },
+                {
+                  "x": 35,
+                  "y": 85807,
+                  "tooltip": "South Korea · 2026-08-02: 85,807 downloader memberships"
+                },
+                {
+                  "x": 36,
+                  "y": 83651,
+                  "tooltip": "South Korea · 2026-08-03: 83,651 downloader memberships"
+                },
+                {
+                  "x": 37,
+                  "y": 81239,
+                  "tooltip": "South Korea · 2026-08-04: 81,239 downloader memberships"
+                },
+                {
+                  "x": 38,
+                  "y": 80351,
+                  "tooltip": "South Korea · 2026-08-05: 80,351 downloader memberships"
+                },
+                {
+                  "x": 39,
+                  "y": 78714,
+                  "tooltip": "South Korea · 2026-08-06: 78,714 downloader memberships"
+                },
+                {
+                  "x": 40,
+                  "y": 84897,
+                  "tooltip": "South Korea · 2026-08-07: 84,897 downloader memberships"
+                },
+                {
+                  "x": 41,
+                  "y": 89021,
+                  "tooltip": "South Korea · 2026-08-08: 89,021 downloader memberships"
+                },
+                {
+                  "x": 42,
+                  "y": 86739,
+                  "tooltip": "South Korea · 2026-08-09: 86,739 downloader memberships"
+                },
+                {
+                  "x": 43,
+                  "y": 76433,
+                  "tooltip": "South Korea · 2026-08-10: 76,433 downloader memberships"
+                },
+                {
+                  "x": 44,
+                  "y": 76717,
+                  "tooltip": "South Korea · 2026-08-11: 76,717 downloader memberships"
+                },
+                {
+                  "x": 45,
+                  "y": 74053,
+                  "tooltip": "South Korea · 2026-08-12: 74,053 downloader memberships"
+                },
+                {
+                  "x": 46,
+                  "y": 76985,
+                  "tooltip": "South Korea · 2026-08-13: 76,985 downloader memberships"
+                },
+                {
+                  "x": 47,
+                  "y": 76297,
+                  "tooltip": "South Korea · 2026-08-14: 76,297 downloader memberships"
+                },
+                {
+                  "x": 48,
+                  "y": 75321,
+                  "tooltip": "South Korea · 2026-08-15: 75,321 downloader memberships"
+                },
+                {
+                  "x": 49,
+                  "y": 93181,
+                  "tooltip": "South Korea · 2026-08-16: 93,181 downloader memberships"
+                },
+                {
+                  "x": 50,
+                  "y": 79907,
+                  "tooltip": "South Korea · 2026-08-17: 79,907 downloader memberships"
+                },
+                {
+                  "x": 51,
+                  "y": 71921,
+                  "tooltip": "South Korea · 2026-08-18: 71,921 downloader memberships"
+                },
+                {
+                  "x": 52,
+                  "y": 75815,
+                  "tooltip": "South Korea · 2026-08-19: 75,815 downloader memberships"
+                },
+                {
+                  "x": 53,
+                  "y": 73434,
+                  "tooltip": "South Korea · 2026-08-20: 73,434 downloader memberships"
+                },
+                {
+                  "x": 54,
+                  "y": 76339,
+                  "tooltip": "South Korea · 2026-08-21: 76,339 downloader memberships"
+                },
+                {
+                  "x": 55,
+                  "y": 78691,
+                  "tooltip": "South Korea · 2026-08-22: 78,691 downloader memberships"
+                },
+                {
+                  "x": 56,
+                  "y": 73521,
+                  "tooltip": "South Korea · 2026-08-23: 73,521 downloader memberships"
+                },
+                {
+                  "x": 57,
+                  "y": 66940,
+                  "tooltip": "South Korea · 2026-08-24: 66,940 downloader memberships"
+                },
+                {
+                  "x": 58,
+                  "y": 64442,
+                  "tooltip": "South Korea · 2026-08-25: 64,442 downloader memberships"
+                },
+                {
+                  "x": 59,
+                  "y": 60743,
+                  "tooltip": "South Korea · 2026-08-26: 60,743 downloader memberships"
+                },
+                {
+                  "x": 60,
+                  "y": 60707,
+                  "tooltip": "South Korea · 2026-08-27: 60,707 downloader memberships"
+                },
+                {
+                  "x": 61,
+                  "y": 60061,
+                  "tooltip": "South Korea · 2026-08-28: 60,061 downloader memberships"
+                },
+                {
+                  "x": 62,
+                  "y": 76711,
+                  "tooltip": "South Korea · 2026-08-29: 76,711 downloader memberships"
+                },
+                {
+                  "x": 63,
+                  "y": 79436,
+                  "tooltip": "South Korea · 2026-08-30: 79,436 downloader memberships"
+                },
+                {
+                  "x": 64,
+                  "y": 61413,
+                  "tooltip": "South Korea · 2026-08-31: 61,413 downloader memberships"
+                },
+                {
+                  "x": 65,
+                  "y": 57369,
+                  "tooltip": "South Korea · 2026-09-01: 57,369 downloader memberships"
+                },
+                {
+                  "x": 66,
+                  "y": 45698,
+                  "tooltip": "South Korea · 2026-09-02: 45,698 downloader memberships"
+                },
+                {
+                  "x": 67,
+                  "y": 44201,
+                  "tooltip": "South Korea · 2026-09-03: 44,201 downloader memberships"
+                },
+                {
+                  "x": 68,
+                  "y": 36680,
+                  "tooltip": "South Korea · 2026-09-04: 36,680 downloader memberships"
+                },
+                {
+                  "x": 69,
+                  "y": 70776,
+                  "tooltip": "South Korea · 2026-09-05: 70,776 downloader memberships"
+                },
+                {
+                  "x": 70,
+                  "y": 72606,
+                  "tooltip": "South Korea · 2026-09-06: 72,606 downloader memberships"
+                },
+                {
+                  "x": 71,
+                  "y": 60037,
+                  "tooltip": "South Korea · 2026-09-07: 60,037 downloader memberships"
+                },
+                {
+                  "x": 72,
+                  "y": 63557,
+                  "tooltip": "South Korea · 2026-09-08: 63,557 downloader memberships"
+                },
+                {
+                  "x": 73,
+                  "y": 50583,
+                  "tooltip": "South Korea · 2026-09-09: 50,583 downloader memberships"
+                },
+                {
+                  "x": 74,
+                  "y": 36198,
+                  "tooltip": "South Korea · 2026-09-10: 36,198 downloader memberships"
+                },
+                {
+                  "x": 75,
+                  "y": 30204,
+                  "tooltip": "South Korea · 2026-09-11: 30,204 downloader memberships"
+                },
+                {
+                  "x": 76,
+                  "y": 29799,
+                  "tooltip": "South Korea · 2026-09-12: 29,799 downloader memberships"
+                },
+                {
+                  "x": 77,
+                  "y": 31067,
+                  "tooltip": "South Korea · 2026-09-13: 31,067 downloader memberships"
+                },
+                {
+                  "x": 78,
+                  "y": 27391,
+                  "tooltip": "South Korea · 2026-09-14: 27,391 downloader memberships"
+                },
+                {
+                  "x": 79,
+                  "y": 27412,
+                  "tooltip": "South Korea · 2026-09-15: 27,412 downloader memberships"
+                },
+                {
+                  "x": 80,
+                  "y": 26971,
+                  "tooltip": "South Korea · 2026-09-16: 26,971 downloader memberships"
+                },
+                {
+                  "x": 81,
+                  "y": 26513,
+                  "tooltip": "South Korea · 2026-09-17: 26,513 downloader memberships"
+                },
+                {
+                  "x": 82,
+                  "y": 26867,
+                  "tooltip": "South Korea · 2026-09-18: 26,867 downloader memberships"
+                },
+                {
+                  "x": 83,
+                  "y": 32846,
+                  "tooltip": "South Korea · 2026-09-19: 32,846 downloader memberships"
+                },
+                {
+                  "x": 84,
+                  "y": 33795,
+                  "tooltip": "South Korea · 2026-09-20: 33,795 downloader memberships"
+                },
+                {
+                  "x": 85,
+                  "y": 31515,
+                  "tooltip": "South Korea · 2026-09-21: 31,515 downloader memberships"
+                },
+                {
+                  "x": 86,
+                  "y": 31114,
+                  "tooltip": "South Korea · 2026-09-22: 31,114 downloader memberships"
+                },
+                {
+                  "x": 87,
+                  "y": 35749,
+                  "tooltip": "South Korea · 2026-09-23: 35,749 downloader memberships"
+                },
+                {
+                  "x": 88,
+                  "y": 45026,
+                  "tooltip": "South Korea · 2026-09-24: 45,026 downloader memberships"
+                },
+                {
+                  "x": 89,
+                  "y": 46104,
+                  "tooltip": "South Korea · 2026-09-25: 46,104 downloader memberships"
+                },
+                {
+                  "x": 90,
+                  "y": 50881,
+                  "tooltip": "South Korea · 2026-09-26: 50,881 downloader memberships"
+                },
+                {
+                  "x": 91,
+                  "y": 51918,
+                  "tooltip": "South Korea · 2026-09-27: 51,918 downloader memberships"
+                },
+                {
+                  "x": 92,
+                  "y": 46675,
+                  "tooltip": "South Korea · 2026-09-28: 46,675 downloader memberships"
+                },
+                {
+                  "x": 93,
+                  "y": 47644,
+                  "tooltip": "South Korea · 2026-09-29: 47,644 downloader memberships"
+                },
+                {
+                  "x": 94,
+                  "y": 44350,
+                  "tooltip": "South Korea · 2026-09-30: 44,350 downloader memberships"
+                },
+                {
+                  "x": 95,
+                  "y": 44786,
+                  "tooltip": "South Korea · 2026-10-01: 44,786 downloader memberships"
+                },
+                {
+                  "x": 96,
+                  "y": 40892,
+                  "tooltip": "South Korea · 2026-10-02: 40,892 downloader memberships"
+                },
+                {
+                  "x": 97,
+                  "y": 47058,
+                  "tooltip": "South Korea · 2026-10-03: 47,058 downloader memberships"
+                },
+                {
+                  "x": 98,
+                  "y": 50002,
+                  "tooltip": "South Korea · 2026-10-04: 50,002 downloader memberships"
+                },
+                {
+                  "x": 99,
+                  "y": 52193,
+                  "tooltip": "South Korea · 2026-10-05: 52,193 downloader memberships"
+                },
+                {
+                  "x": 100,
+                  "y": 46932,
+                  "tooltip": "South Korea · 2026-10-06: 46,932 downloader memberships"
+                },
+                {
+                  "x": 101,
+                  "y": 44569,
+                  "tooltip": "South Korea · 2026-10-07: 44,569 downloader memberships"
+                },
+                {
+                  "x": 102,
+                  "y": 38933,
+                  "tooltip": "South Korea · 2026-10-08: 38,933 downloader memberships"
+                },
+                {
+                  "x": 103,
+                  "y": 42137,
+                  "tooltip": "South Korea · 2026-10-09: 42,137 downloader memberships"
+                },
+                {
+                  "x": 104,
+                  "y": 40629,
+                  "tooltip": "South Korea · 2026-10-10: 40,629 downloader memberships"
+                },
+                {
+                  "x": 105,
+                  "y": 39934,
+                  "tooltip": "South Korea · 2026-10-11: 39,934 downloader memberships"
+                },
+                {
+                  "x": 106,
+                  "y": 34564,
+                  "tooltip": "South Korea · 2026-10-12: 34,564 downloader memberships"
+                },
+                {
+                  "x": 107,
+                  "y": 36087,
+                  "tooltip": "South Korea · 2026-10-13: 36,087 downloader memberships"
+                },
+                {
+                  "x": 108,
+                  "y": 33651,
+                  "tooltip": "South Korea · 2026-10-14: 33,651 downloader memberships"
+                },
+                {
+                  "x": 109,
+                  "y": 33332,
+                  "tooltip": "South Korea · 2026-10-15: 33,332 downloader memberships"
+                },
+                {
+                  "x": 110,
+                  "y": 35973,
+                  "tooltip": "South Korea · 2026-10-16: 35,973 downloader memberships"
+                },
+                {
+                  "x": 111,
+                  "y": 50494,
+                  "tooltip": "South Korea · 2026-10-17: 50,494 downloader memberships"
+                },
+                {
+                  "x": 112,
+                  "y": 55459,
+                  "tooltip": "South Korea · 2026-10-18: 55,459 downloader memberships"
+                },
+                {
+                  "x": 113,
+                  "y": 43739,
+                  "tooltip": "South Korea · 2026-10-19: 43,739 downloader memberships"
+                },
+                {
+                  "x": 114,
+                  "y": 53587,
+                  "tooltip": "South Korea · 2026-10-20: 53,587 downloader memberships"
+                },
+                {
+                  "x": 115,
+                  "y": 62587,
+                  "tooltip": "South Korea · 2026-10-21: 62,587 downloader memberships"
+                },
+                {
+                  "x": 116,
+                  "y": 63704,
+                  "tooltip": "South Korea · 2026-10-22: 63,704 downloader memberships"
+                },
+                {
+                  "x": 117,
+                  "y": 62365,
+                  "tooltip": "South Korea · 2026-10-23: 62,365 downloader memberships"
+                },
+                {
+                  "x": 118,
+                  "y": 68915,
+                  "tooltip": "South Korea · 2026-10-24: 68,915 downloader memberships"
+                },
+                {
+                  "x": 119,
+                  "y": 66746,
+                  "tooltip": "South Korea · 2026-10-25: 66,746 downloader memberships"
+                },
+                {
+                  "x": 120,
+                  "y": 53481,
+                  "tooltip": "South Korea · 2026-10-26: 53,481 downloader memberships"
+                },
+                {
+                  "x": 121,
+                  "y": 54371,
+                  "tooltip": "South Korea · 2026-10-27: 54,371 downloader memberships"
+                },
+                {
+                  "x": 122,
+                  "y": 46877,
+                  "tooltip": "South Korea · 2026-10-28: 46,877 downloader memberships"
+                },
+                {
+                  "x": 123,
+                  "y": 44949,
+                  "tooltip": "South Korea · 2026-10-29: 44,949 downloader memberships"
+                },
+                {
+                  "x": 124,
+                  "y": 42681,
+                  "tooltip": "South Korea · 2026-10-30: 42,681 downloader memberships"
+                },
+                {
+                  "x": 125,
+                  "y": 71374,
+                  "tooltip": "South Korea · 2026-10-31: 71,374 downloader memberships"
+                },
+                {
+                  "x": 126,
+                  "y": 73260,
+                  "tooltip": "South Korea · 2026-11-01: 73,260 downloader memberships"
+                },
+                {
+                  "x": 127,
+                  "y": 50845,
+                  "tooltip": "South Korea · 2026-11-02: 50,845 downloader memberships"
+                },
+                {
+                  "x": 128,
+                  "y": 44065,
+                  "tooltip": "South Korea · 2026-11-03: 44,065 downloader memberships"
+                }
+              ],
+              "collection_key": "South Korea",
+              "line_label": "South Korea"
+            },
+            {
+              "name": "China",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 0,
+                  "tooltip": "China · 2026-06-29: 0 downloader memberships"
+                },
+                {
+                  "x": 2,
+                  "y": 880,
+                  "tooltip": "China · 2026-06-30: 880 downloader memberships"
+                },
+                {
+                  "x": 3,
+                  "y": 2409,
+                  "tooltip": "China · 2026-07-01: 2,409 downloader memberships"
+                },
+                {
+                  "x": 4,
+                  "y": 7033,
+                  "tooltip": "China · 2026-07-02: 7,033 downloader memberships"
+                },
+                {
+                  "x": 5,
+                  "y": 9717,
+                  "tooltip": "China · 2026-07-03: 9,717 downloader memberships"
+                },
+                {
+                  "x": 6,
+                  "y": 17016,
+                  "tooltip": "China · 2026-07-04: 17,016 downloader memberships"
+                },
+                {
+                  "x": 7,
+                  "y": 23705,
+                  "tooltip": "China · 2026-07-05: 23,705 downloader memberships"
+                },
+                {
+                  "x": 8,
+                  "y": 32606,
+                  "tooltip": "China · 2026-07-06: 32,606 downloader memberships"
+                },
+                {
+                  "x": 9,
+                  "y": 34814,
+                  "tooltip": "China · 2026-07-07: 34,814 downloader memberships"
+                },
+                {
+                  "x": 10,
+                  "y": 45660,
+                  "tooltip": "China · 2026-07-08: 45,660 downloader memberships"
+                },
+                {
+                  "x": 11,
+                  "y": 48441,
+                  "tooltip": "China · 2026-07-09: 48,441 downloader memberships"
+                },
+                {
+                  "x": 12,
+                  "y": 46259,
+                  "tooltip": "China · 2026-07-10: 46,259 downloader memberships"
+                },
+                {
+                  "x": 13,
+                  "y": 46013,
+                  "tooltip": "China · 2026-07-11: 46,013 downloader memberships"
+                },
+                {
+                  "x": 14,
+                  "y": 44887,
+                  "tooltip": "China · 2026-07-12: 44,887 downloader memberships"
+                },
+                {
+                  "x": 15,
+                  "y": 59912,
+                  "tooltip": "China · 2026-07-13: 59,912 downloader memberships"
+                },
+                {
+                  "x": 16,
+                  "y": 61577,
+                  "tooltip": "China · 2026-07-14: 61,577 downloader memberships"
+                },
+                {
+                  "x": 17,
+                  "y": 66770,
+                  "tooltip": "China · 2026-07-15: 66,770 downloader memberships"
+                },
+                {
+                  "x": 18,
+                  "y": 69052,
+                  "tooltip": "China · 2026-07-16: 69,052 downloader memberships"
+                },
+                {
+                  "x": 19,
+                  "y": 60457,
+                  "tooltip": "China · 2026-07-17: 60,457 downloader memberships"
+                },
+                {
+                  "x": 20,
+                  "y": 67829,
+                  "tooltip": "China · 2026-07-18: 67,829 downloader memberships"
+                },
+                {
+                  "x": 21,
+                  "y": 67684,
+                  "tooltip": "China · 2026-07-19: 67,684 downloader memberships"
+                },
+                {
+                  "x": 22,
+                  "y": 73853,
+                  "tooltip": "China · 2026-07-20: 73,853 downloader memberships"
+                },
+                {
+                  "x": 23,
+                  "y": 78727,
+                  "tooltip": "China · 2026-07-21: 78,727 downloader memberships"
+                },
+                {
+                  "x": 24,
+                  "y": 68281,
+                  "tooltip": "China · 2026-07-22: 68,281 downloader memberships"
+                },
+                {
+                  "x": 25,
+                  "y": 66005,
+                  "tooltip": "China · 2026-07-23: 66,005 downloader memberships"
+                },
+                {
+                  "x": 26,
+                  "y": 65825,
+                  "tooltip": "China · 2026-07-24: 65,825 downloader memberships"
+                },
+                {
+                  "x": 27,
+                  "y": 67330,
+                  "tooltip": "China · 2026-07-25: 67,330 downloader memberships"
+                },
+                {
+                  "x": 28,
+                  "y": 64228,
+                  "tooltip": "China · 2026-07-26: 64,228 downloader memberships"
+                },
+                {
+                  "x": 29,
+                  "y": 65857,
+                  "tooltip": "China · 2026-07-27: 65,857 downloader memberships"
+                },
+                {
+                  "x": 30,
+                  "y": 67873,
+                  "tooltip": "China · 2026-07-28: 67,873 downloader memberships"
+                },
+                {
+                  "x": 31,
+                  "y": 71857,
+                  "tooltip": "China · 2026-07-29: 71,857 downloader memberships"
+                },
+                {
+                  "x": 32,
+                  "y": 69577,
+                  "tooltip": "China · 2026-07-30: 69,577 downloader memberships"
+                },
+                {
+                  "x": 33,
+                  "y": 58146,
+                  "tooltip": "China · 2026-07-31: 58,146 downloader memberships"
+                },
+                {
+                  "x": 34,
+                  "y": 43839,
+                  "tooltip": "China · 2026-08-01: 43,839 downloader memberships"
+                },
+                {
+                  "x": 35,
+                  "y": 40271,
+                  "tooltip": "China · 2026-08-02: 40,271 downloader memberships"
+                },
+                {
+                  "x": 36,
+                  "y": 50368,
+                  "tooltip": "China · 2026-08-03: 50,368 downloader memberships"
+                },
+                {
+                  "x": 37,
+                  "y": 59523,
+                  "tooltip": "China · 2026-08-04: 59,523 downloader memberships"
+                },
+                {
+                  "x": 38,
+                  "y": 57421,
+                  "tooltip": "China · 2026-08-05: 57,421 downloader memberships"
+                },
+                {
+                  "x": 39,
+                  "y": 56282,
+                  "tooltip": "China · 2026-08-06: 56,282 downloader memberships"
+                },
+                {
+                  "x": 40,
+                  "y": 61640,
+                  "tooltip": "China · 2026-08-07: 61,640 downloader memberships"
+                },
+                {
+                  "x": 41,
+                  "y": 60239,
+                  "tooltip": "China · 2026-08-08: 60,239 downloader memberships"
+                },
+                {
+                  "x": 42,
+                  "y": 57811,
+                  "tooltip": "China · 2026-08-09: 57,811 downloader memberships"
+                },
+                {
+                  "x": 43,
+                  "y": 56231,
+                  "tooltip": "China · 2026-08-10: 56,231 downloader memberships"
+                },
+                {
+                  "x": 44,
+                  "y": 57555,
+                  "tooltip": "China · 2026-08-11: 57,555 downloader memberships"
+                },
+                {
+                  "x": 45,
+                  "y": 56119,
+                  "tooltip": "China · 2026-08-12: 56,119 downloader memberships"
+                },
+                {
+                  "x": 46,
+                  "y": 59034,
+                  "tooltip": "China · 2026-08-13: 59,034 downloader memberships"
+                },
+                {
+                  "x": 47,
+                  "y": 60734,
+                  "tooltip": "China · 2026-08-14: 60,734 downloader memberships"
+                },
+                {
+                  "x": 48,
+                  "y": 55149,
+                  "tooltip": "China · 2026-08-15: 55,149 downloader memberships"
+                },
+                {
+                  "x": 49,
+                  "y": 66825,
+                  "tooltip": "China · 2026-08-16: 66,825 downloader memberships"
+                },
+                {
+                  "x": 50,
+                  "y": 56984,
+                  "tooltip": "China · 2026-08-17: 56,984 downloader memberships"
+                },
+                {
+                  "x": 51,
+                  "y": 48549,
+                  "tooltip": "China · 2026-08-18: 48,549 downloader memberships"
+                },
+                {
+                  "x": 52,
+                  "y": 52257,
+                  "tooltip": "China · 2026-08-19: 52,257 downloader memberships"
+                },
+                {
+                  "x": 53,
+                  "y": 50717,
+                  "tooltip": "China · 2026-08-20: 50,717 downloader memberships"
+                },
+                {
+                  "x": 54,
+                  "y": 53867,
+                  "tooltip": "China · 2026-08-21: 53,867 downloader memberships"
+                },
+                {
+                  "x": 55,
+                  "y": 51314,
+                  "tooltip": "China · 2026-08-22: 51,314 downloader memberships"
+                },
+                {
+                  "x": 56,
+                  "y": 48793,
+                  "tooltip": "China · 2026-08-23: 48,793 downloader memberships"
+                },
+                {
+                  "x": 57,
+                  "y": 52803,
+                  "tooltip": "China · 2026-08-24: 52,803 downloader memberships"
+                },
+                {
+                  "x": 58,
+                  "y": 53440,
+                  "tooltip": "China · 2026-08-25: 53,440 downloader memberships"
+                },
+                {
+                  "x": 59,
+                  "y": 55213,
+                  "tooltip": "China · 2026-08-26: 55,213 downloader memberships"
+                },
+                {
+                  "x": 60,
+                  "y": 54881,
+                  "tooltip": "China · 2026-08-27: 54,881 downloader memberships"
+                },
+                {
+                  "x": 61,
+                  "y": 56097,
+                  "tooltip": "China · 2026-08-28: 56,097 downloader memberships"
+                },
+                {
+                  "x": 62,
+                  "y": 62790,
+                  "tooltip": "China · 2026-08-29: 62,790 downloader memberships"
+                },
+                {
+                  "x": 63,
+                  "y": 69112,
+                  "tooltip": "China · 2026-08-30: 69,112 downloader memberships"
+                },
+                {
+                  "x": 64,
+                  "y": 61542,
+                  "tooltip": "China · 2026-08-31: 61,542 downloader memberships"
+                },
+                {
+                  "x": 65,
+                  "y": 61153,
+                  "tooltip": "China · 2026-09-01: 61,153 downloader memberships"
+                },
+                {
+                  "x": 66,
+                  "y": 52951,
+                  "tooltip": "China · 2026-09-02: 52,951 downloader memberships"
+                },
+                {
+                  "x": 67,
+                  "y": 48451,
+                  "tooltip": "China · 2026-09-03: 48,451 downloader memberships"
+                },
+                {
+                  "x": 68,
+                  "y": 39065,
+                  "tooltip": "China · 2026-09-04: 39,065 downloader memberships"
+                },
+                {
+                  "x": 69,
+                  "y": 61661,
+                  "tooltip": "China · 2026-09-05: 61,661 downloader memberships"
+                },
+                {
+                  "x": 70,
+                  "y": 65457,
+                  "tooltip": "China · 2026-09-06: 65,457 downloader memberships"
+                },
+                {
+                  "x": 71,
+                  "y": 61426,
+                  "tooltip": "China · 2026-09-07: 61,426 downloader memberships"
+                },
+                {
+                  "x": 72,
+                  "y": 62942,
+                  "tooltip": "China · 2026-09-08: 62,942 downloader memberships"
+                },
+                {
+                  "x": 73,
+                  "y": 54135,
+                  "tooltip": "China · 2026-09-09: 54,135 downloader memberships"
+                },
+                {
+                  "x": 74,
+                  "y": 38011,
+                  "tooltip": "China · 2026-09-10: 38,011 downloader memberships"
+                },
+                {
+                  "x": 75,
+                  "y": 32767,
+                  "tooltip": "China · 2026-09-11: 32,767 downloader memberships"
+                },
+                {
+                  "x": 76,
+                  "y": 29267,
+                  "tooltip": "China · 2026-09-12: 29,267 downloader memberships"
+                },
+                {
+                  "x": 77,
+                  "y": 30452,
+                  "tooltip": "China · 2026-09-13: 30,452 downloader memberships"
+                },
+                {
+                  "x": 78,
+                  "y": 30338,
+                  "tooltip": "China · 2026-09-14: 30,338 downloader memberships"
+                },
+                {
+                  "x": 79,
+                  "y": 28467,
+                  "tooltip": "China · 2026-09-15: 28,467 downloader memberships"
+                },
+                {
+                  "x": 80,
+                  "y": 30217,
+                  "tooltip": "China · 2026-09-16: 30,217 downloader memberships"
+                },
+                {
+                  "x": 81,
+                  "y": 31461,
+                  "tooltip": "China · 2026-09-17: 31,461 downloader memberships"
+                },
+                {
+                  "x": 82,
+                  "y": 30973,
+                  "tooltip": "China · 2026-09-18: 30,973 downloader memberships"
+                },
+                {
+                  "x": 83,
+                  "y": 33865,
+                  "tooltip": "China · 2026-09-19: 33,865 downloader memberships"
+                },
+                {
+                  "x": 84,
+                  "y": 33153,
+                  "tooltip": "China · 2026-09-20: 33,153 downloader memberships"
+                },
+                {
+                  "x": 85,
+                  "y": 36584,
+                  "tooltip": "China · 2026-09-21: 36,584 downloader memberships"
+                },
+                {
+                  "x": 86,
+                  "y": 35874,
+                  "tooltip": "China · 2026-09-22: 35,874 downloader memberships"
+                },
+                {
+                  "x": 87,
+                  "y": 42173,
+                  "tooltip": "China · 2026-09-23: 42,173 downloader memberships"
+                },
+                {
+                  "x": 88,
+                  "y": 49338,
+                  "tooltip": "China · 2026-09-24: 49,338 downloader memberships"
+                },
+                {
+                  "x": 89,
+                  "y": 50403,
+                  "tooltip": "China · 2026-09-25: 50,403 downloader memberships"
+                },
+                {
+                  "x": 90,
+                  "y": 45138,
+                  "tooltip": "China · 2026-09-26: 45,138 downloader memberships"
+                },
+                {
+                  "x": 91,
+                  "y": 43268,
+                  "tooltip": "China · 2026-09-27: 43,268 downloader memberships"
+                },
+                {
+                  "x": 92,
+                  "y": 46624,
+                  "tooltip": "China · 2026-09-28: 46,624 downloader memberships"
+                },
+                {
+                  "x": 93,
+                  "y": 47848,
+                  "tooltip": "China · 2026-09-29: 47,848 downloader memberships"
+                },
+                {
+                  "x": 94,
+                  "y": 58728,
+                  "tooltip": "China · 2026-09-30: 58,728 downloader memberships"
+                },
+                {
+                  "x": 95,
+                  "y": 58089,
+                  "tooltip": "China · 2026-10-01: 58,089 downloader memberships"
+                },
+                {
+                  "x": 96,
+                  "y": 51799,
+                  "tooltip": "China · 2026-10-02: 51,799 downloader memberships"
+                },
+                {
+                  "x": 97,
+                  "y": 51604,
+                  "tooltip": "China · 2026-10-03: 51,604 downloader memberships"
+                },
+                {
+                  "x": 98,
+                  "y": 50930,
+                  "tooltip": "China · 2026-10-04: 50,930 downloader memberships"
+                },
+                {
+                  "x": 99,
+                  "y": 54291,
+                  "tooltip": "China · 2026-10-05: 54,291 downloader memberships"
+                },
+                {
+                  "x": 100,
+                  "y": 56578,
+                  "tooltip": "China · 2026-10-06: 56,578 downloader memberships"
+                },
+                {
+                  "x": 101,
+                  "y": 56449,
+                  "tooltip": "China · 2026-10-07: 56,449 downloader memberships"
+                },
+                {
+                  "x": 102,
+                  "y": 47942,
+                  "tooltip": "China · 2026-10-08: 47,942 downloader memberships"
+                },
+                {
+                  "x": 103,
+                  "y": 47154,
+                  "tooltip": "China · 2026-10-09: 47,154 downloader memberships"
+                },
+                {
+                  "x": 104,
+                  "y": 40944,
+                  "tooltip": "China · 2026-10-10: 40,944 downloader memberships"
+                },
+                {
+                  "x": 105,
+                  "y": 44029,
+                  "tooltip": "China · 2026-10-11: 44,029 downloader memberships"
+                },
+                {
+                  "x": 106,
+                  "y": 43324,
+                  "tooltip": "China · 2026-10-12: 43,324 downloader memberships"
+                },
+                {
+                  "x": 107,
+                  "y": 42003,
+                  "tooltip": "China · 2026-10-13: 42,003 downloader memberships"
+                },
+                {
+                  "x": 108,
+                  "y": 41522,
+                  "tooltip": "China · 2026-10-14: 41,522 downloader memberships"
+                },
+                {
+                  "x": 109,
+                  "y": 38643,
+                  "tooltip": "China · 2026-10-15: 38,643 downloader memberships"
+                },
+                {
+                  "x": 110,
+                  "y": 39831,
+                  "tooltip": "China · 2026-10-16: 39,831 downloader memberships"
+                },
+                {
+                  "x": 111,
+                  "y": 49159,
+                  "tooltip": "China · 2026-10-17: 49,159 downloader memberships"
+                },
+                {
+                  "x": 112,
+                  "y": 52803,
+                  "tooltip": "China · 2026-10-18: 52,803 downloader memberships"
+                },
+                {
+                  "x": 113,
+                  "y": 43739,
+                  "tooltip": "China · 2026-10-19: 43,739 downloader memberships"
+                },
+                {
+                  "x": 114,
+                  "y": 61369,
+                  "tooltip": "China · 2026-10-20: 61,369 downloader memberships"
+                },
+                {
+                  "x": 115,
+                  "y": 69059,
+                  "tooltip": "China · 2026-10-21: 69,059 downloader memberships"
+                },
+                {
+                  "x": 116,
+                  "y": 69154,
+                  "tooltip": "China · 2026-10-22: 69,154 downloader memberships"
+                },
+                {
+                  "x": 117,
+                  "y": 67141,
+                  "tooltip": "China · 2026-10-23: 67,141 downloader memberships"
+                },
+                {
+                  "x": 118,
+                  "y": 64416,
+                  "tooltip": "China · 2026-10-24: 64,416 downloader memberships"
+                },
+                {
+                  "x": 119,
+                  "y": 64835,
+                  "tooltip": "China · 2026-10-25: 64,835 downloader memberships"
+                },
+                {
+                  "x": 120,
+                  "y": 59545,
+                  "tooltip": "China · 2026-10-26: 59,545 downloader memberships"
+                },
+                {
+                  "x": 121,
+                  "y": 54765,
+                  "tooltip": "China · 2026-10-27: 54,765 downloader memberships"
+                },
+                {
+                  "x": 122,
+                  "y": 50745,
+                  "tooltip": "China · 2026-10-28: 50,745 downloader memberships"
+                },
+                {
+                  "x": 123,
+                  "y": 49161,
+                  "tooltip": "China · 2026-10-29: 49,161 downloader memberships"
+                },
+                {
+                  "x": 124,
+                  "y": 46718,
+                  "tooltip": "China · 2026-10-30: 46,718 downloader memberships"
+                },
+                {
+                  "x": 125,
+                  "y": 63248,
+                  "tooltip": "China · 2026-10-31: 63,248 downloader memberships"
+                },
+                {
+                  "x": 126,
+                  "y": 61458,
+                  "tooltip": "China · 2026-11-01: 61,458 downloader memberships"
+                },
+                {
+                  "x": 127,
+                  "y": 55250,
+                  "tooltip": "China · 2026-11-02: 55,250 downloader memberships"
+                },
+                {
+                  "x": 128,
+                  "y": 50645,
+                  "tooltip": "China · 2026-11-03: 50,645 downloader memberships"
+                }
+              ],
+              "collection_key": "China",
+              "line_label": "China"
+            },
+            {
+              "name": "Japan",
+              "color": "#606a24",
+              "dash": "2 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 0,
+                  "tooltip": "Japan · 2026-06-29: 0 downloader memberships"
+                },
+                {
+                  "x": 2,
+                  "y": 77,
+                  "tooltip": "Japan · 2026-06-30: 77 downloader memberships"
+                },
+                {
+                  "x": 3,
+                  "y": 303,
+                  "tooltip": "Japan · 2026-07-01: 303 downloader memberships"
+                },
+                {
+                  "x": 4,
+                  "y": 785,
+                  "tooltip": "Japan · 2026-07-02: 785 downloader memberships"
+                },
+                {
+                  "x": 5,
+                  "y": 1100,
+                  "tooltip": "Japan · 2026-07-03: 1,100 downloader memberships"
+                },
+                {
+                  "x": 6,
+                  "y": 2062,
+                  "tooltip": "Japan · 2026-07-04: 2,062 downloader memberships"
+                },
+                {
+                  "x": 7,
+                  "y": 2732,
+                  "tooltip": "Japan · 2026-07-05: 2,732 downloader memberships"
+                },
+                {
+                  "x": 8,
+                  "y": 3642,
+                  "tooltip": "Japan · 2026-07-06: 3,642 downloader memberships"
+                },
+                {
+                  "x": 9,
+                  "y": 4061,
+                  "tooltip": "Japan · 2026-07-07: 4,061 downloader memberships"
+                },
+                {
+                  "x": 10,
+                  "y": 5359,
+                  "tooltip": "Japan · 2026-07-08: 5,359 downloader memberships"
+                },
+                {
+                  "x": 11,
+                  "y": 5959,
+                  "tooltip": "Japan · 2026-07-09: 5,959 downloader memberships"
+                },
+                {
+                  "x": 12,
+                  "y": 6341,
+                  "tooltip": "Japan · 2026-07-10: 6,341 downloader memberships"
+                },
+                {
+                  "x": 13,
+                  "y": 6217,
+                  "tooltip": "Japan · 2026-07-11: 6,217 downloader memberships"
+                },
+                {
+                  "x": 14,
+                  "y": 6169,
+                  "tooltip": "Japan · 2026-07-12: 6,169 downloader memberships"
+                },
+                {
+                  "x": 15,
+                  "y": 7157,
+                  "tooltip": "Japan · 2026-07-13: 7,157 downloader memberships"
+                },
+                {
+                  "x": 16,
+                  "y": 6989,
+                  "tooltip": "Japan · 2026-07-14: 6,989 downloader memberships"
+                },
+                {
+                  "x": 17,
+                  "y": 7056,
+                  "tooltip": "Japan · 2026-07-15: 7,056 downloader memberships"
+                },
+                {
+                  "x": 18,
+                  "y": 7478,
+                  "tooltip": "Japan · 2026-07-16: 7,478 downloader memberships"
+                },
+                {
+                  "x": 19,
+                  "y": 6437,
+                  "tooltip": "Japan · 2026-07-17: 6,437 downloader memberships"
+                },
+                {
+                  "x": 20,
+                  "y": 8255,
+                  "tooltip": "Japan · 2026-07-18: 8,255 downloader memberships"
+                },
+                {
+                  "x": 21,
+                  "y": 8228,
+                  "tooltip": "Japan · 2026-07-19: 8,228 downloader memberships"
+                },
+                {
+                  "x": 22,
+                  "y": 9241,
+                  "tooltip": "Japan · 2026-07-20: 9,241 downloader memberships"
+                },
+                {
+                  "x": 23,
+                  "y": 9223,
+                  "tooltip": "Japan · 2026-07-21: 9,223 downloader memberships"
+                },
+                {
+                  "x": 24,
+                  "y": 8370,
+                  "tooltip": "Japan · 2026-07-22: 8,370 downloader memberships"
+                },
+                {
+                  "x": 25,
+                  "y": 7590,
+                  "tooltip": "Japan · 2026-07-23: 7,590 downloader memberships"
+                },
+                {
+                  "x": 26,
+                  "y": 7504,
+                  "tooltip": "Japan · 2026-07-24: 7,504 downloader memberships"
+                },
+                {
+                  "x": 27,
+                  "y": 8356,
+                  "tooltip": "Japan · 2026-07-25: 8,356 downloader memberships"
+                },
+                {
+                  "x": 28,
+                  "y": 8290,
+                  "tooltip": "Japan · 2026-07-26: 8,290 downloader memberships"
+                },
+                {
+                  "x": 29,
+                  "y": 7631,
+                  "tooltip": "Japan · 2026-07-27: 7,631 downloader memberships"
+                },
+                {
+                  "x": 30,
+                  "y": 7608,
+                  "tooltip": "Japan · 2026-07-28: 7,608 downloader memberships"
+                },
+                {
+                  "x": 31,
+                  "y": 8123,
+                  "tooltip": "Japan · 2026-07-29: 8,123 downloader memberships"
+                },
+                {
+                  "x": 32,
+                  "y": 7951,
+                  "tooltip": "Japan · 2026-07-30: 7,951 downloader memberships"
+                },
+                {
+                  "x": 33,
+                  "y": 8004,
+                  "tooltip": "Japan · 2026-07-31: 8,004 downloader memberships"
+                },
+                {
+                  "x": 34,
+                  "y": 8718,
+                  "tooltip": "Japan · 2026-08-01: 8,718 downloader memberships"
+                },
+                {
+                  "x": 35,
+                  "y": 8286,
+                  "tooltip": "Japan · 2026-08-02: 8,286 downloader memberships"
+                },
+                {
+                  "x": 36,
+                  "y": 7874,
+                  "tooltip": "Japan · 2026-08-03: 7,874 downloader memberships"
+                },
+                {
+                  "x": 37,
+                  "y": 7661,
+                  "tooltip": "Japan · 2026-08-04: 7,661 downloader memberships"
+                },
+                {
+                  "x": 38,
+                  "y": 7925,
+                  "tooltip": "Japan · 2026-08-05: 7,925 downloader memberships"
+                },
+                {
+                  "x": 39,
+                  "y": 7585,
+                  "tooltip": "Japan · 2026-08-06: 7,585 downloader memberships"
+                },
+                {
+                  "x": 40,
+                  "y": 8486,
+                  "tooltip": "Japan · 2026-08-07: 8,486 downloader memberships"
+                },
+                {
+                  "x": 41,
+                  "y": 8624,
+                  "tooltip": "Japan · 2026-08-08: 8,624 downloader memberships"
+                },
+                {
+                  "x": 42,
+                  "y": 8375,
+                  "tooltip": "Japan · 2026-08-09: 8,375 downloader memberships"
+                },
+                {
+                  "x": 43,
+                  "y": 7972,
+                  "tooltip": "Japan · 2026-08-10: 7,972 downloader memberships"
+                },
+                {
+                  "x": 44,
+                  "y": 8581,
+                  "tooltip": "Japan · 2026-08-11: 8,581 downloader memberships"
+                },
+                {
+                  "x": 45,
+                  "y": 7785,
+                  "tooltip": "Japan · 2026-08-12: 7,785 downloader memberships"
+                },
+                {
+                  "x": 46,
+                  "y": 7930,
+                  "tooltip": "Japan · 2026-08-13: 7,930 downloader memberships"
+                },
+                {
+                  "x": 47,
+                  "y": 8159,
+                  "tooltip": "Japan · 2026-08-14: 8,159 downloader memberships"
+                },
+                {
+                  "x": 48,
+                  "y": 8195,
+                  "tooltip": "Japan · 2026-08-15: 8,195 downloader memberships"
+                },
+                {
+                  "x": 49,
+                  "y": 10107,
+                  "tooltip": "Japan · 2026-08-16: 10,107 downloader memberships"
+                },
+                {
+                  "x": 50,
+                  "y": 7567,
+                  "tooltip": "Japan · 2026-08-17: 7,567 downloader memberships"
+                },
+                {
+                  "x": 51,
+                  "y": 6296,
+                  "tooltip": "Japan · 2026-08-18: 6,296 downloader memberships"
+                },
+                {
+                  "x": 52,
+                  "y": 6952,
+                  "tooltip": "Japan · 2026-08-19: 6,952 downloader memberships"
+                },
+                {
+                  "x": 53,
+                  "y": 6773,
+                  "tooltip": "Japan · 2026-08-20: 6,773 downloader memberships"
+                },
+                {
+                  "x": 54,
+                  "y": 7004,
+                  "tooltip": "Japan · 2026-08-21: 7,004 downloader memberships"
+                },
+                {
+                  "x": 55,
+                  "y": 7518,
+                  "tooltip": "Japan · 2026-08-22: 7,518 downloader memberships"
+                },
+                {
+                  "x": 56,
+                  "y": 7131,
+                  "tooltip": "Japan · 2026-08-23: 7,131 downloader memberships"
+                },
+                {
+                  "x": 57,
+                  "y": 6404,
+                  "tooltip": "Japan · 2026-08-24: 6,404 downloader memberships"
+                },
+                {
+                  "x": 58,
+                  "y": 6363,
+                  "tooltip": "Japan · 2026-08-25: 6,363 downloader memberships"
+                },
+                {
+                  "x": 59,
+                  "y": 6430,
+                  "tooltip": "Japan · 2026-08-26: 6,430 downloader memberships"
+                },
+                {
+                  "x": 60,
+                  "y": 6691,
+                  "tooltip": "Japan · 2026-08-27: 6,691 downloader memberships"
+                },
+                {
+                  "x": 61,
+                  "y": 6670,
+                  "tooltip": "Japan · 2026-08-28: 6,670 downloader memberships"
+                },
+                {
+                  "x": 62,
+                  "y": 15518,
+                  "tooltip": "Japan · 2026-08-29: 15,518 downloader memberships"
+                },
+                {
+                  "x": 63,
+                  "y": 9137,
+                  "tooltip": "Japan · 2026-08-30: 9,137 downloader memberships"
+                },
+                {
+                  "x": 64,
+                  "y": 7127,
+                  "tooltip": "Japan · 2026-08-31: 7,127 downloader memberships"
+                },
+                {
+                  "x": 65,
+                  "y": 6796,
+                  "tooltip": "Japan · 2026-09-01: 6,796 downloader memberships"
+                },
+                {
+                  "x": 66,
+                  "y": 5925,
+                  "tooltip": "Japan · 2026-09-02: 5,925 downloader memberships"
+                },
+                {
+                  "x": 67,
+                  "y": 5909,
+                  "tooltip": "Japan · 2026-09-03: 5,909 downloader memberships"
+                },
+                {
+                  "x": 68,
+                  "y": 8261,
+                  "tooltip": "Japan · 2026-09-04: 8,261 downloader memberships"
+                },
+                {
+                  "x": 69,
+                  "y": 20847,
+                  "tooltip": "Japan · 2026-09-05: 20,847 downloader memberships"
+                },
+                {
+                  "x": 70,
+                  "y": 10390,
+                  "tooltip": "Japan · 2026-09-06: 10,390 downloader memberships"
+                },
+                {
+                  "x": 71,
+                  "y": 10010,
+                  "tooltip": "Japan · 2026-09-07: 10,010 downloader memberships"
+                },
+                {
+                  "x": 72,
+                  "y": 10393,
+                  "tooltip": "Japan · 2026-09-08: 10,393 downloader memberships"
+                },
+                {
+                  "x": 73,
+                  "y": 7395,
+                  "tooltip": "Japan · 2026-09-09: 7,395 downloader memberships"
+                },
+                {
+                  "x": 74,
+                  "y": 5047,
+                  "tooltip": "Japan · 2026-09-10: 5,047 downloader memberships"
+                },
+                {
+                  "x": 75,
+                  "y": 4177,
+                  "tooltip": "Japan · 2026-09-11: 4,177 downloader memberships"
+                },
+                {
+                  "x": 76,
+                  "y": 4464,
+                  "tooltip": "Japan · 2026-09-12: 4,464 downloader memberships"
+                },
+                {
+                  "x": 77,
+                  "y": 4522,
+                  "tooltip": "Japan · 2026-09-13: 4,522 downloader memberships"
+                },
+                {
+                  "x": 78,
+                  "y": 4005,
+                  "tooltip": "Japan · 2026-09-14: 4,005 downloader memberships"
+                },
+                {
+                  "x": 79,
+                  "y": 3920,
+                  "tooltip": "Japan · 2026-09-15: 3,920 downloader memberships"
+                },
+                {
+                  "x": 80,
+                  "y": 3732,
+                  "tooltip": "Japan · 2026-09-16: 3,732 downloader memberships"
+                },
+                {
+                  "x": 81,
+                  "y": 3880,
+                  "tooltip": "Japan · 2026-09-17: 3,880 downloader memberships"
+                },
+                {
+                  "x": 82,
+                  "y": 3942,
+                  "tooltip": "Japan · 2026-09-18: 3,942 downloader memberships"
+                },
+                {
+                  "x": 83,
+                  "y": 3957,
+                  "tooltip": "Japan · 2026-09-19: 3,957 downloader memberships"
+                },
+                {
+                  "x": 84,
+                  "y": 3975,
+                  "tooltip": "Japan · 2026-09-20: 3,975 downloader memberships"
+                },
+                {
+                  "x": 85,
+                  "y": 4196,
+                  "tooltip": "Japan · 2026-09-21: 4,196 downloader memberships"
+                },
+                {
+                  "x": 86,
+                  "y": 4114,
+                  "tooltip": "Japan · 2026-09-22: 4,114 downloader memberships"
+                },
+                {
+                  "x": 87,
+                  "y": 4278,
+                  "tooltip": "Japan · 2026-09-23: 4,278 downloader memberships"
+                },
+                {
+                  "x": 88,
+                  "y": 4912,
+                  "tooltip": "Japan · 2026-09-24: 4,912 downloader memberships"
+                },
+                {
+                  "x": 89,
+                  "y": 5092,
+                  "tooltip": "Japan · 2026-09-25: 5,092 downloader memberships"
+                },
+                {
+                  "x": 90,
+                  "y": 5832,
+                  "tooltip": "Japan · 2026-09-26: 5,832 downloader memberships"
+                },
+                {
+                  "x": 91,
+                  "y": 6056,
+                  "tooltip": "Japan · 2026-09-27: 6,056 downloader memberships"
+                },
+                {
+                  "x": 92,
+                  "y": 5541,
+                  "tooltip": "Japan · 2026-09-28: 5,541 downloader memberships"
+                },
+                {
+                  "x": 93,
+                  "y": 5663,
+                  "tooltip": "Japan · 2026-09-29: 5,663 downloader memberships"
+                },
+                {
+                  "x": 94,
+                  "y": 5637,
+                  "tooltip": "Japan · 2026-09-30: 5,637 downloader memberships"
+                },
+                {
+                  "x": 95,
+                  "y": 5488,
+                  "tooltip": "Japan · 2026-10-01: 5,488 downloader memberships"
+                },
+                {
+                  "x": 96,
+                  "y": 5566,
+                  "tooltip": "Japan · 2026-10-02: 5,566 downloader memberships"
+                },
+                {
+                  "x": 97,
+                  "y": 5912,
+                  "tooltip": "Japan · 2026-10-03: 5,912 downloader memberships"
+                },
+                {
+                  "x": 98,
+                  "y": 6014,
+                  "tooltip": "Japan · 2026-10-04: 6,014 downloader memberships"
+                },
+                {
+                  "x": 99,
+                  "y": 5808,
+                  "tooltip": "Japan · 2026-10-05: 5,808 downloader memberships"
+                },
+                {
+                  "x": 100,
+                  "y": 5873,
+                  "tooltip": "Japan · 2026-10-06: 5,873 downloader memberships"
+                },
+                {
+                  "x": 101,
+                  "y": 5900,
+                  "tooltip": "Japan · 2026-10-07: 5,900 downloader memberships"
+                },
+                {
+                  "x": 102,
+                  "y": 5035,
+                  "tooltip": "Japan · 2026-10-08: 5,035 downloader memberships"
+                },
+                {
+                  "x": 103,
+                  "y": 5070,
+                  "tooltip": "Japan · 2026-10-09: 5,070 downloader memberships"
+                },
+                {
+                  "x": 104,
+                  "y": 12425,
+                  "tooltip": "Japan · 2026-10-10: 12,425 downloader memberships"
+                },
+                {
+                  "x": 105,
+                  "y": 5369,
+                  "tooltip": "Japan · 2026-10-11: 5,369 downloader memberships"
+                },
+                {
+                  "x": 106,
+                  "y": 5028,
+                  "tooltip": "Japan · 2026-10-12: 5,028 downloader memberships"
+                },
+                {
+                  "x": 107,
+                  "y": 5047,
+                  "tooltip": "Japan · 2026-10-13: 5,047 downloader memberships"
+                },
+                {
+                  "x": 108,
+                  "y": 5023,
+                  "tooltip": "Japan · 2026-10-14: 5,023 downloader memberships"
+                },
+                {
+                  "x": 109,
+                  "y": 4999,
+                  "tooltip": "Japan · 2026-10-15: 4,999 downloader memberships"
+                },
+                {
+                  "x": 110,
+                  "y": 5530,
+                  "tooltip": "Japan · 2026-10-16: 5,530 downloader memberships"
+                },
+                {
+                  "x": 111,
+                  "y": 7870,
+                  "tooltip": "Japan · 2026-10-17: 7,870 downloader memberships"
+                },
+                {
+                  "x": 112,
+                  "y": 8365,
+                  "tooltip": "Japan · 2026-10-18: 8,365 downloader memberships"
+                },
+                {
+                  "x": 113,
+                  "y": 6101,
+                  "tooltip": "Japan · 2026-10-19: 6,101 downloader memberships"
+                },
+                {
+                  "x": 114,
+                  "y": 8808,
+                  "tooltip": "Japan · 2026-10-20: 8,808 downloader memberships"
+                },
+                {
+                  "x": 115,
+                  "y": 9387,
+                  "tooltip": "Japan · 2026-10-21: 9,387 downloader memberships"
+                },
+                {
+                  "x": 116,
+                  "y": 9100,
+                  "tooltip": "Japan · 2026-10-22: 9,100 downloader memberships"
+                },
+                {
+                  "x": 117,
+                  "y": 8649,
+                  "tooltip": "Japan · 2026-10-23: 8,649 downloader memberships"
+                },
+                {
+                  "x": 118,
+                  "y": 9636,
+                  "tooltip": "Japan · 2026-10-24: 9,636 downloader memberships"
+                },
+                {
+                  "x": 119,
+                  "y": 9086,
+                  "tooltip": "Japan · 2026-10-25: 9,086 downloader memberships"
+                },
+                {
+                  "x": 120,
+                  "y": 7325,
+                  "tooltip": "Japan · 2026-10-26: 7,325 downloader memberships"
+                },
+                {
+                  "x": 121,
+                  "y": 7635,
+                  "tooltip": "Japan · 2026-10-27: 7,635 downloader memberships"
+                },
+                {
+                  "x": 122,
+                  "y": 6738,
+                  "tooltip": "Japan · 2026-10-28: 6,738 downloader memberships"
+                },
+                {
+                  "x": 123,
+                  "y": 6187,
+                  "tooltip": "Japan · 2026-10-29: 6,187 downloader memberships"
+                },
+                {
+                  "x": 124,
+                  "y": 7836,
+                  "tooltip": "Japan · 2026-10-30: 7,836 downloader memberships"
+                },
+                {
+                  "x": 125,
+                  "y": 10110,
+                  "tooltip": "Japan · 2026-10-31: 10,110 downloader memberships"
+                },
+                {
+                  "x": 126,
+                  "y": 9258,
+                  "tooltip": "Japan · 2026-11-01: 9,258 downloader memberships"
+                },
+                {
+                  "x": 127,
+                  "y": 6748,
+                  "tooltip": "Japan · 2026-11-02: 6,748 downloader memberships"
+                },
+                {
+                  "x": 128,
+                  "y": 6256,
+                  "tooltip": "Japan · 2026-11-03: 6,256 downloader memberships"
+                }
+              ],
+              "collection_key": "Japan",
+              "line_label": "Japan"
+            }
+          ]
+        },
+        {
+          "title": "Daily catalog coverage",
+          "unit": "count",
+          "ylabel": "TORRENTS WITH DAILY CACHE",
+          "y_max": 500,
+          "series": [
+            {
+              "name": "Observed torrents",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 2,
+                  "tooltip": "2026-06-29: 2 canonical torrents with daily cache"
+                },
+                {
+                  "x": 2,
+                  "y": 13,
+                  "tooltip": "2026-06-30: 13 canonical torrents with daily cache"
+                },
+                {
+                  "x": 3,
+                  "y": 23,
+                  "tooltip": "2026-07-01: 23 canonical torrents with daily cache"
+                },
+                {
+                  "x": 4,
+                  "y": 64,
+                  "tooltip": "2026-07-02: 64 canonical torrents with daily cache"
+                },
+                {
+                  "x": 5,
+                  "y": 116,
+                  "tooltip": "2026-07-03: 116 canonical torrents with daily cache"
+                },
+                {
+                  "x": 6,
+                  "y": 116,
+                  "tooltip": "2026-07-04: 116 canonical torrents with daily cache"
+                },
+                {
+                  "x": 7,
+                  "y": 193,
+                  "tooltip": "2026-07-05: 193 canonical torrents with daily cache"
+                },
+                {
+                  "x": 8,
+                  "y": 223,
+                  "tooltip": "2026-07-06: 223 canonical torrents with daily cache"
+                },
+                {
+                  "x": 9,
+                  "y": 271,
+                  "tooltip": "2026-07-07: 271 canonical torrents with daily cache"
+                },
+                {
+                  "x": 10,
+                  "y": 292,
+                  "tooltip": "2026-07-08: 292 canonical torrents with daily cache"
+                },
+                {
+                  "x": 11,
+                  "y": 297,
+                  "tooltip": "2026-07-09: 297 canonical torrents with daily cache"
+                },
+                {
+                  "x": 12,
+                  "y": 305,
+                  "tooltip": "2026-07-10: 305 canonical torrents with daily cache"
+                },
+                {
+                  "x": 13,
+                  "y": 305,
+                  "tooltip": "2026-07-11: 305 canonical torrents with daily cache"
+                },
+                {
+                  "x": 14,
+                  "y": 323,
+                  "tooltip": "2026-07-12: 323 canonical torrents with daily cache"
+                },
+                {
+                  "x": 15,
+                  "y": 373,
+                  "tooltip": "2026-07-13: 373 canonical torrents with daily cache"
+                },
+                {
+                  "x": 16,
+                  "y": 385,
+                  "tooltip": "2026-07-14: 385 canonical torrents with daily cache"
+                },
+                {
+                  "x": 17,
+                  "y": 390,
+                  "tooltip": "2026-07-15: 390 canonical torrents with daily cache"
+                },
+                {
+                  "x": 18,
+                  "y": 403,
+                  "tooltip": "2026-07-16: 403 canonical torrents with daily cache"
+                },
+                {
+                  "x": 19,
+                  "y": 403,
+                  "tooltip": "2026-07-17: 403 canonical torrents with daily cache"
+                },
+                {
+                  "x": 20,
+                  "y": 416,
+                  "tooltip": "2026-07-18: 416 canonical torrents with daily cache"
+                },
+                {
+                  "x": 21,
+                  "y": 416,
+                  "tooltip": "2026-07-19: 416 canonical torrents with daily cache"
+                },
+                {
+                  "x": 22,
+                  "y": 469,
+                  "tooltip": "2026-07-20: 469 canonical torrents with daily cache"
+                },
+                {
+                  "x": 23,
+                  "y": 477,
+                  "tooltip": "2026-07-21: 477 canonical torrents with daily cache"
+                },
+                {
+                  "x": 24,
+                  "y": 480,
+                  "tooltip": "2026-07-22: 480 canonical torrents with daily cache"
+                },
+                {
+                  "x": 25,
+                  "y": 480,
+                  "tooltip": "2026-07-23: 480 canonical torrents with daily cache"
+                },
+                {
+                  "x": 26,
+                  "y": 480,
+                  "tooltip": "2026-07-24: 480 canonical torrents with daily cache"
+                },
+                {
+                  "x": 27,
+                  "y": 482,
+                  "tooltip": "2026-07-25: 482 canonical torrents with daily cache"
+                },
+                {
+                  "x": 28,
+                  "y": 482,
+                  "tooltip": "2026-07-26: 482 canonical torrents with daily cache"
+                },
+                {
+                  "x": 29,
+                  "y": 492,
+                  "tooltip": "2026-07-27: 492 canonical torrents with daily cache"
+                },
+                {
+                  "x": 30,
+                  "y": 492,
+                  "tooltip": "2026-07-28: 492 canonical torrents with daily cache"
+                },
+                {
+                  "x": 31,
+                  "y": 493,
+                  "tooltip": "2026-07-29: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 32,
+                  "y": 493,
+                  "tooltip": "2026-07-30: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 33,
+                  "y": 493,
+                  "tooltip": "2026-07-31: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 34,
+                  "y": 493,
+                  "tooltip": "2026-08-01: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 35,
+                  "y": 493,
+                  "tooltip": "2026-08-02: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 36,
+                  "y": 493,
+                  "tooltip": "2026-08-03: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 37,
+                  "y": 493,
+                  "tooltip": "2026-08-04: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 38,
+                  "y": 493,
+                  "tooltip": "2026-08-05: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 39,
+                  "y": 493,
+                  "tooltip": "2026-08-06: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 40,
+                  "y": 493,
+                  "tooltip": "2026-08-07: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 41,
+                  "y": 493,
+                  "tooltip": "2026-08-08: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 42,
+                  "y": 493,
+                  "tooltip": "2026-08-09: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 43,
+                  "y": 493,
+                  "tooltip": "2026-08-10: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 44,
+                  "y": 493,
+                  "tooltip": "2026-08-11: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 45,
+                  "y": 493,
+                  "tooltip": "2026-08-12: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 46,
+                  "y": 493,
+                  "tooltip": "2026-08-13: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 47,
+                  "y": 493,
+                  "tooltip": "2026-08-14: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 48,
+                  "y": 493,
+                  "tooltip": "2026-08-15: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 49,
+                  "y": 493,
+                  "tooltip": "2026-08-16: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 50,
+                  "y": 493,
+                  "tooltip": "2026-08-17: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 51,
+                  "y": 493,
+                  "tooltip": "2026-08-18: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 52,
+                  "y": 493,
+                  "tooltip": "2026-08-19: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 53,
+                  "y": 493,
+                  "tooltip": "2026-08-20: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 54,
+                  "y": 493,
+                  "tooltip": "2026-08-21: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 55,
+                  "y": 493,
+                  "tooltip": "2026-08-22: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 56,
+                  "y": 493,
+                  "tooltip": "2026-08-23: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 57,
+                  "y": 493,
+                  "tooltip": "2026-08-24: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 58,
+                  "y": 493,
+                  "tooltip": "2026-08-25: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 59,
+                  "y": 493,
+                  "tooltip": "2026-08-26: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 60,
+                  "y": 493,
+                  "tooltip": "2026-08-27: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 61,
+                  "y": 493,
+                  "tooltip": "2026-08-28: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 62,
+                  "y": 493,
+                  "tooltip": "2026-08-29: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 63,
+                  "y": 493,
+                  "tooltip": "2026-08-30: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 64,
+                  "y": 493,
+                  "tooltip": "2026-08-31: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 65,
+                  "y": 493,
+                  "tooltip": "2026-09-01: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 66,
+                  "y": 493,
+                  "tooltip": "2026-09-02: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 67,
+                  "y": 493,
+                  "tooltip": "2026-09-03: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 68,
+                  "y": 493,
+                  "tooltip": "2026-09-04: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 69,
+                  "y": 493,
+                  "tooltip": "2026-09-05: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 70,
+                  "y": 493,
+                  "tooltip": "2026-09-06: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 71,
+                  "y": 493,
+                  "tooltip": "2026-09-07: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 72,
+                  "y": 493,
+                  "tooltip": "2026-09-08: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 73,
+                  "y": 493,
+                  "tooltip": "2026-09-09: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 74,
+                  "y": 493,
+                  "tooltip": "2026-09-10: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 75,
+                  "y": 493,
+                  "tooltip": "2026-09-11: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 76,
+                  "y": 493,
+                  "tooltip": "2026-09-12: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 77,
+                  "y": 493,
+                  "tooltip": "2026-09-13: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 78,
+                  "y": 493,
+                  "tooltip": "2026-09-14: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 79,
+                  "y": 493,
+                  "tooltip": "2026-09-15: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 80,
+                  "y": 493,
+                  "tooltip": "2026-09-16: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 81,
+                  "y": 493,
+                  "tooltip": "2026-09-17: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 82,
+                  "y": 493,
+                  "tooltip": "2026-09-18: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 83,
+                  "y": 493,
+                  "tooltip": "2026-09-19: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 84,
+                  "y": 493,
+                  "tooltip": "2026-09-20: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 85,
+                  "y": 493,
+                  "tooltip": "2026-09-21: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 86,
+                  "y": 493,
+                  "tooltip": "2026-09-22: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 87,
+                  "y": 493,
+                  "tooltip": "2026-09-23: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 88,
+                  "y": 493,
+                  "tooltip": "2026-09-24: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 89,
+                  "y": 493,
+                  "tooltip": "2026-09-25: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 90,
+                  "y": 493,
+                  "tooltip": "2026-09-26: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 91,
+                  "y": 493,
+                  "tooltip": "2026-09-27: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 92,
+                  "y": 493,
+                  "tooltip": "2026-09-28: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 93,
+                  "y": 493,
+                  "tooltip": "2026-09-29: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 94,
+                  "y": 493,
+                  "tooltip": "2026-09-30: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 95,
+                  "y": 493,
+                  "tooltip": "2026-10-01: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 96,
+                  "y": 493,
+                  "tooltip": "2026-10-02: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 97,
+                  "y": 493,
+                  "tooltip": "2026-10-03: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 98,
+                  "y": 493,
+                  "tooltip": "2026-10-04: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 99,
+                  "y": 493,
+                  "tooltip": "2026-10-05: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 100,
+                  "y": 493,
+                  "tooltip": "2026-10-06: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 101,
+                  "y": 493,
+                  "tooltip": "2026-10-07: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 102,
+                  "y": 493,
+                  "tooltip": "2026-10-08: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 103,
+                  "y": 493,
+                  "tooltip": "2026-10-09: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 104,
+                  "y": 493,
+                  "tooltip": "2026-10-10: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 105,
+                  "y": 493,
+                  "tooltip": "2026-10-11: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 106,
+                  "y": 493,
+                  "tooltip": "2026-10-12: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 107,
+                  "y": 493,
+                  "tooltip": "2026-10-13: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 108,
+                  "y": 493,
+                  "tooltip": "2026-10-14: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 109,
+                  "y": 493,
+                  "tooltip": "2026-10-15: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 110,
+                  "y": 493,
+                  "tooltip": "2026-10-16: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 111,
+                  "y": 493,
+                  "tooltip": "2026-10-17: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 112,
+                  "y": 493,
+                  "tooltip": "2026-10-18: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 113,
+                  "y": 493,
+                  "tooltip": "2026-10-19: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 114,
+                  "y": 493,
+                  "tooltip": "2026-10-20: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 115,
+                  "y": 493,
+                  "tooltip": "2026-10-21: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 116,
+                  "y": 493,
+                  "tooltip": "2026-10-22: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 117,
+                  "y": 493,
+                  "tooltip": "2026-10-23: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 118,
+                  "y": 493,
+                  "tooltip": "2026-10-24: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 119,
+                  "y": 493,
+                  "tooltip": "2026-10-25: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 120,
+                  "y": 493,
+                  "tooltip": "2026-10-26: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 121,
+                  "y": 493,
+                  "tooltip": "2026-10-27: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 122,
+                  "y": 493,
+                  "tooltip": "2026-10-28: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 123,
+                  "y": 493,
+                  "tooltip": "2026-10-29: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 124,
+                  "y": 493,
+                  "tooltip": "2026-10-30: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 125,
+                  "y": 493,
+                  "tooltip": "2026-10-31: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 126,
+                  "y": 493,
+                  "tooltip": "2026-11-01: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 127,
+                  "y": 493,
+                  "tooltip": "2026-11-02: 493 canonical torrents with daily cache"
+                },
+                {
+                  "x": 128,
+                  "y": 491,
+                  "tooltip": "2026-11-03: 491 canonical torrents with daily cache"
+                }
+              ],
+              "collection_key": "Observed torrents",
+              "line_label": "Observed torrents"
+            }
+          ]
+        }
+      ],
+      "reference_lines": [
+        {
+          "x": 21,
+          "label": "July 19 final"
+        }
+      ],
+      "footer": "Daily intervals · missing intervals are not connected · final marked July 19",
+      "allow_label_callouts": true,
+      "layout": "izzi-standard",
+      "columns": 1
+    }
+  },
+  "chart_renderers": {
+    "asia-activity-coverage": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "1d132d25f4cc0f0776de98b77abb784fac34df52f5f8d3a2279e54b6403e4347",
+      "wrapper_sha256": "20cacde54126c3c004c3046e48e6a1a6a9b56d49351c656501627a9848a88b65",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    }
+  }
+}
