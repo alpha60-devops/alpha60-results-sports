@@ -1,0 +1,212 @@
+{
+  "schema": "alpha60-h3-products/1",
+  "collection": "kung-fu-soccer-2026",
+  "h3_resolution": 8,
+  "geolocation_provider": "IPinfo",
+  "products": [
+    {
+      "file": "kung-fu-soccer-2026-cumulative-aggregate.geojson.gz",
+      "sha256": "be39897f89d819e0d654bc1e669e0b0d1e4bf89677010101cbaee5d84f8be6b2",
+      "uncompressed_sha256": "62c34b93d7dd0a32f1b1c68c5b6a2a2c5205d04894b924bec505472887a4a3d1",
+      "bytes": 541798
+    },
+    {
+      "file": "kung-fu-soccer-2026-cumulative-btiha.geojson.gz",
+      "sha256": "9816e84dbfe2cef42539ee99444fddc256b4af3d7cd94a921c1b6b0b81663cda",
+      "uncompressed_sha256": "06020aa62998f283448373a14691cf002d4e2476192838463f47759e45919044",
+      "bytes": 1882625
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00001.geojson.gz",
+      "sha256": "e4dce895ab32e84d27f4a75f972eb0fde604cbdd5a75e257724315ff5424cd9e",
+      "uncompressed_sha256": "1ff8567116821ff580a5c78b0bebce061130e8407818c021eed157d4af53c07c",
+      "bytes": 12415
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00002.geojson.gz",
+      "sha256": "e058ab25d77a396e7d96a4051717ea55ae0e2221bcc7ed4901ae6dcee630d56f",
+      "uncompressed_sha256": "3add98eef7915b556a04a795f513b1e62393e788244877b731cf29fa89112c57",
+      "bytes": 46948
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00003.geojson.gz",
+      "sha256": "79aab6c735a332bd763a6a95afb6961a6ae8f288f034efe4f8492e0536a20cef",
+      "uncompressed_sha256": "3a17dbaf1052e77ba3bbfc7940938efdfe4206332be4b7ba48829bbafb25753b",
+      "bytes": 31302
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00004.geojson.gz",
+      "sha256": "9eeb30fe8ccb8420e9426153ec0d5815652d10f2fd067ddbc9507e32d5bed932",
+      "uncompressed_sha256": "bcf56c531c8f8581ca8063555f4ece07e876d1e2e4f8aacdd7cc864467036854",
+      "bytes": 47023
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00005.geojson.gz",
+      "sha256": "545fd7a0d15218e3fbd10fae6d57f977d04e69f8c2d19769cc8a5b9b13c8828f",
+      "uncompressed_sha256": "30a801e7344fa0e825f674fbdbf3f0673c2363665fa02cce0197fc46cdee214a",
+      "bytes": 58597
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00006.geojson.gz",
+      "sha256": "b73fb21815ed4630859d084d9f2d7623d012f6e780867ae734ebf95401debec1",
+      "uncompressed_sha256": "85e68033ba0417d3d1df6305d010327317974ac1cc2aaf4ffabe938b657e2cb8",
+      "bytes": 53915
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00007.geojson.gz",
+      "sha256": "32ea1270bc2e924f93339f1a452d25ba1bc3a24c4a556fbd242f6ca6922cb5a9",
+      "uncompressed_sha256": "ee1505256d71d7fa73433dcc4f9246e118d2e9b9088000ecefc4cf1f0ef06ef5",
+      "bytes": 69552
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00008.geojson.gz",
+      "sha256": "414a9347b2cd219e994a8bcefa17b6c65beb8f8e5ebcae1640104fcb6bba3ba2",
+      "uncompressed_sha256": "efcc20e28d6002d13c5e951b1da1c7571d2b6d4d54991a1c9907eba3e1bc4f83",
+      "bytes": 83418
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00009.geojson.gz",
+      "sha256": "26cb166f99fd7a88b67a055942dad2f6ea2e985d783c3dfbbe5a56146b91bb80",
+      "uncompressed_sha256": "ed337abb87486017ef10ffb7c94b5fa13d28641a7b573462858e820eadffa5ac",
+      "bytes": 77263
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00010.geojson.gz",
+      "sha256": "a49a79a49341d64992cf54e4cecbf5345caf95c6c6b719609abac61e49b49380",
+      "uncompressed_sha256": "f661c66e5153be1d0e94aefb1671de33c7c7a66c7e9b266243b319169cc6bdd5",
+      "bytes": 83191
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00011.geojson.gz",
+      "sha256": "ed543606160c47f6895889d0669c86c5525baafd764edb8739048f6ae275a7e1",
+      "uncompressed_sha256": "f8709ac16f5bdf5a7cb8463028c1fe07d15b2dee71030c6633fc7959fb854979",
+      "bytes": 84978
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00012.geojson.gz",
+      "sha256": "875d5490c000ad3342608280345ef9fd29e62104c707436dab35b974c9538868",
+      "uncompressed_sha256": "e7f748289ca10a04c6ad691e3f88966b5abcb003535a4c416da9ff2a5b3eacdf",
+      "bytes": 78115
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00013.geojson.gz",
+      "sha256": "33cfc85a834a87dd1cdd7ef8667cc665d273fbe15c4fba696378c34fc15075ce",
+      "uncompressed_sha256": "1fb60871dd9b3d7423c1405bab95615cd75f8bd6caba829a9b095f8e7548d746",
+      "bytes": 74361
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00014.geojson.gz",
+      "sha256": "e4b6318195ea3847a954753d044a6112f4d01c329c99e9b66ae2540d41b0c8c0",
+      "uncompressed_sha256": "b8b4ed3d85bf7b1aa00272009b5d5d804a92a0f21dfe3b94d17925969bbb8ffe",
+      "bytes": 89035
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00015.geojson.gz",
+      "sha256": "897dfb8c13f0cc570c3e72ee11b3386921622abe1fa5a6f2cb8a9c864fa124d2",
+      "uncompressed_sha256": "4c10dc8c45feaa03b3866074d29d873f7d8b3b74747795e71472124c95013dac",
+      "bytes": 82318
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00016.geojson.gz",
+      "sha256": "f4d8a895a3d5aa47369014c30e5fadcf733df690c89161c98f357a24e0efe5a1",
+      "uncompressed_sha256": "8a5219858baee5cf408a20eb03edb443404ff65cb005f10270c96cb380ecbbbd",
+      "bytes": 72458
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00017.geojson.gz",
+      "sha256": "60c7b8386ffac9dfcf66ab43b5837275fe80334a2b17e5557401b4b5be7a86d9",
+      "uncompressed_sha256": "a014be3b02466794e6efad0ae73cd44abb679248767a32805c3ce0fc3e2c5331",
+      "bytes": 60749
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00018.geojson.gz",
+      "sha256": "86632d429a71cd488a58183bf2aafbc1b792022d2f36e1072d99ea3a44e345ff",
+      "uncompressed_sha256": "0cec989b03bab77665b2c833ce0c0424b35c8fa3006aa63b531e1b5c0d9cd680",
+      "bytes": 61168
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00019.geojson.gz",
+      "sha256": "52aff7b3f233ef3bfd4fd73c3a48705241e20570a0a39f4436a1ffe6661bdf70",
+      "uncompressed_sha256": "5f9ed90793f492447f4eb07b29319fefa3c676e55eca803905c025f0258ed57a",
+      "bytes": 74999
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00020.geojson.gz",
+      "sha256": "fc3bb37bbba11201459f56e6dbe3e0c706a418793fc40b51b90cd6f1987dfacf",
+      "uncompressed_sha256": "432aec0bcd39e8d0f72a71d96599fd02a37c738fb64b19dddfb9044e133fe38c",
+      "bytes": 80398
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00021.geojson.gz",
+      "sha256": "777ce2cd645b5a863af18ba12bc3c0d4c45807db408c837da1878de671e49f13",
+      "uncompressed_sha256": "c361855ba68e844fc0226cd5b23a89455e971fc6314f387a6755e9169d05c551",
+      "bytes": 90198
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00022.geojson.gz",
+      "sha256": "7b98da282c7c758939cd0b4c47689f5f0d7c67963e088647c27ede5f8d51197b",
+      "uncompressed_sha256": "596d4e5882e8151f04549e3a5899349526f6144e35e1df1f4febdea91b0fee55",
+      "bytes": 85160
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00023.geojson.gz",
+      "sha256": "79d6118f9689db15d9f8bd22cd1d11dbb8af2fab783bfef0f80d724e59611601",
+      "uncompressed_sha256": "fbe4f3ac0e655fce016165133283600be80dff98653b728e91d07ed5da5e122a",
+      "bytes": 85790
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00024.geojson.gz",
+      "sha256": "1a011658b3643078286eef5ef699037fe61f3a37fc1fb3976eea4e73cafcf95e",
+      "uncompressed_sha256": "9d05a3f55747797f4a92d4eb85749b48914031b4143e786b009e11b8bfd334be",
+      "bytes": 93844
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00025.geojson.gz",
+      "sha256": "d3911dffb4d31956cf5ab72c80527d86101f6a08deb77c807acbacb71c342d9e",
+      "uncompressed_sha256": "00d3f98da29c53a3a1812bd2db81f12ae2360b15b7067a9cb0671b1fe8703808",
+      "bytes": 91435
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00026.geojson.gz",
+      "sha256": "659286c6a65cc6d38b9209216dfa82b67dba06a56e16feae9bba5822ba7473a5",
+      "uncompressed_sha256": "ff98fd30b05460f2d348639a7fa2c9372699f44424f93ff361676a8e36c097df",
+      "bytes": 88483
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00027.geojson.gz",
+      "sha256": "ddf35c3a93284e5c89f1ca3725a7bbca9b0bd330e41a0b9260eff6091a029632",
+      "uncompressed_sha256": "af92d17f03023c8dc349232dcf8d4cade359457c0646d6747305b31e170e46f7",
+      "bytes": 90782
+    },
+    {
+      "file": "kung-fu-soccer-2026-day-00028.geojson.gz",
+      "sha256": "a4945771c4d9ad2f13a8eed7a9bdbab3da1cdd1c3c69659eaf6a41c7c2cb9b80",
+      "uncompressed_sha256": "41a0a913e91b831e9f1e2b988d9140c3b8206180c52d9803d627be79b49607c2",
+      "bytes": 88587
+    },
+    {
+      "file": "kung-fu-soccer-2026-week-00001.geojson.gz",
+      "sha256": "74b9364073e7e4b94ff4adffd1b48648a6e25358c56db8a7fa7d665d25cfa76f",
+      "uncompressed_sha256": "292a8de45c546b52c045bdedb528f8b31b68a75d42e5bf9d6fc65ecbff441647",
+      "bytes": 547056
+    },
+    {
+      "file": "kung-fu-soccer-2026-week-00002.geojson.gz",
+      "sha256": "a7749ffec7c9ee12dd3b3011869ca4c5d3ba8089870af2416fb8c54d39648948",
+      "uncompressed_sha256": "70dee18098578a7cabc92502858276421c8f07224c197b95cb5abfb7ba5c4c84",
+      "bytes": 968087
+    },
+    {
+      "file": "kung-fu-soccer-2026-week-00003.geojson.gz",
+      "sha256": "8d0acd4e3f869144408e11a9f0a1e1ec0e78983cc57bbe085eb053cb417c3f3f",
+      "uncompressed_sha256": "49a468a88e927ad85c7fe9711a1f4eafd2871344db6cb88cacc7d488913bbb02",
+      "bytes": 970709
+    },
+    {
+      "file": "kung-fu-soccer-2026-week-00004.geojson.gz",
+      "sha256": "3abfe7599ed2a7dfa7168783b3ff2f89022ae00118d49f9a3cbb6be660534f45",
+      "uncompressed_sha256": "c74202a9f6468affe88164aa1ef9df6729f16a9f05a88f83b39593d5d485386a",
+      "bytes": 1107430
+    }
+  ]
+}

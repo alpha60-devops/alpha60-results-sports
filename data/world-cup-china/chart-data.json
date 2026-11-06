@@ -1,0 +1,2614 @@
+{
+  "first14": {
+    "label": "First 14 collection days",
+    "roles": {
+      "downloaders": {
+        "city": {
+          "id": "china-city",
+          "title": "City distribution · downloaders",
+          "height": 650,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China downloaders memberships",
+            "xDomain": [
+              0,
+              1
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 1
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Nanjing",
+              "collection": "World Cup",
+              "share": 0.30333574449143114,
+              "memberships": 109031
+            },
+            {
+              "label": "Nanjing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.599276279898499,
+              "memberships": 239472
+            },
+            {
+              "label": "Shanghai",
+              "collection": "World Cup",
+              "share": 0.15442354774093034,
+              "memberships": 55506
+            },
+            {
+              "label": "Shanghai",
+              "collection": "Kung Fu Soccer",
+              "share": 0.058275484106686155,
+              "memberships": 23287
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "World Cup",
+              "share": 0.14952982417093255,
+              "memberships": 53747
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.01534276605222196,
+              "memberships": 6131
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "World Cup",
+              "share": 0.10592588470954818,
+              "memberships": 38074
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "Kung Fu Soccer",
+              "share": 0.04044023803684666,
+              "memberships": 16160
+            },
+            {
+              "label": "Xi’an",
+              "collection": "World Cup",
+              "share": 0.016086133986200755,
+              "memberships": 5782
+            },
+            {
+              "label": "Xi’an",
+              "collection": "Kung Fu Soccer",
+              "share": 0.06439407210174124,
+              "memberships": 25732
+            },
+            {
+              "label": "Wuxi",
+              "collection": "World Cup",
+              "share": 0.0060093478744714,
+              "memberships": 2160
+            },
+            {
+              "label": "Wuxi",
+              "collection": "Kung Fu Soccer",
+              "share": 0.041033328161520714,
+              "memberships": 16397
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "World Cup",
+              "share": 0.03022757622969063,
+              "memberships": 10865
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.014541969259413116,
+              "memberships": 5811
+            },
+            {
+              "label": "Beijing",
+              "collection": "World Cup",
+              "share": 0.026043289561540173,
+              "memberships": 9361
+            },
+            {
+              "label": "Beijing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.013791222266154824,
+              "memberships": 5511
+            },
+            {
+              "label": "Suzhou",
+              "collection": "World Cup",
+              "share": 0.0174298909414645,
+              "memberships": 6265
+            },
+            {
+              "label": "Suzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.003523505888358917,
+              "memberships": 1408
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "World Cup",
+              "share": 0.01412753171600267,
+              "memberships": 5078
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.010573020155054279,
+              "memberships": 4225
+            },
+            {
+              "label": "Qingdao",
+              "collection": "World Cup",
+              "share": 0.014085800133541064,
+              "memberships": 5063
+            },
+            {
+              "label": "Qingdao",
+              "collection": "Kung Fu Soccer",
+              "share": 0.011226170039188993,
+              "memberships": 4486
+            },
+            {
+              "label": "Chengdu",
+              "collection": "World Cup",
+              "share": 0.010855775651012686,
+              "memberships": 3902
+            },
+            {
+              "label": "Chengdu",
+              "collection": "Kung Fu Soccer",
+              "share": 0.011268712368806963,
+              "memberships": 4503
+            }
+          ]
+        },
+        "network": {
+          "id": "china-network",
+          "title": "Network flags · downloaders",
+          "height": 500,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China downloaders memberships",
+            "xDomain": [
+              0,
+              0.2
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 2
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Hosting",
+              "collection": "World Cup",
+              "share": 0.05048408635655464,
+              "memberships": 18146
+            },
+            {
+              "label": "Hosting",
+              "collection": "Kung Fu Soccer",
+              "share": 0.005347821081976567,
+              "memberships": 2137
+            },
+            {
+              "label": "VPN",
+              "collection": "World Cup",
+              "share": 0.020440129089695083,
+              "memberships": 7347
+            },
+            {
+              "label": "VPN",
+              "collection": "Kung Fu Soccer",
+              "share": 0.010915861281975565,
+              "memberships": 4362
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "World Cup",
+              "share": 0.011506788337413755,
+              "memberships": 4136
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "Kung Fu Soccer",
+              "share": 0.013293226760626824,
+              "memberships": 5312
+            },
+            {
+              "label": "Satellite",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Satellite",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Proxy",
+              "collection": "World Cup",
+              "share": 0.00026430002225684396,
+              "memberships": 95
+            },
+            {
+              "label": "Proxy",
+              "collection": "Kung Fu Soccer",
+              "share": 0.00011761702894379908,
+              "memberships": 47
+            },
+            {
+              "label": "Relay",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Relay",
+              "collection": "Kung Fu Soccer",
+              "share": 6.2562249438191e-05,
+              "memberships": 25
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "Kung Fu Soccer",
+              "share": 6.2562249438191e-05,
+              "memberships": 25
+            }
+          ]
+        },
+        "caption": "First 14 collection days. World Cup: 2026-06-29 to 2026-07-12, 359,440 memberships; Kung Fu Soccer: 2026-10-03 to 2026-10-16, 399,602 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
+        "overlap": 0.5952657488152414
+      },
+      "uploaders": {
+        "city": {
+          "id": "china-city",
+          "title": "City distribution · uploaders",
+          "height": 650,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China uploaders memberships",
+            "xDomain": [
+              0,
+              1
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 1
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Nanjing",
+              "collection": "World Cup",
+              "share": 0.547308020998657,
+              "memberships": 4483
+            },
+            {
+              "label": "Nanjing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.8037835895784036,
+              "memberships": 64879
+            },
+            {
+              "label": "Xi’an",
+              "collection": "World Cup",
+              "share": 0.11524844341350263,
+              "memberships": 944
+            },
+            {
+              "label": "Xi’an",
+              "collection": "Kung Fu Soccer",
+              "share": 0.025112429847491853,
+              "memberships": 2027
+            },
+            {
+              "label": "Wuxi",
+              "collection": "World Cup",
+              "share": 0.02661457697472836,
+              "memberships": 218
+            },
+            {
+              "label": "Wuxi",
+              "collection": "Kung Fu Soccer",
+              "share": 0.05780690560848396,
+              "memberships": 4666
+            },
+            {
+              "label": "Shanghai",
+              "collection": "World Cup",
+              "share": 0.05530460261262361,
+              "memberships": 453
+            },
+            {
+              "label": "Shanghai",
+              "collection": "Kung Fu Soccer",
+              "share": 0.022572692245747487,
+              "memberships": 1822
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "World Cup",
+              "share": 0.04504944451226956,
+              "memberships": 369
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "Kung Fu Soccer",
+              "share": 0.017617106681368237,
+              "memberships": 1422
+            },
+            {
+              "label": "Luancheng",
+              "collection": "World Cup",
+              "share": 0.041020632401416186,
+              "memberships": 336
+            },
+            {
+              "label": "Luancheng",
+              "collection": "Kung Fu Soccer",
+              "share": 0.00310962994164798,
+              "memberships": 251
+            },
+            {
+              "label": "Beijing",
+              "collection": "World Cup",
+              "share": 0.03332926382615065,
+              "memberships": 273
+            },
+            {
+              "label": "Beijing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.005525477904282865,
+              "memberships": 446
+            },
+            {
+              "label": "Baoding",
+              "collection": "World Cup",
+              "share": 0.014528140642168234,
+              "memberships": 119
+            },
+            {
+              "label": "Baoding",
+              "collection": "Kung Fu Soccer",
+              "share": 8.67227473766369e-05,
+              "memberships": 7
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "World Cup",
+              "share": 0.009156391161030399,
+              "memberships": 75
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.00621925988329596,
+              "memberships": 502
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "World Cup",
+              "share": 0.009034305945549994,
+              "memberships": 74
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.002923795482983758,
+              "memberships": 236
+            },
+            {
+              "label": "Chengdu",
+              "collection": "World Cup",
+              "share": 0.006958857282383104,
+              "memberships": 57
+            },
+            {
+              "label": "Chengdu",
+              "collection": "Kung Fu Soccer",
+              "share": 0.004422860116208482,
+              "memberships": 357
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "World Cup",
+              "share": 0.005493834696618239,
+              "memberships": 45
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.003989246379325297,
+              "memberships": 322
+            },
+            {
+              "label": "Qingdao",
+              "collection": "World Cup",
+              "share": 0.004639238188255402,
+              "memberships": 38
+            },
+            {
+              "label": "Qingdao",
+              "collection": "Kung Fu Soccer",
+              "share": 0.003989246379325297,
+              "memberships": 322
+            }
+          ]
+        },
+        "network": {
+          "id": "china-network",
+          "title": "Network flags · uploaders",
+          "height": 500,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China uploaders memberships",
+            "xDomain": [
+              0,
+              0.2
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 2
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Hosting",
+              "collection": "World Cup",
+              "share": 0.027225003052130388,
+              "memberships": 223
+            },
+            {
+              "label": "Hosting",
+              "collection": "Kung Fu Soccer",
+              "share": 0.001164562607629124,
+              "memberships": 94
+            },
+            {
+              "label": "VPN",
+              "collection": "World Cup",
+              "share": 0.0114760102551581,
+              "memberships": 94
+            },
+            {
+              "label": "VPN",
+              "collection": "Kung Fu Soccer",
+              "share": 0.011150067519853315,
+              "memberships": 900
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "World Cup",
+              "share": 0.0297887925772189,
+              "memberships": 244
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0038405788123939194,
+              "memberships": 310
+            },
+            {
+              "label": "Satellite",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Satellite",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Proxy",
+              "collection": "World Cup",
+              "share": 0.00024417043096081065,
+              "memberships": 2
+            },
+            {
+              "label": "Proxy",
+              "collection": "Kung Fu Soccer",
+              "share": 4.955585564379251e-05,
+              "memberships": 4
+            },
+            {
+              "label": "Relay",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Relay",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            }
+          ]
+        },
+        "caption": "First 14 collection days. World Cup: 2026-06-29 to 2026-07-12, 8,191 memberships; Kung Fu Soccer: 2026-10-03 to 2026-10-16, 80,717 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
+        "overlap": 0.7066110423009276
+      }
+    }
+  },
+  "next14": {
+    "label": "Collection days 15–28",
+    "roles": {
+      "downloaders": {
+        "city": {
+          "id": "china-city",
+          "title": "City distribution · downloaders",
+          "height": 650,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China downloaders memberships",
+            "xDomain": [
+              0,
+              1
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 1
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Nanjing",
+              "collection": "World Cup",
+              "share": 0.28617964225144793,
+              "memberships": 268302
+            },
+            {
+              "label": "Nanjing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.7312333114511134,
+              "memberships": 363129
+            },
+            {
+              "label": "Shanghai",
+              "collection": "World Cup",
+              "share": 0.16187961985216473,
+              "memberships": 151767
+            },
+            {
+              "label": "Shanghai",
+              "collection": "Kung Fu Soccer",
+              "share": 0.03981087318112437,
+              "memberships": 19770
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "World Cup",
+              "share": 0.15539556067539173,
+              "memberships": 145688
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.018447516905021766,
+              "memberships": 9161
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "World Cup",
+              "share": 0.10947596343583672,
+              "memberships": 102637
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "Kung Fu Soccer",
+              "share": 0.02511689535600224,
+              "memberships": 12473
+            },
+            {
+              "label": "Wuxi",
+              "collection": "World Cup",
+              "share": 0.004235597794203919,
+              "memberships": 3971
+            },
+            {
+              "label": "Wuxi",
+              "collection": "Kung Fu Soccer",
+              "share": 0.06351817768094112,
+              "memberships": 31543
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "World Cup",
+              "share": 0.033404797713139846,
+              "memberships": 31318
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.009720135804010488,
+              "memberships": 4827
+            },
+            {
+              "label": "Xi’an",
+              "collection": "World Cup",
+              "share": 0.01423314453937474,
+              "memberships": 13344
+            },
+            {
+              "label": "Xi’an",
+              "collection": "Kung Fu Soccer",
+              "share": 0.02843748867293062,
+              "memberships": 14122
+            },
+            {
+              "label": "Beijing",
+              "collection": "World Cup",
+              "share": 0.02442801830341429,
+              "memberships": 22902
+            },
+            {
+              "label": "Beijing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0075634617940466935,
+              "memberships": 3756
+            },
+            {
+              "label": "Suzhou",
+              "collection": "World Cup",
+              "share": 0.020133755719816966,
+              "memberships": 18876
+            },
+            {
+              "label": "Suzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0035139086343481045,
+              "memberships": 1745
+            },
+            {
+              "label": "Qingdao",
+              "collection": "World Cup",
+              "share": 0.014760061011380969,
+              "memberships": 13838
+            },
+            {
+              "label": "Qingdao",
+              "collection": "Kung Fu Soccer",
+              "share": 0.005765226601798638,
+              "memberships": 2863
+            },
+            {
+              "label": "Quanzhou",
+              "collection": "World Cup",
+              "share": 0.01383635723656843,
+              "memberships": 12972
+            },
+            {
+              "label": "Quanzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0019955779121140237,
+              "memberships": 991
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "World Cup",
+              "share": 0.013397971264919522,
+              "memberships": 12561
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.005408801485306022,
+              "memberships": 2686
+            }
+          ]
+        },
+        "network": {
+          "id": "china-network",
+          "title": "Network flags · downloaders",
+          "height": 500,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China downloaders memberships",
+            "xDomain": [
+              0,
+              0.2
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 2
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Hosting",
+              "collection": "World Cup",
+              "share": 0.05234285836186575,
+              "memberships": 49073
+            },
+            {
+              "label": "Hosting",
+              "collection": "Kung Fu Soccer",
+              "share": 0.006377391773627763,
+              "memberships": 3167
+            },
+            {
+              "label": "VPN",
+              "collection": "World Cup",
+              "share": 0.01976256759783687,
+              "memberships": 18528
+            },
+            {
+              "label": "VPN",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0110411238063786,
+              "memberships": 5483
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "World Cup",
+              "share": 0.010772988597698208,
+              "memberships": 10100
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "Kung Fu Soccer",
+              "share": 0.005277910905803084,
+              "memberships": 2621
+            },
+            {
+              "label": "Satellite",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Satellite",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Proxy",
+              "collection": "World Cup",
+              "share": 0.0004479856644587373,
+              "memberships": 420
+            },
+            {
+              "label": "Proxy",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0001228357746104495,
+              "memberships": 61
+            },
+            {
+              "label": "Relay",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Relay",
+              "collection": "Kung Fu Soccer",
+              "share": 4.228772568556458e-05,
+              "memberships": 21
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "World Cup",
+              "share": 7.466427740978955e-06,
+              "memberships": 7
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "Kung Fu Soccer",
+              "share": 4.228772568556458e-05,
+              "memberships": 21
+            }
+          ]
+        },
+        "caption": "Collection days 15–28. World Cup: 2026-07-13 to 2026-07-26, 937,530 memberships; Kung Fu Soccer: 2026-10-17 to 2026-10-30, 496,598 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
+        "overlap": 0.4803624214815557
+      },
+      "uploaders": {
+        "city": {
+          "id": "china-city",
+          "title": "City distribution · uploaders",
+          "height": 650,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China uploaders memberships",
+            "xDomain": [
+              0,
+              1
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 1
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Nanjing",
+              "collection": "World Cup",
+              "share": 0.38520696674960414,
+              "memberships": 5109
+            },
+            {
+              "label": "Nanjing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.8835974340456264,
+              "memberships": 145593
+            },
+            {
+              "label": "Xi’an",
+              "collection": "World Cup",
+              "share": 0.24564578149739877,
+              "memberships": 3258
+            },
+            {
+              "label": "Xi’an",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0053770945482573,
+              "memberships": 886
+            },
+            {
+              "label": "Wuxi",
+              "collection": "World Cup",
+              "share": 0.021337555605820704,
+              "memberships": 283
+            },
+            {
+              "label": "Wuxi",
+              "collection": "Kung Fu Soccer",
+              "share": 0.07748842346743702,
+              "memberships": 12768
+            },
+            {
+              "label": "Shanghai",
+              "collection": "World Cup",
+              "share": 0.06680238256804645,
+              "memberships": 886
+            },
+            {
+              "label": "Shanghai",
+              "collection": "Kung Fu Soccer",
+              "share": 0.007616539117452495,
+              "memberships": 1255
+            },
+            {
+              "label": "Luancheng",
+              "collection": "World Cup",
+              "share": 0.041167156751866094,
+              "memberships": 546
+            },
+            {
+              "label": "Luancheng",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0005340680815424857,
+              "memberships": 88
+            },
+            {
+              "label": "Beijing",
+              "collection": "World Cup",
+              "share": 0.038151247832315466,
+              "memberships": 506
+            },
+            {
+              "label": "Beijing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0016628937993481941,
+              "memberships": 274
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "World Cup",
+              "share": 0.03558772525069743,
+              "memberships": 472
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "Kung Fu Soccer",
+              "share": 0.005832266208662827,
+              "memberships": 961
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "World Cup",
+              "share": 0.017643067179371183,
+              "memberships": 234
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.002154479192586164,
+              "memberships": 355
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "World Cup",
+              "share": 0.016512101334539696,
+              "memberships": 219
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0009831707864759397,
+              "memberships": 162
+            },
+            {
+              "label": "Chengdu",
+              "collection": "World Cup",
+              "share": 0.012817612908090175,
+              "memberships": 170
+            },
+            {
+              "label": "Chengdu",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0011409636287498558,
+              "memberships": 188
+            },
+            {
+              "label": "Qingdao",
+              "collection": "World Cup",
+              "share": 0.00919852220462942,
+              "memberships": 122
+            },
+            {
+              "label": "Qingdao",
+              "collection": "Kung Fu Soccer",
+              "share": 0.001116687806861561,
+              "memberships": 184
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "World Cup",
+              "share": 0.00407147704139335,
+              "memberships": 54
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0013533770702724354,
+              "memberships": 223
+            }
+          ]
+        },
+        "network": {
+          "id": "china-network",
+          "title": "Network flags · uploaders",
+          "height": 500,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China uploaders memberships",
+            "xDomain": [
+              0,
+              0.2
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 2
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Hosting",
+              "collection": "World Cup",
+              "share": 0.034607554851843476,
+              "memberships": 459
+            },
+            {
+              "label": "Hosting",
+              "collection": "Kung Fu Soccer",
+              "share": 0.00026703404077124286,
+              "memberships": 44
+            },
+            {
+              "label": "VPN",
+              "collection": "World Cup",
+              "share": 0.013420794692000302,
+              "memberships": 178
+            },
+            {
+              "label": "VPN",
+              "collection": "Kung Fu Soccer",
+              "share": 0.010711706408210083,
+              "memberships": 1765
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "World Cup",
+              "share": 0.04350448616451783,
+              "memberships": 577
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0008071710777858023,
+              "memberships": 133
+            },
+            {
+              "label": "Satellite",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Satellite",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Proxy",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Proxy",
+              "collection": "Kung Fu Soccer",
+              "share": 2.4275821888294805e-05,
+              "memberships": 4
+            },
+            {
+              "label": "Relay",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Relay",
+              "collection": "Kung Fu Soccer",
+              "share": 1.2137910944147403e-05,
+              "memberships": 2
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "Kung Fu Soccer",
+              "share": 1.2137910944147403e-05,
+              "memberships": 2
+            }
+          ]
+        },
+        "caption": "Collection days 15–28. World Cup: 2026-07-13 to 2026-07-26, 13,263 memberships; Kung Fu Soccer: 2026-10-17 to 2026-10-30, 164,773 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
+        "overlap": 0.4449675777596497
+      }
+    }
+  },
+  "oct03_16": {
+    "label": "Same dates: October 3–16",
+    "roles": {
+      "downloaders": {
+        "city": {
+          "id": "china-city",
+          "title": "City distribution · downloaders",
+          "height": 650,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China downloaders memberships",
+            "xDomain": [
+              0,
+              1
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 1
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Nanjing",
+              "collection": "World Cup",
+              "share": 0.268431301927221,
+              "memberships": 175888
+            },
+            {
+              "label": "Nanjing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.599276279898499,
+              "memberships": 239472
+            },
+            {
+              "label": "Shanghai",
+              "collection": "World Cup",
+              "share": 0.18307836470078323,
+              "memberships": 119961
+            },
+            {
+              "label": "Shanghai",
+              "collection": "Kung Fu Soccer",
+              "share": 0.058275484106686155,
+              "memberships": 23287
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "World Cup",
+              "share": 0.1335410930889867,
+              "memberships": 87502
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.01534276605222196,
+              "memberships": 6131
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "World Cup",
+              "share": 0.11042756591437694,
+              "memberships": 72357
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "Kung Fu Soccer",
+              "share": 0.04044023803684666,
+              "memberships": 16160
+            },
+            {
+              "label": "Xi’an",
+              "collection": "World Cup",
+              "share": 0.006354884592609776,
+              "memberships": 4164
+            },
+            {
+              "label": "Xi’an",
+              "collection": "Kung Fu Soccer",
+              "share": 0.06439407210174124,
+              "memberships": 25732
+            },
+            {
+              "label": "Wuxi",
+              "collection": "World Cup",
+              "share": 0.002038935114247517,
+              "memberships": 1336
+            },
+            {
+              "label": "Wuxi",
+              "collection": "Kung Fu Soccer",
+              "share": 0.041033328161520714,
+              "memberships": 16397
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "World Cup",
+              "share": 0.04004309844882212,
+              "memberships": 26238
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.014541969259413116,
+              "memberships": 5811
+            },
+            {
+              "label": "Beijing",
+              "collection": "World Cup",
+              "share": 0.026977736537839338,
+              "memberships": 17677
+            },
+            {
+              "label": "Beijing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.013791222266154824,
+              "memberships": 5511
+            },
+            {
+              "label": "Suzhou",
+              "collection": "World Cup",
+              "share": 0.019936084878304876,
+              "memberships": 13063
+            },
+            {
+              "label": "Suzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.003523505888358917,
+              "memberships": 1408
+            },
+            {
+              "label": "Qingdao",
+              "collection": "World Cup",
+              "share": 0.016027617192984598,
+              "memberships": 10502
+            },
+            {
+              "label": "Qingdao",
+              "collection": "Kung Fu Soccer",
+              "share": 0.011226170039188993,
+              "memberships": 4486
+            },
+            {
+              "label": "Quanzhou",
+              "collection": "World Cup",
+              "share": 0.013892534689367625,
+              "memberships": 9103
+            },
+            {
+              "label": "Quanzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0014189118172581719,
+              "memberships": 567
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "World Cup",
+              "share": 0.013170666194577898,
+              "memberships": 8630
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.010573020155054279,
+              "memberships": 4225
+            },
+            {
+              "label": "Chengdu",
+              "collection": "World Cup",
+              "share": 0.01127518908986576,
+              "memberships": 7388
+            },
+            {
+              "label": "Chengdu",
+              "collection": "Kung Fu Soccer",
+              "share": 0.011268712368806963,
+              "memberships": 4503
+            }
+          ]
+        },
+        "network": {
+          "id": "china-network",
+          "title": "Network flags · downloaders",
+          "height": 500,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China downloaders memberships",
+            "xDomain": [
+              0,
+              0.2
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 2
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Hosting",
+              "collection": "World Cup",
+              "share": 0.056797162583709274,
+              "memberships": 37216
+            },
+            {
+              "label": "Hosting",
+              "collection": "Kung Fu Soccer",
+              "share": 0.005347821081976567,
+              "memberships": 2137
+            },
+            {
+              "label": "VPN",
+              "collection": "World Cup",
+              "share": 0.02017874257528493,
+              "memberships": 13222
+            },
+            {
+              "label": "VPN",
+              "collection": "Kung Fu Soccer",
+              "share": 0.010915861281975565,
+              "memberships": 4362
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "World Cup",
+              "share": 0.01043428097014242,
+              "memberships": 6837
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "Kung Fu Soccer",
+              "share": 0.013293226760626824,
+              "memberships": 5312
+            },
+            {
+              "label": "Satellite",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Satellite",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Proxy",
+              "collection": "World Cup",
+              "share": 0.0007157638986392855,
+              "memberships": 469
+            },
+            {
+              "label": "Proxy",
+              "collection": "Kung Fu Soccer",
+              "share": 0.00011761702894379908,
+              "memberships": 47
+            },
+            {
+              "label": "Relay",
+              "collection": "World Cup",
+              "share": 4.578447112831251e-06,
+              "memberships": 3
+            },
+            {
+              "label": "Relay",
+              "collection": "Kung Fu Soccer",
+              "share": 6.2562249438191e-05,
+              "memberships": 25
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "World Cup",
+              "share": 1.3735341338493752e-05,
+              "memberships": 9
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "Kung Fu Soccer",
+              "share": 6.2562249438191e-05,
+              "memberships": 25
+            }
+          ]
+        },
+        "caption": "Same dates: October 3–16. World Cup: 2026-10-03 to 2026-10-16, 655,244 memberships; Kung Fu Soccer: 2026-10-03 to 2026-10-16, 399,602 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
+        "overlap": 0.5474814489027481
+      },
+      "uploaders": {
+        "city": {
+          "id": "china-city",
+          "title": "City distribution · uploaders",
+          "height": 650,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China uploaders memberships",
+            "xDomain": [
+              0,
+              1
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 1
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Nanjing",
+              "collection": "World Cup",
+              "share": 0.09060555471239945,
+              "memberships": 597
+            },
+            {
+              "label": "Nanjing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.8037835895784036,
+              "memberships": 64879
+            },
+            {
+              "label": "Shanghai",
+              "collection": "World Cup",
+              "share": 0.46987403247837306,
+              "memberships": 3096
+            },
+            {
+              "label": "Shanghai",
+              "collection": "Kung Fu Soccer",
+              "share": 0.022572692245747487,
+              "memberships": 1822
+            },
+            {
+              "label": "Beijing",
+              "collection": "World Cup",
+              "share": 0.12247685536500227,
+              "memberships": 807
+            },
+            {
+              "label": "Beijing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.005525477904282865,
+              "memberships": 446
+            },
+            {
+              "label": "Wuxi",
+              "collection": "World Cup",
+              "share": 0.002731825770223099,
+              "memberships": 18
+            },
+            {
+              "label": "Wuxi",
+              "collection": "Kung Fu Soccer",
+              "share": 0.05780690560848396,
+              "memberships": 4666
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "World Cup",
+              "share": 0.04203976324176658,
+              "memberships": 277
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "Kung Fu Soccer",
+              "share": 0.017617106681368237,
+              "memberships": 1422
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "World Cup",
+              "share": 0.0333889816360601,
+              "memberships": 220
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.002923795482983758,
+              "memberships": 236
+            },
+            {
+              "label": "Chengdu",
+              "collection": "World Cup",
+              "share": 0.027773561997268173,
+              "memberships": 183
+            },
+            {
+              "label": "Chengdu",
+              "collection": "Kung Fu Soccer",
+              "share": 0.004422860116208482,
+              "memberships": 357
+            },
+            {
+              "label": "Xi’an",
+              "collection": "World Cup",
+              "share": 0.012596752162695402,
+              "memberships": 83
+            },
+            {
+              "label": "Xi’an",
+              "collection": "Kung Fu Soccer",
+              "share": 0.025112429847491853,
+              "memberships": 2027
+            },
+            {
+              "label": "Wuhan",
+              "collection": "World Cup",
+              "share": 0.023068750948550616,
+              "memberships": 152
+            },
+            {
+              "label": "Wuhan",
+              "collection": "Kung Fu Soccer",
+              "share": 0.003196352689024617,
+              "memberships": 258
+            },
+            {
+              "label": "Qingdao",
+              "collection": "World Cup",
+              "share": 0.021095765670056155,
+              "memberships": 139
+            },
+            {
+              "label": "Qingdao",
+              "collection": "Kung Fu Soccer",
+              "share": 0.003989246379325297,
+              "memberships": 322
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "World Cup",
+              "share": 0.013659128851115495,
+              "memberships": 90
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.00621925988329596,
+              "memberships": 502
+            },
+            {
+              "label": "Haikou",
+              "collection": "World Cup",
+              "share": 0.013507360752769768,
+              "memberships": 89
+            },
+            {
+              "label": "Haikou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0004460027007941326,
+              "memberships": 36
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "World Cup",
+              "share": 0.006981332523903475,
+              "memberships": 46
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.003989246379325297,
+              "memberships": 322
+            }
+          ]
+        },
+        "network": {
+          "id": "china-network",
+          "title": "Network flags · uploaders",
+          "height": 500,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China uploaders memberships",
+            "xDomain": [
+              0,
+              0.2
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 2
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Hosting",
+              "collection": "World Cup",
+              "share": 0.16163302473820004,
+              "memberships": 1065
+            },
+            {
+              "label": "Hosting",
+              "collection": "Kung Fu Soccer",
+              "share": 0.001164562607629124,
+              "memberships": 94
+            },
+            {
+              "label": "VPN",
+              "collection": "World Cup",
+              "share": 0.017301563211412962,
+              "memberships": 114
+            },
+            {
+              "label": "VPN",
+              "collection": "Kung Fu Soccer",
+              "share": 0.011150067519853315,
+              "memberships": 900
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "World Cup",
+              "share": 0.014569737441189862,
+              "memberships": 96
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0038405788123939194,
+              "memberships": 310
+            },
+            {
+              "label": "Satellite",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Satellite",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Proxy",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Proxy",
+              "collection": "Kung Fu Soccer",
+              "share": 4.955585564379251e-05,
+              "memberships": 4
+            },
+            {
+              "label": "Relay",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Relay",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            }
+          ]
+        },
+        "caption": "Same dates: October 3–16. World Cup: 2026-10-03 to 2026-10-16, 6,589 memberships; Kung Fu Soccer: 2026-10-03 to 2026-10-16, 80,717 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
+        "overlap": 0.21094924446432878
+      }
+    }
+  },
+  "oct17_30": {
+    "label": "Same dates: October 17–30",
+    "roles": {
+      "downloaders": {
+        "city": {
+          "id": "china-city",
+          "title": "City distribution · downloaders",
+          "height": 650,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China downloaders memberships",
+            "xDomain": [
+              0,
+              1
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 1
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Nanjing",
+              "collection": "World Cup",
+              "share": 0.27643348130908074,
+              "memberships": 221868
+            },
+            {
+              "label": "Nanjing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.7312333114511134,
+              "memberships": 363129
+            },
+            {
+              "label": "Shanghai",
+              "collection": "World Cup",
+              "share": 0.17350291362294717,
+              "memberships": 139255
+            },
+            {
+              "label": "Shanghai",
+              "collection": "Kung Fu Soccer",
+              "share": 0.03981087318112437,
+              "memberships": 19770
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "World Cup",
+              "share": 0.14375243736364782,
+              "memberships": 115377
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.018447516905021766,
+              "memberships": 9161
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "World Cup",
+              "share": 0.10071030850638356,
+              "memberships": 80831
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "Kung Fu Soccer",
+              "share": 0.02511689535600224,
+              "memberships": 12473
+            },
+            {
+              "label": "Wuxi",
+              "collection": "World Cup",
+              "share": 0.003800106901367914,
+              "memberships": 3050
+            },
+            {
+              "label": "Wuxi",
+              "collection": "Kung Fu Soccer",
+              "share": 0.06351817768094112,
+              "memberships": 31543
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "World Cup",
+              "share": 0.03511921745208439,
+              "memberships": 28187
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.009720135804010488,
+              "memberships": 4827
+            },
+            {
+              "label": "Xi’an",
+              "collection": "World Cup",
+              "share": 0.006853897726040949,
+              "memberships": 5501
+            },
+            {
+              "label": "Xi’an",
+              "collection": "Kung Fu Soccer",
+              "share": 0.02843748867293062,
+              "memberships": 14122
+            },
+            {
+              "label": "Beijing",
+              "collection": "World Cup",
+              "share": 0.027895276529418433,
+              "memberships": 22389
+            },
+            {
+              "label": "Beijing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0075634617940466935,
+              "memberships": 3756
+            },
+            {
+              "label": "Suzhou",
+              "collection": "World Cup",
+              "share": 0.020063318502533612,
+              "memberships": 16103
+            },
+            {
+              "label": "Suzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0035139086343481045,
+              "memberships": 1745
+            },
+            {
+              "label": "Qingdao",
+              "collection": "World Cup",
+              "share": 0.01711543229642329,
+              "memberships": 13737
+            },
+            {
+              "label": "Qingdao",
+              "collection": "Kung Fu Soccer",
+              "share": 0.005765226601798638,
+              "memberships": 2863
+            },
+            {
+              "label": "Quanzhou",
+              "collection": "World Cup",
+              "share": 0.015450860879955246,
+              "memberships": 12401
+            },
+            {
+              "label": "Quanzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0019955779121140237,
+              "memberships": 991
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "World Cup",
+              "share": 0.014739431030551614,
+              "memberships": 11830
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.005408801485306022,
+              "memberships": 2686
+            }
+          ]
+        },
+        "network": {
+          "id": "china-network",
+          "title": "Network flags · downloaders",
+          "height": 500,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China downloaders memberships",
+            "xDomain": [
+              0,
+              0.2
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 2
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Hosting",
+              "collection": "World Cup",
+              "share": 0.05399142047995973,
+              "memberships": 43334
+            },
+            {
+              "label": "Hosting",
+              "collection": "Kung Fu Soccer",
+              "share": 0.006377391773627763,
+              "memberships": 3167
+            },
+            {
+              "label": "VPN",
+              "collection": "World Cup",
+              "share": 0.01942913672784631,
+              "memberships": 15594
+            },
+            {
+              "label": "VPN",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0110411238063786,
+              "memberships": 5483
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "World Cup",
+              "share": 0.010985423786675703,
+              "memberships": 8817
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "Kung Fu Soccer",
+              "share": 0.005277910905803084,
+              "memberships": 2621
+            },
+            {
+              "label": "Satellite",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Satellite",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Proxy",
+              "collection": "World Cup",
+              "share": 0.00099301154111155,
+              "memberships": 797
+            },
+            {
+              "label": "Proxy",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0001228357746104495,
+              "memberships": 61
+            },
+            {
+              "label": "Relay",
+              "collection": "World Cup",
+              "share": 4.734559418097729e-05,
+              "memberships": 38
+            },
+            {
+              "label": "Relay",
+              "collection": "Kung Fu Soccer",
+              "share": 4.228772568556458e-05,
+              "memberships": 21
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "World Cup",
+              "share": 5.606715100378889e-05,
+              "memberships": 45
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "Kung Fu Soccer",
+              "share": 4.228772568556458e-05,
+              "memberships": 21
+            }
+          ]
+        },
+        "caption": "Same dates: October 17–30. World Cup: 2026-10-17 to 2026-10-30, 802,609 memberships; Kung Fu Soccer: 2026-10-17 to 2026-10-30, 496,598 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
+        "overlap": 0.46194637045119064
+      },
+      "uploaders": {
+        "city": {
+          "id": "china-city",
+          "title": "City distribution · uploaders",
+          "height": 650,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China uploaders memberships",
+            "xDomain": [
+              0,
+              1
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 1
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Nanjing",
+              "collection": "World Cup",
+              "share": 0.279876240814748,
+              "memberships": 2171
+            },
+            {
+              "label": "Nanjing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.8835974340456264,
+              "memberships": 145593
+            },
+            {
+              "label": "Shanghai",
+              "collection": "World Cup",
+              "share": 0.3162305014825319,
+              "memberships": 2453
+            },
+            {
+              "label": "Shanghai",
+              "collection": "Kung Fu Soccer",
+              "share": 0.007616539117452495,
+              "memberships": 1255
+            },
+            {
+              "label": "Beijing",
+              "collection": "World Cup",
+              "share": 0.08792058785612995,
+              "memberships": 682
+            },
+            {
+              "label": "Beijing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0016628937993481941,
+              "memberships": 274
+            },
+            {
+              "label": "Wuxi",
+              "collection": "World Cup",
+              "share": 0.015083150702591207,
+              "memberships": 117
+            },
+            {
+              "label": "Wuxi",
+              "collection": "Kung Fu Soccer",
+              "share": 0.07748842346743702,
+              "memberships": 12768
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "World Cup",
+              "share": 0.03880366120923037,
+              "memberships": 301
+            },
+            {
+              "label": "Shenzhen",
+              "collection": "Kung Fu Soccer",
+              "share": 0.005832266208662827,
+              "memberships": 961
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "World Cup",
+              "share": 0.03326028103648317,
+              "memberships": 258
+            },
+            {
+              "label": "Hangzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0009831707864759397,
+              "memberships": 162
+            },
+            {
+              "label": "Chengdu",
+              "collection": "World Cup",
+              "share": 0.03326028103648317,
+              "memberships": 258
+            },
+            {
+              "label": "Chengdu",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0011409636287498558,
+              "memberships": 188
+            },
+            {
+              "label": "Qingdao",
+              "collection": "World Cup",
+              "share": 0.02256026814490138,
+              "memberships": 175
+            },
+            {
+              "label": "Qingdao",
+              "collection": "Kung Fu Soccer",
+              "share": 0.001116687806861561,
+              "memberships": 184
+            },
+            {
+              "label": "Wuhan",
+              "collection": "World Cup",
+              "share": 0.019595204331571484,
+              "memberships": 152
+            },
+            {
+              "label": "Wuhan",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0006615161464560334,
+              "memberships": 109
+            },
+            {
+              "label": "Chongqing",
+              "collection": "World Cup",
+              "share": 0.011473507799406988,
+              "memberships": 89
+            },
+            {
+              "label": "Chongqing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0005279991260704121,
+              "memberships": 87
+            },
+            {
+              "label": "Xi’an",
+              "collection": "World Cup",
+              "share": 0.011344591981436123,
+              "memberships": 88
+            },
+            {
+              "label": "Xi’an",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0053770945482573,
+              "memberships": 886
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "World Cup",
+              "share": 0.009926517983756607,
+              "memberships": 77
+            },
+            {
+              "label": "Jiaxing",
+              "collection": "Kung Fu Soccer",
+              "share": 0.002154479192586164,
+              "memberships": 355
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "World Cup",
+              "share": 0.008121696532164496,
+              "memberships": 63
+            },
+            {
+              "label": "Zhengzhou",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0013533770702724354,
+              "memberships": 223
+            }
+          ]
+        },
+        "network": {
+          "id": "china-network",
+          "title": "Network flags · uploaders",
+          "height": 500,
+          "spec": {
+            "type": "horizontalBar",
+            "x": "share",
+            "y": "label",
+            "series": "collection",
+            "xLabel": "Share of China uploaders memberships",
+            "xDomain": [
+              0,
+              0.2
+            ],
+            "seriesOrder": [
+              "World Cup",
+              "Kung Fu Soccer"
+            ],
+            "showValues": true,
+            "valueFormat": {
+              "style": "percent",
+              "maximumFractionDigits": 2
+            },
+            "colors": {
+              "World Cup": "#214f7a",
+              "Kung Fu Soccer": "#16857a"
+            }
+          },
+          "rows": [
+            {
+              "label": "Hosting",
+              "collection": "World Cup",
+              "share": 0.09385071548278974,
+              "memberships": 728
+            },
+            {
+              "label": "Hosting",
+              "collection": "Kung Fu Soccer",
+              "share": 0.00026703404077124286,
+              "memberships": 44
+            },
+            {
+              "label": "VPN",
+              "collection": "World Cup",
+              "share": 0.020755446693309268,
+              "memberships": 161
+            },
+            {
+              "label": "VPN",
+              "collection": "Kung Fu Soccer",
+              "share": 0.010711706408210083,
+              "memberships": 1765
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "World Cup",
+              "share": 0.010957844527523528,
+              "memberships": 85
+            },
+            {
+              "label": "Mobile carrier",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0008071710777858023,
+              "memberships": 133
+            },
+            {
+              "label": "Satellite",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Satellite",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Proxy",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Proxy",
+              "collection": "Kung Fu Soccer",
+              "share": 2.4275821888294805e-05,
+              "memberships": 4
+            },
+            {
+              "label": "Relay",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Relay",
+              "collection": "Kung Fu Soccer",
+              "share": 1.2137910944147403e-05,
+              "memberships": 2
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (IPinfo)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Tor (exit list)",
+              "collection": "Kung Fu Soccer",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "World Cup",
+              "share": 0.0,
+              "memberships": 0
+            },
+            {
+              "label": "Named privacy service",
+              "collection": "Kung Fu Soccer",
+              "share": 1.2137910944147403e-05,
+              "memberships": 2
+            }
+          ]
+        },
+        "caption": "Same dates: October 17–30. World Cup: 2026-10-17 to 2026-10-30, 7,757 memberships; Kung Fu Soccer: 2026-10-17 to 2026-10-30, 164,773 memberships. IP–torrent–day memberships, H3r8. City bars show the union of each collection’s top ten; shares use all China memberships. Network flags overlap.",
+        "overlap": 0.33339408652198194
+      }
+    }
+  }
+}

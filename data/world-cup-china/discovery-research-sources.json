@@ -1,0 +1,69 @@
+{
+  "as_of": "2026-11-06",
+  "sources": [
+    {
+      "url": "https://developers.google.com/youtube/v3/docs/videos",
+      "checked_by": "primary-source page or official search excerpt"
+    },
+    {
+      "url": "https://github.com/Jackett/Jackett/blob/master/src/Jackett.Common/Definitions/sportscult.yml",
+      "checked_by": "primary-source page or official search excerpt"
+    },
+    {
+      "url": "https://ipt.fifa.com/tournament-organisation/commercial/news/globo-cazetv-broadcast-platforms-brazil-womens-world-cup-2027",
+      "checked_by": "primary-source page or official search excerpt"
+    },
+    {
+      "url": "https://ooni.org/support/interpreting-ooni-data/",
+      "checked_by": "primary-source page or official search excerpt"
+    },
+    {
+      "url": "https://support.google.com/transparencyreport/answer/7347561?co=GENIE.Platform%3DDesktop&hl=en",
+      "checked_by": "primary-source page or official search excerpt"
+    },
+    {
+      "url": "https://transparencyreport.google.com/copyright",
+      "checked_by": "primary-source page or official search excerpt"
+    },
+    {
+      "url": "https://www.bittorrent.org/beps/bep_0003.html",
+      "checked_by": "primary-source page or official search excerpt"
+    },
+    {
+      "url": "https://www.bittorrent.org/beps/bep_0027.html",
+      "checked_by": "primary-source page or official search excerpt"
+    },
+    {
+      "url": "https://www.commoncrawl.org/url-index",
+      "checked_by": "primary-source page or official search excerpt"
+    },
+    {
+      "url": "https://www.euipo.europa.eu/es/publications/online-copyright-infringement-in-the-european-union-films-music-publications-software-and-tv-2017-2023",
+      "checked_by": "primary-source page or official search excerpt"
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/07/27/3333839/0/en/livemode-opens-landmark-commercial-program-for-the-fifa-women-s-world-cup-brazil-2027-which-it-will-broadcast-in-brazil-and-portugal.html",
+      "checked_by": "primary-source page or official search excerpt"
+    },
+    {
+      "url": "https://www.muso.com/2024-piracy-trends-and-insights",
+      "checked_by": "primary-source page or official search excerpt"
+    },
+    {
+      "url": "https://www.netflix.com/tudum/features/fifa-womens-world-cup-2027",
+      "checked_by": "primary-source page or official search excerpt"
+    },
+    {
+      "url": "https://www.rfc-editor.org/rfc/rfc8216.html#section-2",
+      "checked_by": "primary-source page or official search excerpt"
+    }
+  ],
+  "sportscult_definition_blob_sha": "47ffff480360c79fe9255616a4420e0dd6a5eff6",
+  "limitations": [
+    "SportsCult access and language coverage were not tested; the current Jackett definition establishes only the documented candidate and categories.",
+    "EUIPO publication details were verified through its indexed official page; direct fetch returned HTTP 403.",
+    "Lumen direct research-page access presented a bot challenge; Google documents its contribution and links. No API access is claimed.",
+    "LiveMode Portugal scope is attributed to the broadcaster\u2019s July 27, 2026 press release.",
+    "No private account or commercial dataset was acquired."
+  ]
+}

@@ -1,0 +1,1554 @@
+{
+  "schema": "alpha60-china-publication/1",
+  "validation": {
+    "8": {
+      "files": 34,
+      "status": "passed",
+      "sha256": "044fb6842c67911c327e73378aaa5d58215d6290a6f526636c7fc427c81d4a49"
+    },
+    "5": {
+      "files": 34,
+      "status": "passed",
+      "sha256": "189849ba1c2f55a28d81aba254ddecc8a674f4979974d5edf551fcc51d956383"
+    }
+  },
+  "ipinfo_snapshot": {
+    "provider": "IPinfo",
+    "backend_mode": 6,
+    "files": [
+      {
+        "source": "/home/bkoz/src/geoip-databases/ipinfo/standard_location.mmdb",
+        "snapshot": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/ipinfo/standard_location.mmdb",
+        "bytes": 681895124,
+        "sha256": "038a11d61822a80c92ee53f0bce7889a5ebee5bd5379006e847be50e8d939928"
+      },
+      {
+        "source": "/home/bkoz/src/geoip-databases/ipinfo/standard_carrier.mmdb",
+        "snapshot": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/ipinfo/standard_carrier.mmdb",
+        "bytes": 18529845,
+        "sha256": "83912117e2cee4e864ee1cde4f80eb0a0d3826b921a221537ca4664e4fdbaf02"
+      },
+      {
+        "source": "/home/bkoz/src/geoip-databases/ipinfo/standard_company.mmdb",
+        "snapshot": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/ipinfo/standard_company.mmdb",
+        "bytes": 390981582,
+        "sha256": "a91d43d45fcd3d3c6f308c911fc4c2fd2249488a884153a2df38a1840f413438"
+      },
+      {
+        "source": "/home/bkoz/src/geoip-databases/ipinfo/standard_privacy.mmdb",
+        "snapshot": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/ipinfo/standard_privacy.mmdb",
+        "bytes": 292493511,
+        "sha256": "5bf50f6ddd3b9a18de87a9fe76de6714dd30c58a901d98263ea0aca9a6f6fca9"
+      },
+      {
+        "source": "/home/bkoz/src/geoip-databases/ipinfo/tags_satellite.mmdb",
+        "snapshot": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/ipinfo/tags_satellite.mmdb",
+        "bytes": 883295,
+        "sha256": "0ff2433554f43f41dfec2bb9683a036b7f13e63dd1eb301f043c93077b103809"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00001.geojson",
+      "sha256": "469d500d2a28daa7abfdf4ee027891e38c9cd96a13d6bc9b123d99717c85071e",
+      "resolution": 8,
+      "date": "2026-06-29",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00002.geojson",
+      "sha256": "41871f705bd334dfb7f0b4d9bcfefbbd166b6be9db0d189344dabfbf776109c9",
+      "resolution": 8,
+      "date": "2026-06-30",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00003.geojson",
+      "sha256": "03cc08264894c793a946ccc588ce3425d011162c9a671da39e0ed34c74a53bd3",
+      "resolution": 8,
+      "date": "2026-07-01",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00004.geojson",
+      "sha256": "9de19f98a885670fdb113391f92ce8667d1b7f64a43ae42db05d71279bb43a02",
+      "resolution": 8,
+      "date": "2026-07-02",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00005.geojson",
+      "sha256": "2995ad9b7f24929faa548b1f7fab3ab22f61e3816ac4768ac1afa185094f8b7b",
+      "resolution": 8,
+      "date": "2026-07-03",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00006.geojson",
+      "sha256": "e296f9a5080995aceabc6d9d47c54beabe99e1d234e9d341b2fee7f5b2528182",
+      "resolution": 8,
+      "date": "2026-07-04",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00007.geojson",
+      "sha256": "00e14c3e995758149d0d377b47451bbac3d90bc4bcc09ad3556be46359374933",
+      "resolution": 8,
+      "date": "2026-07-05",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00008.geojson",
+      "sha256": "b9e2af77a4cdfb881b9cc93a00cc3b7f268ec1a0b8fab103bac7fd0f72b7bfb9",
+      "resolution": 8,
+      "date": "2026-07-06",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00009.geojson",
+      "sha256": "716d7a6ef1ce7abfb0877c931d8a62c631fd7bf9e36d99ab0e34cbf39254a76e",
+      "resolution": 8,
+      "date": "2026-07-07",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00010.geojson",
+      "sha256": "ffab5ecea6a2b390559ccd1a72a0ff602e5964d95ef9ca4289d211488d1f2e61",
+      "resolution": 8,
+      "date": "2026-07-08",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00011.geojson",
+      "sha256": "9abc1fb33def8499539dc03eae2ce470e92b6414413c6172c3c95cc1c5545ba0",
+      "resolution": 8,
+      "date": "2026-07-09",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00012.geojson",
+      "sha256": "34e8137fce70612441e2920bb85a63f4caa23266c8f2606ef10ea79f07a959e2",
+      "resolution": 8,
+      "date": "2026-07-10",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00013.geojson",
+      "sha256": "97ac8d61cb4c051d69f1c5090141744bddf136be012513939c47a7f8b9c218e7",
+      "resolution": 8,
+      "date": "2026-07-11",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00014.geojson",
+      "sha256": "4a596e329e49ee37d8d19fac574afe1272cac8de89b7163843eaba863edc4efa",
+      "resolution": 8,
+      "date": "2026-07-12",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00015.geojson",
+      "sha256": "1299c99ff5b8492b524f832ab8c3bd561a3c46e5c80fff7b76885b52202e86ea",
+      "resolution": 8,
+      "date": "2026-07-13",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00016.geojson",
+      "sha256": "3dd71b9e9bdfb38154b76951f87981ee5bed01ef219783d353a77b248603f59b",
+      "resolution": 8,
+      "date": "2026-07-14",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00017.geojson",
+      "sha256": "0234c7e258b75d7e21f393701218dc129fb4f4288ebe0f65a1c6aa745620f31b",
+      "resolution": 8,
+      "date": "2026-07-15",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00018.geojson",
+      "sha256": "22df16c9bf9bfb6e96c3f722ea4e445984294db19ec42bbdeb8b940538ee98e2",
+      "resolution": 8,
+      "date": "2026-07-16",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00019.geojson",
+      "sha256": "a4fbd36f69cc2b0417175d0a3f91d06a8b78f46fb17b88d036edaa963b67b115",
+      "resolution": 8,
+      "date": "2026-07-17",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00020.geojson",
+      "sha256": "160fd8040b97e2f9e85fa71531fdc8eb28422d96ffc000a3d5fd99ee098346ed",
+      "resolution": 8,
+      "date": "2026-07-18",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00021.geojson",
+      "sha256": "41992e2c114bfe7f6dc991fe3059ce03272ea433da05585cf6b93d494ccb1f51",
+      "resolution": 8,
+      "date": "2026-07-19",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00022.geojson",
+      "sha256": "e319a0f01373e295a722c25167f2848fe1bb8509bd8e72fe4a8ddd81604d9137",
+      "resolution": 8,
+      "date": "2026-07-20",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00023.geojson",
+      "sha256": "62f4d53b45ca98291bbafbbbd5a005dd92a7364ead6e8f0eb6023bcad00c509e",
+      "resolution": 8,
+      "date": "2026-07-21",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00024.geojson",
+      "sha256": "d4411000d97d6d74420fd9a48b7d100d747ffe509eee28ad44bd3bb2bd32a41f",
+      "resolution": 8,
+      "date": "2026-07-22",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00025.geojson",
+      "sha256": "66e8bb4003ebe8c197ea1719d513228777ced67bdb4b5893a8b6863fdd26f8f8",
+      "resolution": 8,
+      "date": "2026-07-23",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00026.geojson",
+      "sha256": "f2449a4713f761906a11377e61b2ef38012ebb4bc4c0e59cc480f0a971a0d148",
+      "resolution": 8,
+      "date": "2026-07-24",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00027.geojson",
+      "sha256": "7d5602e7a4c584e8df12cd669d884a5a3b52d943958124b10767e3bc98e71777",
+      "resolution": 8,
+      "date": "2026-07-25",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00028.geojson",
+      "sha256": "f8c6b069aab599e21daba7739b5e67f5955334d4513ebc449c2c76094f11d547",
+      "resolution": 8,
+      "date": "2026-07-26",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00097.geojson",
+      "sha256": "eb0355835187c6295df761860a380415437432622559615f6b2e3cf17845b112",
+      "resolution": 8,
+      "date": "2026-10-03",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00098.geojson",
+      "sha256": "aaf8d706de5ded8e07742ea6a48ede0f79940387cb1c9feca2409364c3695e7d",
+      "resolution": 8,
+      "date": "2026-10-04",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00099.geojson",
+      "sha256": "ab37574c80b09c94fa19c7bbfb0683c39e6407a39dc6b523d49591871eea4885",
+      "resolution": 8,
+      "date": "2026-10-05",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00100.geojson",
+      "sha256": "7fad9ea5755606fa31249c3c67c65c876646005a047f5aa590b25109a7382738",
+      "resolution": 8,
+      "date": "2026-10-06",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00101.geojson",
+      "sha256": "7e0bc20faad17ca36cc2397805bace82f3712d375ccf78b9cf724b2a93bd5520",
+      "resolution": 8,
+      "date": "2026-10-07",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00102.geojson",
+      "sha256": "f31be01a334480ffe90671352daee0f6eaca0735e671d96b1e33552ca0b2150d",
+      "resolution": 8,
+      "date": "2026-10-08",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00103.geojson",
+      "sha256": "b735f077b66857af3c6ee82e6a8dc39c9de4b0726afaca8d928b7b606cfd2d57",
+      "resolution": 8,
+      "date": "2026-10-09",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00104.geojson",
+      "sha256": "298e569eb6c11ec071ce0d8f594c729428cbbf62ed840ed07b800e426fc88964",
+      "resolution": 8,
+      "date": "2026-10-10",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00105.geojson",
+      "sha256": "b15bcf979190455db552af933f99b3c97d7cbc29abc64bb2979acc002f808724",
+      "resolution": 8,
+      "date": "2026-10-11",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00106.geojson",
+      "sha256": "50b734742900f1a8e27745ec188743dae65b37e9326a8c7d02c044d58ee6b036",
+      "resolution": 8,
+      "date": "2026-10-12",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00107.geojson",
+      "sha256": "fcf4e339b65041cbbff7035709c8edfbb30e4bc2dc2319091852d272bd85827b",
+      "resolution": 8,
+      "date": "2026-10-13",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00108.geojson",
+      "sha256": "7aef9b038f039a62ec42f78b11faaf978da1575e8c7332830a96ccddf22634c2",
+      "resolution": 8,
+      "date": "2026-10-14",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00109.geojson",
+      "sha256": "ba0465d9e50af844dc50fe038420029abe00eb1543c5e5cc769c8f68abaf0689",
+      "resolution": 8,
+      "date": "2026-10-15",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00110.geojson",
+      "sha256": "d29b523f3dc9680c5f4fd1cb58887a6738a683d1bc2a85394bcbd6c1b837db2e",
+      "resolution": 8,
+      "date": "2026-10-16",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00111.geojson",
+      "sha256": "d2e751614d714a8fae32e76e528dd832bdf848d70b91ecf38189666bd78f3070",
+      "resolution": 8,
+      "date": "2026-10-17",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00112.geojson",
+      "sha256": "053c2abe3acc523d4dfa6f4214ac44928dd56aea9da9bc4190aff906c1f4c225",
+      "resolution": 8,
+      "date": "2026-10-18",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00113.geojson",
+      "sha256": "4a2815b22a47190fafe7de3771959fb36f310354d44b4c6e71d5bef6d7e30659",
+      "resolution": 8,
+      "date": "2026-10-19",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00114.geojson",
+      "sha256": "5ed4d149b2d0accd291a706dc5c3f92764527b3e1fa7b23a857492a2ab283a9f",
+      "resolution": 8,
+      "date": "2026-10-20",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00115.geojson",
+      "sha256": "94231913f2f4dbe6fc89206ab0bf4c530237fe520fc64ca000ea70601347b6d0",
+      "resolution": 8,
+      "date": "2026-10-21",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00116.geojson",
+      "sha256": "b3f84e993b0a51d870b82c8ca1e8e603818e86db4d042dba338755f2d091c049",
+      "resolution": 8,
+      "date": "2026-10-22",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00117.geojson",
+      "sha256": "83e18c73b3f3c593efa5b74554c2fa7827a241ac0130c31d046ba4516bd1b030",
+      "resolution": 8,
+      "date": "2026-10-23",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00118.geojson",
+      "sha256": "36e4fdb60485032d6b5408cd3da93a1f7c6257c4f4a99e4d49bc1d5aaaa01256",
+      "resolution": 8,
+      "date": "2026-10-24",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00119.geojson",
+      "sha256": "f20fe680f128e7fd72a9caddb892b64dcc20cd7574f323a2c9ea31a49123a505",
+      "resolution": 8,
+      "date": "2026-10-25",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00120.geojson",
+      "sha256": "fe275646f184fd53176126e03d48480f1b52104580d143a8224c2ede01318566",
+      "resolution": 8,
+      "date": "2026-10-26",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00121.geojson",
+      "sha256": "21639388a17fbd373acbe45e88968a1a3741f152eac672df8caef647b86536d0",
+      "resolution": 8,
+      "date": "2026-10-27",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00122.geojson",
+      "sha256": "02f43095222113e20f6c8736dc9e0791b5e04113bfccaf5d94005d4654b45c5f",
+      "resolution": 8,
+      "date": "2026-10-28",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00123.geojson",
+      "sha256": "293fd50013d7f802c4157449ac818d58e56d2695fc8737ce465d7d18d639ca38",
+      "resolution": 8,
+      "date": "2026-10-29",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-day-00124.geojson",
+      "sha256": "210e99dce6e680afdfb421da640c5205c5e67cd5dff9903494d5aaff1d052872",
+      "resolution": 8,
+      "date": "2026-10-30",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00001.geojson",
+      "sha256": "1ff8567116821ff580a5c78b0bebce061130e8407818c021eed157d4af53c07c",
+      "resolution": 8,
+      "date": "2026-10-03",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00002.geojson",
+      "sha256": "3add98eef7915b556a04a795f513b1e62393e788244877b731cf29fa89112c57",
+      "resolution": 8,
+      "date": "2026-10-04",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00003.geojson",
+      "sha256": "3a17dbaf1052e77ba3bbfc7940938efdfe4206332be4b7ba48829bbafb25753b",
+      "resolution": 8,
+      "date": "2026-10-05",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00004.geojson",
+      "sha256": "bcf56c531c8f8581ca8063555f4ece07e876d1e2e4f8aacdd7cc864467036854",
+      "resolution": 8,
+      "date": "2026-10-06",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00005.geojson",
+      "sha256": "30a801e7344fa0e825f674fbdbf3f0673c2363665fa02cce0197fc46cdee214a",
+      "resolution": 8,
+      "date": "2026-10-07",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00006.geojson",
+      "sha256": "85e68033ba0417d3d1df6305d010327317974ac1cc2aaf4ffabe938b657e2cb8",
+      "resolution": 8,
+      "date": "2026-10-08",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00007.geojson",
+      "sha256": "ee1505256d71d7fa73433dcc4f9246e118d2e9b9088000ecefc4cf1f0ef06ef5",
+      "resolution": 8,
+      "date": "2026-10-09",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00008.geojson",
+      "sha256": "efcc20e28d6002d13c5e951b1da1c7571d2b6d4d54991a1c9907eba3e1bc4f83",
+      "resolution": 8,
+      "date": "2026-10-10",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00009.geojson",
+      "sha256": "ed337abb87486017ef10ffb7c94b5fa13d28641a7b573462858e820eadffa5ac",
+      "resolution": 8,
+      "date": "2026-10-11",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00010.geojson",
+      "sha256": "f661c66e5153be1d0e94aefb1671de33c7c7a66c7e9b266243b319169cc6bdd5",
+      "resolution": 8,
+      "date": "2026-10-12",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00011.geojson",
+      "sha256": "f8709ac16f5bdf5a7cb8463028c1fe07d15b2dee71030c6633fc7959fb854979",
+      "resolution": 8,
+      "date": "2026-10-13",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00012.geojson",
+      "sha256": "e7f748289ca10a04c6ad691e3f88966b5abcb003535a4c416da9ff2a5b3eacdf",
+      "resolution": 8,
+      "date": "2026-10-14",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00013.geojson",
+      "sha256": "1fb60871dd9b3d7423c1405bab95615cd75f8bd6caba829a9b095f8e7548d746",
+      "resolution": 8,
+      "date": "2026-10-15",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00014.geojson",
+      "sha256": "b8b4ed3d85bf7b1aa00272009b5d5d804a92a0f21dfe3b94d17925969bbb8ffe",
+      "resolution": 8,
+      "date": "2026-10-16",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00015.geojson",
+      "sha256": "4c10dc8c45feaa03b3866074d29d873f7d8b3b74747795e71472124c95013dac",
+      "resolution": 8,
+      "date": "2026-10-17",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00016.geojson",
+      "sha256": "8a5219858baee5cf408a20eb03edb443404ff65cb005f10270c96cb380ecbbbd",
+      "resolution": 8,
+      "date": "2026-10-18",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00017.geojson",
+      "sha256": "a014be3b02466794e6efad0ae73cd44abb679248767a32805c3ce0fc3e2c5331",
+      "resolution": 8,
+      "date": "2026-10-19",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00018.geojson",
+      "sha256": "0cec989b03bab77665b2c833ce0c0424b35c8fa3006aa63b531e1b5c0d9cd680",
+      "resolution": 8,
+      "date": "2026-10-20",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00019.geojson",
+      "sha256": "5f9ed90793f492447f4eb07b29319fefa3c676e55eca803905c025f0258ed57a",
+      "resolution": 8,
+      "date": "2026-10-21",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00020.geojson",
+      "sha256": "432aec0bcd39e8d0f72a71d96599fd02a37c738fb64b19dddfb9044e133fe38c",
+      "resolution": 8,
+      "date": "2026-10-22",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00021.geojson",
+      "sha256": "c361855ba68e844fc0226cd5b23a89455e971fc6314f387a6755e9169d05c551",
+      "resolution": 8,
+      "date": "2026-10-23",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00022.geojson",
+      "sha256": "596d4e5882e8151f04549e3a5899349526f6144e35e1df1f4febdea91b0fee55",
+      "resolution": 8,
+      "date": "2026-10-24",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00023.geojson",
+      "sha256": "fbe4f3ac0e655fce016165133283600be80dff98653b728e91d07ed5da5e122a",
+      "resolution": 8,
+      "date": "2026-10-25",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00024.geojson",
+      "sha256": "9d05a3f55747797f4a92d4eb85749b48914031b4143e786b009e11b8bfd334be",
+      "resolution": 8,
+      "date": "2026-10-26",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00025.geojson",
+      "sha256": "00d3f98da29c53a3a1812bd2db81f12ae2360b15b7067a9cb0671b1fe8703808",
+      "resolution": 8,
+      "date": "2026-10-27",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00026.geojson",
+      "sha256": "ff98fd30b05460f2d348639a7fa2c9372699f44424f93ff361676a8e36c097df",
+      "resolution": 8,
+      "date": "2026-10-28",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00027.geojson",
+      "sha256": "af92d17f03023c8dc349232dcf8d4cade359457c0646d6747305b31e170e46f7",
+      "resolution": 8,
+      "date": "2026-10-29",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-day-00028.geojson",
+      "sha256": "41a0a913e91b831e9f1e2b988d9140c3b8206180c52d9803d627be79b49607c2",
+      "resolution": 8,
+      "date": "2026-10-30",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00001.geojson",
+      "sha256": "08256225c1a401fb4025019a7acf2b0d86d8a5b44c1d74da01d664bb3f1380df",
+      "resolution": 5,
+      "date": "2026-06-29",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00002.geojson",
+      "sha256": "04da25ad03e9105f44b4c3c684c8cdee8dbb7ad45ec708522e0c72acf58f515f",
+      "resolution": 5,
+      "date": "2026-06-30",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00003.geojson",
+      "sha256": "d9362df67ddb2e582599cf753e792ff4e5107037d9ec98d3e4b24d253e984eb8",
+      "resolution": 5,
+      "date": "2026-07-01",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00004.geojson",
+      "sha256": "a85388577bc2c312fcbac5f8796d65de348e2afa15440c0d95806782c4492491",
+      "resolution": 5,
+      "date": "2026-07-02",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00005.geojson",
+      "sha256": "156457efb841605db21591a96c16c495025d6bb7f910b3ea8c05099efb60d231",
+      "resolution": 5,
+      "date": "2026-07-03",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00006.geojson",
+      "sha256": "ac4a24f17004bc677917d87162a0c5229becf2f118efbf132cb4c9589553f393",
+      "resolution": 5,
+      "date": "2026-07-04",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00007.geojson",
+      "sha256": "5c325703c8d87fcbf4b4ba2c961a990b8e272de03c6a3873db1743d61a6b5d0d",
+      "resolution": 5,
+      "date": "2026-07-05",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00008.geojson",
+      "sha256": "b64de350a16c31272bd4867e43d0790c3930852455b5f5c0808b2170f11886fe",
+      "resolution": 5,
+      "date": "2026-07-06",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00009.geojson",
+      "sha256": "d5322aad98f42d1ad022e3e9c26499bef48630d08bc12d71433c008eaf6afe64",
+      "resolution": 5,
+      "date": "2026-07-07",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00010.geojson",
+      "sha256": "585fead56e8419bc72bf149d66ebe8bde3ac78ebcaf90d659e41f9ae20af2a5b",
+      "resolution": 5,
+      "date": "2026-07-08",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00011.geojson",
+      "sha256": "cf2620f4dd3d921bdd8d6e0a8d6bb560ef9b4a615df3b29f2a0ddccc49c04ab5",
+      "resolution": 5,
+      "date": "2026-07-09",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00012.geojson",
+      "sha256": "fd932d14eab7cb42d74ab40f1c52b3b6a75aea2b06c6157993cc0a817a69de3a",
+      "resolution": 5,
+      "date": "2026-07-10",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00013.geojson",
+      "sha256": "b454cc3dab924c7349cdbce3dbe676ccf653eecc680e5a68deae80f971d38f48",
+      "resolution": 5,
+      "date": "2026-07-11",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00014.geojson",
+      "sha256": "dd3c4cfab59690f2e09047be350c9fd2d9a14d9222339946d83461397d8b40e4",
+      "resolution": 5,
+      "date": "2026-07-12",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00015.geojson",
+      "sha256": "2c74f507300e426e297b653a89e8d9aae20275e0fe94aec98be5e17f7181c35e",
+      "resolution": 5,
+      "date": "2026-07-13",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00016.geojson",
+      "sha256": "708583b60f550752f685605600380e2e49f24977288956b17e1cd6e97689e34f",
+      "resolution": 5,
+      "date": "2026-07-14",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00017.geojson",
+      "sha256": "bba916be37fbd94fe7ef916babcea802c867afe4ca0e0f78ac8dde395ad3b641",
+      "resolution": 5,
+      "date": "2026-07-15",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00018.geojson",
+      "sha256": "ce4d30e67ade2e154e2727199512ceec2bb846c486c01b049de27c390430c522",
+      "resolution": 5,
+      "date": "2026-07-16",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00019.geojson",
+      "sha256": "a14c5434e5cc40ffcfbdf00c4584c224f70bef1157361469df752bd576d67a8f",
+      "resolution": 5,
+      "date": "2026-07-17",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00020.geojson",
+      "sha256": "b6a9387be617dc518a8f669feb941f461065665c43a9a7881571d3827cca7c82",
+      "resolution": 5,
+      "date": "2026-07-18",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00021.geojson",
+      "sha256": "88235357b7f62beeb1e9a76d8c7f10180578bc6f88605c61f628380074fe7610",
+      "resolution": 5,
+      "date": "2026-07-19",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00022.geojson",
+      "sha256": "514a6f8078df9c97ff813d06f9b9793b680a17e37d9bfb2a50969c535fdff833",
+      "resolution": 5,
+      "date": "2026-07-20",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00023.geojson",
+      "sha256": "2dab5244f9dd4496b7d157a89b56815ad2f934d0a7dbf040ae307610fc34d03b",
+      "resolution": 5,
+      "date": "2026-07-21",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00024.geojson",
+      "sha256": "dff0c264a17daf000eeee2782cdf75054baab621ba127c938b925f581999977b",
+      "resolution": 5,
+      "date": "2026-07-22",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00025.geojson",
+      "sha256": "3f43bd36dc21353bba13ce15401de2f844ba404a6b0a1bd2ee83316a85ff5702",
+      "resolution": 5,
+      "date": "2026-07-23",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00026.geojson",
+      "sha256": "8152474a1478f15c87e521a25061f08101f018ea935e13ae6c3be043b64ce336",
+      "resolution": 5,
+      "date": "2026-07-24",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00027.geojson",
+      "sha256": "979489b3249f9dbe5c266cf67e1d74638b38d0ca2ff699ca54f155760c84f647",
+      "resolution": 5,
+      "date": "2026-07-25",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00028.geojson",
+      "sha256": "0bb76824b0c0bb7f43d147b05d9520a76d38b375d566a50897fb3d827f16dc30",
+      "resolution": 5,
+      "date": "2026-07-26",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00097.geojson",
+      "sha256": "4903dd1a6b366aa3b86d824f429bd9cb784155d404e43f015c269d1cca1b8bb3",
+      "resolution": 5,
+      "date": "2026-10-03",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00098.geojson",
+      "sha256": "6fc8d89ef9453d81295e786681cb7e34778427121a2c25baa033f952bc4601e3",
+      "resolution": 5,
+      "date": "2026-10-04",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00099.geojson",
+      "sha256": "f454104514af5c5c9b500a7e5abb70faeb6b75f69caf8067da38fc2e95c9a2a7",
+      "resolution": 5,
+      "date": "2026-10-05",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00100.geojson",
+      "sha256": "4eff4b4a11a9679da9fb6e5fba594a2fa13a37f0c8314cbbcfc2ea81e1b16c50",
+      "resolution": 5,
+      "date": "2026-10-06",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00101.geojson",
+      "sha256": "33076f0131900c5278c5357d25bcb4ef21f46f771993db176d850ab9c9b0ffc2",
+      "resolution": 5,
+      "date": "2026-10-07",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00102.geojson",
+      "sha256": "9a3b847ac985d48a6fb384876eb1482ce46d430fbf1456112e0c6d5aac67baf7",
+      "resolution": 5,
+      "date": "2026-10-08",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00103.geojson",
+      "sha256": "8d15628639da60f8078d10e45a05197a93fe64ec8922d3d36ac51481c98012b7",
+      "resolution": 5,
+      "date": "2026-10-09",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00104.geojson",
+      "sha256": "37cb6d6696d3427fdc900188f857d069ac8b91183f35aa4bfa6dd1dbcb9f3e46",
+      "resolution": 5,
+      "date": "2026-10-10",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00105.geojson",
+      "sha256": "8f22ad1da2b79b0818991303df6f762a04a6a8312924e64872dcbe9701e1ef60",
+      "resolution": 5,
+      "date": "2026-10-11",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00106.geojson",
+      "sha256": "6ecec71660a241ea806b0b285d5cec34b9213455cc1a170d7cc158494bafdeb9",
+      "resolution": 5,
+      "date": "2026-10-12",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00107.geojson",
+      "sha256": "9410e28dc48888462915d97ed249638292be3436d4bb951752fb412ce8378543",
+      "resolution": 5,
+      "date": "2026-10-13",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00108.geojson",
+      "sha256": "3a79db47642962c6383346bd216e4fa2dc0feca30c926ddd2a69c49af5c341b8",
+      "resolution": 5,
+      "date": "2026-10-14",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00109.geojson",
+      "sha256": "39877ff2b19cc7541a188281def8de36568a460c51979faf41832b4cb9711bff",
+      "resolution": 5,
+      "date": "2026-10-15",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00110.geojson",
+      "sha256": "c0b86c668fb764b53b43424cf3885f8d682382c3b056e5ac00e2925acc188727",
+      "resolution": 5,
+      "date": "2026-10-16",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00111.geojson",
+      "sha256": "8024564c09fc2347dfb7869738e0bf7cf58347d731c5a401ed010d2818f0398c",
+      "resolution": 5,
+      "date": "2026-10-17",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00112.geojson",
+      "sha256": "105e60bb575af6187a47b4dc68c6a1e3fbdadf720a8e5214795dc9aae9550bbb",
+      "resolution": 5,
+      "date": "2026-10-18",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00113.geojson",
+      "sha256": "6a4726344ff1b20554d7ade76eacf0ed932eeee2b634dbfaec1f168d2dc2fce4",
+      "resolution": 5,
+      "date": "2026-10-19",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00114.geojson",
+      "sha256": "06d769da05be62d2f825bd7955d0c66d92e6028034fa2e8174a1f133ee3e1ea8",
+      "resolution": 5,
+      "date": "2026-10-20",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00115.geojson",
+      "sha256": "c32722bd3f6e0337a18fb6f5b92dabdc55ba1a8d7a99f4c3249c5142fc6e28c7",
+      "resolution": 5,
+      "date": "2026-10-21",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00116.geojson",
+      "sha256": "71e638217890bd344c59782b4620dc3c8cc626c05d1cf3bc85ab430fdf039457",
+      "resolution": 5,
+      "date": "2026-10-22",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00117.geojson",
+      "sha256": "aced8ecbb6092ed785711f1014e23cb770d22ca8006acd47b462d3b451aa1df4",
+      "resolution": 5,
+      "date": "2026-10-23",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00118.geojson",
+      "sha256": "41fc336c33163ddc67563de4f1b4412eaef65291150a4d5ff5d15ff0ea87c5e3",
+      "resolution": 5,
+      "date": "2026-10-24",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00119.geojson",
+      "sha256": "4a855efae60b4c0921ed93b95892319f6b71580bb50064e1f9b6cfd507af4471",
+      "resolution": 5,
+      "date": "2026-10-25",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00120.geojson",
+      "sha256": "ebb8b77551549f9ee8550b3f34553014a3e3b87922c5ee1467ad7f12982bdcaa",
+      "resolution": 5,
+      "date": "2026-10-26",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00121.geojson",
+      "sha256": "6bc9cf8c6503076ffb66cac43be47ba37ae0964360dc5f94991e8b2c97997cf4",
+      "resolution": 5,
+      "date": "2026-10-27",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00122.geojson",
+      "sha256": "4e2616df502b66a16a4838c431c619a8f53aad3811ea7c0a03f79123da8b85ff",
+      "resolution": 5,
+      "date": "2026-10-28",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00123.geojson",
+      "sha256": "04a7a1c93f912ff3cc9e7d24704d47e74bc57a564879e32680a5736e95dc5534",
+      "resolution": 5,
+      "date": "2026-10-29",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r5/world-cup-2026-day-00124.geojson",
+      "sha256": "e566ca1e4b7fb0ea2bfddc69f722ff2bdef7afc8a44389aac000eb33a93e1253",
+      "resolution": 5,
+      "date": "2026-10-30",
+      "collection": "world-cup-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00001.geojson",
+      "sha256": "5e5729658c3f8d0374694a4abe3b2bb53b06aa177d371d2aaf2fe8b6d8198c35",
+      "resolution": 5,
+      "date": "2026-10-03",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00002.geojson",
+      "sha256": "cc89832e12aa873aa68b90e5df644decfe66f717754df91d4c31f42f1e32cabf",
+      "resolution": 5,
+      "date": "2026-10-04",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00003.geojson",
+      "sha256": "54df6409d30999f0872186dba5a566cddf2f589c262a9ec259d7b0794c1760ca",
+      "resolution": 5,
+      "date": "2026-10-05",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00004.geojson",
+      "sha256": "0767d30625ff2b0e7eb9110d933145a0b70cb3b2d7a4519066dba8f04a4eef15",
+      "resolution": 5,
+      "date": "2026-10-06",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00005.geojson",
+      "sha256": "9b9fcd5ab377fdc270ab275505d93e047fc938ae617a66e35ef99518eccc02b0",
+      "resolution": 5,
+      "date": "2026-10-07",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00006.geojson",
+      "sha256": "5bfe00cbd373f9a805f937b9428e032cfbce69c381347871643877b2caa30607",
+      "resolution": 5,
+      "date": "2026-10-08",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00007.geojson",
+      "sha256": "3a21b5609020cc1eee42072a3100f84b61be369ea2910cd38c96ac2cb5e1957c",
+      "resolution": 5,
+      "date": "2026-10-09",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00008.geojson",
+      "sha256": "f3a64dddc788320668f2582ea52dd8641040547f97e3d26845ed9aeb2e97d5fa",
+      "resolution": 5,
+      "date": "2026-10-10",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00009.geojson",
+      "sha256": "623e564b3b3825443c3b0801672f4f54e35e61680cb0e1225e3edd592a2ee950",
+      "resolution": 5,
+      "date": "2026-10-11",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00010.geojson",
+      "sha256": "e7dfdcef6a57324e172720d205eed61bac37c2cad850f69ea4131610af116d89",
+      "resolution": 5,
+      "date": "2026-10-12",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00011.geojson",
+      "sha256": "ffdf0075aa9b5676639caa9fe781b0e2b00ce08a6de9184d3d690f931bbf0ba8",
+      "resolution": 5,
+      "date": "2026-10-13",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00012.geojson",
+      "sha256": "e7db02a01ab612f313cbe2a14b0bf4521b49c4dd5fd64970fbad72f33208c290",
+      "resolution": 5,
+      "date": "2026-10-14",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00013.geojson",
+      "sha256": "93352097fabf9a34780b36e2c1ad23f4108be609810c59548ce4424f61a07d68",
+      "resolution": 5,
+      "date": "2026-10-15",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00014.geojson",
+      "sha256": "bcbce525a3c3ac3d345041c722acfc097be092d915958de586f39efeccae501e",
+      "resolution": 5,
+      "date": "2026-10-16",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00015.geojson",
+      "sha256": "df2964da4626ded7744e9bb27ae4b287cbdfc9d9a769db6adcc0433c59c1a7b7",
+      "resolution": 5,
+      "date": "2026-10-17",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00016.geojson",
+      "sha256": "167c67f8226b6cfde0e2dcdd56c7ccf22c2ff24d22e811053449cdd5f8641f90",
+      "resolution": 5,
+      "date": "2026-10-18",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00017.geojson",
+      "sha256": "e12d8cb1811aba4ae4470625e7b42df2e92851871ee45d062e936d50361b7972",
+      "resolution": 5,
+      "date": "2026-10-19",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00018.geojson",
+      "sha256": "a85d121251d3b50fda4883edccc5bfd9430c306b83b038ff11d8124bbb19cce8",
+      "resolution": 5,
+      "date": "2026-10-20",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00019.geojson",
+      "sha256": "67c23ee75f5eb5630881f3de0df74b7230fef5dd78d4049fb67b6a150ab913d9",
+      "resolution": 5,
+      "date": "2026-10-21",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00020.geojson",
+      "sha256": "4b2d3b8042a20f8d75c83f0c8ea71dd75c5ae567c069879c21776ab8203a04c2",
+      "resolution": 5,
+      "date": "2026-10-22",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00021.geojson",
+      "sha256": "dfad1829760805e7b1a5336d0153227131d23dd82d13aa9031fb8a0444f506b5",
+      "resolution": 5,
+      "date": "2026-10-23",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00022.geojson",
+      "sha256": "b24d4c06bcd723bc182daeb5880bfd2c4fd1e422d1a13dcb1ffa6399cdc9dda4",
+      "resolution": 5,
+      "date": "2026-10-24",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00023.geojson",
+      "sha256": "9b9cbdbad9d6dbb5a63e113d3f0e1fe59c5dc240a18065929c0b62fe15b57e7e",
+      "resolution": 5,
+      "date": "2026-10-25",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00024.geojson",
+      "sha256": "2cdaf92fc9b5b279546ca8adc052b19321dbcd5fd50c6b66620fc287a16568ec",
+      "resolution": 5,
+      "date": "2026-10-26",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00025.geojson",
+      "sha256": "1ecbf01da498b3ae515393ce869f26c36d7689192fc2e816dbaacd24ceea11db",
+      "resolution": 5,
+      "date": "2026-10-27",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00026.geojson",
+      "sha256": "2bae810e421f943541a45060fa1fa553dae603bd8c1f3379ee3ad1c3c8e20bfd",
+      "resolution": 5,
+      "date": "2026-10-28",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00027.geojson",
+      "sha256": "8f18782f074526d949eeecbb6c7c0a6dd1b659604f424707bf54c1276ad7e372",
+      "resolution": 5,
+      "date": "2026-10-29",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r5/kung-fu-soccer-2026-day-00028.geojson",
+      "sha256": "a28b0e063562a0e3dd4a74ce142fba9170bc4c63036f5632d95a4cf42f100dab",
+      "resolution": 5,
+      "date": "2026-10-30",
+      "collection": "kung-fu-soccer-2026",
+      "representation": "daily collection aggregate"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-week-00001.geojson",
+      "sha256": "0c40d260f1acac81fbca412033611a46133dced1b7d9f6da84ad897c9e46e066",
+      "resolution": 8,
+      "collection": "world-cup-2026",
+      "representation": "per-torrent weekly threshold"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/H3r8/world-cup-2026-week-00002.geojson",
+      "sha256": "9c3e9e7e9958cc59a95e799d46f330c5764cddc03220bb926735cc9e41b546c0",
+      "resolution": 8,
+      "collection": "world-cup-2026",
+      "representation": "per-torrent weekly threshold"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-week-00001.geojson",
+      "sha256": "292a8de45c546b52c045bdedb528f8b31b68a75d42e5bf9d6fc65ecbff441647",
+      "resolution": 8,
+      "collection": "kung-fu-soccer-2026",
+      "representation": "per-torrent weekly threshold"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-china-20261106/kung-fu-soccer-2026/H3r8/kung-fu-soccer-2026-week-00002.geojson",
+      "sha256": "70dee18098578a7cabc92502858276421c8f07224c197b95cb5abfb7ba5c4c84",
+      "resolution": 8,
+      "collection": "kung-fu-soccer-2026",
+      "representation": "per-torrent weekly threshold"
+    }
+  ],
+  "input_files": [
+    {
+      "path": "outputs/world-cup-stage1-20261105/torrent-inventory.json",
+      "sha256": "f434f89a5c7c5e6c9e1d40742244aa03156e1a18bcf95bb20fe939809b670aa2"
+    },
+    {
+      "path": "outputs/world-cup-china-20261106/kung-fu-soccer-inventory.json",
+      "sha256": "a9328bd5f41afd39413113833d70cf3f0424b5b97b568b3f8b32325ad19f688f"
+    },
+    {
+      "path": "outputs/world-cup-china-20261106/china-location-index.json",
+      "sha256": "ded5a9cd3f64e4b6661d9d06d3b9c91d73ae8efd7f1f87f15cd2d045ca112bc3"
+    }
+  ],
+  "analysis_code": [
+    {
+      "path": "/home/bkoz/src/alpha60/scripts/analyze-world-cup-china.py",
+      "sha256": "b010dea2dd1898c8523a084b2e102aedf1cec956a6430e1a123dfcc149f792ef"
+    },
+    {
+      "path": "/home/bkoz/src/alpha60/scripts/china_comparison.py",
+      "sha256": "2c017a127ee0435aba5344876d9182bfbce71663cce4d6375c6d240d78b19cfd"
+    },
+    {
+      "path": "/home/bkoz/src/alpha60/scripts/world_cup_analysis.py",
+      "sha256": "a217310d4b149a31374a075dc21e8f7089c62b45d649a947845bae214a5f9806"
+    }
+  ],
+  "cache_archive": {
+    "archive": "/mnt/gold/src/alpha60-samples-cache.gold/kung-fu-soccer-2026.cache/cache.20261030.tar.xz",
+    "sha256": "dd0b4ba72f67708e07ceef5aa72de740a7cbc98700f7d9253fe8c55940797f43",
+    "members": {
+      "week": 140,
+      "other": 20759,
+      "day": 895,
+      "cumulative": 36
+    },
+    "roots": [
+      "cache.20261030"
+    ],
+    "uncompressed_bytes": 912347786,
+    "observed_dates": [
+      "2026-10-03",
+      "2026-10-04",
+      "2026-10-05",
+      "2026-10-06",
+      "2026-10-07",
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14",
+      "2026-10-15",
+      "2026-10-16",
+      "2026-10-17",
+      "2026-10-18",
+      "2026-10-19",
+      "2026-10-20",
+      "2026-10-21",
+      "2026-10-22",
+      "2026-10-23",
+      "2026-10-24",
+      "2026-10-25",
+      "2026-10-26",
+      "2026-10-27",
+      "2026-10-28",
+      "2026-10-29",
+      "2026-10-30"
+    ]
+  },
+  "independent_verification": {
+    "status": "passed",
+    "daily_source_files": 168,
+    "collection_window_resolution_checks": 16,
+    "csv_groups_reconciled": 16,
+    "all_city_counts_and_network_exclusions_reconciled": true,
+    "province_join_complete": true,
+    "code_and_input_hashes_verified": true
+  },
+  "supporting_code": [
+    {
+      "path": "/home/bkoz/src/alpha60/scripts/world_cup_followups.py",
+      "sha256": "615d1e1c14d46744c9e579e7714e37f2d3c472ea69729cef76b10d9103f6524e"
+    },
+    {
+      "path": "/home/bkoz/src/alpha60/scripts/world_cup_2027_discovery.py",
+      "sha256": "a5eefb8f8a3ad2e0343766e2461cf7851fc6e8735f6acc579ad93bad66f426c7"
+    },
+    {
+      "path": "/home/bkoz/src/alpha60/src/a60-ipinfo-location-index.cc",
+      "sha256": "c833920fadd322480af5c2b338b49a4c96e393051efeebfa92667bfc0c08fa23"
+    }
+  ],
+  "builder": {
+    "path": "/home/bkoz/src/alpha60/scripts/build-world-cup-china-site.py",
+    "sha256": "08e8196229fb53c3701f8dfe78280cee616af4d316c300938d79595bcba289db"
+  },
+  "exports": [
+    {
+      "file": "analysis.json.gz",
+      "sha256": "28d21d4ab0170f295cb286508c59ba47e6372e8304fb381ab0961331b299522d"
+    },
+    {
+      "file": "chart-data.json",
+      "sha256": "cde388bd3b22038701efdbbd5bbb5ce73db158c8c92e77da4e254c921b17ece1"
+    },
+    {
+      "file": "china-city-day-memberships.csv",
+      "sha256": "9234c6be2ce7339f7bc3867551033c50bfbb00004351f3f1e7e65658cbf7be13"
+    },
+    {
+      "file": "china-location-index.json.gz",
+      "sha256": "32ab95766703a7ad7628a660dd42156f0bc73c9ccb5ba80b59a0304a2fc5950d"
+    },
+    {
+      "file": "discovery-research-sources.json",
+      "sha256": "f2a16be28463f0143d6935e8a449ef5a673d08b6516bcc07fe0944fd6306f631"
+    },
+    {
+      "file": "first14-torrent-city-weeks.csv",
+      "sha256": "205013ccd68b7c48de35a45f46f04d4364a75433fe930b2dc6fdd93b1d966e01"
+    },
+    {
+      "file": "kung-fu-soccer-inventory.json.gz",
+      "sha256": "723ec0b0a6fa1700c2ff60c2db032b6113c1e576942f71b93f63fc6a996fac7c"
+    }
+  ]
+}
