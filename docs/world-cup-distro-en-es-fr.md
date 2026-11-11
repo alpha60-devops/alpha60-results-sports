@@ -18,6 +18,36 @@ description: "English-audio files circulate in Mexico. The seven identified Span
 
 English-audio files circulate in Mexico. The seven identified Spanish-audio torrents do not support a stable positive geographic association with Spanish-speaking or Hispanic populations.
 
+<!-- BEGIN world-cup-language-maps -->
+
+## Spanish- and French-audio maps
+
+USA, Canada and Mexico, excluding Alaska, Hawaii and the Western Aleutians.
+These plates select verified audio tracks and cover June 29–November 3, 2026.
+Circle area shows retained downloader IP–torrent memberships, including hosting
+networks; it does not measure viewers or which audio track was played.
+
+### Spanish audio
+
+<figure data-language-map="spanish-north-america"><a href="../resources/world-cup-language-maps/spanish-north-america.svg"><img src="../resources/world-cup-language-maps/spanish-north-america.png" alt="Spanish audio: retained downloader memberships in the contiguous USA, Canada and Mexico." loading="lazy"></a><figcaption>Seven torrents, including the historical 2002 Spain–South Korea replay. 106,543 memberships: USA 56,568, Canada 28,283, Mexico 21,692. <a href="../resources/world-cup-language-maps/spanish-north-america.svg">Full-size SVG</a> · <a href="../resources/world-cup-language-maps/spanish-north-america.png">PNG</a> · <a href="../data/world-cup-language-maps/spanish-north-america-cities.csv">City counts</a> · <a href="../data/world-cup-language-maps/spanish-north-america.geojson.gz">Selected geography</a></figcaption></figure>
+
+### French audio
+
+<figure data-language-map="french-north-america"><a href="../resources/world-cup-language-maps/french-north-america.svg"><img src="../resources/world-cup-language-maps/french-north-america.png" alt="French audio: retained downloader memberships in the contiguous USA, Canada and Mexico." loading="lazy"></a><figcaption>Two verified French-audio torrents: South Africa–Canada and France–Sweden, both with M6 branding. 34,516 memberships: USA 18,513, Canada 9,467, Mexico 6,536. <a href="../resources/world-cup-language-maps/french-north-america.svg">Full-size SVG</a> · <a href="../resources/world-cup-language-maps/french-north-america.png">PNG</a> · <a href="../data/world-cup-language-maps/french-north-america-cities.csv">City counts</a> · <a href="../data/world-cup-language-maps/french-north-america.geojson.gz">Selected geography</a></figcaption></figure>
+
+### Spanish audio · 2026 matches only
+
+<figure data-language-map="spanish-north-america-2026-only"><a href="../resources/world-cup-language-maps/spanish-north-america-2026-only.svg"><img src="../resources/world-cup-language-maps/spanish-north-america-2026-only.png" alt="Spanish audio · 2026 matches only: retained downloader memberships in the contiguous USA, Canada and Mexico." loading="lazy"></a><figcaption>Six torrents, excluding the 2002 replay. Geography, circle-area scale and torrent colors match the seven-torrent plate. 88,933 memberships: USA 47,184, Canada 23,754, Mexico 17,995. <a href="../resources/world-cup-language-maps/spanish-north-america-2026-only.svg">Full-size SVG</a> · <a href="../resources/world-cup-language-maps/spanish-north-america-2026-only.png">PNG</a> · <a href="../data/world-cup-language-maps/spanish-north-america-2026-only-cities.csv">City counts</a> · <a href="../data/world-cup-language-maps/spanish-north-america-2026-only.geojson.gz">Selected geography</a></figcaption></figure>
+
+The maps use the native Cahill–Keyes projection and country/city aggregates
+of H3r8 cells retained at a minimum of three downloaders per torrent. Suppressed
+cells are not restored. The country table below retains full national coverage,
+including Alaska and Hawaii in its U.S. totals.
+[Torrent names, selection and source hashes](../data/world-cup-language-maps/manifest.json) ·
+[Map verification](../data/world-cup-language-maps/verification.json).
+
+<!-- END world-cup-language-maps -->
+
 ## Where identified languages circulate
 
 **English-audio torrents are observed in Mexico**, with 384,652 retained downloader memberships. This establishes distribution of files containing English audio; it cannot establish whether anyone listened to that track, spoke English, or watched the match.

@@ -1,0 +1,1313 @@
+{
+  "schema": "alpha60-world-cup-language-map/1",
+  "sampling": "2026-06-29-to-2026-11-03",
+  "selection": "spa or fra in verified audio_languages, selected separately; multilingual torrents count once per plate",
+  "excluded_geography": [
+    "Alaska",
+    "Hawaii",
+    "Western Aleutians"
+  ],
+  "historical_torrent": "6711fdabec818c8b7ba3a829c71b724dda5b5be1",
+  "counting_unit": "retained cumulative IP–canonical-torrent memberships",
+  "geography": "IPinfo; H3r8; per-torrent three-downloader minimum; native country/city grouping",
+  "rescaling": "none: derived tid totals equal retained feature sums",
+  "projection": "native Izzi/Cartofreako registered Cahill–Keyes",
+  "identity": {
+    "source_sha256": "073e8dcafc00d3faaf0fb6c4e2027649788f187fdfa38ef429859f5747aade9d",
+    "classifications_sha256": "8b222833a11ee8619bbe215728c3462060178336375d2d100a5fc994c57ac006",
+    "selected_btih": [
+      "1db1d5901ede2aa521a037c395d2a9818feacf6c",
+      "2991f4f9b56bf5c8d2393fbdc3ca08089f97b58f",
+      "6711fdabec818c8b7ba3a829c71b724dda5b5be1",
+      "675afbf813021600369a7bab3ae3ae31eb1f6091",
+      "a86f92b4de0846e179878ed036b941f9ff8ee6fb",
+      "b47e4619ba5ddee750089e9ea3a94559a9310624",
+      "c1cf9daa516de5ab5c2ce736ec912f520ca3637c",
+      "dffff11962e5a40892fa2bf0e712b693e61ec159",
+      "ee3f539ad68790c5f7ffb8f2bab40cfeafa73e3b"
+    ]
+  },
+  "analysis_sha256": "a5c94b02df39034ffd3b260ebbce89fdfe61bd9e0b36e11387f3bb2e0b1fd668",
+  "renderer_sha256": "348984a9119c724def8fb959042a4c60c9ce807cd89de0a891af3f22da7afcc5",
+  "builder_sha256": "247bf8eff4bfba8be5dc1f99af88ba66fec14639644b9b82ae7517f74aba7fac",
+  "iso_registry_sha256": "e7f1429c5334c75ec90a606afd6d633f5efb4be8792012d8d156850a12f5f3ab",
+  "boundary_sha256": "0d2333b97c5debbd9e3a9e7226e2fa29d31a02410dd68954e2eddd947bcb980b",
+  "lake_topology_repairs": [
+    {
+      "ne_id": 1159112221,
+      "method": "shapely.make_valid",
+      "area_before_degrees2": 0.04210024953400041,
+      "area_after_degrees2": 0.042100249534000406
+    },
+    {
+      "ne_id": 1159125163,
+      "method": "shapely.make_valid",
+      "area_before_degrees2": 0.5807659306934971,
+      "area_after_degrees2": 0.5807659306934979
+    }
+  ],
+  "torrents": [
+    {
+      "btih": "1db1d5901ede2aa521a037c395d2a9818feacf6c",
+      "tid": 70,
+      "name": "2026.FIFA.World.Cup.Round.of.32.South.Africa.v.Canada.WEB-DL.1080p.M6.H264.mp4",
+      "audio_languages": [
+        "fra"
+      ],
+      "subtitle_languages": [],
+      "unknown_audio_tokens": [],
+      "unknown_subtitle_tokens": [],
+      "media_fields": {
+        "video_width": [
+          "1920"
+        ],
+        "video_height": [
+          "1080"
+        ],
+        "video_codec_id": [
+          "avc1"
+        ],
+        "video_frame_rate": [
+          "25.000"
+        ],
+        "audio_codec": [
+          "mp4a-40-2"
+        ],
+        "audio_sampling_rate": [
+          "48000"
+        ],
+        "audio_channels": [
+          "2"
+        ],
+        "audio_bit_depth": [],
+        "video_creation_metadata": []
+      },
+      "height_group": "1080",
+      "vendor_candidates": [
+        "M6"
+      ],
+      "vendor_evidence": {
+        "M6": [
+          "2026.FIFA.World.Cup.Round.of.32.South.Africa.v.Canada.WEB-DL.1080p.M6.H264.mp4",
+          "2026.FIFA.World.Cup.Round.of.32.South.Africa.v.Canada.WEB-DL.1080p.M6.H264.mp4.torrent"
+        ]
+      },
+      "vendor_status": "filename-only",
+      "torrent_bytes": 4072739672,
+      "media_file_count": 1,
+      "swarm": {
+        "downloaders": 242559,
+        "uploaders": 2432
+      },
+      "team_tags": [],
+      "match_eligible": true,
+      "focus_match": null,
+      "focus_match_ambiguous": false,
+      "filename_vendor_candidates": [
+        "M6"
+      ],
+      "visual_vendor_candidates": [],
+      "visual_review": {
+        "review_index": 87,
+        "frame": {
+          "seconds_in_cached_fragment": 10.0,
+          "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/1db1d5901ede2aa521a037c395d2a9818feacf6c/286ad1f91331/frame-010.0.jpg",
+          "sha256": "279159d3e6f83d9f163c3ac6ea61c0ac5be59f6f7ec6a45e9d003fc36e659bd5",
+          "ocr": "\"Se\n\nSot\n\n<>»\n\nky\n\noy\n\n( e\n\nat\n\nSs\n\n¥,\n\nak\n\n«aA\n\n=\n\n&\n\n—"
+        },
+        "filename_candidates": [
+          "M6"
+        ],
+        "observed_visual_brands": [],
+        "review_status": "no-readable-brand-in-reviewed-frame",
+        "note": "Latest successfully decoded sampled frame reviewed; other frames require corroboration."
+      },
+      "vendor_assignment": "M6"
+    },
+    {
+      "btih": "2991f4f9b56bf5c8d2393fbdc3ca08089f97b58f",
+      "tid": 365,
+      "name": "Чемпионат Мира 2026 FIFA World Cup 2026 1 16 финала Испания - Австрия Spain - Austria DAZN LaLiga HD [02.07.2026, Футбол [rutracker-6877757]",
+      "audio_languages": [
+        "spa"
+      ],
+      "subtitle_languages": [],
+      "unknown_audio_tokens": [],
+      "unknown_subtitle_tokens": [],
+      "media_fields": {
+        "video_width": [
+          "1280"
+        ],
+        "video_height": [
+          "720"
+        ],
+        "video_codec_id": [
+          "V_MPEG4/ISO/AVC"
+        ],
+        "video_frame_rate": [
+          "25.000"
+        ],
+        "audio_codec": [
+          "A_AAC-2"
+        ],
+        "audio_sampling_rate": [
+          "48000"
+        ],
+        "audio_channels": [
+          "2"
+        ],
+        "audio_bit_depth": [],
+        "video_creation_metadata": [
+          "2026-07-03 04:08:25 UTC"
+        ]
+      },
+      "height_group": "720",
+      "vendor_candidates": [
+        "DAZN"
+      ],
+      "vendor_evidence": {
+        "DAZN": [
+          "Футбол.ЧМ.2026.1-16.Испания—Австрия.02.07.2026.DAZN.720р.25fps.Мосгортранс.mkv",
+          "Чемпионат Мира 2026 FIFA World Cup 2026 1 16 финала Испания - Австрия Spain - Austria DAZN LaLiga HD [02.07.2026, Футбол [rutracker-6877757]",
+          "Чемпионат Мира 2026 FIFA World Cup 2026 1 16 финала Испания - Австрия Spain - Austria DAZN LaLiga HD [02.07.2026, Футбол [rutracker-6877757].torrent"
+        ]
+      },
+      "vendor_status": "visually-corroborated-filename",
+      "torrent_bytes": 3125030614,
+      "media_file_count": 1,
+      "swarm": {
+        "downloaders": 125241,
+        "uploaders": 960
+      },
+      "team_tags": [],
+      "match_eligible": true,
+      "focus_match": null,
+      "focus_match_ambiguous": false,
+      "filename_vendor_candidates": [
+        "DAZN"
+      ],
+      "visual_vendor_candidates": [
+        "DAZN"
+      ],
+      "visual_review": {
+        "review_index": 32,
+        "frame": {
+          "seconds_in_cached_fragment": 30.0,
+          "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/2991f4f9b56bf5c8d2393fbdc3ca08089f97b58f/12dda549c06d/frame-030.0.jpg",
+          "sha256": "739dbfe6a308fc221d44aaaebfcdffeaba6b3a2addb19a968461d89e248648fe",
+          "ocr": "Ea\n\n>\n\n«>\n\nEa\n\nfl\n\n-¢\n\n\\\\\n\ns /"
+        },
+        "filename_candidates": [
+          "DAZN"
+        ],
+        "observed_visual_brands": [
+          "DAZN"
+        ],
+        "review_status": "logo-or-ident-readable",
+        "note": "Latest successfully decoded sampled frame reviewed; other frames require corroboration."
+      },
+      "vendor_assignment": "DAZN"
+    },
+    {
+      "btih": "6711fdabec818c8b7ba3a829c71b724dda5b5be1",
+      "tid": 263,
+      "name": "FIFA.World.Cup.2002.06.22.QF.SPA-KOR.1080p50.ES.mkv",
+      "audio_languages": [
+        "spa"
+      ],
+      "subtitle_languages": [],
+      "unknown_audio_tokens": [],
+      "unknown_subtitle_tokens": [],
+      "media_fields": {
+        "video_width": [
+          "1920"
+        ],
+        "video_height": [
+          "1080"
+        ],
+        "video_codec_id": [
+          "V_MPEG4/ISO/AVC"
+        ],
+        "video_frame_rate": [
+          "50.000"
+        ],
+        "audio_codec": [
+          "A_AAC-2"
+        ],
+        "audio_sampling_rate": [
+          "48000"
+        ],
+        "audio_channels": [
+          "2"
+        ],
+        "audio_bit_depth": [],
+        "video_creation_metadata": [
+          "2026-03-26 12:19:29 UTC"
+        ]
+      },
+      "height_group": "1080",
+      "vendor_candidates": [
+        "RTVE"
+      ],
+      "vendor_evidence": {},
+      "vendor_status": "visual-only",
+      "torrent_bytes": 6615371290,
+      "media_file_count": 1,
+      "swarm": {
+        "downloaders": 182777,
+        "uploaders": 707
+      },
+      "team_tags": [],
+      "match_eligible": true,
+      "focus_match": null,
+      "focus_match_ambiguous": false,
+      "filename_vendor_candidates": [],
+      "visual_vendor_candidates": [
+        "RTVE"
+      ],
+      "visual_review": {
+        "review_index": 312,
+        "frame": {
+          "seconds_in_cached_fragment": 10.0,
+          "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/6711fdabec818c8b7ba3a829c71b724dda5b5be1/745a0ed9a47d/frame-010.0.jpg",
+          "sha256": "8d0ca40c0276258a6e145383a125ad1fb734275cda2e38e070f9bf0751db7a4a",
+          "ocr": "tdp\n\nJie.\n\n&\n\n\\, Vi\n\nVf\n\nf\n\n>\n\n1/4 final]\n\nWs;"
+        },
+        "filename_candidates": [],
+        "observed_visual_brands": [
+          "RTVE"
+        ],
+        "review_status": "logo-or-ident-readable",
+        "note": "Latest sampled frame reviewed; tdp mark grouped under RTVE, Now TV 616 retained as a channel label."
+      },
+      "vendor_assignment": "RTVE"
+    },
+    {
+      "btih": "675afbf813021600369a7bab3ae3ae31eb1f6091",
+      "tid": 560,
+      "name": "Чемпионат Мира 2026 FIFA World Cup 2026 Финал Испания - Аргентина Spain - Argentina Teledeporte HD [19.07.2026, Футбол, [rutracker-6884431]",
+      "audio_languages": [
+        "spa"
+      ],
+      "subtitle_languages": [],
+      "unknown_audio_tokens": [],
+      "unknown_subtitle_tokens": [],
+      "media_fields": {
+        "video_width": [
+          "1920"
+        ],
+        "video_height": [
+          "1080"
+        ],
+        "video_codec_id": [
+          "V_MPEG4/ISO/AVC"
+        ],
+        "video_frame_rate": [
+          "50.000"
+        ],
+        "audio_codec": [
+          "A_AAC-2"
+        ],
+        "audio_sampling_rate": [
+          "48000"
+        ],
+        "audio_channels": [
+          "2"
+        ],
+        "audio_bit_depth": [],
+        "video_creation_metadata": [
+          "2026-07-20 05:00:45 UTC"
+        ]
+      },
+      "height_group": "1080",
+      "vendor_candidates": [],
+      "vendor_evidence": {},
+      "vendor_status": "unknown",
+      "torrent_bytes": 16715615291,
+      "media_file_count": 1,
+      "swarm": {
+        "downloaders": 238414,
+        "uploaders": 915
+      },
+      "team_tags": [],
+      "match_eligible": true,
+      "focus_match": null,
+      "focus_match_ambiguous": false,
+      "filename_vendor_candidates": [],
+      "visual_vendor_candidates": [],
+      "visual_review": {
+        "review_index": 314,
+        "frame": {
+          "seconds_in_cached_fragment": 10.0,
+          "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/675afbf813021600369a7bab3ae3ae31eb1f6091/9ff190b84bd2/frame-010.0.jpg",
+          "sha256": "0bd14e5c26df22e63940be98c8a4f3d1a969fbfd25e2a0b8313c47c4ec732efc",
+          "ocr": "ri\n\n(|"
+        },
+        "filename_candidates": [],
+        "observed_visual_brands": [],
+        "review_status": "no-readable-brand-in-reviewed-frame",
+        "note": "Latest sampled frame reviewed; tdp mark grouped under RTVE, Now TV 616 retained as a channel label."
+      },
+      "vendor_assignment": null
+    },
+    {
+      "btih": "a86f92b4de0846e179878ed036b941f9ff8ee6fb",
+      "tid": 561,
+      "name": "Чемпионат Мира 2026 FIFA World Cup 2026 Финал Испания - Аргентина Spain - Argentina Teledeporte HD [19.07.2026, Футбол, [rutracker-6884566]",
+      "audio_languages": [
+        "spa"
+      ],
+      "subtitle_languages": [],
+      "unknown_audio_tokens": [],
+      "unknown_subtitle_tokens": [],
+      "media_fields": {
+        "video_width": [
+          "1280"
+        ],
+        "video_height": [
+          "720"
+        ],
+        "video_codec_id": [
+          "V_MPEG4/ISO/AVC"
+        ],
+        "video_frame_rate": [
+          "15670.359"
+        ],
+        "audio_codec": [
+          "A_AAC-2"
+        ],
+        "audio_sampling_rate": [
+          "48000"
+        ],
+        "audio_channels": [
+          "2"
+        ],
+        "audio_bit_depth": [],
+        "video_creation_metadata": []
+      },
+      "height_group": "720",
+      "vendor_candidates": [],
+      "vendor_evidence": {},
+      "vendor_status": "unknown",
+      "torrent_bytes": 5347006486,
+      "media_file_count": 1,
+      "swarm": {
+        "downloaders": 158497,
+        "uploaders": 628
+      },
+      "team_tags": [],
+      "match_eligible": true,
+      "focus_match": null,
+      "focus_match_ambiguous": false,
+      "filename_vendor_candidates": [],
+      "visual_vendor_candidates": [],
+      "visual_review": {
+        "review_index": 362,
+        "frame": {
+          "seconds_in_cached_fragment": 30.0,
+          "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/a86f92b4de0846e179878ed036b941f9ff8ee6fb/acbf399bc0b8/frame-030.0.jpg",
+          "sha256": "57777bdde0f4d8b98533645384d55f0fdbaaab9e2c639e4d987f85b215f0b93e",
+          "ocr": "Ay)\n\nae\n\nrem ry\n\n—— —_=az\n\n~ ==\n\nC-\n\nOy"
+        },
+        "filename_candidates": [],
+        "observed_visual_brands": [],
+        "review_status": "no-readable-brand-in-reviewed-frame",
+        "note": "Latest sampled frame reviewed; brand only, acquisition platform unproven."
+      },
+      "vendor_assignment": null
+    },
+    {
+      "btih": "b47e4619ba5ddee750089e9ea3a94559a9310624",
+      "tid": 396,
+      "name": "Чемпионат Мира 2026 FIFA World Cup 2026 1 16 финала Франция - Швеция Fussball 1 HD [30.06.2026, Футбол, UHDTV 2160p 50fps, [rutracker-6877180]",
+      "audio_languages": [
+        "deu",
+        "eng",
+        "rus",
+        "spa",
+        "swe"
+      ],
+      "subtitle_languages": [],
+      "unknown_audio_tokens": [],
+      "unknown_subtitle_tokens": [],
+      "media_fields": {
+        "video_width": [
+          "3840"
+        ],
+        "video_height": [
+          "2160"
+        ],
+        "video_codec_id": [
+          "V_MPEGH/ISO/HEVC"
+        ],
+        "video_frame_rate": [],
+        "audio_codec": [
+          "A_AAC-2"
+        ],
+        "audio_sampling_rate": [
+          "48000"
+        ],
+        "audio_channels": [
+          "2"
+        ],
+        "audio_bit_depth": [],
+        "video_creation_metadata": []
+      },
+      "height_group": "2160",
+      "vendor_candidates": [
+        "FUSSBALL.TV 1"
+      ],
+      "vendor_evidence": {},
+      "vendor_status": "visual-only",
+      "torrent_bytes": 14141336090,
+      "media_file_count": 1,
+      "swarm": {
+        "downloaders": 135479,
+        "uploaders": 341
+      },
+      "team_tags": [],
+      "match_eligible": true,
+      "focus_match": null,
+      "focus_match_ambiguous": false,
+      "filename_vendor_candidates": [],
+      "visual_vendor_candidates": [
+        "FUSSBALL.TV 1"
+      ],
+      "visual_review": {
+        "review_index": 370,
+        "frame": {
+          "seconds_in_cached_fragment": 0.5,
+          "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/b47e4619ba5ddee750089e9ea3a94559a9310624/36e994d0d776/frame-000.5.jpg",
+          "sha256": "3cf6ca2a13ed34ad9a126b790e0372a75530efb0e3aa15c39690dbaca810b8ed",
+          "ocr": "int\n\npnt\n\n———— le\n\n=»\n\nent\n\nPe,\n\nsf\n\nEat\n\nV1\n\nay\n\n-\n\nee os\n\nee:\n\nSee\n\nars\n\nae Sites\n\ni\n\nrs)\n\na\n\na\n\nae ai%4\n\njoie\n\nhi\n\n4\n\nio *\n\nfi\n\nFee\n\nca\n\nDb\n\nhe\n\n=\n\nayes ah\n\n«\n\nyy\n\nne\n\n\\ he\n\ney\n\nl\n\nry"
+        },
+        "filename_candidates": [],
+        "observed_visual_brands": [
+          "FUSSBALL.TV 1"
+        ],
+        "review_status": "logo-or-ident-readable",
+        "note": "Latest sampled frame reviewed; brand only, acquisition platform unproven."
+      },
+      "vendor_assignment": "FUSSBALL.TV 1"
+    },
+    {
+      "btih": "c1cf9daa516de5ab5c2ce736ec912f520ca3637c",
+      "tid": 71,
+      "name": "2026.FIFA.World.Cup.Round.of.32.South.Africa.v.Canada.WEB-DL.1080p.RTVE.Play.H264.mp4",
+      "audio_languages": [
+        "spa"
+      ],
+      "subtitle_languages": [
+        "cat",
+        "eng",
+        "eus",
+        "glg",
+        "spa"
+      ],
+      "unknown_audio_tokens": [],
+      "unknown_subtitle_tokens": [],
+      "media_fields": {
+        "video_width": [
+          "1920"
+        ],
+        "video_height": [
+          "1080"
+        ],
+        "video_codec_id": [
+          "av01"
+        ],
+        "video_frame_rate": [
+          "25.000"
+        ],
+        "audio_codec": [
+          "mp4a-40-2"
+        ],
+        "audio_sampling_rate": [
+          "48000"
+        ],
+        "audio_channels": [
+          "2"
+        ],
+        "audio_bit_depth": [],
+        "video_creation_metadata": []
+      },
+      "height_group": "1080",
+      "vendor_candidates": [
+        "RTVE"
+      ],
+      "vendor_evidence": {
+        "RTVE": [
+          "2026.FIFA.World.Cup.Round.of.32.South.Africa.v.Canada.WEB-DL.1080p.RTVE.Play.H264.mp4",
+          "2026.FIFA.World.Cup.Round.of.32.South.Africa.v.Canada.WEB-DL.1080p.RTVE.Play.H264.mp4.torrent"
+        ]
+      },
+      "vendor_status": "visually-corroborated-filename",
+      "torrent_bytes": 2321985341,
+      "media_file_count": 1,
+      "swarm": {
+        "downloaders": 175461,
+        "uploaders": 1700
+      },
+      "team_tags": [],
+      "match_eligible": true,
+      "focus_match": null,
+      "focus_match_ambiguous": false,
+      "filename_vendor_candidates": [
+        "RTVE"
+      ],
+      "visual_vendor_candidates": [
+        "RTVE"
+      ],
+      "visual_review": {
+        "review_index": 175,
+        "frame": {
+          "seconds_in_cached_fragment": 30.0,
+          "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/c1cf9daa516de5ab5c2ce736ec912f520ca3637c/66353f421608/frame-030.0.jpg",
+          "sha256": "bca3e8c847f69cbd8b79f97d8dfc810fd6e96923885caf0e7cf57ef6468b1e31",
+          "ocr": "=\n\nHf\n\ni\n\n“1\n\nse\n\n(en\n\nra\n\n=\n\na\n\neh ae\n\ndee,\n\nar\n\nme\n\nSak\n\nBee\n\nae\n\n&\n\n\\-\n\naes\n\need\n\nbbap se\n\nmaarrac:y\n\nwe\n\nBAS EDI\n\n=o\n\na\n\n7\n\nLaem tS\n\n—\n\n“NG\n\nA\\Y :"
+        },
+        "filename_candidates": [
+          "RTVE"
+        ],
+        "observed_visual_brands": [
+          "RTVE"
+        ],
+        "review_status": "logo-or-ident-readable",
+        "note": "Latest sampled frame; channel families include Futbol 1 / Match Premier under Match TV and TG1 under Rai."
+      },
+      "vendor_assignment": "RTVE"
+    },
+    {
+      "btih": "dffff11962e5a40892fa2bf0e712b693e61ec159",
+      "tid": 421,
+      "name": "Чемпионат Мира 2026 FIFA World Cup 2026 1 4 финала Испания - Бельгия Spain - Belgium DAZN LaLiga HD [10.07.2026, Футбол, [rutracker-6880788]",
+      "audio_languages": [
+        "spa"
+      ],
+      "subtitle_languages": [],
+      "unknown_audio_tokens": [],
+      "unknown_subtitle_tokens": [],
+      "media_fields": {
+        "video_width": [
+          "1920"
+        ],
+        "video_height": [
+          "1080"
+        ],
+        "video_codec_id": [
+          "V_MPEG4/ISO/AVC"
+        ],
+        "video_frame_rate": [],
+        "audio_codec": [
+          "A_MPEG/L2"
+        ],
+        "audio_sampling_rate": [
+          "48000"
+        ],
+        "audio_channels": [
+          "2"
+        ],
+        "audio_bit_depth": [],
+        "video_creation_metadata": [
+          "2026-07-11 01:21:34 UTC"
+        ]
+      },
+      "height_group": "1080",
+      "vendor_candidates": [
+        "DAZN"
+      ],
+      "vendor_evidence": {
+        "DAZN": [
+          "Футбол.ЧМ.2026.1-8.Испания—Бельгия.10.07.2026.DAZN.1080i.25fps.Мосгортранс.mkv",
+          "Чемпионат Мира 2026 FIFA World Cup 2026 1 4 финала Испания - Бельгия Spain - Belgium DAZN LaLiga HD [10.07.2026, Футбол, [rutracker-6880788]",
+          "Чемпионат Мира 2026 FIFA World Cup 2026 1 4 финала Испания - Бельгия Spain - Belgium DAZN LaLiga HD [10.07.2026, Футбол, [rutracker-6880788].torrent"
+        ]
+      },
+      "vendor_status": "visually-corroborated-filename",
+      "torrent_bytes": 7268980860,
+      "media_file_count": 1,
+      "swarm": {
+        "downloaders": 103529,
+        "uploaders": 658
+      },
+      "team_tags": [
+        "BEL"
+      ],
+      "match_eligible": true,
+      "focus_match": null,
+      "focus_match_ambiguous": false,
+      "filename_vendor_candidates": [
+        "DAZN"
+      ],
+      "visual_vendor_candidates": [
+        "DAZN"
+      ],
+      "visual_review": {
+        "review_index": 33,
+        "frame": {
+          "seconds_in_cached_fragment": 30.0,
+          "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/dffff11962e5a40892fa2bf0e712b693e61ec159/17434c91e62a/frame-030.0.jpg",
+          "sha256": "9fff41e24eb4bb0c3e6817c2560ee5b833b6e8058a4f3bdc38a36093e39d8f82",
+          "ocr": "[oa] 7\n\nGER\n\n2 By\n\npar\n\nCopa del Mundo 2026\n\nJPN\n\npar\n\nBRARS\n\n(Girra\n\nNORES\n\nGiFra\n\ncv\n\noBswe\n\nNORES\n\nL\n\nirra 2\n\nNORE\n\na\n\nOSrsa\n\nGimar o |\n\nENCES\n\nMex GED\n\n(ican\n\n(ican\n\nMEX (ED\n\nECU\n\nNED\n\n(mar\n\nENCES\n\nENCES\n\n(mar\n\n(HDFRA\n\ncop\n\n(por\n\nARG\n\ncro\n\ncpy\n\nmi Por\n\nARC\n\n(mes\n\nEcy =\n\n(GeiesP\n\nAUS\n\nAUT\n\nEy =\n\n(mes\n\nARC\n\n(Miser\n\nsul EE}\n\n@Busa\n\nui\n\n(San\n\nALcl\n\nusa\n\nsul GE}\n\n(Bet\n\n(Meet\n\ncoL\n\ncoe\n\nsen\n\nCHAS"
+        },
+        "filename_candidates": [
+          "DAZN"
+        ],
+        "observed_visual_brands": [
+          "DAZN"
+        ],
+        "review_status": "logo-or-ident-readable",
+        "note": "Latest successfully decoded sampled frame reviewed; other frames require corroboration."
+      },
+      "vendor_assignment": "DAZN"
+    },
+    {
+      "btih": "ee3f539ad68790c5f7ffb8f2bab40cfeafa73e3b",
+      "tid": 393,
+      "name": "Чемпионат Мира 2026 FIFA World Cup 2026 1 16 финала Франция - Швеция France - Sweden M6 HD [30.06.2026, Футбол, WEB-DL H [rutracker-6877148]",
+      "audio_languages": [
+        "fra"
+      ],
+      "subtitle_languages": [],
+      "unknown_audio_tokens": [],
+      "unknown_subtitle_tokens": [],
+      "media_fields": {
+        "video_width": [
+          "1920"
+        ],
+        "video_height": [
+          "1080"
+        ],
+        "video_codec_id": [
+          "V_MPEGH/ISO/HEVC"
+        ],
+        "video_frame_rate": [
+          "50.000 / 50.000"
+        ],
+        "audio_codec": [
+          "A_AAC-2"
+        ],
+        "audio_sampling_rate": [
+          "48000"
+        ],
+        "audio_channels": [
+          "2"
+        ],
+        "audio_bit_depth": [],
+        "video_creation_metadata": [
+          "2026-07-01 08:36:57 UTC"
+        ]
+      },
+      "height_group": "1080",
+      "vendor_candidates": [
+        "M6"
+      ],
+      "vendor_evidence": {
+        "M6": [
+          "Чемпионат Мира 2026 FIFA World Cup 2026 1 16 финала Франция - Швеция France - Sweden M6 HD [30.06.2026, Футбол, WEB-DL H [rutracker-6877148]",
+          "Чемпионат Мира 2026 FIFA World Cup 2026 1 16 финала Франция - Швеция France - Sweden M6 HD [30.06.2026, Футбол, WEB-DL H [rutracker-6877148].torrent"
+        ]
+      },
+      "vendor_status": "filename-only",
+      "torrent_bytes": 5227706465,
+      "media_file_count": 1,
+      "swarm": {
+        "downloaders": 105457,
+        "uploaders": 658
+      },
+      "team_tags": [],
+      "match_eligible": true,
+      "focus_match": null,
+      "focus_match_ambiguous": false,
+      "filename_vendor_candidates": [
+        "M6"
+      ],
+      "visual_vendor_candidates": [],
+      "visual_review": {
+        "review_index": 88,
+        "frame": {
+          "seconds_in_cached_fragment": 10.0,
+          "path": "/mnt/gold/src/alpha60-analysis-work/world-cup-stage1-20261105/media-evidence/ee3f539ad68790c5f7ffb8f2bab40cfeafa73e3b/4497ae0b59cf/frame-010.0.jpg",
+          "sha256": "bc86afc0b6b47e916027b806b2065b187c1400c22583207e966d1d1fd42234e8",
+          "ocr": "COUPE DU MONDE\n\nDE LA FIFA”\n\nLt BV Ades\n\n|"
+        },
+        "filename_candidates": [
+          "M6"
+        ],
+        "observed_visual_brands": [],
+        "review_status": "no-readable-brand-in-reviewed-frame",
+        "note": "Latest successfully decoded sampled frame reviewed; other frames require corroboration."
+      },
+      "vendor_assignment": "M6"
+    }
+  ],
+  "variants": [
+    {
+      "id": "spanish-north-america",
+      "audio_language": "spa",
+      "torrent_count": 7,
+      "selected_btih": [
+        "c1cf9daa516de5ab5c2ce736ec912f520ca3637c",
+        "6711fdabec818c8b7ba3a829c71b724dda5b5be1",
+        "2991f4f9b56bf5c8d2393fbdc3ca08089f97b58f",
+        "b47e4619ba5ddee750089e9ea3a94559a9310624",
+        "dffff11962e5a40892fa2bf0e712b693e61ec159",
+        "675afbf813021600369a7bab3ae3ae31eb1f6091",
+        "a86f92b4de0846e179878ed036b941f9ff8ee6fb"
+      ],
+      "excluded_counts": {
+        "alaska": {
+          "downloaders": {
+            "size": 53,
+            "mobile": 17,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 2,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          },
+          "uploaders": {
+            "size": 0,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          }
+        },
+        "hawaii": {
+          "downloaders": {
+            "size": 51,
+            "mobile": 2,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          },
+          "uploaders": {
+            "size": 0,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          }
+        },
+        "aleutians": {
+          "downloaders": {
+            "size": 0,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          },
+          "uploaders": {
+            "size": 0,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          }
+        }
+      },
+      "country_counts": {
+        "USA": {
+          "downloaders": {
+            "size": 56568,
+            "mobile": 1393,
+            "satellite": 194,
+            "tor": 33,
+            "tor_exit_nodes": 0,
+            "vpn": 13696,
+            "relay": 33,
+            "proxy": 16,
+            "hosting": 21925,
+            "service": 13065
+          },
+          "uploaders": {
+            "size": 1145,
+            "mobile": 12,
+            "satellite": 7,
+            "tor": 2,
+            "tor_exit_nodes": 0,
+            "vpn": 306,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 770,
+            "service": 284
+          }
+        },
+        "CAN": {
+          "downloaders": {
+            "size": 28283,
+            "mobile": 3592,
+            "satellite": 48,
+            "tor": 9,
+            "tor_exit_nodes": 38,
+            "vpn": 6309,
+            "relay": 19,
+            "proxy": 97,
+            "hosting": 6397,
+            "service": 5883
+          },
+          "uploaders": {
+            "size": 313,
+            "mobile": 21,
+            "satellite": 3,
+            "tor": 0,
+            "tor_exit_nodes": 1,
+            "vpn": 150,
+            "relay": 2,
+            "proxy": 0,
+            "hosting": 164,
+            "service": 142
+          }
+        },
+        "MEX": {
+          "downloaders": {
+            "size": 21692,
+            "mobile": 47,
+            "satellite": 31,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 202,
+            "relay": 0,
+            "proxy": 1,
+            "hosting": 175,
+            "service": 172
+          },
+          "uploaders": {
+            "size": 21,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 4,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 4,
+            "service": 4
+          }
+        }
+      },
+      "validation": {
+        "file": "spanish-north-america.svg",
+        "status": "passed",
+        "circles": 5757,
+        "area_weight": 106542.99959362471,
+        "vector_only": true,
+        "glyph_containment": true,
+        "audit_location_labels_checked": 10
+      },
+      "native_member_totals_verified": 7,
+      "native_city_totals_verified": 1659,
+      "svg_sha256": "a8a08e26e69022ca71e40e5b54d0b4e4358e87ca9f428b610d8f70d36be3aeb8",
+      "png_sha256": "5f9c5c074fa4872d6e82b9f8bfddc2b0c3e0a1aaadde887f3916c4033a6c2f37",
+      "geojson_sha256": "daab7d4cb2ee7f999ae2b42eada85ad3cac935170714cb2b056543e5170b5ed7",
+      "cities_sha256": "f590a068be23b25a0ef727b50f37b09008fc7c8698f553b10261700d65b37869",
+      "rendering_sha256": "ee864679e44275bd329823bfed066a4f4cb2ea616a47e2566b1bd5dcad312a8e",
+      "source_features": 6166
+    },
+    {
+      "id": "spanish-north-america-2026-only",
+      "audio_language": "spa",
+      "torrent_count": 6,
+      "selected_btih": [
+        "c1cf9daa516de5ab5c2ce736ec912f520ca3637c",
+        "2991f4f9b56bf5c8d2393fbdc3ca08089f97b58f",
+        "b47e4619ba5ddee750089e9ea3a94559a9310624",
+        "dffff11962e5a40892fa2bf0e712b693e61ec159",
+        "675afbf813021600369a7bab3ae3ae31eb1f6091",
+        "a86f92b4de0846e179878ed036b941f9ff8ee6fb"
+      ],
+      "excluded_counts": {
+        "alaska": {
+          "downloaders": {
+            "size": 41,
+            "mobile": 16,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 2,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          },
+          "uploaders": {
+            "size": 0,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          }
+        },
+        "hawaii": {
+          "downloaders": {
+            "size": 45,
+            "mobile": 2,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          },
+          "uploaders": {
+            "size": 0,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          }
+        },
+        "aleutians": {
+          "downloaders": {
+            "size": 0,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          },
+          "uploaders": {
+            "size": 0,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          }
+        }
+      },
+      "country_counts": {
+        "USA": {
+          "downloaders": {
+            "size": 47184,
+            "mobile": 1158,
+            "satellite": 163,
+            "tor": 27,
+            "tor_exit_nodes": 0,
+            "vpn": 11463,
+            "relay": 27,
+            "proxy": 13,
+            "hosting": 18561,
+            "service": 10942
+          },
+          "uploaders": {
+            "size": 1013,
+            "mobile": 10,
+            "satellite": 5,
+            "tor": 2,
+            "tor_exit_nodes": 0,
+            "vpn": 256,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 693,
+            "service": 236
+          }
+        },
+        "CAN": {
+          "downloaders": {
+            "size": 23754,
+            "mobile": 3005,
+            "satellite": 41,
+            "tor": 7,
+            "tor_exit_nodes": 34,
+            "vpn": 5338,
+            "relay": 15,
+            "proxy": 80,
+            "hosting": 5409,
+            "service": 4993
+          },
+          "uploaders": {
+            "size": 275,
+            "mobile": 17,
+            "satellite": 3,
+            "tor": 0,
+            "tor_exit_nodes": 1,
+            "vpn": 131,
+            "relay": 2,
+            "proxy": 0,
+            "hosting": 139,
+            "service": 123
+          }
+        },
+        "MEX": {
+          "downloaders": {
+            "size": 17995,
+            "mobile": 38,
+            "satellite": 25,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 173,
+            "relay": 0,
+            "proxy": 1,
+            "hosting": 149,
+            "service": 145
+          },
+          "uploaders": {
+            "size": 19,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 3,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 3,
+            "service": 3
+          }
+        }
+      },
+      "validation": {
+        "file": "spanish-north-america-2026-only.svg",
+        "status": "passed",
+        "circles": 4774,
+        "area_weight": 88932.99966801686,
+        "vector_only": true,
+        "glyph_containment": true,
+        "audit_location_labels_checked": 10
+      },
+      "native_member_totals_verified": 6,
+      "native_city_totals_verified": 1562,
+      "svg_sha256": "4fef047ca82699ad51be0e0c1a39b2d9b633617e1888b9ef91b2394f2b2db328",
+      "png_sha256": "2ec44c913ec9bb01d8102240dda3ee44ee24b0fbfbd99465c26977b9e4110297",
+      "geojson_sha256": "16b2445ac4c8274a48fd178a4a73b6f1b17f0927a772e99ff9b25be240d43961",
+      "cities_sha256": "2e4055cdcb54a50a0f2746dccdea4bb97b17e7d9331feb1578b60367323af16c",
+      "rendering_sha256": "d87cae5061707873ba35100ee3785508d67896b71536e1ac6eb369b25b66feab",
+      "source_features": 5107
+    },
+    {
+      "id": "french-north-america",
+      "audio_language": "fra",
+      "torrent_count": 2,
+      "selected_btih": [
+        "1db1d5901ede2aa521a037c395d2a9818feacf6c",
+        "ee3f539ad68790c5f7ffb8f2bab40cfeafa73e3b"
+      ],
+      "excluded_counts": {
+        "alaska": {
+          "downloaders": {
+            "size": 21,
+            "mobile": 6,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 1,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          },
+          "uploaders": {
+            "size": 0,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          }
+        },
+        "hawaii": {
+          "downloaders": {
+            "size": 19,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          },
+          "uploaders": {
+            "size": 0,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          }
+        },
+        "aleutians": {
+          "downloaders": {
+            "size": 0,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          },
+          "uploaders": {
+            "size": 0,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 0,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 0,
+            "service": 0
+          }
+        }
+      },
+      "country_counts": {
+        "USA": {
+          "downloaders": {
+            "size": 18513,
+            "mobile": 480,
+            "satellite": 79,
+            "tor": 8,
+            "tor_exit_nodes": 0,
+            "vpn": 4996,
+            "relay": 14,
+            "proxy": 3,
+            "hosting": 7107,
+            "service": 4783
+          },
+          "uploaders": {
+            "size": 590,
+            "mobile": 15,
+            "satellite": 5,
+            "tor": 1,
+            "tor_exit_nodes": 0,
+            "vpn": 203,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 302,
+            "service": 187
+          }
+        },
+        "CAN": {
+          "downloaders": {
+            "size": 9467,
+            "mobile": 1096,
+            "satellite": 19,
+            "tor": 2,
+            "tor_exit_nodes": 9,
+            "vpn": 2260,
+            "relay": 8,
+            "proxy": 25,
+            "hosting": 2213,
+            "service": 2128
+          },
+          "uploaders": {
+            "size": 228,
+            "mobile": 9,
+            "satellite": 4,
+            "tor": 0,
+            "tor_exit_nodes": 1,
+            "vpn": 121,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 116,
+            "service": 114
+          }
+        },
+        "MEX": {
+          "downloaders": {
+            "size": 6536,
+            "mobile": 16,
+            "satellite": 7,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 82,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 73,
+            "service": 72
+          },
+          "uploaders": {
+            "size": 14,
+            "mobile": 0,
+            "satellite": 0,
+            "tor": 0,
+            "tor_exit_nodes": 0,
+            "vpn": 4,
+            "relay": 0,
+            "proxy": 0,
+            "hosting": 4,
+            "service": 4
+          }
+        }
+      },
+      "validation": {
+        "file": "french-north-america.svg",
+        "status": "passed",
+        "circles": 1723,
+        "area_weight": 34515.9998619594,
+        "vector_only": true,
+        "glyph_containment": true,
+        "audit_location_labels_checked": 10
+      },
+      "native_member_totals_verified": 2,
+      "native_city_totals_verified": 1235,
+      "svg_sha256": "becd54b07e7debf967d856963d2e94d77faff3a3ebfd65b33b3cb2406440b9f9",
+      "png_sha256": "e62a2981eaf9a7c0b5ff3d11a767cd058a0bb5eeb0388b1950d1684953ec43af",
+      "geojson_sha256": "cfccc3e59092ed57abea5416f99386b0596acc2a69209bdaed86137786e7feea",
+      "cities_sha256": "5ddca5d9af77458d62b74c2bb683e65015d807012b691c0fb60ca2cbb2fd6481",
+      "rendering_sha256": "058aac172a446fdb47b1689b0096095b420c2cd789e37133a850242952d8d75c",
+      "source_features": 1867
+    }
+  ]
+}

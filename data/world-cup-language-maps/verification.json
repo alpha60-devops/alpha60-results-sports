@@ -1,0 +1,60 @@
+{
+  "status": "passed",
+  "map_count": 3,
+  "maps": [
+    {
+      "id": "spanish-north-america",
+      "torrent_count": 7,
+      "cities": 1659,
+      "downloaders": 106543,
+      "rendering": {
+        "file": "spanish-north-america.svg",
+        "status": "passed",
+        "circles": 5757,
+        "area_weight": 106542.99959362471,
+        "vector_only": true,
+        "glyph_containment": true,
+        "audit_location_labels_checked": 10
+      }
+    },
+    {
+      "id": "spanish-north-america-2026-only",
+      "torrent_count": 6,
+      "cities": 1562,
+      "downloaders": 88933,
+      "rendering": {
+        "file": "spanish-north-america-2026-only.svg",
+        "status": "passed",
+        "circles": 4774,
+        "area_weight": 88932.99966801686,
+        "vector_only": true,
+        "glyph_containment": true,
+        "audit_location_labels_checked": 10
+      }
+    },
+    {
+      "id": "french-north-america",
+      "torrent_count": 2,
+      "cities": 1235,
+      "downloaders": 34516,
+      "rendering": {
+        "file": "french-north-america.svg",
+        "status": "passed",
+        "circles": 1723,
+        "area_weight": 34515.9998619594,
+        "vector_only": true,
+        "glyph_containment": true,
+        "audit_location_labels_checked": 10
+      }
+    }
+  ],
+  "manifest_sha256": "aa59950506cf239c2209ee9e092be98c7dd0c166e1012f1d3047af24a6146761",
+  "source_country_reconciliation": "selected plus excluded counts match prior language reductions",
+  "verified_audio_selection": true,
+  "excluded_geography_absent": true,
+  "city_csv_and_native_totals": true,
+  "shared_frame_and_area_scale": true,
+  "identical_country_geometry": true,
+  "stable_torrent_colors_and_per_color_weights": true,
+  "artifact_hashes": true
+}
