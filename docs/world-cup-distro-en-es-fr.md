@@ -105,6 +105,77 @@ Quebec accounts for **38.6% of Canadian French-audio memberships**, compared wit
 
 The Canadian table groups non-official languages and does not supply a Spanish-only provincial comparison here. US Hispanic-origin categories are not transferred to Canada or Mexico. No quantitative claim about a “high Latino population” area outside the USA is made without a compatible local measure.
 
+<!-- BEGIN world-cup-venue-swarms -->
+
+## CAN-MEX-USA Venues and Downloaders
+
+**Fifteen of the sixteen venue metros have more observed downloader memberships
+per resident than their country; nine have more uploader memberships per
+resident.** This all-network comparison covers June 29–November 3, 2026 and
+all 493 torrents, without a language or hosted-match filter. Houston is below
+the U.S. downloader baseline at **0.66×**; Philadelphia is close to it at **1.04×**.
+
+Each stadium is assigned to its official surrounding metropolitan area.
+The rate is retained IP–torrent memberships per **100,000 residents**, divided
+by the same country's rate. **1.0× is the national baseline.** These are
+memberships accumulated across torrents, not unique residents or the percentage
+of people downloading; a higher rate does not establish an effect of hosting matches.
+
+<link rel="stylesheet" href="../resources/world-cup-izzi.css">
+<link rel="stylesheet" href="../resources/world-cup-venue-swarms/venue-swarms.css">
+<section id="venue-swarm-explorer" markdown="1" data-analysis="../data/world-cup-venue-swarms/analysis.json" data-assets="../resources/world-cup-venue-swarms/">
+<div class="wc-venue-controls" hidden><label>Swarm role <select id="venue-swarm-role"><option value="downloaders">Downloaders</option><option value="uploaders">Uploaders</option></select></label><label>Network selection <select id="venue-swarm-network"><option value="all">All retained memberships</option><option value="exclude-hosting">Exclude hosting flags</option><option value="exclude-vpn">Exclude VPN flags</option></select></label></div>
+<p id="venue-swarm-status" role="status" aria-live="polite">Downloaders · all retained memberships. The same network selection applies to the metro and its country.</p>
+<figure class="wc-izzi-figure"><div id="venue-swarm-chart" class="wc-izzi-scroll" tabindex="0" role="region" aria-label="Venue metro comparison chart">{% include world-cup-venue-swarm-default.svg %}</div><figcaption id="venue-swarm-caption">Country-grouped venue metros. Bar length shows the population-normalized rate divided by the national rate; the dashed line marks 1.0×. The linear scale adjusts to the selected view. Values are printed on the bars and in the table. On small screens, scroll the chart and tables sideways. <a id="venue-swarm-svg" href="../resources/world-cup-venue-swarms/downloaders-all.svg">Full-size SVG</a>.</figcaption></figure>
+
+<div class="wc-table-wrap" tabindex="0" role="region" aria-label="Venue metros · all networks · June 29–November 3, 2026"><table id="venue-swarm-table"><caption>Venue metros · all networks · June 29–November 3, 2026</caption><thead><tr><th scope="col">Country</th><th scope="col">Venue host city</th><th scope="col">Metro residents</th><th scope="col">Downloaders</th><th scope="col">Uploaders</th><th scope="col"><span data-venue-rate-heading>Downloaders per 100,000</span></th><th scope="col"><span data-venue-index-heading>Downloader rate / country</span></th></tr></thead><tbody><tr><td>CAN</td><td>Toronto</td><td>7,108,874</td><td>371,501</td><td>7,483</td><td>5,225.9</td><td>1.43×</td></tr><tr><td>CAN</td><td>Vancouver</td><td>3,088,036</td><td>189,390</td><td>3,491</td><td>6,133.0</td><td>1.68×</td></tr><tr><td>MEX</td><td>Guadalajara</td><td>5,110,617</td><td>90,895</td><td>140</td><td>1,778.6</td><td>2.11×</td></tr><tr><td>MEX</td><td>Mexico City</td><td>21,436,911</td><td>338,366</td><td>1,451</td><td>1,578.4</td><td>1.87×</td></tr><tr><td>MEX</td><td>Monterrey</td><td>5,322,117</td><td>101,256</td><td>334</td><td>1,902.6</td><td>2.26×</td></tr><tr><td>USA</td><td>Atlanta</td><td>6,482,182</td><td>93,600</td><td>1,804</td><td>1,444.0</td><td>1.33×</td></tr><tr><td>USA</td><td>Boston</td><td>5,034,221</td><td>65,668</td><td>1,413</td><td>1,304.4</td><td>1.20×</td></tr><tr><td>USA</td><td>Dallas</td><td>8,477,157</td><td>136,369</td><td>2,960</td><td>1,608.7</td><td>1.48×</td></tr><tr><td>USA</td><td>Houston</td><td>7,904,627</td><td>56,741</td><td>1,056</td><td>717.8</td><td>0.66×</td></tr><tr><td>USA</td><td>Kansas City</td><td>2,270,682</td><td>37,839</td><td>867</td><td>1,666.4</td><td>1.53×</td></tr><tr><td>USA</td><td>Los Angeles</td><td>12,844,441</td><td>225,568</td><td>8,654</td><td>1,756.2</td><td>1.61×</td></tr><tr><td>USA</td><td>Miami</td><td>6,391,072</td><td>123,824</td><td>3,045</td><td>1,937.5</td><td>1.78×</td></tr><tr><td>USA</td><td>New York New Jersey</td><td>20,112,448</td><td>406,594</td><td>6,661</td><td>2,021.6</td><td>1.86×</td></tr><tr><td>USA</td><td>Philadelphia</td><td>6,329,118</td><td>71,833</td><td>431</td><td>1,135.0</td><td>1.04×</td></tr><tr><td>USA</td><td>San Francisco<br><small>San Jose metro</small></td><td>1,984,473</td><td>94,055</td><td>8,171</td><td>4,739.5</td><td>4.36×</td></tr><tr><td>USA</td><td>Seattle</td><td>4,161,883</td><td>124,482</td><td>2,584</td><td>2,991.0</td><td>2.75×</td></tr></tbody></table></div>
+
+
+<p class="wc-venue-note">Population dates: July 2025 for Canada and the USA; the 2020 census for Mexico. Both metro and country denominators use the same vintage within each country. Mexico's figures are a comparison against its 2020 population distribution, not an estimate of its 2026 per-capita rate.</p>
+
+### Read the venue geography carefully
+
+The **San Francisco venue is in Santa Clara**, inside the **San Jose–Sunnyvale–Santa Clara**
+metro. That metro has the largest all-network indices: **4.36× for downloaders
+and 11.29× for uploaders**. Its San Jose city label accounts for **7,502 of
+8,171 uploader memberships (91.8%)**. This concentration in mapped network
+locations does not identify stadium users or establish that the peers reside there.
+
+Network sensitivity can change an above/below-country result. **Atlanta's
+downloader index falls from 1.33× to 0.90× when hosting flags are excluded**
+from both the metro and national counts. Uploader comparisons can also rise
+when the national denominator falls faster than the local one. Excluding a
+flag does not establish residential traffic, and hosting and VPN flags are
+tested separately because they overlap.
+
+### National baselines
+
+<div class="wc-table-wrap" tabindex="0" role="region" aria-label="National baselines · all networks · same retained geography as the venue counts"><table id="venue-national-table"><caption>National baselines · all networks · same retained geography as the venue counts</caption><thead><tr><th scope="col">Country</th><th scope="col">Population date</th><th scope="col">Residents</th><th scope="col">Downloaders</th><th scope="col">Uploaders</th><th scope="col">D per 100,000</th><th scope="col">U per 100,000</th></tr></thead><tbody><tr><td>CAN</td><td>2025-07-01</td><td>41,651,653</td><td>1,522,492</td><td>19,782</td><td>3,655.3</td><td>47.5</td></tr><tr><td>MEX</td><td>2020-03-15</td><td>126,014,024</td><td>1,061,746</td><td>3,711</td><td>842.6</td><td>2.9</td></tr><tr><td>USA</td><td>2025-07-01</td><td>341,784,857</td><td>3,718,099</td><td>124,603</td><td>1,087.8</td><td>36.5</td></tr></tbody></table></div>
+
+
+### Three complementary approaches
+
+1. **Uploader-to-downloader balance.** Compare uploader memberships per 100
+   downloader memberships locally and nationally. The San Jose metro has
+   **8.69 versus 3.35 nationally** in the all-network view. This is a role
+   balance, not upload bandwidth or individual sharing behavior.
+2. **Hosting and VPN sensitivity.** Use the network selector above to check
+   whether the comparison survives each exclusion. The calculations keep
+   the local and national filters aligned.
+3. **Similarly sized non-host metros.** A useful next comparison would match
+   venue metros to non-host metros in the same country by population and
+   internet access. That would help distinguish venue-specific patterns
+   from the broader concentration of swarm activity in cities. It has not
+   been estimated here; the sample also lacks a pre-tournament baseline for
+   a causal hosting claim.
+
+<p><a href="#venue-swarm-sources">Sources, downloads, boundaries and counting rules</a>.</p>
+</section>
+<script src="../resources/world-cup-izzi.js" defer></script>
+<script src="../resources/world-cup-venue-swarms/venue-swarms.js" defer></script>
+
+<!-- END world-cup-venue-swarms -->
+
 ## Findings and improvements
 
 1. **Language-bearing files cross national language boundaries.** English-tagged files circulate in Mexico; this does not reveal listening behavior.
@@ -116,6 +187,63 @@ The Canadian table groups non-official languages and does not supply a Spanish-o
 
 <details class="wc-sources" markdown="1">
 <summary>Sources, downloads, and counting rules</summary>
+
+<!-- BEGIN world-cup-venue-swarm-sources -->
+
+<a id="venue-swarm-sources"></a>
+
+### Venue metro population comparison
+
+[All venue/role/network comparisons (CSV)](../data/world-cup-venue-swarms/venue-comparisons.csv) ·
+[National baselines (CSV)](../data/world-cup-venue-swarms/national-baselines.csv) ·
+[Population denominators (CSV)](../data/world-cup-venue-swarms/population-denominators.csv) ·
+[Role balance (CSV)](../data/world-cup-venue-swarms/role-balance.csv) ·
+[Assigned retained points (CSV.gz)](../data/world-cup-venue-swarms/retained-point-assignments.csv.gz) ·
+[Selected official metro boundaries (GeoJSON.gz)](../data/world-cup-venue-swarms/metropolitan-boundaries.geojson.gz) ·
+[Complete analysis and source hashes](../data/world-cup-venue-swarms/analysis.json) ·
+[Build manifest](../data/world-cup-venue-swarms/manifest.json) · [Verification](../data/world-cup-venue-swarms/verification.json)
+
+The numerator is the [existing cumulative all-torrent H3r8 aggregate](../H3r8/world-cup-2026-cumulative-aggregate.geojson.gz),
+with the native aggregate threshold of three downloader memberships. Its
+country totals reconcile with the [published analysis](../data/world-cup-stage1/analysis.json.gz).
+The denominator is a population count or estimate for the same geographic
+unit as the numerator. Rates equal `100000 × memberships / population`;
+the comparison index divides the metro rate by its own country's rate.
+National totals retain full country coverage, including Alaska and Hawaii.
+
+Geolocation points are selected by their coordinates within an official metro
+polygon and by their source country code. All sixteen stadium points pass
+containment checks. An independent spatial join reproduces every assignment;
+no retained point belongs to two selected venue metros. City labels,
+coordinates, counts and network flags in the point download are already
+aggregated native products; they contain no individual IP addresses.
+
+Population sources and geometry:
+
+- **USA population:** Census Bureau Vintage 2025 [metro estimates](https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/metro/totals/cbsa-est2025-alldata.csv) and [national estimates](https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv), July 1, 2025. Use the metro-total rows, not county or metropolitan-division rows.
+- **USA boundaries:** [TIGER/Line 2025 CBSAs](https://www2.census.gov/geo/tiger/TIGER2025/CBSA/tl_2025_us_cbsa.zip). Codes and names match the population rows. Both use the July 2023 OMB metro delineations; [population file documentation](https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2020-2025/CBSA-EST2025-ALLDATA.pdf).
+- **Canada population:** Statistics Canada [table 17-10-0148-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014801), [full CSV download](https://www150.statcan.gc.ca/n1/tbl/csv/17100148-eng.zip). July 1, 2025; all ages; total gender; Canada and the Toronto and Vancouver CMAs on 2021 boundaries.
+- **Canada boundaries:** Statistics Canada's [2021 digital CMA boundaries](https://geo.statcan.gc.ca/geo_wa/rest/services/2021/Digital_boundary_files/MapServer/6), Toronto CMA 535 and Vancouver CMA 933. Both are contained in one province; the selected provincial-part geometries cover the complete CMAs.
+- **Mexico metro population and boundaries:** CONAPO/INEGI/SEDATU [Metrópolis de México 2020](https://www.gob.mx/conapo/documentos/las-metropolis-de-mexico-2020?idiom=es), [population dataset](https://www.datos.gob.mx/dataset/metropolis_mexico_2020), and [original shapefile archive](https://conapo.segob.gob.mx/work/models/CONAPO/Datos_Abiertos/DT/Metropolis.rar). The metro polygons are unions of the same component municipalities used in the 2020 population totals; municipality identifiers and population sums reconcile exactly. The 2020 statistical definition is held fixed, including Mexico City, rather than mixing later planning boundaries with its census denominator.
+- **Mexico national population:** INEGI's [2020 national census release](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2021/EstSociodemo/ResultCenso2020_Nal.pdf), 126,014,024 residents. The metro and national denominators share the March 15, 2020 census reference.
+
+All external sources were acquired November 11, 2026. Original download hashes,
+exact denominator values, source identifiers and geometry are retained in the
+downloads above. Countries define metropolitan areas differently. Internet
+access, urbanization, sampling coverage, IP-location accuracy and network
+infrastructure remain possible explanations for the differences.
+
+For Mexico's older population base, the analysis also records the change in a
+metro's share of national population required to reach parity while holding
+memberships fixed. Guadalajara's uploader index is **0.93×**: only a **7.0% decrease**
+in its population share would bring it to 1.0×. That close result should not
+be treated as a precise 2026 classification. No current population has been
+invented or extrapolated. Hosting/VPN exclusions subtract each flagged count
+separately from both local and national totals; the flags are not additive.
+These exclusions preserve the original retained point universe and do not
+reapply the downloader threshold after subtraction.
+
+<!-- END world-cup-venue-swarm-sources -->
 
 <!-- BEGIN world-cup-venue-sources -->
 

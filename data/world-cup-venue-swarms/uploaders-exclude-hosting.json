@@ -1,0 +1,317 @@
+{
+  "schema": "izzi.visualization/1",
+  "kind": "bar-graph",
+  "title": "Uploaders per resident / country rate",
+  "description": "Hosting flags excluded. Official metro containing each stadium; 1.0 is the national rate. Retained IP–torrent memberships, June 29–November 3, 2026. Population: July 2025 Canada/USA; 2020 Mexico. Not unique residents.",
+  "source": "../data/world-cup-venue-swarms/analysis.json",
+  "x_label": "METRO RATE / NATIONAL RATE (MULTIPLE)",
+  "y_label": "VENUE METRO",
+  "viewport": [
+    1440,
+    1120
+  ],
+  "bars": [
+    [
+      "CAN · Toronto",
+      1.7231944476719632
+    ],
+    [
+      "CAN · Vancouver",
+      3.0487514079127074
+    ],
+    [
+      "MEX · Guadalajara",
+      1.0821386219349944
+    ],
+    [
+      "MEX · Mexico City",
+      2.0804627010160917
+    ],
+    [
+      "MEX · Monterrey",
+      2.4790783127469544
+    ],
+    [
+      "USA · Atlanta",
+      0.7280121708837858
+    ],
+    [
+      "USA · Boston",
+      1.5940537283880925
+    ],
+    [
+      "USA · Dallas",
+      1.191912505131273
+    ],
+    [
+      "USA · Houston",
+      0.564495490349523
+    ],
+    [
+      "USA · Kansas City",
+      0.6996181801219786
+    ],
+    [
+      "USA · Los Angeles",
+      1.244083082778313
+    ],
+    [
+      "USA · Miami",
+      3.280720542673049
+    ],
+    [
+      "USA · New York New Jersey",
+      1.1615651049390894
+    ],
+    [
+      "USA · Philadelphia",
+      0.6330374781836726
+    ],
+    [
+      "USA · San Francisco (San Jose metro)",
+      34.59306091448273
+    ],
+    [
+      "USA · Seattle",
+      2.559666983405373
+    ]
+  ],
+  "role": "uploaders",
+  "network": "exclude-hosting",
+  "observations": [
+    {
+      "venue_id": "toronto",
+      "label": "CAN · Toronto",
+      "metro": "Toronto",
+      "population": 7108874,
+      "memberships": 2804,
+      "per_100k": 39.44365872851312,
+      "national_memberships": 9534,
+      "national_per_100k": 22.889847853097212,
+      "relative_to_country": 1.7231944476719632,
+      "national_membership_share": 0.29410530732116635,
+      "national_population_share": 0.17067447479215292,
+      "population_share_change_to_parity_pct": 72.31944476719632
+    },
+    {
+      "venue_id": "vancouver",
+      "label": "CAN · Vancouver",
+      "metro": "Vancouver",
+      "population": 3088036,
+      "memberships": 2155,
+      "per_100k": 69.78545586903779,
+      "national_memberships": 9534,
+      "national_per_100k": 22.889847853097212,
+      "relative_to_country": 3.0487514079127074,
+      "national_membership_share": 0.22603314453534717,
+      "national_population_share": 0.07413957856606555,
+      "population_share_change_to_parity_pct": 204.87514079127072
+    },
+    {
+      "venue_id": "guadalajara",
+      "label": "MEX · Guadalajara",
+      "metro": "Guadalajara",
+      "population": 5110617,
+      "memberships": 140,
+      "per_100k": 2.7393952628420406,
+      "national_memberships": 3190,
+      "national_per_100k": 2.531464275753943,
+      "relative_to_country": 1.0821386219349944,
+      "national_membership_share": 0.0438871473354232,
+      "national_population_share": 0.040555938440629435,
+      "population_share_change_to_parity_pct": 8.213862193499445
+    },
+    {
+      "venue_id": "mexico-city",
+      "label": "MEX · Mexico City",
+      "metro": "Ciudad de México",
+      "population": 21436911,
+      "memberships": 1129,
+      "per_100k": 5.266617004660793,
+      "national_memberships": 3190,
+      "national_per_100k": 2.531464275753943,
+      "relative_to_country": 2.0804627010160917,
+      "national_membership_share": 0.35391849529780567,
+      "national_population_share": 0.17011528018500544,
+      "population_share_change_to_parity_pct": 108.04627010160917
+    },
+    {
+      "venue_id": "monterrey",
+      "label": "MEX · Monterrey",
+      "metro": "Monterrey",
+      "population": 5322117,
+      "memberships": 334,
+      "per_100k": 6.275698185515275,
+      "national_memberships": 3190,
+      "national_per_100k": 2.531464275753943,
+      "relative_to_country": 2.4790783127469544,
+      "national_membership_share": 0.10470219435736677,
+      "national_population_share": 0.04223432306232836,
+      "population_share_change_to_parity_pct": 147.90783127469544
+    },
+    {
+      "venue_id": "atlanta",
+      "label": "USA · Atlanta",
+      "metro": "Atlanta-Sandy Springs-Roswell, GA",
+      "population": 6482182,
+      "memberships": 404,
+      "per_100k": 6.232469251866116,
+      "national_memberships": 29260,
+      "national_per_100k": 8.560941013252673,
+      "relative_to_country": 0.7280121708837858,
+      "national_membership_share": 0.013807245386192754,
+      "national_population_share": 0.018965679336694546,
+      "population_share_change_to_parity_pct": -27.19878291162142
+    },
+    {
+      "venue_id": "boston",
+      "label": "USA · Boston",
+      "metro": "Boston-Cambridge-Newton, MA-NH",
+      "population": 5034221,
+      "memberships": 687,
+      "per_100k": 13.646599940685958,
+      "national_memberships": 29260,
+      "national_per_100k": 8.560941013252673,
+      "relative_to_country": 1.5940537283880925,
+      "national_membership_share": 0.023479152426520846,
+      "national_population_share": 0.014729210194353344,
+      "population_share_change_to_parity_pct": 59.40537283880924
+    },
+    {
+      "venue_id": "dallas",
+      "label": "USA · Dallas",
+      "metro": "Dallas-Fort Worth-Arlington, TX",
+      "population": 8477157,
+      "memberships": 865,
+      "per_100k": 10.203892649387052,
+      "national_memberships": 29260,
+      "national_per_100k": 8.560941013252673,
+      "relative_to_country": 1.191912505131273,
+      "national_membership_share": 0.029562542720437457,
+      "national_population_share": 0.02480261142757416,
+      "population_share_change_to_parity_pct": 19.19125051312729
+    },
+    {
+      "venue_id": "houston",
+      "label": "USA · Houston",
+      "metro": "Houston-Pasadena-The Woodlands, TX",
+      "population": 7904627,
+      "memberships": 382,
+      "per_100k": 4.83261259512941,
+      "national_memberships": 29260,
+      "national_per_100k": 8.560941013252673,
+      "relative_to_country": 0.564495490349523,
+      "national_membership_share": 0.013055365686944634,
+      "national_population_share": 0.023127493328354218,
+      "population_share_change_to_parity_pct": -43.5504509650477
+    },
+    {
+      "venue_id": "kansas-city",
+      "label": "USA · Kansas City",
+      "metro": "Kansas City, MO-KS",
+      "population": 2270682,
+      "memberships": 136,
+      "per_100k": 5.989389971823443,
+      "national_memberships": 29260,
+      "national_per_100k": 8.560941013252673,
+      "relative_to_country": 0.6996181801219786,
+      "national_membership_share": 0.0046479835953520164,
+      "national_population_share": 0.006643600362903146,
+      "population_share_change_to_parity_pct": -30.038181987802137
+    },
+    {
+      "venue_id": "los-angeles",
+      "label": "USA · Los Angeles",
+      "metro": "Los Angeles-Long Beach-Anaheim, CA",
+      "population": 12844441,
+      "memberships": 1368,
+      "per_100k": 10.65052188725068,
+      "national_memberships": 29260,
+      "national_per_100k": 8.560941013252673,
+      "relative_to_country": 1.244083082778313,
+      "national_membership_share": 0.046753246753246755,
+      "national_population_share": 0.03758048590198366,
+      "population_share_change_to_parity_pct": 24.408308277831292
+    },
+    {
+      "venue_id": "miami",
+      "label": "USA · Miami",
+      "metro": "Miami-Fort Lauderdale-West Palm Beach, FL",
+      "population": 6391072,
+      "memberships": 1795,
+      "per_100k": 28.08605504679027,
+      "national_memberships": 29260,
+      "national_per_100k": 8.560941013252673,
+      "relative_to_country": 3.280720542673049,
+      "national_membership_share": 0.061346548188653455,
+      "national_population_share": 0.018699108135150647,
+      "population_share_change_to_parity_pct": 228.07205426730488
+    },
+    {
+      "venue_id": "new-york-new-jersey",
+      "label": "USA · New York New Jersey",
+      "metro": "New York-Newark-Jersey City, NY-NJ",
+      "population": 20112448,
+      "memberships": 2000,
+      "per_100k": 9.944090346436196,
+      "national_memberships": 29260,
+      "national_per_100k": 8.560941013252673,
+      "relative_to_country": 1.1615651049390894,
+      "national_membership_share": 0.0683526999316473,
+      "national_population_share": 0.05884534550926579,
+      "population_share_change_to_parity_pct": 16.15651049390894
+    },
+    {
+      "venue_id": "philadelphia",
+      "label": "USA · Philadelphia",
+      "metro": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+      "population": 6329118,
+      "memberships": 343,
+      "per_100k": 5.419396509908648,
+      "national_memberships": 29260,
+      "national_per_100k": 8.560941013252673,
+      "relative_to_country": 0.6330374781836726,
+      "national_membership_share": 0.011722488038277513,
+      "national_population_share": 0.01851784205875452,
+      "population_share_change_to_parity_pct": -36.69625218163274
+    },
+    {
+      "venue_id": "san-francisco",
+      "label": "USA · San Francisco (San Jose metro)",
+      "metro": "San Jose-Sunnyvale-Santa Clara, CA",
+      "population": 1984473,
+      "memberships": 5877,
+      "per_100k": 296.1491539567432,
+      "national_memberships": 29260,
+      "national_per_100k": 8.560941013252673,
+      "relative_to_country": 34.59306091448273,
+      "national_membership_share": 0.2008544087491456,
+      "national_population_share": 0.005806205159054194,
+      "population_share_change_to_parity_pct": 3359.3060914482726
+    },
+    {
+      "venue_id": "seattle",
+      "label": "USA · Seattle",
+      "metro": "Seattle-Tacoma-Bellevue, WA",
+      "population": 4161883,
+      "memberships": 912,
+      "per_100k": 21.913158058503807,
+      "national_memberships": 29260,
+      "national_per_100k": 8.560941013252673,
+      "relative_to_country": 2.559666983405373,
+      "national_membership_share": 0.03116883116883117,
+      "national_population_share": 0.012176908703711235,
+      "population_share_change_to_parity_pct": 155.9666983405373
+    }
+  ],
+  "renderer": {
+    "library": "Izzi",
+    "function": "svg::emit_bar_graph",
+    "commit": "1c7427b048bc90d3ee3589d4c9099aad7d2bfe37",
+    "bar_header_sha256": "6a064f6a7ce1ac8544684c1179bf2f40284ca253258d5f898bbe143b79135a5e",
+    "adapter_sha256": "abdc56a156258e5fd882b1637daf74a9d8936120ea82acc95199036e73cf97fb",
+    "builder_sha256": "6759866710a5af9864c4ba29dc6e51434fa8d495e42252895d11e9b8eac9e5f5",
+    "axis_policy": "Native linear zero baseline; automatic maximum for each selected view.",
+    "postprocessing": "Role colors, accessible metadata, two-decimal ratio labels, and a 1.0 reference line. Native bar geometry unchanged."
+  }
+}

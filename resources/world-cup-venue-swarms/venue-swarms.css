@@ -1,0 +1,10 @@
+.wc-venue-controls{display:flex;flex-wrap:wrap;gap:1rem;margin:1rem 0}
+.wc-venue-controls[hidden]{display:none}
+.wc-venue-controls label{display:flex;flex-direction:column;gap:.25rem;font-size:.9rem}
+.wc-venue-controls select{font:inherit;padding:.5rem;border:1px solid #778795;border-radius:4px;max-width:100%;background:#fff;color:#243342}
+#venue-swarm-explorer{display:block;float:none;clear:both;width:100%;max-width:none;padding:0}
+#venue-swarm-chart .analysis-svg{min-width:1100px}
+#venue-swarm-table td:nth-child(2){text-align:left;min-width:145px}
+#venue-swarm-table td:first-child{font-weight:700}
+#venue-swarm-table small{white-space:nowrap}
+.wc-venue-note{font-size:.88rem;color:#536473}

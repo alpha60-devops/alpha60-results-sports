@@ -1,0 +1,66 @@
+{
+  "status": "passed",
+  "checks": [
+    "Native aggregate source hash matches the existing analytical reduction",
+    "All CAN/MEX/USA role/flag totals and city totals reconcile exactly",
+    "All sixteen stadiums are covered by one official metropolitan polygon",
+    "Mexican metro population sums and municipality IDs match the geometry components",
+    "All retained metro point assignments agree with an independent spatial join",
+    "No point is assigned to overlapping venue metros",
+    "All role numerators recompute from exported point assignments",
+    "All relative rates agree with independent decimal arithmetic",
+    "All six native chart views preserve data-proportional rectangle widths",
+    "All chart views contain sixteen venue groups and a country baseline of 1.0"
+  ],
+  "analysis_sha256": "d5683f34a738cbf6aca3ef76aae73a532a696d2d3d470ee1ef010f7e5603b9f1",
+  "charts": [
+    {
+      "role": "downloaders",
+      "mode": "all",
+      "svg": "resources/world-cup-venue-swarms/downloaders-all.svg",
+      "specification": "data/world-cup-venue-swarms/downloaders-all.json",
+      "rows": 16,
+      "verified_native_bar_geometry": true
+    },
+    {
+      "role": "downloaders",
+      "mode": "exclude-hosting",
+      "svg": "resources/world-cup-venue-swarms/downloaders-exclude-hosting.svg",
+      "specification": "data/world-cup-venue-swarms/downloaders-exclude-hosting.json",
+      "rows": 16,
+      "verified_native_bar_geometry": true
+    },
+    {
+      "role": "downloaders",
+      "mode": "exclude-vpn",
+      "svg": "resources/world-cup-venue-swarms/downloaders-exclude-vpn.svg",
+      "specification": "data/world-cup-venue-swarms/downloaders-exclude-vpn.json",
+      "rows": 16,
+      "verified_native_bar_geometry": true
+    },
+    {
+      "role": "uploaders",
+      "mode": "all",
+      "svg": "resources/world-cup-venue-swarms/uploaders-all.svg",
+      "specification": "data/world-cup-venue-swarms/uploaders-all.json",
+      "rows": 16,
+      "verified_native_bar_geometry": true
+    },
+    {
+      "role": "uploaders",
+      "mode": "exclude-hosting",
+      "svg": "resources/world-cup-venue-swarms/uploaders-exclude-hosting.svg",
+      "specification": "data/world-cup-venue-swarms/uploaders-exclude-hosting.json",
+      "rows": 16,
+      "verified_native_bar_geometry": true
+    },
+    {
+      "role": "uploaders",
+      "mode": "exclude-vpn",
+      "svg": "resources/world-cup-venue-swarms/uploaders-exclude-vpn.svg",
+      "specification": "data/world-cup-venue-swarms/uploaders-exclude-vpn.json",
+      "rows": 16,
+      "verified_native_bar_geometry": true
+    }
+  ]
+}

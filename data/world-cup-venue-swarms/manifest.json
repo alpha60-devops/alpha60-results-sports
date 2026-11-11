@@ -1,0 +1,110 @@
+{
+  "schema": "alpha60-world-cup-venue-swarms-build/1",
+  "date": "2026-11-11",
+  "renderer": {
+    "library": "Izzi",
+    "function": "svg::emit_bar_graph",
+    "commit": "1c7427b048bc90d3ee3589d4c9099aad7d2bfe37",
+    "bar_header_sha256": "6a064f6a7ce1ac8544684c1179bf2f40284ca253258d5f898bbe143b79135a5e",
+    "adapter_sha256": "abdc56a156258e5fd882b1637daf74a9d8936120ea82acc95199036e73cf97fb",
+    "builder_sha256": "6759866710a5af9864c4ba29dc6e51434fa8d495e42252895d11e9b8eac9e5f5",
+    "axis_policy": "Native linear zero baseline; automatic maximum for each selected view.",
+    "postprocessing": "Role colors, accessible metadata, two-decimal ratio labels, and a 1.0 reference line. Native bar geometry unchanged."
+  },
+  "builder_sha256": "6759866710a5af9864c4ba29dc6e51434fa8d495e42252895d11e9b8eac9e5f5",
+  "page_extension_sha256": "547b2188bcb1318211d299301a1937b46bc5c7688772dcf8d2c5d7706a5281cf",
+  "files": {
+    "data/world-cup-venue-swarms/analysis.json": {
+      "bytes": 80993,
+      "sha256": "d5683f34a738cbf6aca3ef76aae73a532a696d2d3d470ee1ef010f7e5603b9f1"
+    },
+    "data/world-cup-venue-swarms/downloaders-all.json": {
+      "bytes": 10847,
+      "sha256": "ddc18fbb4216eae9266be0c5b726d1b8c8eb10c12a8759d664a5822072c3e8a8"
+    },
+    "data/world-cup-venue-swarms/downloaders-exclude-hosting.json": {
+      "bytes": 10855,
+      "sha256": "9860a2685bc208cce5a9295bb5366598f32ba72fa06a59a3fb4a740fede3d5b6"
+    },
+    "data/world-cup-venue-swarms/downloaders-exclude-vpn.json": {
+      "bytes": 10845,
+      "sha256": "3bef4575ebcfc703a689fe0c7cad9577d2b9582af5c507390f38465c37bb3367"
+    },
+    "data/world-cup-venue-swarms/metropolitan-boundaries.geojson.gz": {
+      "bytes": 2295962,
+      "sha256": "2ab217394aa047496de17a8fa81ae41fe8b699aebce0b863bfb9a9319319afd4"
+    },
+    "data/world-cup-venue-swarms/national-baselines.csv": {
+      "bytes": 1354,
+      "sha256": "62d8c341cab580710759e20423a958ceb641abd68907fd67e23e7dea224253c6"
+    },
+    "data/world-cup-venue-swarms/population-denominators.csv": {
+      "bytes": 2137,
+      "sha256": "53b5c4abd54e5b4a92fade414e858fae681c427201dfa27748bd268aa7596d45"
+    },
+    "data/world-cup-venue-swarms/retained-point-assignments.csv.gz": {
+      "bytes": 39213,
+      "sha256": "25541b5682864c1b31aac566f90ac31e0f2410dcc9cfa1798f9fe33060373526"
+    },
+    "data/world-cup-venue-swarms/role-balance.csv": {
+      "bytes": 5516,
+      "sha256": "df963106408999f84fc7f46d03878b1b2e3d8be2f3b85d71f6255132f8a03b51"
+    },
+    "data/world-cup-venue-swarms/uploaders-all.json": {
+      "bytes": 10781,
+      "sha256": "06e2e8ad44c1ab3f124944ae3be351912164c3d6601c175e4dc75b1ce718b71c"
+    },
+    "data/world-cup-venue-swarms/uploaders-exclude-hosting.json": {
+      "bytes": 10778,
+      "sha256": "ec36727a6036b68a1ad3c2f26a5be2a795dc5051fc183fa49673d440c9bc995d"
+    },
+    "data/world-cup-venue-swarms/uploaders-exclude-vpn.json": {
+      "bytes": 10807,
+      "sha256": "f7b043850e0acb71eebbe4fd98d8ddef08c12bf6e7b73bb71faf9cea1064bfe0"
+    },
+    "data/world-cup-venue-swarms/venue-comparisons.csv": {
+      "bytes": 23416,
+      "sha256": "7ea4815157c6a7b017269ed849fbcc5b8be248be9b6bd85e4658391f02319c12"
+    },
+    "data/world-cup-venue-swarms/verification.json": {
+      "bytes": 2613,
+      "sha256": "4b48f53588a1d2a6089ef828a3ebefb9ed03eee86cecfe537e132c58a689740e"
+    },
+    "resources/world-cup-venue-swarms/downloaders-all.svg": {
+      "bytes": 125960,
+      "sha256": "4a9b288ff24bed0607d1f7b992f7880870bad08a28a1a6cd0354b05a1cea601e"
+    },
+    "resources/world-cup-venue-swarms/downloaders-exclude-hosting.svg": {
+      "bytes": 125960,
+      "sha256": "5f9c0c88cf12640570b81f24ad16926e6f4942b05c7ec94225da8ddd521921ea"
+    },
+    "resources/world-cup-venue-swarms/downloaders-exclude-vpn.svg": {
+      "bytes": 125214,
+      "sha256": "ad245a735e37aeb1a8e3ab9a564cc96aa28bf1225193b7bb6a651994ddb22965"
+    },
+    "resources/world-cup-venue-swarms/uploaders-all.svg": {
+      "bytes": 125572,
+      "sha256": "52662821d75a77af38acf6ab15663518167e764d38a152a211c2d45bb32c2122"
+    },
+    "resources/world-cup-venue-swarms/uploaders-exclude-hosting.svg": {
+      "bytes": 125036,
+      "sha256": "3b2cb9469aac138df044c19c8ef134dd69b2d6a38c7c64b1f7a7d46830e9af92"
+    },
+    "resources/world-cup-venue-swarms/uploaders-exclude-vpn.svg": {
+      "bytes": 125322,
+      "sha256": "bc00753dc5767b367a0ef4a7c95bbd68f220867f800881519fa00c12ec6b5c3a"
+    },
+    "resources/world-cup-venue-swarms/venue-swarms.css": {
+      "bytes": 699,
+      "sha256": "66e8810a06f13b5a68b6b1c5a3c812cad5c08a5dadec7329a2566944e891bf9d"
+    },
+    "resources/world-cup-venue-swarms/venue-swarms.js": {
+      "bytes": 4595,
+      "sha256": "c8febae59ed5ea83b334421759ab27bd7a60a1c54d61a8ec8c0250bafa8dc99d"
+    },
+    "_includes/world-cup-venue-swarm-default.svg": {
+      "bytes": 125960,
+      "sha256": "4a9b288ff24bed0607d1f7b992f7880870bad08a28a1a6cd0354b05a1cea601e"
+    }
+  }
+}

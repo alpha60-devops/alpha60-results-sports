@@ -1,0 +1,2123 @@
+{
+  "schema": "alpha60-world-cup-venue-swarms/1",
+  "date": "2026-11-11",
+  "period": "2026-06-29-to-2026-11-03",
+  "roles": [
+    "downloaders",
+    "uploaders"
+  ],
+  "modes": [
+    "all",
+    "exclude-hosting",
+    "exclude-vpn"
+  ],
+  "counting_unit": "retained IP–canonical-torrent memberships over the cumulative period",
+  "national": {
+    "USA": {
+      "population": 341784857,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "source": "usa-national-population.csv",
+      "counts": {
+        "downloaders": {
+          "size": 3718099,
+          "hosting": 1236196,
+          "vpn": 721192
+        },
+        "uploaders": {
+          "size": 124603,
+          "hosting": 95343,
+          "vpn": 23193
+        }
+      }
+    },
+    "CAN": {
+      "population": 41651653,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "source": "can-population.zip",
+      "counts": {
+        "downloaders": {
+          "size": 1522492,
+          "hosting": 329902,
+          "vpn": 319693
+        },
+        "uploaders": {
+          "size": 19782,
+          "hosting": 10248,
+          "vpn": 9120
+        }
+      }
+    },
+    "MEX": {
+      "population": 126014024,
+      "population_date": "2020-03-15",
+      "population_kind": "census population",
+      "source": "mex-national-population.pdf",
+      "counts": {
+        "downloaders": {
+          "size": 1061746,
+          "hosting": 10238,
+          "vpn": 11957
+        },
+        "uploaders": {
+          "size": 3711,
+          "hosting": 521,
+          "vpn": 522
+        }
+      }
+    }
+  },
+  "metros": [
+    {
+      "venue_id": "atlanta",
+      "host_city": "Atlanta",
+      "stadium": "Atlanta Stadium",
+      "municipality": "Atlanta",
+      "country": "USA",
+      "area_id": "USA:12060",
+      "metro": "Atlanta-Sandy Springs-Roswell, GA",
+      "population": 6482182,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "boundary_vintage": "July 2023 OMB delineations; TIGER/Line 2025",
+      "population_source": "usa-metro-population.csv",
+      "boundary_source": "usa-boundaries.zip",
+      "component_municipality_codes": [],
+      "stadium_coordinates": [
+        -84.40079208487987,
+        33.755469454401634
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 93600,
+          "hosting": 51038,
+          "vpn": 41025
+        },
+        "uploaders": {
+          "size": 1804,
+          "hosting": 1400,
+          "vpn": 1070
+        }
+      },
+      "retained_points": 72,
+      "city_labels": 66,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 93600,
+            "per_100k": 1443.9582227095752,
+            "national_memberships": 3718099,
+            "national_per_100k": 1087.8477860708733,
+            "relative_to_country": 1.3273531841480453,
+            "national_membership_share": 0.025174154857092294,
+            "national_population_share": 0.018965679336694546,
+            "population_share_change_to_parity_pct": 32.735318414804524
+          },
+          "uploaders": {
+            "memberships": 1804,
+            "per_100k": 27.830134976154635,
+            "national_memberships": 124603,
+            "national_per_100k": 36.45655957191807,
+            "relative_to_country": 0.7633779847287554,
+            "national_membership_share": 0.01447798207105768,
+            "national_population_share": 0.018965679336694546,
+            "population_share_change_to_parity_pct": -23.66220152712446
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.9273504273504274,
+            "national_uploaders_per_100_downloaders": 3.35125557442123
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 42562,
+            "per_100k": 656.5998918265485,
+            "national_memberships": 2481903,
+            "national_per_100k": 726.159438947876,
+            "relative_to_country": 0.9042089885630193,
+            "national_membership_share": 0.017148937730443133,
+            "national_population_share": 0.018965679336694546,
+            "population_share_change_to_parity_pct": -9.579101143698065
+          },
+          "uploaders": {
+            "memberships": 404,
+            "per_100k": 6.232469251866116,
+            "national_memberships": 29260,
+            "national_per_100k": 8.560941013252673,
+            "relative_to_country": 0.7280121708837858,
+            "national_membership_share": 0.013807245386192754,
+            "national_population_share": 0.018965679336694546,
+            "population_share_change_to_parity_pct": -27.19878291162142
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.9492035148724214,
+            "national_uploaders_per_100_downloaders": 1.1789340679309386
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 52575,
+            "per_100k": 811.0694824674778,
+            "national_memberships": 2996907,
+            "national_per_100k": 876.8401930691739,
+            "relative_to_country": 0.9249912228915042,
+            "national_membership_share": 0.017543086922617218,
+            "national_population_share": 0.018965679336694546,
+            "population_share_change_to_parity_pct": -7.5008777108495845
+          },
+          "uploaders": {
+            "memberships": 734,
+            "per_100k": 11.323347601162695,
+            "national_memberships": 101410,
+            "national_per_100k": 29.67071183027866,
+            "relative_to_country": 0.381633836961314,
+            "national_membership_share": 0.007237944975840647,
+            "national_population_share": 0.018965679336694546,
+            "population_share_change_to_parity_pct": -61.83661630386861
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.3961008083689967,
+            "national_uploaders_per_100_downloaders": 3.3838220538708743
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "boston",
+      "host_city": "Boston",
+      "stadium": "Boston Stadium",
+      "municipality": "Foxborough",
+      "country": "USA",
+      "area_id": "USA:14460",
+      "metro": "Boston-Cambridge-Newton, MA-NH",
+      "population": 5034221,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "boundary_vintage": "July 2023 OMB delineations; TIGER/Line 2025",
+      "population_source": "usa-metro-population.csv",
+      "boundary_source": "usa-boundaries.zip",
+      "component_municipality_codes": [],
+      "stadium_coordinates": [
+        -71.264344,
+        42.090944
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 65668,
+          "hosting": 19312,
+          "vpn": 18958
+        },
+        "uploaders": {
+          "size": 1413,
+          "hosting": 726,
+          "vpn": 753
+        }
+      },
+      "retained_points": 166,
+      "city_labels": 163,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 65668,
+            "per_100k": 1304.4322051018419,
+            "national_memberships": 3718099,
+            "national_per_100k": 1087.8477860708733,
+            "relative_to_country": 1.1990944154174692,
+            "national_membership_share": 0.017661713687559154,
+            "national_population_share": 0.014729210194353344,
+            "population_share_change_to_parity_pct": 19.90944154174692
+          },
+          "uploaders": {
+            "memberships": 1413,
+            "per_100k": 28.067897694598628,
+            "national_memberships": 124603,
+            "national_per_100k": 36.45655957191807,
+            "relative_to_country": 0.7698997937320147,
+            "national_membership_share": 0.011340015890468126,
+            "national_population_share": 0.014729210194353344,
+            "population_share_change_to_parity_pct": -23.010020626798532
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 2.151732959736858,
+            "national_uploaders_per_100_downloaders": 3.35125557442123
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 46356,
+            "per_100k": 920.8177392291677,
+            "national_memberships": 2481903,
+            "national_per_100k": 726.159438947876,
+            "relative_to_country": 1.2680655099151916,
+            "national_membership_share": 0.01867760343575071,
+            "national_population_share": 0.014729210194353344,
+            "population_share_change_to_parity_pct": 26.806550991519163
+          },
+          "uploaders": {
+            "memberships": 687,
+            "per_100k": 13.646599940685958,
+            "national_memberships": 29260,
+            "national_per_100k": 8.560941013252673,
+            "relative_to_country": 1.5940537283880925,
+            "national_membership_share": 0.023479152426520846,
+            "national_population_share": 0.014729210194353344,
+            "population_share_change_to_parity_pct": 59.40537283880924
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.4820088014496506,
+            "national_uploaders_per_100_downloaders": 1.1789340679309386
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 46710,
+            "per_100k": 927.8496116876871,
+            "national_memberships": 2996907,
+            "national_per_100k": 876.8401930691739,
+            "relative_to_country": 1.0581741336924424,
+            "national_membership_share": 0.015586069237383742,
+            "national_population_share": 0.014729210194353344,
+            "population_share_change_to_parity_pct": 5.81741336924424
+          },
+          "uploaders": {
+            "memberships": 660,
+            "per_100k": 13.110270685375156,
+            "national_memberships": 101410,
+            "national_per_100k": 29.67071183027866,
+            "relative_to_country": 0.4418589874205936,
+            "national_membership_share": 0.006508233901982053,
+            "national_population_share": 0.014729210194353344,
+            "population_share_change_to_parity_pct": -55.81410125794064
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.4129736673089275,
+            "national_uploaders_per_100_downloaders": 3.3838220538708743
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "dallas",
+      "host_city": "Dallas",
+      "stadium": "Dallas Stadium",
+      "municipality": "Arlington",
+      "country": "USA",
+      "area_id": "USA:19100",
+      "metro": "Dallas-Fort Worth-Arlington, TX",
+      "population": 8477157,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "boundary_vintage": "July 2023 OMB delineations; TIGER/Line 2025",
+      "population_source": "usa-metro-population.csv",
+      "boundary_source": "usa-boundaries.zip",
+      "component_municipality_codes": [],
+      "stadium_coordinates": [
+        -97.09282641641333,
+        32.74794243222878
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 136369,
+          "hosting": 74333,
+          "vpn": 57495
+        },
+        "uploaders": {
+          "size": 2960,
+          "hosting": 2095,
+          "vpn": 1949
+        }
+      },
+      "retained_points": 115,
+      "city_labels": 105,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 136369,
+            "per_100k": 1608.6643198893214,
+            "national_memberships": 3718099,
+            "national_per_100k": 1087.8477860708733,
+            "relative_to_country": 1.4787586466481228,
+            "national_membership_share": 0.03667707610797884,
+            "national_population_share": 0.02480261142757416,
+            "population_share_change_to_parity_pct": 47.87586466481228
+          },
+          "uploaders": {
+            "memberships": 2960,
+            "per_100k": 34.91736675397188,
+            "national_memberships": 124603,
+            "national_per_100k": 36.45655957191807,
+            "relative_to_country": 0.9577800857782586,
+            "national_membership_share": 0.02375544730062679,
+            "national_population_share": 0.02480261142757416,
+            "population_share_change_to_parity_pct": -4.221991422174143
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 2.1705812904692414,
+            "national_uploaders_per_100_downloaders": 3.35125557442123
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 62036,
+            "per_100k": 731.8019472802025,
+            "national_memberships": 2481903,
+            "national_per_100k": 726.159438947876,
+            "relative_to_country": 1.0077703435770275,
+            "national_membership_share": 0.024995336239973923,
+            "national_population_share": 0.02480261142757416,
+            "population_share_change_to_parity_pct": 0.777034357702755
+          },
+          "uploaders": {
+            "memberships": 865,
+            "per_100k": 10.203892649387052,
+            "national_memberships": 29260,
+            "national_per_100k": 8.560941013252673,
+            "relative_to_country": 1.191912505131273,
+            "national_membership_share": 0.029562542720437457,
+            "national_population_share": 0.02480261142757416,
+            "population_share_change_to_parity_pct": 19.19125051312729
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.3943516667741311,
+            "national_uploaders_per_100_downloaders": 1.1789340679309386
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 78874,
+            "per_100k": 930.429859916479,
+            "national_memberships": 2996907,
+            "national_per_100k": 876.8401930691739,
+            "relative_to_country": 1.061116800154572,
+            "national_membership_share": 0.026318467673504715,
+            "national_population_share": 0.02480261142757416,
+            "population_share_change_to_parity_pct": 6.11168001545721
+          },
+          "uploaders": {
+            "memberships": 1011,
+            "per_100k": 11.92616817171134,
+            "national_memberships": 101410,
+            "national_per_100k": 29.67071183027866,
+            "relative_to_country": 0.40195086117013235,
+            "national_membership_share": 0.009969431022581599,
+            "national_population_share": 0.02480261142757416,
+            "population_share_change_to_parity_pct": -59.80491388298677
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.281791211299034,
+            "national_uploaders_per_100_downloaders": 3.3838220538708743
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "guadalajara",
+      "host_city": "Guadalajara",
+      "stadium": "Guadalajara Stadium",
+      "municipality": "Zapopan",
+      "country": "MEX",
+      "area_id": "MEX:14.1.01",
+      "metro": "Guadalajara",
+      "population": 5110617,
+      "population_date": "2020-03-15",
+      "population_kind": "census population",
+      "boundary_vintage": "CONAPO/INEGI/SEDATU Metrópolis de México 2020",
+      "population_source": "mex-metro-population.csv",
+      "boundary_source": "mex-boundaries.rar",
+      "component_municipality_codes": [
+        "14039",
+        "14051",
+        "14070",
+        "14097",
+        "14098",
+        "14101",
+        "14120"
+      ],
+      "stadium_coordinates": [
+        -103.46275,
+        20.68185
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 90895,
+          "hosting": 4,
+          "vpn": 107
+        },
+        "uploaders": {
+          "size": 140,
+          "hosting": 0,
+          "vpn": 0
+        }
+      },
+      "retained_points": 13,
+      "city_labels": 11,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 90895,
+            "per_100k": 1778.5523744001948,
+            "national_memberships": 1061746,
+            "national_per_100k": 842.5617770923656,
+            "relative_to_country": 2.1108866112320945,
+            "national_membership_share": 0.08560898746027769,
+            "national_population_share": 0.040555938440629435,
+            "population_share_change_to_parity_pct": 111.08866112320945
+          },
+          "uploaders": {
+            "memberships": 140,
+            "per_100k": 2.7393952628420406,
+            "national_memberships": 3711,
+            "national_per_100k": 2.944910322044791,
+            "relative_to_country": 0.9302134745277909,
+            "national_membership_share": 0.0377256804095931,
+            "national_population_share": 0.040555938440629435,
+            "population_share_change_to_parity_pct": -6.978652547220909
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.15402387370042356,
+            "national_uploaders_per_100_downloaders": 0.34951862309817977
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 90891,
+            "per_100k": 1778.4741059641135,
+            "national_memberships": 1051508,
+            "national_per_100k": 834.4372845358863,
+            "relative_to_country": 2.1313454455157768,
+            "national_membership_share": 0.08643871468405376,
+            "national_population_share": 0.040555938440629435,
+            "population_share_change_to_parity_pct": 113.13454455157768
+          },
+          "uploaders": {
+            "memberships": 140,
+            "per_100k": 2.7393952628420406,
+            "national_memberships": 3190,
+            "national_per_100k": 2.531464275753943,
+            "relative_to_country": 1.0821386219349944,
+            "national_membership_share": 0.0438871473354232,
+            "national_population_share": 0.040555938440629435,
+            "population_share_change_to_parity_pct": 8.213862193499445
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.15403065209976785,
+            "national_uploaders_per_100_downloaders": 0.30337382121676676
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 90788,
+            "per_100k": 1776.4586937350225,
+            "national_memberships": 1049789,
+            "national_per_100k": 833.0731506518671,
+            "relative_to_country": 2.132416213804239,
+            "national_membership_share": 0.08648214069684479,
+            "national_population_share": 0.040555938440629435,
+            "population_share_change_to_parity_pct": 113.24162138042388
+          },
+          "uploaders": {
+            "memberships": 140,
+            "per_100k": 2.7393952628420406,
+            "national_memberships": 3189,
+            "national_per_100k": 2.5306707132850548,
+            "relative_to_country": 1.0824779567176646,
+            "national_membership_share": 0.04390090937597993,
+            "national_population_share": 0.040555938440629435,
+            "population_share_change_to_parity_pct": 8.247795671766456
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.15420540159492443,
+            "national_uploaders_per_100_downloaders": 0.3037753300901419
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "houston",
+      "host_city": "Houston",
+      "stadium": "Houston Stadium",
+      "municipality": "Houston",
+      "country": "USA",
+      "area_id": "USA:26420",
+      "metro": "Houston-Pasadena-The Woodlands, TX",
+      "population": 7904627,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "boundary_vintage": "July 2023 OMB delineations; TIGER/Line 2025",
+      "population_source": "usa-metro-population.csv",
+      "boundary_source": "usa-boundaries.zip",
+      "component_municipality_codes": [],
+      "stadium_coordinates": [
+        -95.410833,
+        29.684722
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 56741,
+          "hosting": 15584,
+          "vpn": 12302
+        },
+        "uploaders": {
+          "size": 1056,
+          "hosting": 674,
+          "vpn": 588
+        }
+      },
+      "retained_points": 62,
+      "city_labels": 57,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 56741,
+            "per_100k": 717.8200818330833,
+            "national_memberships": 3718099,
+            "national_per_100k": 1087.8477860708733,
+            "relative_to_country": 0.6598534197745909,
+            "national_membership_share": 0.015260755563528567,
+            "national_population_share": 0.023127493328354218,
+            "population_share_change_to_parity_pct": -34.014658022540914
+          },
+          "uploaders": {
+            "memberships": 1056,
+            "per_100k": 13.359264137321091,
+            "national_memberships": 124603,
+            "national_per_100k": 36.45655957191807,
+            "relative_to_country": 0.366443358731292,
+            "national_membership_share": 0.008474916334277665,
+            "national_population_share": 0.023127493328354218,
+            "population_share_change_to_parity_pct": -63.35566412687079
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.8610881020778625,
+            "national_uploaders_per_100_downloaders": 3.35125557442123
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 41157,
+            "per_100k": 520.6697292611024,
+            "national_memberships": 2481903,
+            "national_per_100k": 726.159438947876,
+            "relative_to_country": 0.7170184691333005,
+            "national_membership_share": 0.016582839861187162,
+            "national_population_share": 0.023127493328354218,
+            "population_share_change_to_parity_pct": -28.298153086669952
+          },
+          "uploaders": {
+            "memberships": 382,
+            "per_100k": 4.83261259512941,
+            "national_memberships": 29260,
+            "national_per_100k": 8.560941013252673,
+            "relative_to_country": 0.564495490349523,
+            "national_membership_share": 0.013055365686944634,
+            "national_population_share": 0.023127493328354218,
+            "population_share_change_to_parity_pct": -43.5504509650477
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.9281531695701825,
+            "national_uploaders_per_100_downloaders": 1.1789340679309386
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 44439,
+            "per_100k": 562.1897149606174,
+            "national_memberships": 2996907,
+            "national_per_100k": 876.8401930691739,
+            "relative_to_country": 0.641154134361478,
+            "national_membership_share": 0.014828287964891803,
+            "national_population_share": 0.023127493328354218,
+            "population_share_change_to_parity_pct": -35.8845865638522
+          },
+          "uploaders": {
+            "memberships": 468,
+            "per_100k": 5.92058296994912,
+            "national_memberships": 101410,
+            "national_per_100k": 29.67071183027866,
+            "relative_to_country": 0.19954300401742384,
+            "national_membership_share": 0.004614929494132729,
+            "national_population_share": 0.023127493328354218,
+            "population_share_change_to_parity_pct": -80.04569959825761
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.0531290083035172,
+            "national_uploaders_per_100_downloaders": 3.3838220538708743
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "kansas-city",
+      "host_city": "Kansas City",
+      "stadium": "Kansas City Stadium",
+      "municipality": "Kansas City",
+      "country": "USA",
+      "area_id": "USA:28140",
+      "metro": "Kansas City, MO-KS",
+      "population": 2270682,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "boundary_vintage": "July 2023 OMB delineations; TIGER/Line 2025",
+      "population_source": "usa-metro-population.csv",
+      "boundary_source": "usa-boundaries.zip",
+      "component_municipality_codes": [],
+      "stadium_coordinates": [
+        -94.483984,
+        39.048914
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 37839,
+          "hosting": 11059,
+          "vpn": 3465
+        },
+        "uploaders": {
+          "size": 867,
+          "hosting": 731,
+          "vpn": 79
+        }
+      },
+      "retained_points": 49,
+      "city_labels": 47,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 37839,
+            "per_100k": 1666.415640763436,
+            "national_memberships": 3718099,
+            "national_per_100k": 1087.8477860708733,
+            "relative_to_country": 1.5318463319048101,
+            "national_membership_share": 0.010176974846554651,
+            "national_population_share": 0.006643600362903146,
+            "population_share_change_to_parity_pct": 53.18463319048101
+          },
+          "uploaders": {
+            "memberships": 867,
+            "per_100k": 38.182361070374455,
+            "national_memberships": 124603,
+            "national_per_100k": 36.45655957191807,
+            "relative_to_country": 1.0473385727759605,
+            "national_membership_share": 0.006958098922176833,
+            "national_population_share": 0.006643600362903146,
+            "population_share_change_to_parity_pct": 4.733857277596054
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 2.2912867676207087,
+            "national_uploaders_per_100_downloaders": 3.35125557442123
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 26780,
+            "per_100k": 1179.3813488634692,
+            "national_memberships": 2481903,
+            "national_per_100k": 726.159438947876,
+            "relative_to_country": 1.6241355349897555,
+            "national_membership_share": 0.010790107429661836,
+            "national_population_share": 0.006643600362903146,
+            "population_share_change_to_parity_pct": 62.413553498975546
+          },
+          "uploaders": {
+            "memberships": 136,
+            "per_100k": 5.989389971823443,
+            "national_memberships": 29260,
+            "national_per_100k": 8.560941013252673,
+            "relative_to_country": 0.6996181801219786,
+            "national_membership_share": 0.0046479835953520164,
+            "national_population_share": 0.006643600362903146,
+            "population_share_change_to_parity_pct": -30.038181987802137
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.5078416728902165,
+            "national_uploaders_per_100_downloaders": 1.1789340679309386
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 34374,
+            "per_100k": 1513.8183153783752,
+            "national_memberships": 2996907,
+            "national_per_100k": 876.8401930691739,
+            "relative_to_country": 1.7264472219043798,
+            "national_membership_share": 0.011469825389977066,
+            "national_population_share": 0.006643600362903146,
+            "population_share_change_to_parity_pct": 72.64472219043799
+          },
+          "uploaders": {
+            "memberships": 788,
+            "per_100k": 34.70323013085936,
+            "national_memberships": 101410,
+            "national_per_100k": 29.67071183027866,
+            "relative_to_country": 1.169612321044656,
+            "national_membership_share": 0.007770436840548269,
+            "national_population_share": 0.006643600362903146,
+            "population_share_change_to_parity_pct": 16.96123210446561
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 2.2924303252458254,
+            "national_uploaders_per_100_downloaders": 3.3838220538708743
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "los-angeles",
+      "host_city": "Los Angeles",
+      "stadium": "Los Angeles Stadium",
+      "municipality": "Inglewood",
+      "country": "USA",
+      "area_id": "USA:31080",
+      "metro": "Los Angeles-Long Beach-Anaheim, CA",
+      "population": 12844441,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "boundary_vintage": "July 2023 OMB delineations; TIGER/Line 2025",
+      "population_source": "usa-metro-population.csv",
+      "boundary_source": "usa-boundaries.zip",
+      "component_municipality_codes": [],
+      "stadium_coordinates": [
+        -118.339,
+        33.9535
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 225568,
+          "hosting": 119147,
+          "vpn": 86488
+        },
+        "uploaders": {
+          "size": 8654,
+          "hosting": 7286,
+          "vpn": 3263
+        }
+      },
+      "retained_points": 107,
+      "city_labels": 95,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 225568,
+            "per_100k": 1756.1527200755563,
+            "national_memberships": 3718099,
+            "national_per_100k": 1087.8477860708733,
+            "relative_to_country": 1.6143368057203022,
+            "national_membership_share": 0.060667561568425156,
+            "national_population_share": 0.03758048590198366,
+            "population_share_change_to_parity_pct": 61.43368057203023
+          },
+          "uploaders": {
+            "memberships": 8654,
+            "per_100k": 67.37545059376271,
+            "national_memberships": 124603,
+            "national_per_100k": 36.45655957191807,
+            "relative_to_country": 1.8481022725375595,
+            "national_membership_share": 0.0694525813985217,
+            "national_population_share": 0.03758048590198366,
+            "population_share_change_to_parity_pct": 84.81022725375595
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 3.8365370974606328,
+            "national_uploaders_per_100_downloaders": 3.35125557442123
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 106421,
+            "per_100k": 828.5374194174741,
+            "national_memberships": 2481903,
+            "national_per_100k": 726.159438947876,
+            "relative_to_country": 1.1409855397843929,
+            "national_membership_share": 0.042878790992234586,
+            "national_population_share": 0.03758048590198366,
+            "population_share_change_to_parity_pct": 14.098553978439288
+          },
+          "uploaders": {
+            "memberships": 1368,
+            "per_100k": 10.65052188725068,
+            "national_memberships": 29260,
+            "national_per_100k": 8.560941013252673,
+            "relative_to_country": 1.244083082778313,
+            "national_membership_share": 0.046753246753246755,
+            "national_population_share": 0.03758048590198366,
+            "population_share_change_to_parity_pct": 24.408308277831292
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.2854605763899982,
+            "national_uploaders_per_100_downloaders": 1.1789340679309386
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 139080,
+            "per_100k": 1082.8030585371523,
+            "national_memberships": 2996907,
+            "national_per_100k": 876.8401930691739,
+            "relative_to_country": 1.2348921355293416,
+            "national_membership_share": 0.04640784648973091,
+            "national_population_share": 0.03758048590198366,
+            "population_share_change_to_parity_pct": 23.489213552934164
+          },
+          "uploaders": {
+            "memberships": 5391,
+            "per_100k": 41.97146454252077,
+            "national_memberships": 101410,
+            "national_per_100k": 29.67071183027866,
+            "relative_to_country": 1.4145755849271306,
+            "national_membership_share": 0.05316043782664431,
+            "national_population_share": 0.03758048590198366,
+            "population_share_change_to_parity_pct": 41.45755849271306
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 3.87618636755824,
+            "national_uploaders_per_100_downloaders": 3.3838220538708743
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "mexico-city",
+      "host_city": "Mexico City",
+      "stadium": "Mexico City Stadium",
+      "municipality": "Mexico City",
+      "country": "MEX",
+      "area_id": "MEX:09.1.01",
+      "metro": "Ciudad de México",
+      "population": 21436911,
+      "population_date": "2020-03-15",
+      "population_kind": "census population",
+      "boundary_vintage": "CONAPO/INEGI/SEDATU Metrópolis de México 2020",
+      "population_source": "mex-metro-population.csv",
+      "boundary_source": "mex-boundaries.rar",
+      "component_municipality_codes": [
+        "09002",
+        "09003",
+        "09004",
+        "09005",
+        "09006",
+        "09007",
+        "09008",
+        "09009",
+        "09010",
+        "09011",
+        "09012",
+        "09013",
+        "09014",
+        "09015",
+        "09016",
+        "09017",
+        "13013",
+        "13069",
+        "15002",
+        "15011",
+        "15013",
+        "15020",
+        "15022",
+        "15023",
+        "15024",
+        "15025",
+        "15028",
+        "15029",
+        "15030",
+        "15031",
+        "15033",
+        "15035",
+        "15037",
+        "15038",
+        "15039",
+        "15044",
+        "15046",
+        "15053",
+        "15057",
+        "15058",
+        "15059",
+        "15060",
+        "15069",
+        "15070",
+        "15075",
+        "15081",
+        "15083",
+        "15084",
+        "15089",
+        "15091",
+        "15092",
+        "15093",
+        "15095",
+        "15099",
+        "15100",
+        "15103",
+        "15104",
+        "15108",
+        "15109",
+        "15120",
+        "15121",
+        "15122",
+        "15125"
+      ],
+      "stadium_coordinates": [
+        -99.150528,
+        19.302858
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 338366,
+          "hosting": 4190,
+          "vpn": 4602
+        },
+        "uploaders": {
+          "size": 1451,
+          "hosting": 322,
+          "vpn": 322
+        }
+      },
+      "retained_points": 35,
+      "city_labels": 34,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 338366,
+            "per_100k": 1578.427041097479,
+            "national_memberships": 1061746,
+            "national_per_100k": 842.5617770923656,
+            "relative_to_country": 1.873366540011516,
+            "national_membership_share": 0.31868827384327325,
+            "national_population_share": 0.17011528018500544,
+            "population_share_change_to_parity_pct": 87.3366540011516
+          },
+          "uploaders": {
+            "memberships": 1451,
+            "per_100k": 6.76869909102109,
+            "national_memberships": 3711,
+            "national_per_100k": 2.944910322044791,
+            "relative_to_country": 2.298439799797116,
+            "national_membership_share": 0.39099973053085424,
+            "national_population_share": 0.17011528018500544,
+            "population_share_change_to_parity_pct": 129.84397997971163
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.4288255912237045,
+            "national_uploaders_per_100_downloaders": 0.34951862309817977
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 334176,
+            "per_100k": 1558.8813145699955,
+            "national_memberships": 1051508,
+            "national_per_100k": 834.4372845358863,
+            "relative_to_country": 1.8681827184136968,
+            "national_membership_share": 0.3178064265797312,
+            "national_population_share": 0.17011528018500544,
+            "population_share_change_to_parity_pct": 86.81827184136968
+          },
+          "uploaders": {
+            "memberships": 1129,
+            "per_100k": 5.266617004660793,
+            "national_memberships": 3190,
+            "national_per_100k": 2.531464275753943,
+            "relative_to_country": 2.0804627010160917,
+            "national_membership_share": 0.35391849529780567,
+            "national_population_share": 0.17011528018500544,
+            "population_share_change_to_parity_pct": 108.04627010160917
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.33784592550033515,
+            "national_uploaders_per_100_downloaders": 0.30337382121676676
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 333764,
+            "per_100k": 1556.9593958756464,
+            "national_memberships": 1049789,
+            "national_per_100k": 833.0731506518671,
+            "relative_to_country": 1.8689347924097053,
+            "national_membership_share": 0.317934365858282,
+            "national_population_share": 0.17011528018500544,
+            "population_share_change_to_parity_pct": 86.89347924097052
+          },
+          "uploaders": {
+            "memberships": 1129,
+            "per_100k": 5.266617004660793,
+            "national_memberships": 3189,
+            "national_per_100k": 2.5306707132850548,
+            "relative_to_country": 2.081115088191073,
+            "national_membership_share": 0.35402947632486675,
+            "national_population_share": 0.17011528018500544,
+            "population_share_change_to_parity_pct": 108.11150881910731
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.33826296425018876,
+            "national_uploaders_per_100_downloaders": 0.3037753300901419
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "miami",
+      "host_city": "Miami",
+      "stadium": "Miami Stadium",
+      "municipality": "Miami Gardens",
+      "country": "USA",
+      "area_id": "USA:33100",
+      "metro": "Miami-Fort Lauderdale-West Palm Beach, FL",
+      "population": 6391072,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "boundary_vintage": "July 2023 OMB delineations; TIGER/Line 2025",
+      "population_source": "usa-metro-population.csv",
+      "boundary_source": "usa-boundaries.zip",
+      "component_municipality_codes": [],
+      "stadium_coordinates": [
+        -80.2387157202618,
+        25.9581034179722
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 123824,
+          "hosting": 59104,
+          "vpn": 42772
+        },
+        "uploaders": {
+          "size": 3045,
+          "hosting": 1250,
+          "vpn": 1257
+        }
+      },
+      "retained_points": 97,
+      "city_labels": 87,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 123824,
+            "per_100k": 1937.4527465814813,
+            "national_memberships": 3718099,
+            "national_per_100k": 1087.8477860708733,
+            "relative_to_country": 1.780996175558017,
+            "national_membership_share": 0.033303040075049105,
+            "national_population_share": 0.018699108135150647,
+            "population_share_change_to_parity_pct": 78.0996175558017
+          },
+          "uploaders": {
+            "memberships": 3045,
+            "per_100k": 47.644589201936704,
+            "national_memberships": 124603,
+            "national_per_100k": 36.45655957191807,
+            "relative_to_country": 1.306886600419547,
+            "national_membership_share": 0.02443761386162452,
+            "national_population_share": 0.018699108135150647,
+            "population_share_change_to_parity_pct": 30.688660041954698
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 2.4591355472283243,
+            "national_uploaders_per_100_downloaders": 3.35125557442123
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 64720,
+            "per_100k": 1012.6626644168615,
+            "national_memberships": 2481903,
+            "national_per_100k": 726.159438947876,
+            "relative_to_country": 1.3945458946097247,
+            "national_membership_share": 0.02607676448273764,
+            "national_population_share": 0.018699108135150647,
+            "population_share_change_to_parity_pct": 39.454589460972464
+          },
+          "uploaders": {
+            "memberships": 1795,
+            "per_100k": 28.08605504679027,
+            "national_memberships": 29260,
+            "national_per_100k": 8.560941013252673,
+            "relative_to_country": 3.280720542673049,
+            "national_membership_share": 0.061346548188653455,
+            "national_population_share": 0.018699108135150647,
+            "population_share_change_to_parity_pct": 228.07205426730488
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 2.7734857849196537,
+            "national_uploaders_per_100_downloaders": 1.1789340679309386
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 81052,
+            "per_100k": 1268.2066482743428,
+            "national_memberships": 2996907,
+            "national_per_100k": 876.8401930691739,
+            "relative_to_country": 1.4463372668117347,
+            "national_membership_share": 0.027045216952010856,
+            "national_population_share": 0.018699108135150647,
+            "population_share_change_to_parity_pct": 44.63372668117347
+          },
+          "uploaders": {
+            "memberships": 1788,
+            "per_100k": 27.976527255521454,
+            "national_memberships": 101410,
+            "national_per_100k": 29.67071183027866,
+            "relative_to_country": 0.9429004405270686,
+            "national_membership_share": 0.017631397298096835,
+            "national_population_share": 0.018699108135150647,
+            "population_share_change_to_parity_pct": -5.709955947293144
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 2.205991215515965,
+            "national_uploaders_per_100_downloaders": 3.3838220538708743
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "monterrey",
+      "host_city": "Monterrey",
+      "stadium": "Monterrey Stadium",
+      "municipality": "Guadalupe",
+      "country": "MEX",
+      "area_id": "MEX:19.1.01",
+      "metro": "Monterrey",
+      "population": 5322117,
+      "population_date": "2020-03-15",
+      "population_kind": "census population",
+      "boundary_vintage": "CONAPO/INEGI/SEDATU Metrópolis de México 2020",
+      "population_source": "mex-metro-population.csv",
+      "boundary_source": "mex-boundaries.rar",
+      "component_municipality_codes": [
+        "19006",
+        "19009",
+        "19010",
+        "19012",
+        "19018",
+        "19019",
+        "19021",
+        "19025",
+        "19026",
+        "19031",
+        "19039",
+        "19041",
+        "19045",
+        "19046",
+        "19048",
+        "19049"
+      ],
+      "stadium_coordinates": [
+        -100.24450648518945,
+        25.669187810124857
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 101256,
+          "hosting": 60,
+          "vpn": 332
+        },
+        "uploaders": {
+          "size": 334,
+          "hosting": 0,
+          "vpn": 0
+        }
+      },
+      "retained_points": 15,
+      "city_labels": 15,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 101256,
+            "per_100k": 1902.551184049505,
+            "national_memberships": 1061746,
+            "national_per_100k": 842.5617770923656,
+            "relative_to_country": 2.25805541596618,
+            "national_membership_share": 0.0953674419305559,
+            "national_population_share": 0.04223432306232836,
+            "population_share_change_to_parity_pct": 125.80554159661799
+          },
+          "uploaders": {
+            "memberships": 334,
+            "per_100k": 6.275698185515275,
+            "national_memberships": 3711,
+            "national_per_100k": 2.944910322044791,
+            "relative_to_country": 2.131032017694094,
+            "national_membership_share": 0.09000269469145783,
+            "national_population_share": 0.04223432306232836,
+            "population_share_change_to_parity_pct": 113.1032017694094
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.32985699612862446,
+            "national_uploaders_per_100_downloaders": 0.34951862309817977
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 101196,
+            "per_100k": 1901.4238131179754,
+            "national_memberships": 1051508,
+            "national_per_100k": 834.4372845358863,
+            "relative_to_country": 2.2786899007940984,
+            "national_membership_share": 0.09623892542900292,
+            "national_population_share": 0.04223432306232836,
+            "population_share_change_to_parity_pct": 127.86899007940984
+          },
+          "uploaders": {
+            "memberships": 334,
+            "per_100k": 6.275698185515275,
+            "national_memberships": 3190,
+            "national_per_100k": 2.531464275753943,
+            "relative_to_country": 2.4790783127469544,
+            "national_membership_share": 0.10470219435736677,
+            "national_population_share": 0.04223432306232836,
+            "population_share_change_to_parity_pct": 147.90783127469544
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.3300525712478754,
+            "national_uploaders_per_100_downloaders": 0.30337382121676676
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 100924,
+            "per_100k": 1896.3130648950407,
+            "national_memberships": 1049789,
+            "national_per_100k": 833.0731506518671,
+            "relative_to_country": 2.2762863782264553,
+            "national_membership_share": 0.09613741428039349,
+            "national_population_share": 0.04223432306232836,
+            "population_share_change_to_parity_pct": 127.62863782264553
+          },
+          "uploaders": {
+            "memberships": 334,
+            "per_100k": 6.275698185515275,
+            "national_memberships": 3189,
+            "national_per_100k": 2.5306707132850548,
+            "relative_to_country": 2.4798556969779817,
+            "national_membership_share": 0.10473502665412356,
+            "national_population_share": 0.04223432306232836,
+            "population_share_change_to_parity_pct": 147.98556969779816
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.33094209504181366,
+            "national_uploaders_per_100_downloaders": 0.3037753300901419
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "new-york-new-jersey",
+      "host_city": "New York New Jersey",
+      "stadium": "New York New Jersey Stadium",
+      "municipality": "East Rutherford",
+      "country": "USA",
+      "area_id": "USA:35620",
+      "metro": "New York-Newark-Jersey City, NY-NJ",
+      "population": 20112448,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "boundary_vintage": "July 2023 OMB delineations; TIGER/Line 2025",
+      "population_source": "usa-metro-population.csv",
+      "boundary_source": "usa-boundaries.zip",
+      "component_municipality_codes": [],
+      "stadium_coordinates": [
+        -74.07438076147389,
+        40.81354963571265
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 406594,
+          "hosting": 174682,
+          "vpn": 144144
+        },
+        "uploaders": {
+          "size": 6661,
+          "hosting": 4661,
+          "vpn": 4518
+        }
+      },
+      "retained_points": 437,
+      "city_labels": 416,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 406594,
+            "per_100k": 2021.6037351594396,
+            "national_memberships": 3718099,
+            "national_per_100k": 1087.8477860708733,
+            "relative_to_country": 1.8583516564032718,
+            "national_membership_share": 0.10935534529876692,
+            "national_population_share": 0.05884534550926579,
+            "population_share_change_to_parity_pct": 85.83516564032718
+          },
+          "uploaders": {
+            "memberships": 6661,
+            "per_100k": 33.11879289880576,
+            "national_memberships": 124603,
+            "national_per_100k": 36.45655957191807,
+            "relative_to_country": 0.9084453741026254,
+            "national_membership_share": 0.05345778191536319,
+            "national_population_share": 0.05884534550926579,
+            "population_share_change_to_parity_pct": -9.155462589737462
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.6382435549958927,
+            "national_uploaders_per_100_downloaders": 3.35125557442123
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 231912,
+            "per_100k": 1153.0769402113556,
+            "national_memberships": 2481903,
+            "national_per_100k": 726.159438947876,
+            "relative_to_country": 1.5879115224089566,
+            "national_membership_share": 0.09344120217429931,
+            "national_population_share": 0.05884534550926579,
+            "population_share_change_to_parity_pct": 58.79115224089566
+          },
+          "uploaders": {
+            "memberships": 2000,
+            "per_100k": 9.944090346436196,
+            "national_memberships": 29260,
+            "national_per_100k": 8.560941013252673,
+            "relative_to_country": 1.1615651049390894,
+            "national_membership_share": 0.0683526999316473,
+            "national_population_share": 0.05884534550926579,
+            "population_share_change_to_parity_pct": 16.15651049390894
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.8623960812722067,
+            "national_uploaders_per_100_downloaders": 1.1789340679309386
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 262450,
+            "per_100k": 1304.91325571109,
+            "national_memberships": 2996907,
+            "national_per_100k": 876.8401930691739,
+            "relative_to_country": 1.4881996354929243,
+            "national_membership_share": 0.08757362173734454,
+            "national_population_share": 0.05884534550926579,
+            "population_share_change_to_parity_pct": 48.81996354929243
+          },
+          "uploaders": {
+            "memberships": 2143,
+            "per_100k": 10.655092806206385,
+            "national_memberships": 101410,
+            "national_per_100k": 29.67071183027866,
+            "relative_to_country": 0.3591114654463049,
+            "national_membership_share": 0.021132038260526575,
+            "national_population_share": 0.05884534550926579,
+            "population_share_change_to_parity_pct": -64.08885345536952
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.8165364831396457,
+            "national_uploaders_per_100_downloaders": 3.3838220538708743
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "philadelphia",
+      "host_city": "Philadelphia",
+      "stadium": "Philadelphia Stadium",
+      "municipality": "Philadelphia",
+      "country": "USA",
+      "area_id": "USA:37980",
+      "metro": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+      "population": 6329118,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "boundary_vintage": "July 2023 OMB delineations; TIGER/Line 2025",
+      "population_source": "usa-metro-population.csv",
+      "boundary_source": "usa-boundaries.zip",
+      "component_municipality_codes": [],
+      "stadium_coordinates": [
+        -75.16746318864644,
+        39.90080899164825
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 71833,
+          "hosting": 985,
+          "vpn": 1997
+        },
+        "uploaders": {
+          "size": 431,
+          "hosting": 88,
+          "vpn": 87
+        }
+      },
+      "retained_points": 144,
+      "city_labels": 141,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 71833,
+            "per_100k": 1134.960669085329,
+            "national_memberships": 3718099,
+            "national_per_100k": 1087.8477860708733,
+            "relative_to_country": 1.0433083411279622,
+            "national_membership_share": 0.01931981907958879,
+            "national_population_share": 0.01851784205875452,
+            "population_share_change_to_parity_pct": 4.330834112796222
+          },
+          "uploaders": {
+            "memberships": 431,
+            "per_100k": 6.809795614491624,
+            "national_memberships": 124603,
+            "national_per_100k": 36.45655957191807,
+            "relative_to_country": 0.1867920531847746,
+            "national_membership_share": 0.0034589857387061305,
+            "national_population_share": 0.01851784205875452,
+            "population_share_change_to_parity_pct": -81.32079468152253
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.6000027842356577,
+            "national_uploaders_per_100_downloaders": 3.35125557442123
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 70848,
+            "per_100k": 1119.3976791078946,
+            "national_memberships": 2481903,
+            "national_per_100k": 726.159438947876,
+            "relative_to_country": 1.5415315412408286,
+            "national_membership_share": 0.0285458376092861,
+            "national_population_share": 0.01851784205875452,
+            "population_share_change_to_parity_pct": 54.15315412408286
+          },
+          "uploaders": {
+            "memberships": 343,
+            "per_100k": 5.419396509908648,
+            "national_memberships": 29260,
+            "national_per_100k": 8.560941013252673,
+            "relative_to_country": 0.6330374781836726,
+            "national_membership_share": 0.011722488038277513,
+            "national_population_share": 0.01851784205875452,
+            "population_share_change_to_parity_pct": -36.69625218163274
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.4841350496838302,
+            "national_uploaders_per_100_downloaders": 1.1789340679309386
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 69836,
+            "per_100k": 1103.4080894051904,
+            "national_memberships": 2996907,
+            "national_per_100k": 876.8401930691739,
+            "relative_to_country": 1.2583913216192435,
+            "national_membership_share": 0.023302691741852517,
+            "national_population_share": 0.01851784205875452,
+            "population_share_change_to_parity_pct": 25.83913216192435
+          },
+          "uploaders": {
+            "memberships": 344,
+            "per_100k": 5.435196499733454,
+            "national_memberships": 101410,
+            "national_per_100k": 29.67071183027866,
+            "relative_to_country": 0.18318389295220386,
+            "national_membership_share": 0.0033921703973967066,
+            "national_population_share": 0.01851784205875452,
+            "population_share_change_to_parity_pct": -81.68161070477962
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 0.49258262214330717,
+            "national_uploaders_per_100_downloaders": 3.3838220538708743
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "san-francisco",
+      "host_city": "San Francisco",
+      "stadium": "San Francisco Bay Area Stadium",
+      "municipality": "Santa Clara",
+      "country": "USA",
+      "area_id": "USA:41940",
+      "metro": "San Jose-Sunnyvale-Santa Clara, CA",
+      "population": 1984473,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "boundary_vintage": "July 2023 OMB delineations; TIGER/Line 2025",
+      "population_source": "usa-metro-population.csv",
+      "boundary_source": "usa-boundaries.zip",
+      "component_municipality_codes": [],
+      "stadium_coordinates": [
+        -121.9697850980288,
+        37.40318010769111
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 94055,
+          "hosting": 59335,
+          "vpn": 33466
+        },
+        "uploaders": {
+          "size": 8171,
+          "hosting": 2294,
+          "vpn": 840
+        }
+      },
+      "retained_points": 24,
+      "city_labels": 18,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 94055,
+            "per_100k": 4739.545461187932,
+            "national_memberships": 3718099,
+            "national_per_100k": 1087.8477860708733,
+            "relative_to_country": 4.356809400979146,
+            "national_membership_share": 0.025296529220980937,
+            "national_population_share": 0.005806205159054194,
+            "population_share_change_to_parity_pct": 335.68094009791463
+          },
+          "uploaders": {
+            "memberships": 8171,
+            "per_100k": 411.7465946878592,
+            "national_memberships": 124603,
+            "national_per_100k": 36.45655957191807,
+            "relative_to_country": 11.294170363925984,
+            "national_membership_share": 0.06557627023426402,
+            "national_population_share": 0.005806205159054194,
+            "population_share_change_to_parity_pct": 1029.4170363925984
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 8.687470097283505,
+            "national_uploaders_per_100_downloaders": 3.35125557442123
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 34720,
+            "per_100k": 1749.5828867412154,
+            "national_memberships": 2481903,
+            "national_per_100k": 726.159438947876,
+            "relative_to_country": 2.409364655889023,
+            "national_membership_share": 0.013989265495065682,
+            "national_population_share": 0.005806205159054194,
+            "population_share_change_to_parity_pct": 140.9364655889023
+          },
+          "uploaders": {
+            "memberships": 5877,
+            "per_100k": 296.1491539567432,
+            "national_memberships": 29260,
+            "national_per_100k": 8.560941013252673,
+            "relative_to_country": 34.59306091448273,
+            "national_membership_share": 0.2008544087491456,
+            "national_population_share": 0.005806205159054194,
+            "population_share_change_to_parity_pct": 3359.3060914482726
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 16.92684331797235,
+            "national_uploaders_per_100_downloaders": 1.1789340679309386
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 60589,
+            "per_100k": 3053.153154515078,
+            "national_memberships": 2996907,
+            "national_per_100k": 876.8401930691739,
+            "relative_to_country": 3.4819949845458495,
+            "national_membership_share": 0.020217177243070938,
+            "national_population_share": 0.005806205159054194,
+            "population_share_change_to_parity_pct": 248.19949845458495
+          },
+          "uploaders": {
+            "memberships": 7331,
+            "per_100k": 369.4179764602491,
+            "national_memberships": 101410,
+            "national_per_100k": 29.67071183027866,
+            "relative_to_country": 12.450593655230808,
+            "national_membership_share": 0.07229070111428854,
+            "national_population_share": 0.005806205159054194,
+            "population_share_change_to_parity_pct": 1145.0593655230807
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 12.099556025021043,
+            "national_uploaders_per_100_downloaders": 3.3838220538708743
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "seattle",
+      "host_city": "Seattle",
+      "stadium": "Seattle Stadium",
+      "municipality": "Seattle",
+      "country": "USA",
+      "area_id": "USA:42660",
+      "metro": "Seattle-Tacoma-Bellevue, WA",
+      "population": 4161883,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "boundary_vintage": "July 2023 OMB delineations; TIGER/Line 2025",
+      "population_source": "usa-metro-population.csv",
+      "boundary_source": "usa-boundaries.zip",
+      "component_municipality_codes": [],
+      "stadium_coordinates": [
+        -122.33162867316001,
+        47.59513730088943
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 124482,
+          "hosting": 54377,
+          "vpn": 49111
+        },
+        "uploaders": {
+          "size": 2584,
+          "hosting": 1672,
+          "vpn": 1472
+        }
+      },
+      "retained_points": 95,
+      "city_labels": 90,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 124482,
+            "per_100k": 2991.001909472227,
+            "national_memberships": 3718099,
+            "national_per_100k": 1087.8477860708733,
+            "relative_to_country": 2.74946729475383,
+            "national_membership_share": 0.033480012232057293,
+            "national_population_share": 0.012176908703711235,
+            "population_share_change_to_parity_pct": 174.946729475383
+          },
+          "uploaders": {
+            "memberships": 2584,
+            "per_100k": 62.087281165760785,
+            "national_memberships": 124603,
+            "national_per_100k": 36.45655957191807,
+            "relative_to_country": 1.70304828252597,
+            "national_membership_share": 0.020737863454330954,
+            "national_population_share": 0.012176908703711235,
+            "population_share_change_to_parity_pct": 70.304828252597
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 2.075802124001864,
+            "national_uploaders_per_100_downloaders": 3.35125557442123
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 70105,
+            "per_100k": 1684.4538878195278,
+            "national_memberships": 2481903,
+            "national_per_100k": 726.159438947876,
+            "relative_to_country": 2.3196749879890204,
+            "national_membership_share": 0.028246470551024756,
+            "national_population_share": 0.012176908703711235,
+            "population_share_change_to_parity_pct": 131.96749879890203
+          },
+          "uploaders": {
+            "memberships": 912,
+            "per_100k": 21.913158058503807,
+            "national_memberships": 29260,
+            "national_per_100k": 8.560941013252673,
+            "relative_to_country": 2.559666983405373,
+            "national_membership_share": 0.03116883116883117,
+            "national_population_share": 0.012176908703711235,
+            "population_share_change_to_parity_pct": 155.9666983405373
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.3009057841808715,
+            "national_uploaders_per_100_downloaders": 1.1789340679309386
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 75371,
+            "per_100k": 1810.9831535389148,
+            "national_memberships": 2996907,
+            "national_per_100k": 876.8401930691739,
+            "relative_to_country": 2.065351437871469,
+            "national_membership_share": 0.02514959590003961,
+            "national_population_share": 0.012176908703711235,
+            "population_share_change_to_parity_pct": 106.53514378714691
+          },
+          "uploaders": {
+            "memberships": 1112,
+            "per_100k": 26.718675176596747,
+            "national_memberships": 101410,
+            "national_per_100k": 29.67071183027866,
+            "relative_to_country": 0.9005067127958356,
+            "national_membership_share": 0.010965388028794005,
+            "national_population_share": 0.012176908703711235,
+            "population_share_change_to_parity_pct": -9.949328720416439
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.475368510435048,
+            "national_uploaders_per_100_downloaders": 3.3838220538708743
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "toronto",
+      "host_city": "Toronto",
+      "stadium": "Toronto Stadium",
+      "municipality": "Toronto",
+      "country": "CAN",
+      "area_id": "CAN:535",
+      "metro": "Toronto",
+      "population": 7108874,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "boundary_vintage": "2021 Census CMA boundaries",
+      "population_source": "can-population.zip",
+      "boundary_source": "can-boundaries.geojson",
+      "component_municipality_codes": [],
+      "stadium_coordinates": [
+        -79.41854920623373,
+        43.63324195363085
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 371501,
+          "hosting": 135659,
+          "vpn": 117567
+        },
+        "uploaders": {
+          "size": 7483,
+          "hosting": 4679,
+          "vpn": 4239
+        }
+      },
+      "retained_points": 49,
+      "city_labels": 26,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 371501,
+            "per_100k": 5225.876840692352,
+            "national_memberships": 1522492,
+            "national_per_100k": 3655.2979061839396,
+            "relative_to_country": 1.429671937778682,
+            "national_membership_share": 0.24400850710545605,
+            "national_population_share": 0.17067447479215292,
+            "population_share_change_to_parity_pct": 42.9671937778682
+          },
+          "uploaders": {
+            "memberships": 7483,
+            "per_100k": 105.26280251978021,
+            "national_memberships": 19782,
+            "national_per_100k": 47.49391338682285,
+            "relative_to_country": 2.216343000890411,
+            "national_membership_share": 0.37827317763623497,
+            "national_population_share": 0.17067447479215292,
+            "population_share_change_to_parity_pct": 121.6343000890411
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 2.014261065246123,
+            "national_uploaders_per_100_downloaders": 1.2993171721099355
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 235842,
+            "per_100k": 3317.571812357344,
+            "national_memberships": 1192590,
+            "national_per_100k": 2863.2477083202434,
+            "relative_to_country": 1.1586743971598723,
+            "national_membership_share": 0.19775614419037557,
+            "national_population_share": 0.17067447479215292,
+            "population_share_change_to_parity_pct": 15.867439715987231
+          },
+          "uploaders": {
+            "memberships": 2804,
+            "per_100k": 39.44365872851312,
+            "national_memberships": 9534,
+            "national_per_100k": 22.889847853097212,
+            "relative_to_country": 1.7231944476719632,
+            "national_membership_share": 0.29410530732116635,
+            "national_population_share": 0.17067447479215292,
+            "population_share_change_to_parity_pct": 72.31944476719632
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.188931572832659,
+            "national_uploaders_per_100_downloaders": 0.799436520514175
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 253934,
+            "per_100k": 3572.0706260935276,
+            "national_memberships": 1202799,
+            "national_per_100k": 2887.7581401151115,
+            "relative_to_country": 1.2369701521994976,
+            "national_membership_share": 0.2111192310602187,
+            "national_population_share": 0.17067447479215292,
+            "population_share_change_to_parity_pct": 23.69701521994976
+          },
+          "uploaders": {
+            "memberships": 3244,
+            "per_100k": 45.633105889906055,
+            "national_memberships": 10662,
+            "national_per_100k": 25.598023684678253,
+            "relative_to_country": 1.7826808214580971,
+            "national_membership_share": 0.3042581129244044,
+            "national_population_share": 0.17067447479215292,
+            "population_share_change_to_parity_pct": 78.26808214580971
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.2774973024486678,
+            "national_uploaders_per_100_downloaders": 0.8864323964353146
+          }
+        }
+      }
+    },
+    {
+      "venue_id": "vancouver",
+      "host_city": "Vancouver",
+      "stadium": "BC Place Vancouver",
+      "municipality": "Vancouver",
+      "country": "CAN",
+      "area_id": "CAN:933",
+      "metro": "Vancouver",
+      "population": 3088036,
+      "population_date": "2025-07-01",
+      "population_kind": "resident population estimate",
+      "boundary_vintage": "2021 Census CMA boundaries",
+      "population_source": "can-population.zip",
+      "boundary_source": "can-boundaries.geojson",
+      "component_municipality_codes": [],
+      "stadium_coordinates": [
+        -123.11198406467349,
+        49.27671921321163
+      ],
+      "counts": {
+        "downloaders": {
+          "size": 189390,
+          "hosting": 42435,
+          "vpn": 75199
+        },
+        "uploaders": {
+          "size": 3491,
+          "hosting": 1336,
+          "vpn": 2280
+        }
+      },
+      "retained_points": 18,
+      "city_labels": 16,
+      "modes": {
+        "all": {
+          "downloaders": {
+            "memberships": 189390,
+            "per_100k": 6133.024355933674,
+            "national_memberships": 1522492,
+            "national_per_100k": 3655.2979061839396,
+            "relative_to_country": 1.6778452846642076,
+            "national_membership_share": 0.12439474230406465,
+            "national_population_share": 0.07413957856606555,
+            "population_share_change_to_parity_pct": 67.78452846642075
+          },
+          "uploaders": {
+            "memberships": 3491,
+            "per_100k": 113.04920020362457,
+            "national_memberships": 19782,
+            "national_per_100k": 47.49391338682285,
+            "relative_to_country": 2.380288170462491,
+            "national_membership_share": 0.1764735618238803,
+            "national_population_share": 0.07413957856606555,
+            "population_share_change_to_parity_pct": 138.0288170462491
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.8432863403558795,
+            "national_uploaders_per_100_downloaders": 1.2993171721099355
+          }
+        },
+        "exclude-hosting": {
+          "downloaders": {
+            "memberships": 146955,
+            "per_100k": 4758.849961593712,
+            "national_memberships": 1192590,
+            "national_per_100k": 2863.2477083202434,
+            "relative_to_country": 1.6620461959211852,
+            "national_membership_share": 0.12322340452292908,
+            "national_population_share": 0.07413957856606555,
+            "population_share_change_to_parity_pct": 66.20461959211852
+          },
+          "uploaders": {
+            "memberships": 2155,
+            "per_100k": 69.78545586903779,
+            "national_memberships": 9534,
+            "national_per_100k": 22.889847853097212,
+            "relative_to_country": 3.0487514079127074,
+            "national_membership_share": 0.22603314453534717,
+            "national_population_share": 0.07413957856606555,
+            "population_share_change_to_parity_pct": 204.87514079127072
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.4664353033241468,
+            "national_uploaders_per_100_downloaders": 0.799436520514175
+          }
+        },
+        "exclude-vpn": {
+          "downloaders": {
+            "memberships": 114191,
+            "per_100k": 3697.8519680470044,
+            "national_memberships": 1202799,
+            "national_per_100k": 2887.7581401151115,
+            "relative_to_country": 1.2805268961685279,
+            "national_membership_share": 0.09493772442444665,
+            "national_population_share": 0.07413957856606555,
+            "population_share_change_to_parity_pct": 28.05268961685279
+          },
+          "uploaders": {
+            "memberships": 1211,
+            "per_100k": 39.21586406376092,
+            "national_memberships": 10662,
+            "national_per_100k": 25.598023684678253,
+            "relative_to_country": 1.5319879591811476,
+            "national_membership_share": 0.11358094166197712,
+            "national_population_share": 0.07413957856606555,
+            "population_share_change_to_parity_pct": 53.19879591811476
+          },
+          "role_balance": {
+            "uploaders_per_100_downloaders": 1.060503892600993,
+            "national_uploaders_per_100_downloaders": 0.8864323964353146
+          }
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "file": "can-population.zip",
+      "url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100148-eng.zip",
+      "final_url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100148-eng.zip",
+      "bytes": 22688780,
+      "sha256": "7b007a0ff50bb1bad6a041093c3c71502c095f2516d20c961d9c26ed55b327d5",
+      "content_type": "application/zip",
+      "status": "acquired"
+    },
+    {
+      "file": "usa-boundaries.zip",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2025/CBSA/tl_2025_us_cbsa.zip",
+      "final_url": "https://www2.census.gov/geo/tiger/TIGER2025/CBSA/tl_2025_us_cbsa.zip",
+      "bytes": 34964000,
+      "sha256": "8b0424f077280caaa5e09442fd0b0aec32b3e8d7d5fa909988304663bc0a761d",
+      "content_type": "application/zip",
+      "status": "acquired"
+    },
+    {
+      "file": "mex-catalog.json",
+      "url": "https://www.datos.gob.mx/api/3/action/package_show?id=metropolis_mexico_2020",
+      "final_url": "https://www.datos.gob.mx/api/3/action/package_show?id=metropolis_mexico_2020",
+      "bytes": 10956,
+      "sha256": "17b6f25c52b36494ec81d9d5197e5a94095407375ca95dbe8e7d1f9df021b98a",
+      "content_type": "application/json;charset=utf-8",
+      "status": "acquired"
+    },
+    {
+      "file": "mex-conapo.html",
+      "url": "https://www.gob.mx/conapo/documentos/las-metropolis-de-mexico-2020?idiom=es",
+      "final_url": "https://www.gob.mx/conapo/documentos/las-metropolis-de-mexico-2020?idiom=es",
+      "bytes": 78267,
+      "sha256": "51fc5dc2c925418d350cb56864d6ff78556a8f5eec3635d0c9542c3a4f016bf8",
+      "content_type": "text/html; charset=utf-8",
+      "status": "acquired"
+    },
+    {
+      "file": "usa-population-page.html",
+      "url": "https://www.census.gov/data/datasets/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html",
+      "final_url": "https://www.census.gov/data/datasets/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html",
+      "bytes": 365817,
+      "sha256": "52cab8df2534bd7061f03518ede681dbc680c0ca359c9abdb3ca2b5acb7dc7df",
+      "content_type": "text/html; charset=UTF-8",
+      "status": "acquired"
+    },
+    {
+      "file": "usa-metro-population.csv",
+      "url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/metro/totals/cbsa-est2025-alldata.csv",
+      "final_url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/metro/totals/cbsa-est2025-alldata.csv",
+      "bytes": 827252,
+      "sha256": "bf6fad83753456413d047d1acebeb434bd067eba9d6d0be62b3f737ad1301852",
+      "content_type": "text/csv",
+      "status": "acquired"
+    },
+    {
+      "file": "usa-national-population.csv",
+      "url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv",
+      "final_url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv",
+      "bytes": 53555,
+      "sha256": "92188e29cb0a67dcf95afa7d6c47359409782f086478b70ea4128eb70e223ca9",
+      "content_type": "text/csv",
+      "status": "acquired"
+    },
+    {
+      "file": "mex-metro-population.csv",
+      "url": "https://www.datos.gob.mx/dataset/da65ccd9-888c-4ce8-b3b5-6bd867be344d/resource/a345dcac-4e9c-461f-a8cf-1abb2e4d6567/download/metropolis_poblacion.csv",
+      "final_url": "https://www.datos.gob.mx/dataset/da65ccd9-888c-4ce8-b3b5-6bd867be344d/resource/a345dcac-4e9c-461f-a8cf-1abb2e4d6567/download/metropolis_poblacion.csv",
+      "bytes": 9531,
+      "sha256": "d0150029e655bd2afdeae4b2b6c2466eecde0aab4e882f8236df111c36d2559d",
+      "content_type": "text/csv",
+      "status": "acquired"
+    },
+    {
+      "file": "mex-municipal-population.csv",
+      "url": "https://www.datos.gob.mx/dataset/da65ccd9-888c-4ce8-b3b5-6bd867be344d/resource/6f57ab97-d1df-4768-beb8-c929c2449923/download/municipios_poblacion.csv",
+      "final_url": "https://www.datos.gob.mx/dataset/da65ccd9-888c-4ce8-b3b5-6bd867be344d/resource/6f57ab97-d1df-4768-beb8-c929c2449923/download/municipios_poblacion.csv",
+      "bytes": 57820,
+      "sha256": "ff4969270aca885b3c693b8c150ed4a2f00059981f14a3b39d4a6132ee18eece",
+      "content_type": "text/csv",
+      "status": "acquired"
+    },
+    {
+      "file": "can-boundary-layer.json",
+      "url": "https://geo.statcan.gc.ca/geo_wa/rest/services/2021/Digital_boundary_files/MapServer/6?f=pjson",
+      "final_url": "https://geo.statcan.gc.ca/geo_wa/rest/services/2021/Digital_boundary_files/MapServer/6?f=pjson",
+      "bytes": 7167,
+      "sha256": "53b9bb4aa36905a7250e389cb72791b6fe65f38c9f95e55a1237df9188badcb3",
+      "content_type": "text/plain; charset=UTF-8",
+      "status": "acquired"
+    },
+    {
+      "file": "can-boundaries.geojson",
+      "url": "https://geo.statcan.gc.ca/geo_wa/rest/services/2021/Digital_boundary_files/MapServer/6/query?where=CMANAME+IN+%28%27Toronto%27%2C%27Vancouver%27%29&outFields=%2A&outSR=4326&f=geojson",
+      "final_url": "https://geo.statcan.gc.ca/geo_wa/rest/services/2021/Digital_boundary_files/MapServer/6/query?where=CMANAME+IN+%28%27Toronto%27%2C%27Vancouver%27%29&outFields=%2A&outSR=4326&f=geojson",
+      "bytes": 346795,
+      "sha256": "7b9cffa5531ca75e5a0d593fcb337eb027bce1bef1cabb8d7a64c4543e19d5f4",
+      "content_type": "application/geo+json; charset=UTF-8",
+      "status": "acquired"
+    },
+    {
+      "file": "mex-boundaries.rar",
+      "url": "https://conapo.segob.gob.mx/work/models/CONAPO/Datos_Abiertos/DT/Metropolis.rar",
+      "bytes": 6245447,
+      "sha256": "97a8c9d62ea1d94c57e7b45dae917317d2f1e2f38bbf1c6e161af6afa4c1684e",
+      "content_type": null,
+      "status": "acquired"
+    },
+    {
+      "file": "mex-national-population.pdf",
+      "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2021/EstSociodemo/ResultCenso2020_Nal.pdf",
+      "bytes": 319498,
+      "sha256": "dd6e864891c3af8353b6491f66a1a60bb9e2650b93147aa312692f65234244d2",
+      "content_type": "application/pdf",
+      "status": "acquired"
+    }
+  ],
+  "inputs": {
+    "geography_sha256": "4123305c1c5eaf7e4aa52d2617eae05cb72b04ef7be6d981885eac38d909186b",
+    "reference_sha256": "46440a03651735ca5ee072c356759819c561eba7bb1d91bee9191827022a6c3f",
+    "venue_sha256": "423bf995b25c111fd570adbae35bb42ba22f3b8e890dfab2006f8cc6a9e48e0d",
+    "analyzer_sha256": "cd2b93f7905b902b2eca8d1a043b49f67260b7a3a8ab736a665a36a66c3faa68"
+  },
+  "geography": {
+    "north_american_retained_points": 10589,
+    "assigned_venue_metro_points": 1498,
+    "overlapping_venue_assignments": 0,
+    "stadium_containment_checks": 16
+  },
+  "limitations": [
+    "IP geolocation points describe network locations, not stadium attendance or verified residence.",
+    "A membership may repeat across torrents and roles; per-capita rates are not download prevalence.",
+    "Mexico uses a compatible 2020 census population/boundary pair; USA and Canada use July 2025 population estimates.",
+    "Nationally defined metropolitan areas differ in construction across countries.",
+    "Population normalization does not control internet access, urbanization, torrent supply, hosting or VPNs.",
+    "Sampling starts June 29, during the Round of 32; there is no pre-tournament causal baseline."
+  ]
+}

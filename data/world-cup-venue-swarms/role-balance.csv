@@ -1,0 +1,49 @@
+venue_id,host_city,country,metro,mode,downloaders,uploaders,uploaders_per_100_downloaders,national_uploaders_per_100_downloaders
+toronto,Toronto,CAN,Toronto,all,371501,7483,2.014261065246123,1.2993171721099355
+toronto,Toronto,CAN,Toronto,exclude-hosting,235842,2804,1.188931572832659,0.799436520514175
+toronto,Toronto,CAN,Toronto,exclude-vpn,253934,3244,1.2774973024486678,0.8864323964353146
+vancouver,Vancouver,CAN,Vancouver,all,189390,3491,1.8432863403558795,1.2993171721099355
+vancouver,Vancouver,CAN,Vancouver,exclude-hosting,146955,2155,1.4664353033241468,0.799436520514175
+vancouver,Vancouver,CAN,Vancouver,exclude-vpn,114191,1211,1.060503892600993,0.8864323964353146
+guadalajara,Guadalajara,MEX,Guadalajara,all,90895,140,0.15402387370042356,0.34951862309817977
+guadalajara,Guadalajara,MEX,Guadalajara,exclude-hosting,90891,140,0.15403065209976785,0.30337382121676676
+guadalajara,Guadalajara,MEX,Guadalajara,exclude-vpn,90788,140,0.15420540159492443,0.3037753300901419
+mexico-city,Mexico City,MEX,Ciudad de México,all,338366,1451,0.4288255912237045,0.34951862309817977
+mexico-city,Mexico City,MEX,Ciudad de México,exclude-hosting,334176,1129,0.33784592550033515,0.30337382121676676
+mexico-city,Mexico City,MEX,Ciudad de México,exclude-vpn,333764,1129,0.33826296425018876,0.3037753300901419
+monterrey,Monterrey,MEX,Monterrey,all,101256,334,0.32985699612862446,0.34951862309817977
+monterrey,Monterrey,MEX,Monterrey,exclude-hosting,101196,334,0.3300525712478754,0.30337382121676676
+monterrey,Monterrey,MEX,Monterrey,exclude-vpn,100924,334,0.33094209504181366,0.3037753300901419
+atlanta,Atlanta,USA,"Atlanta-Sandy Springs-Roswell, GA",all,93600,1804,1.9273504273504274,3.35125557442123
+atlanta,Atlanta,USA,"Atlanta-Sandy Springs-Roswell, GA",exclude-hosting,42562,404,0.9492035148724214,1.1789340679309386
+atlanta,Atlanta,USA,"Atlanta-Sandy Springs-Roswell, GA",exclude-vpn,52575,734,1.3961008083689967,3.3838220538708743
+boston,Boston,USA,"Boston-Cambridge-Newton, MA-NH",all,65668,1413,2.151732959736858,3.35125557442123
+boston,Boston,USA,"Boston-Cambridge-Newton, MA-NH",exclude-hosting,46356,687,1.4820088014496506,1.1789340679309386
+boston,Boston,USA,"Boston-Cambridge-Newton, MA-NH",exclude-vpn,46710,660,1.4129736673089275,3.3838220538708743
+dallas,Dallas,USA,"Dallas-Fort Worth-Arlington, TX",all,136369,2960,2.1705812904692414,3.35125557442123
+dallas,Dallas,USA,"Dallas-Fort Worth-Arlington, TX",exclude-hosting,62036,865,1.3943516667741311,1.1789340679309386
+dallas,Dallas,USA,"Dallas-Fort Worth-Arlington, TX",exclude-vpn,78874,1011,1.281791211299034,3.3838220538708743
+houston,Houston,USA,"Houston-Pasadena-The Woodlands, TX",all,56741,1056,1.8610881020778625,3.35125557442123
+houston,Houston,USA,"Houston-Pasadena-The Woodlands, TX",exclude-hosting,41157,382,0.9281531695701825,1.1789340679309386
+houston,Houston,USA,"Houston-Pasadena-The Woodlands, TX",exclude-vpn,44439,468,1.0531290083035172,3.3838220538708743
+kansas-city,Kansas City,USA,"Kansas City, MO-KS",all,37839,867,2.2912867676207087,3.35125557442123
+kansas-city,Kansas City,USA,"Kansas City, MO-KS",exclude-hosting,26780,136,0.5078416728902165,1.1789340679309386
+kansas-city,Kansas City,USA,"Kansas City, MO-KS",exclude-vpn,34374,788,2.2924303252458254,3.3838220538708743
+los-angeles,Los Angeles,USA,"Los Angeles-Long Beach-Anaheim, CA",all,225568,8654,3.8365370974606328,3.35125557442123
+los-angeles,Los Angeles,USA,"Los Angeles-Long Beach-Anaheim, CA",exclude-hosting,106421,1368,1.2854605763899982,1.1789340679309386
+los-angeles,Los Angeles,USA,"Los Angeles-Long Beach-Anaheim, CA",exclude-vpn,139080,5391,3.87618636755824,3.3838220538708743
+miami,Miami,USA,"Miami-Fort Lauderdale-West Palm Beach, FL",all,123824,3045,2.4591355472283243,3.35125557442123
+miami,Miami,USA,"Miami-Fort Lauderdale-West Palm Beach, FL",exclude-hosting,64720,1795,2.7734857849196537,1.1789340679309386
+miami,Miami,USA,"Miami-Fort Lauderdale-West Palm Beach, FL",exclude-vpn,81052,1788,2.205991215515965,3.3838220538708743
+new-york-new-jersey,New York New Jersey,USA,"New York-Newark-Jersey City, NY-NJ",all,406594,6661,1.6382435549958927,3.35125557442123
+new-york-new-jersey,New York New Jersey,USA,"New York-Newark-Jersey City, NY-NJ",exclude-hosting,231912,2000,0.8623960812722067,1.1789340679309386
+new-york-new-jersey,New York New Jersey,USA,"New York-Newark-Jersey City, NY-NJ",exclude-vpn,262450,2143,0.8165364831396457,3.3838220538708743
+philadelphia,Philadelphia,USA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",all,71833,431,0.6000027842356577,3.35125557442123
+philadelphia,Philadelphia,USA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",exclude-hosting,70848,343,0.4841350496838302,1.1789340679309386
+philadelphia,Philadelphia,USA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",exclude-vpn,69836,344,0.49258262214330717,3.3838220538708743
+san-francisco,San Francisco,USA,"San Jose-Sunnyvale-Santa Clara, CA",all,94055,8171,8.687470097283505,3.35125557442123
+san-francisco,San Francisco,USA,"San Jose-Sunnyvale-Santa Clara, CA",exclude-hosting,34720,5877,16.92684331797235,1.1789340679309386
+san-francisco,San Francisco,USA,"San Jose-Sunnyvale-Santa Clara, CA",exclude-vpn,60589,7331,12.099556025021043,3.3838220538708743
+seattle,Seattle,USA,"Seattle-Tacoma-Bellevue, WA",all,124482,2584,2.075802124001864,3.35125557442123
+seattle,Seattle,USA,"Seattle-Tacoma-Bellevue, WA",exclude-hosting,70105,912,1.3009057841808715,1.1789340679309386
+seattle,Seattle,USA,"Seattle-Tacoma-Bellevue, WA",exclude-vpn,75371,1112,1.475368510435048,3.3838220538708743
