@@ -1,0 +1,978 @@
+{
+  "schema": "alpha60-world-cup-venue-input/1",
+  "as_of": "2026-11-11",
+  "stage_scope": [
+    "group",
+    "round-of-32"
+  ],
+  "sources": [
+    {
+      "id": "fifa-schedule",
+      "title": "FIFA World Cup 2026 match schedule, version 31, July 16, 2026",
+      "url": "https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf",
+      "retrieved": "2026-11-11",
+      "method": "Read the PDF visually and extract 104 unique match-number spans. Assign each to its host-city row and Eastern Time date column. Select IDs 1–72 (group) and 73–88 (Round of 32).",
+      "sha256": "165fb909253b746e6173a4443bdc3e5d786530f0684af6e85c1fd21fff252811",
+      "bytes": 545234
+    },
+    {
+      "id": "fifa-addresses",
+      "title": "FIFA official stadium addresses and maps",
+      "url": "https://gpcustomersupportfwc2026.tickets.fifa.com/hc/en-gb/articles/28784010437021-2-What-are-the-official-addresses-stadium-capacities-and-maps-of-the-FIFA-World-Cup-2026-stadiums",
+      "retrieved": "2026-11-11",
+      "method": "Checked the 16 named stadium addresses in FIFA’s July 19, 2026 register. Preserve stadium municipalities separately from host-city labels."
+    },
+    {
+      "id": "fifa-maps",
+      "title": "FIFA interactive venue maps: official landing-map coordinates",
+      "url": "https://maps.fifa.com/static/js/main.1a6d1791.js",
+      "retrieved": "2026-11-11",
+      "landing_url": "https://maps.fifa.com/",
+      "method": "Extract the 16 literal name, coordinates and navmap URL objects whose imageUrl contains FWC203/. Coordinates are longitude, latitude stadium locations, not geocoded city centers.",
+      "sha256": "9a7c0af30a5213b77a24669af98ab9fa830d337d6d7d33c671568c00ea9d9ab4",
+      "bytes": 6235187
+    },
+    {
+      "id": "mls-crosscheck",
+      "title": "MLS: FIFA World Cup 2026 schedule, every game by city and stadium",
+      "url": "https://www.mlssoccer.com/news/fifa-world-cup-2026-schedule-every-game-by-city-stadium",
+      "retrieved": "2026-11-11",
+      "method": "Independently reconcile all 16 venue stage counts and selected match dates against the league’s per-stadium schedule.",
+      "sha256": "c249fc34ffa2e8bc9327e3663c4662619ef15b6f9de5859e6a34c74a73240809",
+      "bytes": 281479
+    }
+  ],
+  "venues": [
+    {
+      "id": "atlanta",
+      "city": "Atlanta",
+      "country": "USA",
+      "stadium": "Atlanta Stadium",
+      "municipality": "Atlanta",
+      "longitude": -84.40079208487987,
+      "latitude": 33.755469454401634,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=4d2a2508-c5b4-4c26-a502-2dc03ea58da2&autoload=y",
+      "group_matches": 5,
+      "round_of_32_matches": 1,
+      "category": "both"
+    },
+    {
+      "id": "boston",
+      "city": "Boston",
+      "country": "USA",
+      "stadium": "Boston Stadium",
+      "municipality": "Foxborough",
+      "longitude": -71.264344,
+      "latitude": 42.090944,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=fd70bf34-9de6-45a0-ad8e-03b4a9da25f0&autoload=y",
+      "group_matches": 5,
+      "round_of_32_matches": 1,
+      "category": "both"
+    },
+    {
+      "id": "dallas",
+      "city": "Dallas",
+      "country": "USA",
+      "stadium": "Dallas Stadium",
+      "municipality": "Arlington",
+      "longitude": -97.09282641641333,
+      "latitude": 32.74794243222878,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=cd7f8a6d-a8f1-4d72-9ea6-a2f7eb2d04d9&autoload=y",
+      "group_matches": 5,
+      "round_of_32_matches": 2,
+      "category": "both"
+    },
+    {
+      "id": "guadalajara",
+      "city": "Guadalajara",
+      "country": "MEX",
+      "stadium": "Guadalajara Stadium",
+      "municipality": "Zapopan",
+      "longitude": -103.46275,
+      "latitude": 20.68185,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=195b7072-60c0-4a0d-810b-2e3f6fe633a8&autoload=y",
+      "group_matches": 4,
+      "round_of_32_matches": 0,
+      "category": "group-only"
+    },
+    {
+      "id": "houston",
+      "city": "Houston",
+      "country": "USA",
+      "stadium": "Houston Stadium",
+      "municipality": "Houston",
+      "longitude": -95.410833,
+      "latitude": 29.684722,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=dab7bb8d-8fc8-4903-9939-ad5aa36713b5&autoload=y",
+      "group_matches": 5,
+      "round_of_32_matches": 1,
+      "category": "both"
+    },
+    {
+      "id": "kansas-city",
+      "city": "Kansas City",
+      "country": "USA",
+      "stadium": "Kansas City Stadium",
+      "municipality": "Kansas City",
+      "longitude": -94.483984,
+      "latitude": 39.048914,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=8d51ee7e-956f-4a69-bf8a-21f620d46d02&autoload=y",
+      "group_matches": 4,
+      "round_of_32_matches": 1,
+      "category": "both"
+    },
+    {
+      "id": "los-angeles",
+      "city": "Los Angeles",
+      "country": "USA",
+      "stadium": "Los Angeles Stadium",
+      "municipality": "Inglewood",
+      "longitude": -118.339,
+      "latitude": 33.9535,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=df2ec676-5894-41c1-8999-f8d56fd7535e&autoload=y",
+      "group_matches": 5,
+      "round_of_32_matches": 2,
+      "category": "both"
+    },
+    {
+      "id": "mexico-city",
+      "city": "Mexico City",
+      "country": "MEX",
+      "stadium": "Mexico City Stadium",
+      "municipality": "Mexico City",
+      "longitude": -99.150528,
+      "latitude": 19.302858,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=b047bb94-3661-44f1-a724-772c8db3fd45&autoload=y",
+      "group_matches": 3,
+      "round_of_32_matches": 1,
+      "category": "both"
+    },
+    {
+      "id": "miami",
+      "city": "Miami",
+      "country": "USA",
+      "stadium": "Miami Stadium",
+      "municipality": "Miami Gardens",
+      "longitude": -80.2387157202618,
+      "latitude": 25.9581034179722,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=3d38698e-4242-45cd-b20c-cecaa24a2bf4&autoload=y",
+      "group_matches": 4,
+      "round_of_32_matches": 1,
+      "category": "both"
+    },
+    {
+      "id": "monterrey",
+      "city": "Monterrey",
+      "country": "MEX",
+      "stadium": "Monterrey Stadium",
+      "municipality": "Guadalupe",
+      "longitude": -100.24450648518945,
+      "latitude": 25.669187810124857,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=d59af3f7-5b80-453f-a585-df771583e43f&autoload=y",
+      "group_matches": 3,
+      "round_of_32_matches": 1,
+      "category": "both"
+    },
+    {
+      "id": "new-york-new-jersey",
+      "city": "New York New Jersey",
+      "country": "USA",
+      "stadium": "New York New Jersey Stadium",
+      "municipality": "East Rutherford",
+      "longitude": -74.07438076147389,
+      "latitude": 40.81354963571265,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=7b975e5b-18ad-4e5d-8719-17eaae15ab43&autoload=y",
+      "group_matches": 5,
+      "round_of_32_matches": 1,
+      "category": "both"
+    },
+    {
+      "id": "philadelphia",
+      "city": "Philadelphia",
+      "country": "USA",
+      "stadium": "Philadelphia Stadium",
+      "municipality": "Philadelphia",
+      "longitude": -75.16746318864644,
+      "latitude": 39.90080899164825,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=5ecf5c75-f266-4152-9bfc-6837fa58380e&autoload=y",
+      "group_matches": 5,
+      "round_of_32_matches": 0,
+      "category": "group-only"
+    },
+    {
+      "id": "san-francisco",
+      "city": "San Francisco",
+      "country": "USA",
+      "stadium": "San Francisco Bay Area Stadium",
+      "municipality": "Santa Clara",
+      "longitude": -121.9697850980288,
+      "latitude": 37.40318010769111,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=bb95b7fc-60d1-4fb1-be80-c2cfa7d1f652&autoload=y",
+      "group_matches": 5,
+      "round_of_32_matches": 1,
+      "category": "both"
+    },
+    {
+      "id": "seattle",
+      "city": "Seattle",
+      "country": "USA",
+      "stadium": "Seattle Stadium",
+      "municipality": "Seattle",
+      "longitude": -122.33162867316001,
+      "latitude": 47.59513730088943,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=2f45e3c0-ab10-4ffa-a643-1e1eabdc3104&autoload=y",
+      "group_matches": 4,
+      "round_of_32_matches": 1,
+      "category": "both"
+    },
+    {
+      "id": "toronto",
+      "city": "Toronto",
+      "country": "CAN",
+      "stadium": "Toronto Stadium",
+      "municipality": "Toronto",
+      "longitude": -79.41854920623373,
+      "latitude": 43.63324195363085,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=ea0f49fb-cec3-4a22-b773-dc76e46a744e&autoload=y",
+      "group_matches": 5,
+      "round_of_32_matches": 1,
+      "category": "both"
+    },
+    {
+      "id": "vancouver",
+      "city": "Vancouver",
+      "country": "CAN",
+      "stadium": "BC Place Vancouver",
+      "municipality": "Vancouver",
+      "longitude": -123.11198406467349,
+      "latitude": 49.27671921321163,
+      "coordinate_source": "fifa-maps",
+      "coordinate_url": "https://maps.fifa.com/?navmapId=18231d49-d7ef-4313-a362-52409631bcd2&autoload=y",
+      "group_matches": 5,
+      "round_of_32_matches": 1,
+      "category": "both"
+    }
+  ],
+  "fixtures": [
+    {
+      "match_id": 1,
+      "date": "2026-06-11",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Mexico City",
+      "venue_id": "mexico-city"
+    },
+    {
+      "match_id": 2,
+      "date": "2026-06-11",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Guadalajara",
+      "venue_id": "guadalajara"
+    },
+    {
+      "match_id": 3,
+      "date": "2026-06-12",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Toronto",
+      "venue_id": "toronto"
+    },
+    {
+      "match_id": 4,
+      "date": "2026-06-12",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Los Angeles",
+      "venue_id": "los-angeles"
+    },
+    {
+      "match_id": 5,
+      "date": "2026-06-13",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Boston",
+      "venue_id": "boston"
+    },
+    {
+      "match_id": 6,
+      "date": "2026-06-13",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Vancouver",
+      "venue_id": "vancouver"
+    },
+    {
+      "match_id": 7,
+      "date": "2026-06-13",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "New York New Jersey",
+      "venue_id": "new-york-new-jersey"
+    },
+    {
+      "match_id": 8,
+      "date": "2026-06-13",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "San Francisco",
+      "venue_id": "san-francisco"
+    },
+    {
+      "match_id": 9,
+      "date": "2026-06-14",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Philadelphia",
+      "venue_id": "philadelphia"
+    },
+    {
+      "match_id": 10,
+      "date": "2026-06-14",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Houston",
+      "venue_id": "houston"
+    },
+    {
+      "match_id": 11,
+      "date": "2026-06-14",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Dallas",
+      "venue_id": "dallas"
+    },
+    {
+      "match_id": 12,
+      "date": "2026-06-14",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Monterrey",
+      "venue_id": "monterrey"
+    },
+    {
+      "match_id": 13,
+      "date": "2026-06-15",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Miami",
+      "venue_id": "miami"
+    },
+    {
+      "match_id": 14,
+      "date": "2026-06-15",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Atlanta",
+      "venue_id": "atlanta"
+    },
+    {
+      "match_id": 15,
+      "date": "2026-06-15",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Los Angeles",
+      "venue_id": "los-angeles"
+    },
+    {
+      "match_id": 16,
+      "date": "2026-06-15",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Seattle",
+      "venue_id": "seattle"
+    },
+    {
+      "match_id": 17,
+      "date": "2026-06-16",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "New York New Jersey",
+      "venue_id": "new-york-new-jersey"
+    },
+    {
+      "match_id": 18,
+      "date": "2026-06-16",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Boston",
+      "venue_id": "boston"
+    },
+    {
+      "match_id": 19,
+      "date": "2026-06-16",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Kansas City",
+      "venue_id": "kansas-city"
+    },
+    {
+      "match_id": 20,
+      "date": "2026-06-16",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "San Francisco",
+      "venue_id": "san-francisco"
+    },
+    {
+      "match_id": 21,
+      "date": "2026-06-17",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Toronto",
+      "venue_id": "toronto"
+    },
+    {
+      "match_id": 22,
+      "date": "2026-06-17",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Dallas",
+      "venue_id": "dallas"
+    },
+    {
+      "match_id": 23,
+      "date": "2026-06-17",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Houston",
+      "venue_id": "houston"
+    },
+    {
+      "match_id": 24,
+      "date": "2026-06-17",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Mexico City",
+      "venue_id": "mexico-city"
+    },
+    {
+      "match_id": 25,
+      "date": "2026-06-18",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Atlanta",
+      "venue_id": "atlanta"
+    },
+    {
+      "match_id": 26,
+      "date": "2026-06-18",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Los Angeles",
+      "venue_id": "los-angeles"
+    },
+    {
+      "match_id": 27,
+      "date": "2026-06-18",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Vancouver",
+      "venue_id": "vancouver"
+    },
+    {
+      "match_id": 28,
+      "date": "2026-06-18",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Guadalajara",
+      "venue_id": "guadalajara"
+    },
+    {
+      "match_id": 29,
+      "date": "2026-06-19",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Philadelphia",
+      "venue_id": "philadelphia"
+    },
+    {
+      "match_id": 30,
+      "date": "2026-06-19",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Boston",
+      "venue_id": "boston"
+    },
+    {
+      "match_id": 31,
+      "date": "2026-06-19",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "San Francisco",
+      "venue_id": "san-francisco"
+    },
+    {
+      "match_id": 32,
+      "date": "2026-06-19",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Seattle",
+      "venue_id": "seattle"
+    },
+    {
+      "match_id": 33,
+      "date": "2026-06-20",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Toronto",
+      "venue_id": "toronto"
+    },
+    {
+      "match_id": 34,
+      "date": "2026-06-20",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Kansas City",
+      "venue_id": "kansas-city"
+    },
+    {
+      "match_id": 35,
+      "date": "2026-06-20",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Houston",
+      "venue_id": "houston"
+    },
+    {
+      "match_id": 36,
+      "date": "2026-06-20",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Monterrey",
+      "venue_id": "monterrey"
+    },
+    {
+      "match_id": 37,
+      "date": "2026-06-21",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Miami",
+      "venue_id": "miami"
+    },
+    {
+      "match_id": 38,
+      "date": "2026-06-21",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Atlanta",
+      "venue_id": "atlanta"
+    },
+    {
+      "match_id": 39,
+      "date": "2026-06-21",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Los Angeles",
+      "venue_id": "los-angeles"
+    },
+    {
+      "match_id": 40,
+      "date": "2026-06-21",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Vancouver",
+      "venue_id": "vancouver"
+    },
+    {
+      "match_id": 41,
+      "date": "2026-06-22",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "New York New Jersey",
+      "venue_id": "new-york-new-jersey"
+    },
+    {
+      "match_id": 42,
+      "date": "2026-06-22",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Philadelphia",
+      "venue_id": "philadelphia"
+    },
+    {
+      "match_id": 43,
+      "date": "2026-06-22",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Dallas",
+      "venue_id": "dallas"
+    },
+    {
+      "match_id": 44,
+      "date": "2026-06-22",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "San Francisco",
+      "venue_id": "san-francisco"
+    },
+    {
+      "match_id": 45,
+      "date": "2026-06-23",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Boston",
+      "venue_id": "boston"
+    },
+    {
+      "match_id": 46,
+      "date": "2026-06-23",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Toronto",
+      "venue_id": "toronto"
+    },
+    {
+      "match_id": 47,
+      "date": "2026-06-23",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Houston",
+      "venue_id": "houston"
+    },
+    {
+      "match_id": 48,
+      "date": "2026-06-23",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Guadalajara",
+      "venue_id": "guadalajara"
+    },
+    {
+      "match_id": 49,
+      "date": "2026-06-24",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Miami",
+      "venue_id": "miami"
+    },
+    {
+      "match_id": 50,
+      "date": "2026-06-24",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Atlanta",
+      "venue_id": "atlanta"
+    },
+    {
+      "match_id": 51,
+      "date": "2026-06-24",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Vancouver",
+      "venue_id": "vancouver"
+    },
+    {
+      "match_id": 52,
+      "date": "2026-06-24",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Seattle",
+      "venue_id": "seattle"
+    },
+    {
+      "match_id": 53,
+      "date": "2026-06-24",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Mexico City",
+      "venue_id": "mexico-city"
+    },
+    {
+      "match_id": 54,
+      "date": "2026-06-24",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Monterrey",
+      "venue_id": "monterrey"
+    },
+    {
+      "match_id": 55,
+      "date": "2026-06-25",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Philadelphia",
+      "venue_id": "philadelphia"
+    },
+    {
+      "match_id": 56,
+      "date": "2026-06-25",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "New York New Jersey",
+      "venue_id": "new-york-new-jersey"
+    },
+    {
+      "match_id": 57,
+      "date": "2026-06-25",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Dallas",
+      "venue_id": "dallas"
+    },
+    {
+      "match_id": 58,
+      "date": "2026-06-25",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Kansas City",
+      "venue_id": "kansas-city"
+    },
+    {
+      "match_id": 59,
+      "date": "2026-06-25",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Los Angeles",
+      "venue_id": "los-angeles"
+    },
+    {
+      "match_id": 60,
+      "date": "2026-06-25",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "San Francisco",
+      "venue_id": "san-francisco"
+    },
+    {
+      "match_id": 61,
+      "date": "2026-06-26",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Boston",
+      "venue_id": "boston"
+    },
+    {
+      "match_id": 62,
+      "date": "2026-06-26",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Toronto",
+      "venue_id": "toronto"
+    },
+    {
+      "match_id": 63,
+      "date": "2026-06-26",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Seattle",
+      "venue_id": "seattle"
+    },
+    {
+      "match_id": 64,
+      "date": "2026-06-26",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Vancouver",
+      "venue_id": "vancouver"
+    },
+    {
+      "match_id": 65,
+      "date": "2026-06-26",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Houston",
+      "venue_id": "houston"
+    },
+    {
+      "match_id": 66,
+      "date": "2026-06-26",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Guadalajara",
+      "venue_id": "guadalajara"
+    },
+    {
+      "match_id": 67,
+      "date": "2026-06-27",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "New York New Jersey",
+      "venue_id": "new-york-new-jersey"
+    },
+    {
+      "match_id": 68,
+      "date": "2026-06-27",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Philadelphia",
+      "venue_id": "philadelphia"
+    },
+    {
+      "match_id": 69,
+      "date": "2026-06-27",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Kansas City",
+      "venue_id": "kansas-city"
+    },
+    {
+      "match_id": 70,
+      "date": "2026-06-27",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Dallas",
+      "venue_id": "dallas"
+    },
+    {
+      "match_id": 71,
+      "date": "2026-06-27",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Miami",
+      "venue_id": "miami"
+    },
+    {
+      "match_id": 72,
+      "date": "2026-06-27",
+      "date_timezone": "America/New_York",
+      "stage": "group",
+      "city": "Atlanta",
+      "venue_id": "atlanta"
+    },
+    {
+      "match_id": 73,
+      "date": "2026-06-28",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Los Angeles",
+      "venue_id": "los-angeles"
+    },
+    {
+      "match_id": 74,
+      "date": "2026-06-29",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Boston",
+      "venue_id": "boston"
+    },
+    {
+      "match_id": 75,
+      "date": "2026-06-29",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Monterrey",
+      "venue_id": "monterrey"
+    },
+    {
+      "match_id": 76,
+      "date": "2026-06-29",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Houston",
+      "venue_id": "houston"
+    },
+    {
+      "match_id": 77,
+      "date": "2026-06-30",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "New York New Jersey",
+      "venue_id": "new-york-new-jersey"
+    },
+    {
+      "match_id": 78,
+      "date": "2026-06-30",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Dallas",
+      "venue_id": "dallas"
+    },
+    {
+      "match_id": 79,
+      "date": "2026-06-30",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Mexico City",
+      "venue_id": "mexico-city"
+    },
+    {
+      "match_id": 80,
+      "date": "2026-07-01",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Atlanta",
+      "venue_id": "atlanta"
+    },
+    {
+      "match_id": 81,
+      "date": "2026-07-01",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "San Francisco",
+      "venue_id": "san-francisco"
+    },
+    {
+      "match_id": 82,
+      "date": "2026-07-01",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Seattle",
+      "venue_id": "seattle"
+    },
+    {
+      "match_id": 83,
+      "date": "2026-07-02",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Toronto",
+      "venue_id": "toronto"
+    },
+    {
+      "match_id": 84,
+      "date": "2026-07-02",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Los Angeles",
+      "venue_id": "los-angeles"
+    },
+    {
+      "match_id": 85,
+      "date": "2026-07-02",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Vancouver",
+      "venue_id": "vancouver"
+    },
+    {
+      "match_id": 86,
+      "date": "2026-07-03",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Miami",
+      "venue_id": "miami"
+    },
+    {
+      "match_id": 87,
+      "date": "2026-07-03",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Kansas City",
+      "venue_id": "kansas-city"
+    },
+    {
+      "match_id": 88,
+      "date": "2026-07-03",
+      "date_timezone": "America/New_York",
+      "stage": "round-of-32",
+      "city": "Dallas",
+      "venue_id": "dallas"
+    }
+  ],
+  "counting_rule": "One stadium per map point. Derive stage participation from selected fixture IDs; dot sizes encode stage category, not match count or audience."
+}

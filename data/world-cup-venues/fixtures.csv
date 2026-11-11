@@ -1,0 +1,89 @@
+match_id,date,date_timezone,stage,venue_id,city
+1,2026-06-11,America/New_York,group,mexico-city,Mexico City
+2,2026-06-11,America/New_York,group,guadalajara,Guadalajara
+3,2026-06-12,America/New_York,group,toronto,Toronto
+4,2026-06-12,America/New_York,group,los-angeles,Los Angeles
+5,2026-06-13,America/New_York,group,boston,Boston
+6,2026-06-13,America/New_York,group,vancouver,Vancouver
+7,2026-06-13,America/New_York,group,new-york-new-jersey,New York New Jersey
+8,2026-06-13,America/New_York,group,san-francisco,San Francisco
+9,2026-06-14,America/New_York,group,philadelphia,Philadelphia
+10,2026-06-14,America/New_York,group,houston,Houston
+11,2026-06-14,America/New_York,group,dallas,Dallas
+12,2026-06-14,America/New_York,group,monterrey,Monterrey
+13,2026-06-15,America/New_York,group,miami,Miami
+14,2026-06-15,America/New_York,group,atlanta,Atlanta
+15,2026-06-15,America/New_York,group,los-angeles,Los Angeles
+16,2026-06-15,America/New_York,group,seattle,Seattle
+17,2026-06-16,America/New_York,group,new-york-new-jersey,New York New Jersey
+18,2026-06-16,America/New_York,group,boston,Boston
+19,2026-06-16,America/New_York,group,kansas-city,Kansas City
+20,2026-06-16,America/New_York,group,san-francisco,San Francisco
+21,2026-06-17,America/New_York,group,toronto,Toronto
+22,2026-06-17,America/New_York,group,dallas,Dallas
+23,2026-06-17,America/New_York,group,houston,Houston
+24,2026-06-17,America/New_York,group,mexico-city,Mexico City
+25,2026-06-18,America/New_York,group,atlanta,Atlanta
+26,2026-06-18,America/New_York,group,los-angeles,Los Angeles
+27,2026-06-18,America/New_York,group,vancouver,Vancouver
+28,2026-06-18,America/New_York,group,guadalajara,Guadalajara
+29,2026-06-19,America/New_York,group,philadelphia,Philadelphia
+30,2026-06-19,America/New_York,group,boston,Boston
+31,2026-06-19,America/New_York,group,san-francisco,San Francisco
+32,2026-06-19,America/New_York,group,seattle,Seattle
+33,2026-06-20,America/New_York,group,toronto,Toronto
+34,2026-06-20,America/New_York,group,kansas-city,Kansas City
+35,2026-06-20,America/New_York,group,houston,Houston
+36,2026-06-20,America/New_York,group,monterrey,Monterrey
+37,2026-06-21,America/New_York,group,miami,Miami
+38,2026-06-21,America/New_York,group,atlanta,Atlanta
+39,2026-06-21,America/New_York,group,los-angeles,Los Angeles
+40,2026-06-21,America/New_York,group,vancouver,Vancouver
+41,2026-06-22,America/New_York,group,new-york-new-jersey,New York New Jersey
+42,2026-06-22,America/New_York,group,philadelphia,Philadelphia
+43,2026-06-22,America/New_York,group,dallas,Dallas
+44,2026-06-22,America/New_York,group,san-francisco,San Francisco
+45,2026-06-23,America/New_York,group,boston,Boston
+46,2026-06-23,America/New_York,group,toronto,Toronto
+47,2026-06-23,America/New_York,group,houston,Houston
+48,2026-06-23,America/New_York,group,guadalajara,Guadalajara
+49,2026-06-24,America/New_York,group,miami,Miami
+50,2026-06-24,America/New_York,group,atlanta,Atlanta
+51,2026-06-24,America/New_York,group,vancouver,Vancouver
+52,2026-06-24,America/New_York,group,seattle,Seattle
+53,2026-06-24,America/New_York,group,mexico-city,Mexico City
+54,2026-06-24,America/New_York,group,monterrey,Monterrey
+55,2026-06-25,America/New_York,group,philadelphia,Philadelphia
+56,2026-06-25,America/New_York,group,new-york-new-jersey,New York New Jersey
+57,2026-06-25,America/New_York,group,dallas,Dallas
+58,2026-06-25,America/New_York,group,kansas-city,Kansas City
+59,2026-06-25,America/New_York,group,los-angeles,Los Angeles
+60,2026-06-25,America/New_York,group,san-francisco,San Francisco
+61,2026-06-26,America/New_York,group,boston,Boston
+62,2026-06-26,America/New_York,group,toronto,Toronto
+63,2026-06-26,America/New_York,group,seattle,Seattle
+64,2026-06-26,America/New_York,group,vancouver,Vancouver
+65,2026-06-26,America/New_York,group,houston,Houston
+66,2026-06-26,America/New_York,group,guadalajara,Guadalajara
+67,2026-06-27,America/New_York,group,new-york-new-jersey,New York New Jersey
+68,2026-06-27,America/New_York,group,philadelphia,Philadelphia
+69,2026-06-27,America/New_York,group,kansas-city,Kansas City
+70,2026-06-27,America/New_York,group,dallas,Dallas
+71,2026-06-27,America/New_York,group,miami,Miami
+72,2026-06-27,America/New_York,group,atlanta,Atlanta
+73,2026-06-28,America/New_York,round-of-32,los-angeles,Los Angeles
+74,2026-06-29,America/New_York,round-of-32,boston,Boston
+75,2026-06-29,America/New_York,round-of-32,monterrey,Monterrey
+76,2026-06-29,America/New_York,round-of-32,houston,Houston
+77,2026-06-30,America/New_York,round-of-32,new-york-new-jersey,New York New Jersey
+78,2026-06-30,America/New_York,round-of-32,dallas,Dallas
+79,2026-06-30,America/New_York,round-of-32,mexico-city,Mexico City
+80,2026-07-01,America/New_York,round-of-32,atlanta,Atlanta
+81,2026-07-01,America/New_York,round-of-32,san-francisco,San Francisco
+82,2026-07-01,America/New_York,round-of-32,seattle,Seattle
+83,2026-07-02,America/New_York,round-of-32,toronto,Toronto
+84,2026-07-02,America/New_York,round-of-32,los-angeles,Los Angeles
+85,2026-07-02,America/New_York,round-of-32,vancouver,Vancouver
+86,2026-07-03,America/New_York,round-of-32,miami,Miami
+87,2026-07-03,America/New_York,round-of-32,kansas-city,Kansas City
+88,2026-07-03,America/New_York,round-of-32,dallas,Dallas

@@ -1,0 +1,373 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "atlanta",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40079208487987,
+          33.755469454401634
+        ]
+      },
+      "properties": {
+        "id": "atlanta",
+        "city": "Atlanta",
+        "country": "USA",
+        "stadium": "Atlanta Stadium",
+        "municipality": "Atlanta",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=4d2a2508-c5b4-4c26-a502-2dc03ea58da2&autoload=y",
+        "group_matches": 5,
+        "round_of_32_matches": 1,
+        "category": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "boston",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.264344,
+          42.090944
+        ]
+      },
+      "properties": {
+        "id": "boston",
+        "city": "Boston",
+        "country": "USA",
+        "stadium": "Boston Stadium",
+        "municipality": "Foxborough",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=fd70bf34-9de6-45a0-ad8e-03b4a9da25f0&autoload=y",
+        "group_matches": 5,
+        "round_of_32_matches": 1,
+        "category": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dallas",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.09282641641333,
+          32.74794243222878
+        ]
+      },
+      "properties": {
+        "id": "dallas",
+        "city": "Dallas",
+        "country": "USA",
+        "stadium": "Dallas Stadium",
+        "municipality": "Arlington",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=cd7f8a6d-a8f1-4d72-9ea6-a2f7eb2d04d9&autoload=y",
+        "group_matches": 5,
+        "round_of_32_matches": 2,
+        "category": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "guadalajara",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.46275,
+          20.68185
+        ]
+      },
+      "properties": {
+        "id": "guadalajara",
+        "city": "Guadalajara",
+        "country": "MEX",
+        "stadium": "Guadalajara Stadium",
+        "municipality": "Zapopan",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=195b7072-60c0-4a0d-810b-2e3f6fe633a8&autoload=y",
+        "group_matches": 4,
+        "round_of_32_matches": 0,
+        "category": "group-only"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "houston",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.410833,
+          29.684722
+        ]
+      },
+      "properties": {
+        "id": "houston",
+        "city": "Houston",
+        "country": "USA",
+        "stadium": "Houston Stadium",
+        "municipality": "Houston",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=dab7bb8d-8fc8-4903-9939-ad5aa36713b5&autoload=y",
+        "group_matches": 5,
+        "round_of_32_matches": 1,
+        "category": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "kansas-city",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.483984,
+          39.048914
+        ]
+      },
+      "properties": {
+        "id": "kansas-city",
+        "city": "Kansas City",
+        "country": "USA",
+        "stadium": "Kansas City Stadium",
+        "municipality": "Kansas City",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=8d51ee7e-956f-4a69-bf8a-21f620d46d02&autoload=y",
+        "group_matches": 4,
+        "round_of_32_matches": 1,
+        "category": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "los-angeles",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.339,
+          33.9535
+        ]
+      },
+      "properties": {
+        "id": "los-angeles",
+        "city": "Los Angeles",
+        "country": "USA",
+        "stadium": "Los Angeles Stadium",
+        "municipality": "Inglewood",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=df2ec676-5894-41c1-8999-f8d56fd7535e&autoload=y",
+        "group_matches": 5,
+        "round_of_32_matches": 2,
+        "category": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mexico-city",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.150528,
+          19.302858
+        ]
+      },
+      "properties": {
+        "id": "mexico-city",
+        "city": "Mexico City",
+        "country": "MEX",
+        "stadium": "Mexico City Stadium",
+        "municipality": "Mexico City",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=b047bb94-3661-44f1-a724-772c8db3fd45&autoload=y",
+        "group_matches": 3,
+        "round_of_32_matches": 1,
+        "category": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "miami",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2387157202618,
+          25.9581034179722
+        ]
+      },
+      "properties": {
+        "id": "miami",
+        "city": "Miami",
+        "country": "USA",
+        "stadium": "Miami Stadium",
+        "municipality": "Miami Gardens",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=3d38698e-4242-45cd-b20c-cecaa24a2bf4&autoload=y",
+        "group_matches": 4,
+        "round_of_32_matches": 1,
+        "category": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "monterrey",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.24450648518945,
+          25.669187810124857
+        ]
+      },
+      "properties": {
+        "id": "monterrey",
+        "city": "Monterrey",
+        "country": "MEX",
+        "stadium": "Monterrey Stadium",
+        "municipality": "Guadalupe",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=d59af3f7-5b80-453f-a585-df771583e43f&autoload=y",
+        "group_matches": 3,
+        "round_of_32_matches": 1,
+        "category": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "new-york-new-jersey",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07438076147389,
+          40.81354963571265
+        ]
+      },
+      "properties": {
+        "id": "new-york-new-jersey",
+        "city": "New York New Jersey",
+        "country": "USA",
+        "stadium": "New York New Jersey Stadium",
+        "municipality": "East Rutherford",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=7b975e5b-18ad-4e5d-8719-17eaae15ab43&autoload=y",
+        "group_matches": 5,
+        "round_of_32_matches": 1,
+        "category": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "philadelphia",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16746318864644,
+          39.90080899164825
+        ]
+      },
+      "properties": {
+        "id": "philadelphia",
+        "city": "Philadelphia",
+        "country": "USA",
+        "stadium": "Philadelphia Stadium",
+        "municipality": "Philadelphia",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=5ecf5c75-f266-4152-9bfc-6837fa58380e&autoload=y",
+        "group_matches": 5,
+        "round_of_32_matches": 0,
+        "category": "group-only"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "san-francisco",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9697850980288,
+          37.40318010769111
+        ]
+      },
+      "properties": {
+        "id": "san-francisco",
+        "city": "San Francisco",
+        "country": "USA",
+        "stadium": "San Francisco Bay Area Stadium",
+        "municipality": "Santa Clara",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=bb95b7fc-60d1-4fb1-be80-c2cfa7d1f652&autoload=y",
+        "group_matches": 5,
+        "round_of_32_matches": 1,
+        "category": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seattle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33162867316001,
+          47.59513730088943
+        ]
+      },
+      "properties": {
+        "id": "seattle",
+        "city": "Seattle",
+        "country": "USA",
+        "stadium": "Seattle Stadium",
+        "municipality": "Seattle",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=2f45e3c0-ab10-4ffa-a643-1e1eabdc3104&autoload=y",
+        "group_matches": 4,
+        "round_of_32_matches": 1,
+        "category": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "toronto",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41854920623373,
+          43.63324195363085
+        ]
+      },
+      "properties": {
+        "id": "toronto",
+        "city": "Toronto",
+        "country": "CAN",
+        "stadium": "Toronto Stadium",
+        "municipality": "Toronto",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=ea0f49fb-cec3-4a22-b773-dc76e46a744e&autoload=y",
+        "group_matches": 5,
+        "round_of_32_matches": 1,
+        "category": "both"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vancouver",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11198406467349,
+          49.27671921321163
+        ]
+      },
+      "properties": {
+        "id": "vancouver",
+        "city": "Vancouver",
+        "country": "CAN",
+        "stadium": "BC Place Vancouver",
+        "municipality": "Vancouver",
+        "coordinate_source": "fifa-maps",
+        "coordinate_url": "https://maps.fifa.com/?navmapId=18231d49-d7ef-4313-a362-52409631bcd2&autoload=y",
+        "group_matches": 5,
+        "round_of_32_matches": 1,
+        "category": "both"
+      }
+    }
+  ]
+}

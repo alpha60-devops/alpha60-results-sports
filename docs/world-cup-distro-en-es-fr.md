@@ -18,6 +18,18 @@ description: "English-audio files circulate in Mexico. The seven identified Span
 
 English-audio files circulate in Mexico. The seven identified Spanish-audio torrents do not support a stable positive geographic association with Spanish-speaking or Hispanic populations.
 
+<!-- BEGIN world-cup-venues -->
+
+## FIFA Venues 2026
+
+All sixteen stadiums that hosted group-stage or Round-of-32 matches, on the
+same USA–Canada–Mexico map as the language plates below. Alaska, Hawaii and
+the Western Aleutians are excluded. City names are centered above the stadium dots.
+
+<figure data-venue-map="fifa-venues-2026"><a href="../resources/world-cup-venues/fifa-venues-2026.svg"><img src="../resources/world-cup-venues/fifa-venues-2026.webp" width="3200" height="4579" alt="FIFA Venues 2026: all sixteen stadiums, with city names above their dots. Guadalajara and Philadelphia are black group-stage-only dots; the other fourteen are larger red dots with black outlines for both stages."></a><figcaption>Black: group stage only. Larger red: Round of 32 only. Larger red with a 1 pt black outline: both. Guadalajara and Philadelphia hosted only the group stage; the other fourteen venues hosted both. There are no Round-of-32-only venues. <a href="../resources/world-cup-venues/fifa-venues-2026.svg">Full-size SVG</a> · <a href="../resources/world-cup-venues/fifa-venues-2026.png">PNG</a> · <a href="../resources/world-cup-venues/fifa-venues-2026.webp">WebP</a>.</figcaption></figure>
+
+<!-- END world-cup-venues -->
+
 <!-- BEGIN world-cup-language-maps -->
 
 ## Spanish- and French-audio maps
@@ -108,6 +120,36 @@ The Canadian table groups non-official languages and does not supply a Spanish-o
 
 <details class="wc-sources" markdown="1">
 <summary>Sources, downloads, and counting rules</summary>
+
+<!-- BEGIN world-cup-venue-sources -->
+
+### FIFA venue map
+
+[Venue roster CSV](../data/world-cup-venues/venues.csv) · [Venue GeoJSON](../data/world-cup-venues/venues.geojson) ·
+[Selected fixtures CSV](../data/world-cup-venues/fixtures.csv) · [Frozen source data](../data/world-cup-venues/source-data.json) ·
+[Rendering and source manifest](../data/world-cup-venues/manifest.json) · [Verification](../data/world-cup-venues/verification.json)
+
+The venue layer contains **sixteen stadiums: eleven in the USA, two in Canada
+and three in Mexico**. Its flags are derived from **72 group-stage fixtures
+(match IDs 1–72) and sixteen Round-of-32 fixtures (IDs 73–88)**. Dates in the
+fixture download follow FIFA's Eastern Time schedule columns. Every stadium
+hosted group matches; Guadalajara and Philadelphia hosted no Round-of-32 match.
+There is one point per stadium, even where a stadium hosted two Round-of-32 matches.
+Dot size encodes the stage category, not attendance, match count or downloads.
+
+Coordinates come from FIFA's stadium map data. Labels use FIFA host-city names;
+the roster separately records stadium municipalities such as Foxborough,
+Arlington, Inglewood, East Rutherford and Santa Clara. The native registered
+Cahill–Keyes projection, viewport and country outlines match the language maps.
+
+- [FIFA World Cup 2026 match schedule, version 31, July 16, 2026](https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf). Read the PDF visually and extract 104 unique match-number spans. Assign each to its host-city row and Eastern Time date column. Select IDs 1–72 (group) and 73–88 (Round of 32).
+- [FIFA official stadium addresses and maps](https://gpcustomersupportfwc2026.tickets.fifa.com/hc/en-gb/articles/28784010437021-2-What-are-the-official-addresses-stadium-capacities-and-maps-of-the-FIFA-World-Cup-2026-stadiums). Checked the 16 named stadium addresses in FIFA’s July 19, 2026 register. Preserve stadium municipalities separately from host-city labels.
+- [FIFA interactive venue maps: official landing-map coordinates](https://maps.fifa.com/static/js/main.1a6d1791.js). Extract the 16 literal name, coordinates and navmap URL objects whose imageUrl contains FWC203/. Coordinates are longitude, latitude stadium locations, not geocoded city centers.
+- [MLS: FIFA World Cup 2026 schedule, every game by city and stadium](https://www.mlssoccer.com/news/fifa-world-cup-2026-schedule-every-game-by-city-stadium). Independently reconcile all 16 venue stage counts and selected match dates against the league’s per-stadium schedule.
+
+Sources checked November 11, 2026; acquired-file hashes are in the manifest.
+
+<!-- END world-cup-venue-sources -->
 
 [State census comparison CSV](../data/world-cup-stage1/usa-census-language.csv) · [Country memberships by torrent](../data/world-cup-stage1/torrent-country-memberships.csv) · [Census calculations and sensitivity](../data/world-cup-stage1/supplement.json)
 

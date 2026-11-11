@@ -1,0 +1,379 @@
+{
+  "schema": "alpha60-world-cup-venue-map/1",
+  "date": "2026-11-11",
+  "venue_count": 16,
+  "group_matches": 72,
+  "round_of_32_matches": 16,
+  "categories": {
+    "both": 14,
+    "group-only": 2
+  },
+  "excluded_geography": [
+    "Alaska",
+    "Hawaii",
+    "Western Aleutians"
+  ],
+  "projection": "Native registered Cahill–Keyes, Alpha60 ckproj(f44x22h)",
+  "native_frame": [
+    4224,
+    2112
+  ],
+  "page": [
+    2112,
+    3022
+  ],
+  "panel": {
+    "id": "main",
+    "label": "",
+    "scale": 2.61741695915535,
+    "translate": [
+      -1982.5498279434,
+      -248.698064063307
+    ],
+    "rect": [
+      60,
+      230,
+      1992,
+      2591.28
+    ],
+    "bounds": [
+      892.51632078409,
+      263.12126604603,
+      1429.27640491442,
+      1092.67193905026
+    ]
+  },
+  "reference_svg_sha256": "a8a08e26e69022ca71e40e5b54d0b4e4358e87ca9f428b610d8f70d36be3aeb8",
+  "reference_rendering_sha256": "ee864679e44275bd329823bfed066a4f4cb2ea616a47e2566b1bd5dcad312a8e",
+  "input_sha256": "423bf995b25c111fd570adbae35bb42ba22f3b8e890dfab2006f8cc6a9e48e0d",
+  "projector_sha256": "1e48629bd99b1e81eea106f11274e6638518eab8160f3c812b59d998590a0236",
+  "generator_sha256": "a0b68e73b004f2611c8fa6673696076367dff0380379a0f9176c9e7af1d92638",
+  "basemap_elements": 791,
+  "basemap_preserved": true,
+  "positions": [
+    {
+      "venue_id": "atlanta",
+      "x": 1347.5690679619174,
+      "y": 1892.015346903699,
+      "radius": 8,
+      "label_x": 1347.5690679619174,
+      "label_y": 1872.015346903699,
+      "font_size": 32,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        1296.68,
+        1849.21,
+        99.98,
+        23.212
+      ]
+    },
+    {
+      "venue_id": "boston",
+      "x": 1496.119259946623,
+      "y": 1555.6258668667529,
+      "radius": 8,
+      "label_x": 1496.119259946623,
+      "label_y": 1535.6258668667529,
+      "font_size": 32,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        1448.13,
+        1512.82,
+        96.332,
+        23.212
+      ]
+    },
+    {
+      "venue_id": "dallas",
+      "x": 1092.592322350425,
+      "y": 2027.640604056217,
+      "radius": 8,
+      "label_x": 1092.592322350425,
+      "label_y": 2007.640604056217,
+      "font_size": 32,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        1053.23,
+        1984.83,
+        80.1079,
+        23.212
+      ]
+    },
+    {
+      "venue_id": "guadalajara",
+      "x": 983.2519669609769,
+      "y": 2416.8414867214547,
+      "radius": 4,
+      "label_x": 983.2519669609769,
+      "label_y": 2380.8414867214547,
+      "font_size": 32,
+      "stroke_width": "0",
+      "label_bounds": [
+        899.438,
+        2358.04,
+        167.212,
+        29.74
+      ]
+    },
+    {
+      "venue_id": "houston",
+      "x": 1145.9774342779037,
+      "y": 2109.2124449185085,
+      "radius": 8,
+      "label_x": 1145.9774342779037,
+      "label_y": 2089.2124449185085,
+      "font_size": 32,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        1087.99,
+        2066.41,
+        116.332,
+        23.212
+      ]
+    },
+    {
+      "venue_id": "kansas-city",
+      "x": 1113.5788949185462,
+      "y": 1828.602000849728,
+      "radius": 8,
+      "label_x": 1113.5788949185462,
+      "label_y": 1808.602000849728,
+      "font_size": 32,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        1034.05,
+        1785.8,
+        161.772,
+        29.484
+      ]
+    },
+    {
+      "venue_id": "los-angeles",
+      "x": 619.3169023807386,
+      "y": 2015.5680709297421,
+      "radius": 8,
+      "label_x": 619.3169023807386,
+      "label_y": 1995.5680709297421,
+      "font_size": 32,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        537.151,
+        1972.76,
+        165.708,
+        29.74
+      ]
+    },
+    {
+      "venue_id": "mexico-city",
+      "x": 1102.984594876717,
+      "y": 2438.94039934361,
+      "radius": 8,
+      "label_x": 1102.984594876717,
+      "label_y": 2418.94039934361,
+      "font_size": 32,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        1022.02,
+        2396.13,
+        164.652,
+        29.484
+      ]
+    },
+    {
+      "venue_id": "miami",
+      "x": 1505.7518328677638,
+      "y": 2058.084908952428,
+      "radius": 8,
+      "label_x": 1505.7518328677638,
+      "label_y": 2038.0849089524281,
+      "font_size": 32,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        1466.16,
+        2015.28,
+        79.98,
+        23.212
+      ]
+    },
+    {
+      "venue_id": "monterrey",
+      "x": 1049.6635674946056,
+      "y": 2253.674004209495,
+      "radius": 8,
+      "label_x": 1049.6635674946056,
+      "label_y": 2233.674004209495,
+      "font_size": 32,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        977.754,
+        2210.87,
+        146.54,
+        29.484
+      ]
+    },
+    {
+      "venue_id": "new-york-new-jersey",
+      "x": 1464.5841224918158,
+      "y": 1612.5430691784468,
+      "radius": 8,
+      "label_x": 1464.5841224918158,
+      "label_y": 1598.5430691784468,
+      "font_size": 18,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        1419.8,
+        1566.65,
+        91.092,
+        35.716
+      ]
+    },
+    {
+      "venue_id": "philadelphia",
+      "x": 1456.3464378756835,
+      "y": 1645.44990048877,
+      "radius": 4,
+      "label_x": 1456.3464378756835,
+      "label_y": 1635.44990048877,
+      "font_size": 16,
+      "stroke_width": "0",
+      "label_bounds": [
+        1413.71,
+        1623.97,
+        85.7399,
+        14.892
+      ]
+    },
+    {
+      "venue_id": "san-francisco",
+      "x": 553.1069069667001,
+      "y": 1900.7947976178916,
+      "radius": 8,
+      "label_x": 553.1069069667001,
+      "label_y": 1880.7947976178916,
+      "font_size": 32,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        454.605,
+        1857.99,
+        196.556,
+        23.212
+      ]
+    },
+    {
+      "venue_id": "seattle",
+      "x": 586.1432907697795,
+      "y": 1594.2416532173465,
+      "radius": 8,
+      "label_x": 586.1432907697795,
+      "label_y": 1574.2416532173465,
+      "font_size": 32,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        536.265,
+        1551.44,
+        99.4359,
+        23.212
+      ]
+    },
+    {
+      "venue_id": "toronto",
+      "x": 1344.6907581627302,
+      "y": 1584.7723985753541,
+      "radius": 8,
+      "label_x": 1344.6907581627302,
+      "label_y": 1550.7723985753541,
+      "font_size": 32,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        1288.33,
+        1527.97,
+        111.468,
+        23.212
+      ]
+    },
+    {
+      "venue_id": "vancouver",
+      "x": 579.9310280186141,
+      "y": 1542.0037026697912,
+      "radius": 8,
+      "label_x": 579.9310280186141,
+      "label_y": 1522.0037026697912,
+      "font_size": 32,
+      "stroke_width": "1pt",
+      "label_bounds": [
+        504.357,
+        1499.45,
+        150.764,
+        22.956
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "fifa-schedule",
+      "title": "FIFA World Cup 2026 match schedule, version 31, July 16, 2026",
+      "url": "https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf",
+      "retrieved": "2026-11-11",
+      "method": "Read the PDF visually and extract 104 unique match-number spans. Assign each to its host-city row and Eastern Time date column. Select IDs 1–72 (group) and 73–88 (Round of 32).",
+      "sha256": "165fb909253b746e6173a4443bdc3e5d786530f0684af6e85c1fd21fff252811",
+      "bytes": 545234
+    },
+    {
+      "id": "fifa-addresses",
+      "title": "FIFA official stadium addresses and maps",
+      "url": "https://gpcustomersupportfwc2026.tickets.fifa.com/hc/en-gb/articles/28784010437021-2-What-are-the-official-addresses-stadium-capacities-and-maps-of-the-FIFA-World-Cup-2026-stadiums",
+      "retrieved": "2026-11-11",
+      "method": "Checked the 16 named stadium addresses in FIFA’s July 19, 2026 register. Preserve stadium municipalities separately from host-city labels."
+    },
+    {
+      "id": "fifa-maps",
+      "title": "FIFA interactive venue maps: official landing-map coordinates",
+      "url": "https://maps.fifa.com/static/js/main.1a6d1791.js",
+      "retrieved": "2026-11-11",
+      "landing_url": "https://maps.fifa.com/",
+      "method": "Extract the 16 literal name, coordinates and navmap URL objects whose imageUrl contains FWC203/. Coordinates are longitude, latitude stadium locations, not geocoded city centers.",
+      "sha256": "9a7c0af30a5213b77a24669af98ab9fa830d337d6d7d33c671568c00ea9d9ab4",
+      "bytes": 6235187
+    },
+    {
+      "id": "mls-crosscheck",
+      "title": "MLS: FIFA World Cup 2026 schedule, every game by city and stadium",
+      "url": "https://www.mlssoccer.com/news/fifa-world-cup-2026-schedule-every-game-by-city-stadium",
+      "retrieved": "2026-11-11",
+      "method": "Independently reconcile all 16 venue stage counts and selected match dates against the league’s per-stadium schedule.",
+      "sha256": "c249fc34ffa2e8bc9327e3663c4662619ef15b6f9de5859e6a34c74a73240809",
+      "bytes": 281479
+    }
+  ],
+  "counting_rule": "One stadium per map point. Derive stage participation from selected fixture IDs; dot sizes encode stage category, not match count or audience.",
+  "files": {
+    "fifa-venues-2026.png": {
+      "sha256": "2971241d7dd881f8aff838e0be6831a1dd8f8e9728452568f0bf958acbbc7014",
+      "bytes": 1376086
+    },
+    "fifa-venues-2026.svg": {
+      "sha256": "c21ea42ad4d9b681add0b427cb9725bc8e935b162189c6f8540bb25a5a404f1a",
+      "bytes": 9902767
+    },
+    "fifa-venues-2026.webp": {
+      "sha256": "0004499a99c3e37f7e7adf7b87e82376f21d0f1fc9f21d414fd67155f62f9dc4",
+      "bytes": 374104
+    },
+    "fixtures.csv": {
+      "sha256": "02b9c8d8400019186b1ee307ce9ed44928a16190595879424d2b2516b5dca056",
+      "bytes": 5219
+    },
+    "source-data.json": {
+      "sha256": "423bf995b25c111fd570adbae35bb42ba22f3b8e890dfab2006f8cc6a9e48e0d",
+      "bytes": 26539
+    },
+    "venues.csv": {
+      "sha256": "0d704130da3f92398b00cddc4441b174cf3982e9146ddc54a96fd7a78a1bfb63",
+      "bytes": 2917
+    },
+    "venues.geojson": {
+      "sha256": "f7d4d3e86289de997fc028cf0af91bf0e16f0f79930da3bc17e3dff6526e4f9b",
+      "bytes": 10240
+    }
+  }
+}

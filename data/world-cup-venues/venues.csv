@@ -1,0 +1,17 @@
+id,city,country,stadium,municipality,longitude,latitude,group_matches,round_of_32_matches,category,coordinate_url
+atlanta,Atlanta,USA,Atlanta Stadium,Atlanta,-84.40079208487987,33.755469454401634,5,1,both,https://maps.fifa.com/?navmapId=4d2a2508-c5b4-4c26-a502-2dc03ea58da2&autoload=y
+boston,Boston,USA,Boston Stadium,Foxborough,-71.264344,42.090944,5,1,both,https://maps.fifa.com/?navmapId=fd70bf34-9de6-45a0-ad8e-03b4a9da25f0&autoload=y
+dallas,Dallas,USA,Dallas Stadium,Arlington,-97.09282641641333,32.74794243222878,5,2,both,https://maps.fifa.com/?navmapId=cd7f8a6d-a8f1-4d72-9ea6-a2f7eb2d04d9&autoload=y
+guadalajara,Guadalajara,MEX,Guadalajara Stadium,Zapopan,-103.46275,20.68185,4,0,group-only,https://maps.fifa.com/?navmapId=195b7072-60c0-4a0d-810b-2e3f6fe633a8&autoload=y
+houston,Houston,USA,Houston Stadium,Houston,-95.410833,29.684722,5,1,both,https://maps.fifa.com/?navmapId=dab7bb8d-8fc8-4903-9939-ad5aa36713b5&autoload=y
+kansas-city,Kansas City,USA,Kansas City Stadium,Kansas City,-94.483984,39.048914,4,1,both,https://maps.fifa.com/?navmapId=8d51ee7e-956f-4a69-bf8a-21f620d46d02&autoload=y
+los-angeles,Los Angeles,USA,Los Angeles Stadium,Inglewood,-118.339,33.9535,5,2,both,https://maps.fifa.com/?navmapId=df2ec676-5894-41c1-8999-f8d56fd7535e&autoload=y
+mexico-city,Mexico City,MEX,Mexico City Stadium,Mexico City,-99.150528,19.302858,3,1,both,https://maps.fifa.com/?navmapId=b047bb94-3661-44f1-a724-772c8db3fd45&autoload=y
+miami,Miami,USA,Miami Stadium,Miami Gardens,-80.2387157202618,25.9581034179722,4,1,both,https://maps.fifa.com/?navmapId=3d38698e-4242-45cd-b20c-cecaa24a2bf4&autoload=y
+monterrey,Monterrey,MEX,Monterrey Stadium,Guadalupe,-100.24450648518945,25.669187810124857,3,1,both,https://maps.fifa.com/?navmapId=d59af3f7-5b80-453f-a585-df771583e43f&autoload=y
+new-york-new-jersey,New York New Jersey,USA,New York New Jersey Stadium,East Rutherford,-74.07438076147389,40.81354963571265,5,1,both,https://maps.fifa.com/?navmapId=7b975e5b-18ad-4e5d-8719-17eaae15ab43&autoload=y
+philadelphia,Philadelphia,USA,Philadelphia Stadium,Philadelphia,-75.16746318864644,39.90080899164825,5,0,group-only,https://maps.fifa.com/?navmapId=5ecf5c75-f266-4152-9bfc-6837fa58380e&autoload=y
+san-francisco,San Francisco,USA,San Francisco Bay Area Stadium,Santa Clara,-121.9697850980288,37.40318010769111,5,1,both,https://maps.fifa.com/?navmapId=bb95b7fc-60d1-4fb1-be80-c2cfa7d1f652&autoload=y
+seattle,Seattle,USA,Seattle Stadium,Seattle,-122.33162867316001,47.59513730088943,4,1,both,https://maps.fifa.com/?navmapId=2f45e3c0-ab10-4ffa-a643-1e1eabdc3104&autoload=y
+toronto,Toronto,CAN,Toronto Stadium,Toronto,-79.41854920623373,43.63324195363085,5,1,both,https://maps.fifa.com/?navmapId=ea0f49fb-cec3-4a22-b773-dc76e46a744e&autoload=y
+vancouver,Vancouver,CAN,BC Place Vancouver,Vancouver,-123.11198406467349,49.27671921321163,5,1,both,https://maps.fifa.com/?navmapId=18231d49-d7ef-4313-a362-52409631bcd2&autoload=y

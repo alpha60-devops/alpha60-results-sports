@@ -1,0 +1,60 @@
+{
+  "status": "passed",
+  "manifest_sha256": "5db6a4d71b3d784bb57a43b92fcfc506c20c430f2114db9d7e975a2b4eba90d2",
+  "checks": [
+    "16 unique stadiums",
+    "11 USA, 2 Canada, 3 Mexico",
+    "72 group-stage and 16 Round-of-32 fixtures, unique IDs 1\u201388",
+    "2 group-only, 14 both, 0 Round-of-32-only",
+    "All stadium points inside the reference map panel",
+    "Native projection and affine transform preserved",
+    "Every basemap path and rectangle preserved exactly",
+    "City labels centered above their own dot",
+    "Rendered city labels do not overlap labels or stadium dots",
+    "Both-stage circles use literal 1pt black stroke"
+  ],
+  "schedule_crosscheck": {
+    "status": "passed",
+    "fifa_selected": 88,
+    "mls_selected": 88,
+    "per_city_stage_date_multisets_equal": true
+  },
+  "browser_review": {
+    "status": "passed",
+    "viewports": [
+      {
+        "width": 1280,
+        "height": 1600,
+        "horizontal_overflow": false,
+        "venue_maps": 1,
+        "language_maps": 3,
+        "image_dimensions": [
+          3200,
+          4579
+        ]
+      },
+      {
+        "width": 390,
+        "height": 1100,
+        "horizontal_overflow": false,
+        "venue_maps": 1,
+        "language_maps": 3,
+        "image_dimensions": [
+          3200,
+          4579
+        ]
+      }
+    ]
+  },
+  "visual_review": {
+    "date": "2026-11-11",
+    "status": "passed",
+    "checks": [
+      "Full plate inspected",
+      "Northeast city labels inspected at full raster size",
+      "Desktop and mobile page screenshots inspected",
+      "All existing language-map hashes verified",
+      "Original page restored exactly by removing inserted venue and source blocks"
+    ]
+  }
+}
