@@ -27,7 +27,7 @@
         "height": 1600,
         "horizontal_overflow": false,
         "venue_maps": 1,
-        "language_maps": 3,
+        "language_maps": 2,
         "image_dimensions": [
           3200,
           4579
@@ -38,7 +38,7 @@
         "height": 1100,
         "horizontal_overflow": false,
         "venue_maps": 1,
-        "language_maps": 3,
+        "language_maps": 2,
         "image_dimensions": [
           3200,
           4579
@@ -54,7 +54,7 @@
       "Northeast city labels inspected at full raster size",
       "Desktop and mobile page screenshots inspected",
       "All existing language-map hashes verified",
-      "Original page restored exactly by removing inserted venue and source blocks"
+      "Outside venue/source insertions, only the requested 2026-only Spanish section is removed"
     ]
   }
 }
