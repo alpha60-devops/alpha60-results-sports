@@ -1,0 +1,158 @@
+{
+  "renderer": {
+    "library": "Izzi",
+    "default_layout": "izzi-standard",
+    "reference": "https://alpha60-devops.github.io/alpha60-results-sports/docs/olympics.html",
+    "interaction": "izzi-weekly-graph-hover.js",
+    "commit": "1c7427b048bc90d3ee3589d4c9099aad7d2bfe37",
+    "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+    "renderer_sha256": "0bcb0bbb0b200ee5e9de63ad8c9d16b1e2b1f22525d9404ddbe6a1bd8c61f331",
+    "wrapper_sha256": "1c24a491e45d438e37bf706d19c06286df74e0e9167ce0c8100a8720782fcc51",
+    "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+    "functions": [
+      "svg::make_line_graph",
+      "svg::make_line_graph_annotations",
+      "svg::transform_to_graph_points",
+      "svg::make_marker_instance"
+    ],
+    "style_profile": "olympics"
+  },
+  "charts": {
+    "world-cup-broadcast-observed-age": {
+      "title": "Observed age changes the torrent comparison",
+      "subtitle": "US · all observed audio languages · unique downloader IPs",
+      "style_profile": "olympics",
+      "description": "Three fixtures with the highest reported US Spanish TAD. Each torrent starts at its own first observed cache date. Observed points only; integer day axis. Media-object names appear directly on their lines; no separate legend.",
+      "xlabel": "DAYS FROM FIRST OBSERVED CACHE",
+      "xmin": 1,
+      "xmax": 28,
+      "ticks": [
+        [
+          1,
+          "1"
+        ],
+        [
+          7,
+          "7"
+        ],
+        [
+          14,
+          "14"
+        ],
+        [
+          21,
+          "21"
+        ],
+        [
+          28,
+          "28"
+        ]
+      ],
+      "panels": [
+        {
+          "title": "IP union across versions of each fixture",
+          "unit": "count",
+          "ylabel": "UNIQUE DOWNLOADER IPS",
+          "series": [
+            {
+              "name": "Spain–Argentina",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 957,
+                  "tooltip": "Spain–Argentina, day 1: 957 US IPs"
+                },
+                {
+                  "x": 7,
+                  "y": 10806,
+                  "tooltip": "Spain–Argentina, day 7: 10,806 US IPs"
+                },
+                {
+                  "x": 28,
+                  "y": 37237,
+                  "tooltip": "Spain–Argentina, day 28: 37,237 US IPs"
+                }
+              ],
+              "collection_key": "Spain–Argentina",
+              "line_label": "Spain–Argentina"
+            },
+            {
+              "name": "Mexico–England",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 630,
+                  "tooltip": "Mexico–England, day 1: 630 US IPs"
+                },
+                {
+                  "x": 7,
+                  "y": 6983,
+                  "tooltip": "Mexico–England, day 7: 6,983 US IPs"
+                },
+                {
+                  "x": 28,
+                  "y": 22708,
+                  "tooltip": "Mexico–England, day 28: 22,708 US IPs"
+                }
+              ],
+              "collection_key": "Mexico–England",
+              "line_label": "Mexico–England"
+            },
+            {
+              "name": "Mexico–Ecuador",
+              "color": "#606a24",
+              "dash": "2 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 517,
+                  "tooltip": "Mexico–Ecuador, day 1: 517 US IPs"
+                },
+                {
+                  "x": 7,
+                  "y": 4917,
+                  "tooltip": "Mexico–Ecuador, day 7: 4,917 US IPs"
+                },
+                {
+                  "x": 28,
+                  "y": 16820,
+                  "tooltip": "Mexico–Ecuador, day 28: 16,820 US IPs"
+                }
+              ],
+              "collection_key": "Mexico–Ecuador",
+              "line_label": "Mexico–Ecuador"
+            }
+          ]
+        }
+      ],
+      "footer": "Daily cache dates · no completed-download or viewer inference",
+      "allow_label_callouts": true,
+      "layout": "izzi-standard",
+      "columns": 1
+    }
+  },
+  "chart_renderers": {
+    "world-cup-broadcast-observed-age": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-sports/docs/olympics.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "1c7427b048bc90d3ee3589d4c9099aad7d2bfe37",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "0bcb0bbb0b200ee5e9de63ad8c9d16b1e2b1f22525d9404ddbe6a1bd8c61f331",
+      "wrapper_sha256": "1c24a491e45d438e37bf706d19c06286df74e0e9167ce0c8100a8720782fcc51",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ],
+      "style_profile": "olympics"
+    }
+  }
+}

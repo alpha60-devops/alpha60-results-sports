@@ -1,0 +1,442 @@
+{
+  "schema": "alpha60-rights-valuation/1",
+  "currency": "USD",
+  "valuation_date": "2026-11-10",
+  "input_status": "All commercial inputs below are illustrative analyst assumptions, not measured Netflix forecasts or disclosed contract economics.",
+  "formula": "PV(net advertising + incremental acquisition contribution + incremental retention contribution + sponsorship + distribution) - PV(production + technology + marketing) - profit/risk reserve; divide by rights-payment PV factor for maximum nominal fee.",
+  "counting_rules": [
+    "Account-month contribution excludes event costs and ad revenue. Newly acquired and retained existing account cohorts are disjoint.",
+    "Viewer average is converted to assumed ad exposures with explicit ad eligibility, spots and fill; it is not unique reach.",
+    "Net CPM is after selling and ad-serving fees. Sponsorship excludes the spot inventory already modeled.",
+    "No piracy credit, displacement charge or strategic terminal value in the base. Scenarios are not confidence bounds.",
+    "Reported US+Canada 2027 fee is not a Mexico price and cannot allocate the separate 2031 contract."
+  ],
+  "reported_anchor": {
+    "usd_m": 200,
+    "source": "source-19",
+    "territory": "USA+CAN",
+    "term": "2027 only",
+    "status": "reported, not officially confirmed"
+  },
+  "judgment_band": {
+    "low_m": 150,
+    "central_m": 200,
+    "high_m": 250,
+    "method": "Analyst ±25% negotiating band around the reported same-event transaction; not inferred from piracy or a statistical confidence interval."
+  },
+  "usa_canada": {
+    "adverse": {
+      "inputs": {
+        "matches": 64,
+        "discount_rate": 0.1,
+        "rights_payments": [
+          {
+            "fraction": 0.5,
+            "years": 0
+          },
+          {
+            "fraction": 0.5,
+            "years": 0.7
+          }
+        ],
+        "ad_cash_years": 0.75,
+        "subscription_cash_years": 1.0,
+        "cost_cash_years": 0.5,
+        "distribution_m": 0,
+        "piracy_increment_m": 0,
+        "territory": "USA+CAN",
+        "term": "2027 only",
+        "average_viewers_m": 1.5,
+        "ad_eligible_share": 0.45,
+        "spots_per_match": 20,
+        "sell_through": 0.7,
+        "net_cpm_usd": 30,
+        "incremental_new_accounts_m": 0.75,
+        "incremental_new_months": 4,
+        "incremental_retained_accounts_m": 0.6,
+        "incremental_retained_months": 2,
+        "contribution_per_month_usd": 7,
+        "sponsorship_m": 8,
+        "costs_m": {
+          "production": 17.5,
+          "distribution_technology": 7.0,
+          "marketing": 10.5
+        },
+        "profit_risk_reserve_share": 0.2
+      },
+      "net_ads_m": 18.144,
+      "acquisition_contribution_m": 21.0,
+      "retention_contribution_m": 8.4,
+      "pv_gross_m": 51.067662079476115,
+      "pv_costs_m": 33.37119062359573,
+      "pv_profit_risk_reserve_m": 10.213532415895223,
+      "pv_capacity_m": 7.482939039985162,
+      "rights_payment_pv_factor": 0.9677298906459524,
+      "maximum_nominal_fee_m": 7.73246658216825,
+      "pv_surplus_at_200m_fee": -186.06303908920532
+    },
+    "base": {
+      "inputs": {
+        "matches": 64,
+        "discount_rate": 0.1,
+        "rights_payments": [
+          {
+            "fraction": 0.5,
+            "years": 0
+          },
+          {
+            "fraction": 0.5,
+            "years": 0.7
+          }
+        ],
+        "ad_cash_years": 0.75,
+        "subscription_cash_years": 1.0,
+        "cost_cash_years": 0.5,
+        "distribution_m": 0,
+        "piracy_increment_m": 0,
+        "territory": "USA+CAN",
+        "term": "2027 only",
+        "average_viewers_m": 3.0,
+        "ad_eligible_share": 0.65,
+        "spots_per_match": 28,
+        "sell_through": 0.85,
+        "net_cpm_usd": 45,
+        "incremental_new_accounts_m": 1.5,
+        "incremental_new_months": 6,
+        "incremental_retained_accounts_m": 1.2,
+        "incremental_retained_months": 3,
+        "contribution_per_month_usd": 8,
+        "sponsorship_m": 15,
+        "costs_m": {
+          "production": 20.0,
+          "distribution_technology": 8.0,
+          "marketing": 12.0
+        },
+        "profit_risk_reserve_share": 0.15
+      },
+      "net_ads_m": 133.66080000000002,
+      "acquisition_contribution_m": 72.0,
+      "retention_contribution_m": 28.799999999999997,
+      "pv_gross_m": 230.041418463859,
+      "pv_costs_m": 38.13850356982369,
+      "pv_profit_risk_reserve_m": 34.50621276957885,
+      "pv_capacity_m": 157.39670212445645,
+      "rights_payment_pv_factor": 0.9677298906459524,
+      "maximum_nominal_fee_m": 162.64528319921516,
+      "pv_surplus_at_200m_fee": -36.14927600473402
+    },
+    "upside": {
+      "inputs": {
+        "matches": 64,
+        "discount_rate": 0.1,
+        "rights_payments": [
+          {
+            "fraction": 0.5,
+            "years": 0
+          },
+          {
+            "fraction": 0.5,
+            "years": 0.7
+          }
+        ],
+        "ad_cash_years": 0.75,
+        "subscription_cash_years": 1.0,
+        "cost_cash_years": 0.5,
+        "distribution_m": 0,
+        "piracy_increment_m": 0,
+        "territory": "USA+CAN",
+        "term": "2027 only",
+        "average_viewers_m": 4.5,
+        "ad_eligible_share": 0.75,
+        "spots_per_match": 32,
+        "sell_through": 0.95,
+        "net_cpm_usd": 55,
+        "incremental_new_accounts_m": 2.5,
+        "incremental_new_months": 8,
+        "incremental_retained_accounts_m": 2.0,
+        "incremental_retained_months": 4,
+        "contribution_per_month_usd": 9,
+        "sponsorship_m": 25,
+        "costs_m": {
+          "production": 27.5,
+          "distribution_technology": 11.0,
+          "marketing": 16.5
+        },
+        "profit_risk_reserve_share": 0.12
+      },
+      "net_ads_m": 361.152,
+      "acquisition_contribution_m": 180.0,
+      "retention_contribution_m": 72.0,
+      "pv_gross_m": 588.6032266066696,
+      "pv_costs_m": 52.44044240850757,
+      "pv_profit_risk_reserve_m": 70.63238719280035,
+      "pv_capacity_m": 465.5303970053617,
+      "rights_payment_pv_factor": 0.9677298906459524,
+      "maximum_nominal_fee_m": 481.05406426438236,
+      "pv_surplus_at_200m_fee": 271.9844188761712
+    }
+  },
+  "mexico_illustrations": {
+    "adverse": {
+      "inputs": {
+        "matches": 64,
+        "discount_rate": 0.1,
+        "rights_payments": [
+          {
+            "fraction": 0.5,
+            "years": 0
+          },
+          {
+            "fraction": 0.5,
+            "years": 0.7
+          }
+        ],
+        "ad_cash_years": 0.75,
+        "subscription_cash_years": 1.0,
+        "cost_cash_years": 0.5,
+        "distribution_m": 0,
+        "piracy_increment_m": 0,
+        "territory": "MEX",
+        "term": "2027 only; hypothetical separate package",
+        "average_viewers_m": 0.25,
+        "ad_eligible_share": 0.8,
+        "spots_per_match": 24,
+        "sell_through": 0.75,
+        "net_cpm_usd": 4,
+        "incremental_new_accounts_m": 0.05,
+        "incremental_new_months": 3,
+        "incremental_retained_accounts_m": 0,
+        "incremental_retained_months": 0,
+        "contribution_per_month_usd": 3,
+        "sponsorship_m": 0.5,
+        "costs_m": {
+          "production": 1.5,
+          "distribution_technology": 0.6000000000000001,
+          "marketing": 0.8999999999999999
+        },
+        "profit_risk_reserve_share": 0.15
+      },
+      "net_ads_m": 0.9216000000000001,
+      "acquisition_contribution_m": 0.45000000000000007,
+      "retention_contribution_m": 0,
+      "pv_gross_m": 1.7326182003658614,
+      "pv_costs_m": 2.8603877677367766,
+      "pv_profit_risk_reserve_m": 0.25989273005487923,
+      "pv_capacity_m": -1.3876622974257944,
+      "rights_payment_pv_factor": 0.9677298906459524,
+      "maximum_nominal_fee_m": 0,
+      "pv_surplus_at_200m_fee": -194.93364042661628
+    },
+    "base": {
+      "inputs": {
+        "matches": 64,
+        "discount_rate": 0.1,
+        "rights_payments": [
+          {
+            "fraction": 0.5,
+            "years": 0
+          },
+          {
+            "fraction": 0.5,
+            "years": 0.7
+          }
+        ],
+        "ad_cash_years": 0.75,
+        "subscription_cash_years": 1.0,
+        "cost_cash_years": 0.5,
+        "distribution_m": 0,
+        "piracy_increment_m": 0,
+        "territory": "MEX",
+        "term": "2027 only; hypothetical separate package",
+        "average_viewers_m": 0.6,
+        "ad_eligible_share": 0.8,
+        "spots_per_match": 24,
+        "sell_through": 0.75,
+        "net_cpm_usd": 7,
+        "incremental_new_accounts_m": 0.15,
+        "incremental_new_months": 4,
+        "incremental_retained_accounts_m": 0,
+        "incremental_retained_months": 0,
+        "contribution_per_month_usd": 4,
+        "sponsorship_m": 1.5,
+        "costs_m": {
+          "production": 2.5,
+          "distribution_technology": 1.0,
+          "marketing": 1.5
+        },
+        "profit_risk_reserve_share": 0.15
+      },
+      "net_ads_m": 3.8707200000000004,
+      "acquisition_contribution_m": 2.4,
+      "retention_contribution_m": 0,
+      "pv_gross_m": 7.182025338399646,
+      "pv_costs_m": 4.767312946227961,
+      "pv_profit_risk_reserve_m": 1.077303800759947,
+      "pv_capacity_m": 1.3374085914117382,
+      "rights_payment_pv_factor": 0.9677298906459524,
+      "maximum_nominal_fee_m": 1.3820060786993238,
+      "pv_surplus_at_200m_fee": -192.20856953777874
+    },
+    "upside": {
+      "inputs": {
+        "matches": 64,
+        "discount_rate": 0.1,
+        "rights_payments": [
+          {
+            "fraction": 0.5,
+            "years": 0
+          },
+          {
+            "fraction": 0.5,
+            "years": 0.7
+          }
+        ],
+        "ad_cash_years": 0.75,
+        "subscription_cash_years": 1.0,
+        "cost_cash_years": 0.5,
+        "distribution_m": 0,
+        "piracy_increment_m": 0,
+        "territory": "MEX",
+        "term": "2027 only; hypothetical separate package",
+        "average_viewers_m": 1.0,
+        "ad_eligible_share": 0.8,
+        "spots_per_match": 24,
+        "sell_through": 0.75,
+        "net_cpm_usd": 10,
+        "incremental_new_accounts_m": 0.3,
+        "incremental_new_months": 6,
+        "incremental_retained_accounts_m": 0,
+        "incremental_retained_months": 0,
+        "contribution_per_month_usd": 5,
+        "sponsorship_m": 3,
+        "costs_m": {
+          "production": 4.0,
+          "distribution_technology": 1.6,
+          "marketing": 2.4
+        },
+        "profit_risk_reserve_share": 0.15
+      },
+      "net_ads_m": 9.216000000000001,
+      "acquisition_contribution_m": 9.0,
+      "retention_contribution_m": 0,
+      "pv_gross_m": 19.555066205323257,
+      "pv_costs_m": 7.627700713964738,
+      "pv_profit_risk_reserve_m": 2.9332599307984886,
+      "pv_capacity_m": 8.99410556056003,
+      "rights_payment_pv_factor": 0.9677298906459524,
+      "maximum_nominal_fee_m": 9.294024755767886,
+      "pv_surplus_at_200m_fee": -184.55187256863044
+    }
+  },
+  "mexico_fmv_status": "Not identified: no verified comparable or buyer cash-flow inputs. Prior $10M–$30M planning range withdrawn as a market estimate.",
+  "north_america_fmv_status": "No validated combined range; US+Canada estimate and Mexico unknown must remain separate.",
+  "sensitivity": [
+    {
+      "case": "Early team exits / weaker schedule",
+      "changed_assumptions": {
+        "average_viewers_m": 1.8,
+        "incremental_new_accounts_m": 0.9
+      },
+      "maximum_nominal_fee_m": 95.92821550047489
+    },
+    {
+      "case": "Stronger team progress / viewing windows",
+      "changed_assumptions": {
+        "average_viewers_m": 4.2,
+        "incremental_new_accounts_m": 2.1
+      },
+      "maximum_nominal_fee_m": 229.3623508979555
+    },
+    {
+      "case": "Ad yield 20% below base",
+      "changed_assumptions": {
+        "net_cpm_usd": 36
+      },
+      "maximum_nominal_fee_m": 140.7850742800023
+    },
+    {
+      "case": "Ad yield 20% above base",
+      "changed_assumptions": {
+        "net_cpm_usd": 54
+      },
+      "maximum_nominal_fee_m": 184.50549211842804
+    },
+    {
+      "case": "Broad ad availability",
+      "changed_assumptions": {
+        "ad_eligible_share": 0.85
+      },
+      "maximum_nominal_fee_m": 196.27637384415803
+    },
+    {
+      "case": "Limited ad availability",
+      "changed_assumptions": {
+        "ad_eligible_share": 0.45
+      },
+      "maximum_nominal_fee_m": 129.0141925542723
+    },
+    {
+      "case": "Shorter retention",
+      "changed_assumptions": {
+        "incremental_retained_months": 1
+      },
+      "maximum_nominal_fee_m": 147.31418329233884
+    },
+    {
+      "case": "Higher production and delivery costs",
+      "changed_assumptions": {
+        "costs_m": {
+          "production": 30,
+          "distribution_technology": 12,
+          "marketing": 18
+        }
+      },
+      "maximum_nominal_fee_m": 142.9401444314302
+    },
+    {
+      "case": "All rights paid now",
+      "changed_assumptions": {
+        "rights_payments": [
+          {
+            "fraction": 1,
+            "years": 0
+          }
+        ]
+      },
+      "maximum_nominal_fee_m": 157.39670212445645
+    }
+  ],
+  "extra_incremental_paid_account_months_m_to_support_200m_at_base": 5.847677000765797,
+  "piracy_sensitivity": [
+    {
+      "hypothetical_incremental_paying_accounts": -100000,
+      "months": 6,
+      "contribution_per_month_usd": 8,
+      "nominal_fee_capacity_delta_m": -3.832774976719091
+    },
+    {
+      "hypothetical_incremental_paying_accounts": -25000,
+      "months": 6,
+      "contribution_per_month_usd": 8,
+      "nominal_fee_capacity_delta_m": -0.9581937441797728
+    },
+    {
+      "hypothetical_incremental_paying_accounts": 0,
+      "months": 6,
+      "contribution_per_month_usd": 8,
+      "nominal_fee_capacity_delta_m": 0.0
+    },
+    {
+      "hypothetical_incremental_paying_accounts": 25000,
+      "months": 6,
+      "contribution_per_month_usd": 8,
+      "nominal_fee_capacity_delta_m": 0.9581937441797728
+    },
+    {
+      "hypothetical_incremental_paying_accounts": 100000,
+      "months": 6,
+      "contribution_per_month_usd": 8,
+      "nominal_fee_capacity_delta_m": 3.832774976719091
+    }
+  ]
+}

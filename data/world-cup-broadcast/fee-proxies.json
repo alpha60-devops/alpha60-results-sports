@@ -1,0 +1,90 @@
+[
+  {
+    "fee_id": "fox-current",
+    "reported_fee_usd": 485000000,
+    "allocation_to_2026": 1.0,
+    "allocation_status": "Assumed; 75% is a scope sensitivity, not a contract allocation.",
+    "matches": 104,
+    "reported_tournament_average": 7737000,
+    "equal_match_audience_index": 804648000,
+    "usd_per_average_match_audience_unit": 0.6027480339229079,
+    "warning": "Summed match-average index; not unique viewers, ad impressions, acquisition cost or profit."
+  },
+  {
+    "fee_id": "fox-current",
+    "reported_fee_usd": 485000000,
+    "allocation_to_2026": 0.75,
+    "allocation_status": "Assumed; 75% is a scope sensitivity, not a contract allocation.",
+    "matches": 104,
+    "reported_tournament_average": 7737000,
+    "equal_match_audience_index": 804648000,
+    "usd_per_average_match_audience_unit": 0.4520610254421809,
+    "warning": "Summed match-average index; not unique viewers, ad impressions, acquisition cost or profit."
+  },
+  {
+    "fee_id": "fox-2017",
+    "reported_fee_usd": 480000000,
+    "allocation_to_2026": 1.0,
+    "allocation_status": "Assumed; 75% is a scope sensitivity, not a contract allocation.",
+    "matches": 104,
+    "reported_tournament_average": 7737000,
+    "equal_match_audience_index": 804648000,
+    "usd_per_average_match_audience_unit": 0.5965341366659707,
+    "warning": "Summed match-average index; not unique viewers, ad impressions, acquisition cost or profit."
+  },
+  {
+    "fee_id": "fox-2017",
+    "reported_fee_usd": 480000000,
+    "allocation_to_2026": 0.75,
+    "allocation_status": "Assumed; 75% is a scope sensitivity, not a contract allocation.",
+    "matches": 104,
+    "reported_tournament_average": 7737000,
+    "equal_match_audience_index": 804648000,
+    "usd_per_average_match_audience_unit": 0.44740060249947805,
+    "warning": "Summed match-average index; not unique viewers, ad impressions, acquisition cost or profit."
+  },
+  {
+    "fee_id": "telemundo-current",
+    "reported_fee_usd": 600000000,
+    "allocation_to_2026": 1.0,
+    "allocation_status": "Assumed; 75% is a scope sensitivity, not a contract allocation.",
+    "matches": 104,
+    "reported_tournament_average": 6300000,
+    "equal_match_audience_index": 655200000,
+    "usd_per_average_match_audience_unit": 0.9157509157509157,
+    "warning": "Summed match-average index; not unique viewers, ad impressions, acquisition cost or profit."
+  },
+  {
+    "fee_id": "telemundo-current",
+    "reported_fee_usd": 600000000,
+    "allocation_to_2026": 0.75,
+    "allocation_status": "Assumed; 75% is a scope sensitivity, not a contract allocation.",
+    "matches": 104,
+    "reported_tournament_average": 6300000,
+    "equal_match_audience_index": 655200000,
+    "usd_per_average_match_audience_unit": 0.6868131868131868,
+    "warning": "Summed match-average index; not unique viewers, ad impressions, acquisition cost or profit."
+  },
+  {
+    "fee_id": "telemundo-2017",
+    "reported_fee_usd": 465000000,
+    "allocation_to_2026": 1.0,
+    "allocation_status": "Assumed; 75% is a scope sensitivity, not a contract allocation.",
+    "matches": 104,
+    "reported_tournament_average": 6300000,
+    "equal_match_audience_index": 655200000,
+    "usd_per_average_match_audience_unit": 0.7097069597069597,
+    "warning": "Summed match-average index; not unique viewers, ad impressions, acquisition cost or profit."
+  },
+  {
+    "fee_id": "telemundo-2017",
+    "reported_fee_usd": 465000000,
+    "allocation_to_2026": 0.75,
+    "allocation_status": "Assumed; 75% is a scope sensitivity, not a contract allocation.",
+    "matches": 104,
+    "reported_tournament_average": 6300000,
+    "equal_match_audience_index": 655200000,
+    "usd_per_average_match_audience_unit": 0.5322802197802198,
+    "warning": "Summed match-average index; not unique viewers, ad impressions, acquisition cost or profit."
+  }
+]

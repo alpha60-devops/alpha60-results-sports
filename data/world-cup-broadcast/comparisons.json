@@ -1,0 +1,978 @@
+{
+  "US-Spanish": {
+    "market": "USA",
+    "audience_metric": "average_total_audience_delivery",
+    "unit": "people",
+    "source": "source-21",
+    "rows": [
+      {
+        "audience_id": "audience-001",
+        "fixture": "ESP-ARG-2026-07-19",
+        "name": "Spain–Argentina",
+        "broadcast": 23900000,
+        "torrent_count": 28,
+        "unique_ips": {
+          "1": 957,
+          "7": 10806,
+          "28": 37237
+        }
+      },
+      {
+        "audience_id": "audience-002",
+        "fixture": "MEX-ENG-2026-07-05",
+        "name": "Mexico–England",
+        "broadcast": 23200000,
+        "torrent_count": 14,
+        "unique_ips": {
+          "1": 630,
+          "7": 6983,
+          "28": 22708
+        }
+      },
+      {
+        "audience_id": "audience-003",
+        "fixture": "MEX-ECU-2026-06-30",
+        "name": "Mexico–Ecuador",
+        "broadcast": 18900000,
+        "torrent_count": 12,
+        "unique_ips": {
+          "1": 517,
+          "7": 4917,
+          "28": 16820
+        }
+      },
+      {
+        "audience_id": "audience-004",
+        "fixture": "BRA-NOR-2026-07-05",
+        "name": "Brazil–Norway",
+        "broadcast": 13800000,
+        "torrent_count": 11,
+        "unique_ips": {
+          "1": 434,
+          "7": 5589,
+          "28": 20832
+        }
+      },
+      {
+        "audience_id": "audience-005",
+        "fixture": "NOR-ENG-2026-07-11",
+        "name": "Norway–England",
+        "broadcast": 13000000,
+        "torrent_count": 18,
+        "unique_ips": {
+          "1": 1606,
+          "7": 8225,
+          "28": 29912
+        }
+      },
+      {
+        "audience_id": "audience-006",
+        "fixture": "USA-BEL-2026-07-06",
+        "name": "USA–Belgium",
+        "broadcast": 12900000,
+        "torrent_count": 17,
+        "unique_ips": {
+          "1": 323,
+          "7": 8238,
+          "28": 25003
+        }
+      },
+      {
+        "audience_id": "audience-007",
+        "fixture": "ARG-SUI-2026-07-11",
+        "name": "Argentina–Switzerland",
+        "broadcast": 11800000,
+        "torrent_count": 17,
+        "unique_ips": {
+          "1": 1644,
+          "7": 10334,
+          "28": 29718
+        }
+      }
+    ],
+    "sensitivity": [
+      {
+        "age_days": 1,
+        "measure": "unique_ip_countries",
+        "network": "all",
+        "n": 7,
+        "rho": -0.10714285714285714,
+        "leave_one_fixture_out_min": -0.42857142857142855,
+        "leave_one_fixture_out_max": 0.42857142857142855
+      },
+      {
+        "age_days": 1,
+        "measure": "unique_ip_countries",
+        "network": "without_hosting",
+        "n": 7,
+        "rho": -0.10714285714285714,
+        "leave_one_fixture_out_min": -0.42857142857142855,
+        "leave_one_fixture_out_max": 0.42857142857142855
+      },
+      {
+        "age_days": 1,
+        "measure": "unique_ip_countries",
+        "network": "without_vpn",
+        "n": 7,
+        "rho": -0.10714285714285714,
+        "leave_one_fixture_out_min": -0.42857142857142855,
+        "leave_one_fixture_out_max": 0.42857142857142855
+      },
+      {
+        "age_days": 1,
+        "measure": "membership_countries",
+        "network": "all",
+        "n": 7,
+        "rho": -0.03571428571428571,
+        "leave_one_fixture_out_min": -0.37142857142857144,
+        "leave_one_fixture_out_max": 0.42857142857142855
+      },
+      {
+        "age_days": 1,
+        "measure": "membership_countries",
+        "network": "without_hosting",
+        "n": 7,
+        "rho": -0.10714285714285714,
+        "leave_one_fixture_out_min": -0.42857142857142855,
+        "leave_one_fixture_out_max": 0.42857142857142855
+      },
+      {
+        "age_days": 1,
+        "measure": "membership_countries",
+        "network": "without_vpn",
+        "n": 7,
+        "rho": -0.14285714285714285,
+        "leave_one_fixture_out_min": -0.4857142857142857,
+        "leave_one_fixture_out_max": 0.37142857142857144
+      },
+      {
+        "age_days": 7,
+        "measure": "unique_ip_countries",
+        "network": "all",
+        "n": 7,
+        "rho": -0.14285714285714285,
+        "leave_one_fixture_out_min": -0.8285714285714286,
+        "leave_one_fixture_out_max": 0.02857142857142857
+      },
+      {
+        "age_days": 7,
+        "measure": "unique_ip_countries",
+        "network": "without_hosting",
+        "n": 7,
+        "rho": -0.14285714285714285,
+        "leave_one_fixture_out_min": -0.8285714285714286,
+        "leave_one_fixture_out_max": 0.02857142857142857
+      },
+      {
+        "age_days": 7,
+        "measure": "unique_ip_countries",
+        "network": "without_vpn",
+        "n": 7,
+        "rho": -0.14285714285714285,
+        "leave_one_fixture_out_min": -0.8285714285714286,
+        "leave_one_fixture_out_max": 0.02857142857142857
+      },
+      {
+        "age_days": 7,
+        "measure": "membership_countries",
+        "network": "all",
+        "n": 7,
+        "rho": -0.10714285714285714,
+        "leave_one_fixture_out_min": -0.7714285714285715,
+        "leave_one_fixture_out_max": 0.08571428571428572
+      },
+      {
+        "age_days": 7,
+        "measure": "membership_countries",
+        "network": "without_hosting",
+        "n": 7,
+        "rho": -0.10714285714285714,
+        "leave_one_fixture_out_min": -0.7714285714285715,
+        "leave_one_fixture_out_max": 0.08571428571428572
+      },
+      {
+        "age_days": 7,
+        "measure": "membership_countries",
+        "network": "without_vpn",
+        "n": 7,
+        "rho": -0.10714285714285714,
+        "leave_one_fixture_out_min": -0.7714285714285715,
+        "leave_one_fixture_out_max": 0.08571428571428572
+      },
+      {
+        "age_days": 28,
+        "measure": "unique_ip_countries",
+        "network": "all",
+        "n": 7,
+        "rho": -0.03571428571428571,
+        "leave_one_fixture_out_min": -0.6571428571428571,
+        "leave_one_fixture_out_max": 0.08571428571428572
+      },
+      {
+        "age_days": 28,
+        "measure": "unique_ip_countries",
+        "network": "without_hosting",
+        "n": 7,
+        "rho": -0.10714285714285714,
+        "leave_one_fixture_out_min": -0.7714285714285715,
+        "leave_one_fixture_out_max": 0.08571428571428572
+      },
+      {
+        "age_days": 28,
+        "measure": "unique_ip_countries",
+        "network": "without_vpn",
+        "n": 7,
+        "rho": -0.03571428571428571,
+        "leave_one_fixture_out_min": -0.6571428571428571,
+        "leave_one_fixture_out_max": 0.08571428571428572
+      },
+      {
+        "age_days": 28,
+        "measure": "membership_countries",
+        "network": "all",
+        "n": 7,
+        "rho": -0.03571428571428571,
+        "leave_one_fixture_out_min": -0.6571428571428571,
+        "leave_one_fixture_out_max": 0.08571428571428572
+      },
+      {
+        "age_days": 28,
+        "measure": "membership_countries",
+        "network": "without_hosting",
+        "n": 7,
+        "rho": -0.03571428571428571,
+        "leave_one_fixture_out_min": -0.6571428571428571,
+        "leave_one_fixture_out_max": 0.08571428571428572
+      },
+      {
+        "age_days": 28,
+        "measure": "membership_countries",
+        "network": "without_vpn",
+        "n": 7,
+        "rho": -0.03571428571428571,
+        "leave_one_fixture_out_min": -0.6571428571428571,
+        "leave_one_fixture_out_max": 0.08571428571428572
+      }
+    ]
+  },
+  "Canada": {
+    "market": "CAN",
+    "audience_metric": "average_audience",
+    "unit": "people",
+    "source": "source-08",
+    "rows": [
+      {
+        "audience_id": "audience-008",
+        "fixture": "ESP-ARG-2026-07-19",
+        "name": "Spain–Argentina",
+        "broadcast": 6400000,
+        "torrent_count": 28,
+        "unique_ips": {
+          "1": 457,
+          "7": 5103,
+          "28": 16910
+        }
+      },
+      {
+        "audience_id": "audience-009",
+        "fixture": "CAN-MAR-2026-07-04",
+        "name": "Canada–Morocco",
+        "broadcast": 5400000,
+        "torrent_count": 11,
+        "unique_ips": {
+          "1": 241,
+          "7": 2823,
+          "28": 10053
+        }
+      },
+      {
+        "audience_id": "audience-010",
+        "fixture": "CAN-RSA-2026-06-28",
+        "name": "Canada–South Africa",
+        "broadcast": 5200000,
+        "torrent_count": 11,
+        "unique_ips": {
+          "1": 298,
+          "7": 3150,
+          "28": 9783
+        }
+      },
+      {
+        "audience_id": "audience-011",
+        "fixture": "ARG-ENG-2026-07-15",
+        "name": "Argentina–England",
+        "broadcast": 4099999,
+        "torrent_count": 17,
+        "unique_ips": {
+          "1": 138,
+          "7": 2491,
+          "28": 7429
+        }
+      },
+      {
+        "audience_id": "audience-012",
+        "fixture": "NOR-ENG-2026-07-11",
+        "name": "Norway–England",
+        "broadcast": 3800000,
+        "torrent_count": 18,
+        "unique_ips": {
+          "1": 787,
+          "7": 3902,
+          "28": 13524
+        }
+      },
+      {
+        "audience_id": "audience-013",
+        "fixture": "ESP-FRA-2026-07-14",
+        "name": "Spain–France",
+        "broadcast": 3200000,
+        "torrent_count": 7,
+        "unique_ips": {
+          "1": 120,
+          "7": 1724,
+          "28": 4580
+        }
+      },
+      {
+        "audience_id": "audience-014",
+        "fixture": "POR-CRO-2026-07-02",
+        "name": "Portugal–Croatia",
+        "broadcast": 3200000,
+        "torrent_count": 14,
+        "unique_ips": {
+          "1": 193,
+          "7": 2822,
+          "28": 10247
+        }
+      }
+    ],
+    "sensitivity": [
+      {
+        "age_days": 1,
+        "measure": "unique_ip_countries",
+        "network": "all",
+        "n": 7,
+        "rho": 0.504524979109513,
+        "leave_one_fixture_out_min": 0.2571428571428571,
+        "leave_one_fixture_out_max": 0.8406680016960503
+      },
+      {
+        "age_days": 1,
+        "measure": "unique_ip_countries",
+        "network": "without_hosting",
+        "n": 7,
+        "rho": 0.504524979109513,
+        "leave_one_fixture_out_min": 0.2571428571428571,
+        "leave_one_fixture_out_max": 0.8406680016960503
+      },
+      {
+        "age_days": 1,
+        "measure": "unique_ip_countries",
+        "network": "without_vpn",
+        "n": 7,
+        "rho": 0.504524979109513,
+        "leave_one_fixture_out_min": 0.2571428571428571,
+        "leave_one_fixture_out_max": 0.8406680016960503
+      },
+      {
+        "age_days": 1,
+        "measure": "membership_countries",
+        "network": "all",
+        "n": 7,
+        "rho": 0.504524979109513,
+        "leave_one_fixture_out_min": 0.2571428571428571,
+        "leave_one_fixture_out_max": 0.8406680016960503
+      },
+      {
+        "age_days": 1,
+        "measure": "membership_countries",
+        "network": "without_hosting",
+        "n": 7,
+        "rho": 0.504524979109513,
+        "leave_one_fixture_out_min": 0.2571428571428571,
+        "leave_one_fixture_out_max": 0.8406680016960503
+      },
+      {
+        "age_days": 1,
+        "measure": "membership_countries",
+        "network": "without_vpn",
+        "n": 7,
+        "rho": 0.504524979109513,
+        "leave_one_fixture_out_min": 0.2571428571428571,
+        "leave_one_fixture_out_max": 0.8406680016960503
+      },
+      {
+        "age_days": 7,
+        "measure": "unique_ip_countries",
+        "network": "all",
+        "n": 7,
+        "rho": 0.6486749731408025,
+        "leave_one_fixture_out_min": 0.43482827673933633,
+        "leave_one_fixture_out_max": 0.8406680016960503
+      },
+      {
+        "age_days": 7,
+        "measure": "unique_ip_countries",
+        "network": "without_hosting",
+        "n": 7,
+        "rho": 0.6486749731408025,
+        "leave_one_fixture_out_min": 0.43482827673933633,
+        "leave_one_fixture_out_max": 0.8406680016960503
+      },
+      {
+        "age_days": 7,
+        "measure": "unique_ip_countries",
+        "network": "without_vpn",
+        "n": 7,
+        "rho": 0.6486749731408025,
+        "leave_one_fixture_out_min": 0.43482827673933633,
+        "leave_one_fixture_out_max": 0.8406680016960503
+      },
+      {
+        "age_days": 7,
+        "measure": "membership_countries",
+        "network": "all",
+        "n": 7,
+        "rho": 0.4865062298556018,
+        "leave_one_fixture_out_min": 0.17393131069573453,
+        "leave_one_fixture_out_max": 0.6667366910003157
+      },
+      {
+        "age_days": 7,
+        "measure": "membership_countries",
+        "network": "without_hosting",
+        "n": 7,
+        "rho": 0.6486749731408025,
+        "leave_one_fixture_out_min": 0.43482827673933633,
+        "leave_one_fixture_out_max": 0.8406680016960503
+      },
+      {
+        "age_days": 7,
+        "measure": "membership_countries",
+        "network": "without_vpn",
+        "n": 7,
+        "rho": 0.6486749731408025,
+        "leave_one_fixture_out_min": 0.43482827673933633,
+        "leave_one_fixture_out_max": 0.8406680016960503
+      },
+      {
+        "age_days": 28,
+        "measure": "unique_ip_countries",
+        "network": "all",
+        "n": 7,
+        "rho": 0.3964124835860459,
+        "leave_one_fixture_out_min": 0.028988551782622423,
+        "leave_one_fixture_out_max": 0.6571428571428571
+      },
+      {
+        "age_days": 28,
+        "measure": "unique_ip_countries",
+        "network": "without_hosting",
+        "n": 7,
+        "rho": 0.3964124835860459,
+        "leave_one_fixture_out_min": 0.028988551782622423,
+        "leave_one_fixture_out_max": 0.6571428571428571
+      },
+      {
+        "age_days": 28,
+        "measure": "unique_ip_countries",
+        "network": "without_vpn",
+        "n": 7,
+        "rho": 0.3964124835860459,
+        "leave_one_fixture_out_min": 0.028988551782622423,
+        "leave_one_fixture_out_max": 0.6571428571428571
+      },
+      {
+        "age_days": 28,
+        "measure": "membership_countries",
+        "network": "all",
+        "n": 7,
+        "rho": 0.3964124835860459,
+        "leave_one_fixture_out_min": 0.028988551782622423,
+        "leave_one_fixture_out_max": 0.6571428571428571
+      },
+      {
+        "age_days": 28,
+        "measure": "membership_countries",
+        "network": "without_hosting",
+        "n": 7,
+        "rho": 0.5585812268712466,
+        "leave_one_fixture_out_min": 0.28988551782622424,
+        "leave_one_fixture_out_max": 0.753702346348183
+      },
+      {
+        "age_days": 28,
+        "measure": "membership_countries",
+        "network": "without_vpn",
+        "n": 7,
+        "rho": 0.3964124835860459,
+        "leave_one_fixture_out_min": 0.028988551782622423,
+        "leave_one_fixture_out_max": 0.6571428571428571
+      }
+    ]
+  },
+  "France": {
+    "market": "FRA",
+    "audience_metric": "average_audience",
+    "unit": "people",
+    "source": "source-10",
+    "rows": [
+      {
+        "audience_id": "audience-015",
+        "fixture": "ESP-FRA-2026-07-14",
+        "name": "Spain–France",
+        "broadcast": 20200000,
+        "torrent_count": 7,
+        "unique_ips": {
+          "1": 109,
+          "7": 2796,
+          "28": 7109
+        }
+      },
+      {
+        "audience_id": "audience-016",
+        "fixture": "ESP-ARG-2026-07-19",
+        "name": "Spain–Argentina",
+        "broadcast": 12200000,
+        "torrent_count": 28,
+        "unique_ips": {
+          "1": 689,
+          "7": 7060,
+          "28": 19079
+        }
+      }
+    ],
+    "sensitivity": [
+      {
+        "age_days": 1,
+        "measure": "unique_ip_countries",
+        "network": "all",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 1,
+        "measure": "unique_ip_countries",
+        "network": "without_hosting",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 1,
+        "measure": "unique_ip_countries",
+        "network": "without_vpn",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 1,
+        "measure": "membership_countries",
+        "network": "all",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 1,
+        "measure": "membership_countries",
+        "network": "without_hosting",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 1,
+        "measure": "membership_countries",
+        "network": "without_vpn",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 7,
+        "measure": "unique_ip_countries",
+        "network": "all",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 7,
+        "measure": "unique_ip_countries",
+        "network": "without_hosting",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 7,
+        "measure": "unique_ip_countries",
+        "network": "without_vpn",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 7,
+        "measure": "membership_countries",
+        "network": "all",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 7,
+        "measure": "membership_countries",
+        "network": "without_hosting",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 7,
+        "measure": "membership_countries",
+        "network": "without_vpn",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 28,
+        "measure": "unique_ip_countries",
+        "network": "all",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 28,
+        "measure": "unique_ip_countries",
+        "network": "without_hosting",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 28,
+        "measure": "unique_ip_countries",
+        "network": "without_vpn",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 28,
+        "measure": "membership_countries",
+        "network": "all",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 28,
+        "measure": "membership_countries",
+        "network": "without_hosting",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      },
+      {
+        "age_days": 28,
+        "measure": "membership_countries",
+        "network": "without_vpn",
+        "n": 2,
+        "rho": null,
+        "leave_one_fixture_out_min": null,
+        "leave_one_fixture_out_max": null
+      }
+    ]
+  },
+  "Russia": {
+    "market": "RUS",
+    "audience_metric": "rating",
+    "unit": "percent_of_demographic_universe",
+    "source": "source-22",
+    "rows": [
+      {
+        "audience_id": "audience-017",
+        "fixture": "ESP-ARG-2026-07-19",
+        "name": "Spain–Argentina",
+        "broadcast": 8.34,
+        "torrent_count": 28,
+        "unique_ips": {
+          "1": 2858,
+          "7": 19018,
+          "28": 69532
+        }
+      },
+      {
+        "audience_id": "audience-018",
+        "fixture": "ARG-ENG-2026-07-15",
+        "name": "Argentina–England",
+        "broadcast": 4.77,
+        "torrent_count": 17,
+        "unique_ips": {
+          "1": 277,
+          "7": 7235,
+          "28": 23288
+        }
+      },
+      {
+        "audience_id": "audience-019",
+        "fixture": "POR-ESP-2026-07-06",
+        "name": "Portugal–Spain",
+        "broadcast": 3.96,
+        "torrent_count": 18,
+        "unique_ips": {
+          "1": 698,
+          "7": 15132,
+          "28": 53485
+        }
+      },
+      {
+        "audience_id": "audience-020",
+        "fixture": "ESP-BEL-2026-07-10",
+        "name": "Spain–Belgium",
+        "broadcast": 3.39,
+        "torrent_count": 19,
+        "unique_ips": {
+          "1": 2340,
+          "7": 18502,
+          "28": 51912
+        }
+      },
+      {
+        "audience_id": "audience-021",
+        "fixture": "ARG-EGY-2026-07-07",
+        "name": "Argentina–Egypt",
+        "broadcast": 3.2,
+        "torrent_count": 18,
+        "unique_ips": {
+          "1": 771,
+          "7": 18533,
+          "28": 59012
+        }
+      },
+      {
+        "audience_id": "audience-022",
+        "fixture": "NOR-ENG-2026-07-11",
+        "name": "Norway–England",
+        "broadcast": 2.73,
+        "torrent_count": 18,
+        "unique_ips": {
+          "1": 3338,
+          "7": 18037,
+          "28": 55290
+        }
+      },
+      {
+        "audience_id": "audience-023",
+        "fixture": "BRA-JPN-2026-06-29",
+        "name": "Brazil–Japan",
+        "broadcast": 2.6,
+        "torrent_count": 4,
+        "unique_ips": {
+          "1": 122,
+          "7": 2311,
+          "28": 6506
+        }
+      },
+      {
+        "audience_id": "audience-024",
+        "fixture": "CIV-NOR-2026-06-30",
+        "name": "Côte d’Ivoire–Norway",
+        "broadcast": 2.43,
+        "torrent_count": 9,
+        "unique_ips": {
+          "1": 440,
+          "7": 5348,
+          "28": 25166
+        }
+      }
+    ],
+    "sensitivity": [
+      {
+        "age_days": 1,
+        "measure": "unique_ip_countries",
+        "network": "all",
+        "n": 8,
+        "rho": 0.2619047619047619,
+        "leave_one_fixture_out_min": -0.03571428571428571,
+        "leave_one_fixture_out_max": 0.5
+      },
+      {
+        "age_days": 1,
+        "measure": "unique_ip_countries",
+        "network": "without_hosting",
+        "n": 8,
+        "rho": 0.2619047619047619,
+        "leave_one_fixture_out_min": -0.03571428571428571,
+        "leave_one_fixture_out_max": 0.5
+      },
+      {
+        "age_days": 1,
+        "measure": "unique_ip_countries",
+        "network": "without_vpn",
+        "n": 8,
+        "rho": 0.2619047619047619,
+        "leave_one_fixture_out_min": -0.03571428571428571,
+        "leave_one_fixture_out_max": 0.5
+      },
+      {
+        "age_days": 1,
+        "measure": "membership_countries",
+        "network": "all",
+        "n": 8,
+        "rho": 0.2619047619047619,
+        "leave_one_fixture_out_min": -0.03571428571428571,
+        "leave_one_fixture_out_max": 0.5
+      },
+      {
+        "age_days": 1,
+        "measure": "membership_countries",
+        "network": "without_hosting",
+        "n": 8,
+        "rho": 0.2619047619047619,
+        "leave_one_fixture_out_min": -0.03571428571428571,
+        "leave_one_fixture_out_max": 0.5
+      },
+      {
+        "age_days": 1,
+        "measure": "membership_countries",
+        "network": "without_vpn",
+        "n": 8,
+        "rho": 0.2619047619047619,
+        "leave_one_fixture_out_min": -0.03571428571428571,
+        "leave_one_fixture_out_max": 0.5
+      },
+      {
+        "age_days": 7,
+        "measure": "unique_ip_countries",
+        "network": "all",
+        "n": 8,
+        "rho": 0.5714285714285714,
+        "leave_one_fixture_out_min": 0.35714285714285715,
+        "leave_one_fixture_out_max": 0.7142857142857143
+      },
+      {
+        "age_days": 7,
+        "measure": "unique_ip_countries",
+        "network": "without_hosting",
+        "n": 8,
+        "rho": 0.5952380952380952,
+        "leave_one_fixture_out_min": 0.39285714285714285,
+        "leave_one_fixture_out_max": 0.75
+      },
+      {
+        "age_days": 7,
+        "measure": "unique_ip_countries",
+        "network": "without_vpn",
+        "n": 8,
+        "rho": 0.5714285714285714,
+        "leave_one_fixture_out_min": 0.35714285714285715,
+        "leave_one_fixture_out_max": 0.7142857142857143
+      },
+      {
+        "age_days": 7,
+        "measure": "membership_countries",
+        "network": "all",
+        "n": 8,
+        "rho": 0.5714285714285714,
+        "leave_one_fixture_out_min": 0.35714285714285715,
+        "leave_one_fixture_out_max": 0.7142857142857143
+      },
+      {
+        "age_days": 7,
+        "measure": "membership_countries",
+        "network": "without_hosting",
+        "n": 8,
+        "rho": 0.5714285714285714,
+        "leave_one_fixture_out_min": 0.35714285714285715,
+        "leave_one_fixture_out_max": 0.7142857142857143
+      },
+      {
+        "age_days": 7,
+        "measure": "membership_countries",
+        "network": "without_vpn",
+        "n": 8,
+        "rho": 0.5714285714285714,
+        "leave_one_fixture_out_min": 0.35714285714285715,
+        "leave_one_fixture_out_max": 0.7142857142857143
+      },
+      {
+        "age_days": 28,
+        "measure": "unique_ip_countries",
+        "network": "all",
+        "n": 8,
+        "rho": 0.40476190476190477,
+        "leave_one_fixture_out_min": 0.10714285714285714,
+        "leave_one_fixture_out_max": 0.6785714285714286
+      },
+      {
+        "age_days": 28,
+        "measure": "unique_ip_countries",
+        "network": "without_hosting",
+        "n": 8,
+        "rho": 0.40476190476190477,
+        "leave_one_fixture_out_min": 0.10714285714285714,
+        "leave_one_fixture_out_max": 0.6785714285714286
+      },
+      {
+        "age_days": 28,
+        "measure": "unique_ip_countries",
+        "network": "without_vpn",
+        "n": 8,
+        "rho": 0.40476190476190477,
+        "leave_one_fixture_out_min": 0.10714285714285714,
+        "leave_one_fixture_out_max": 0.6785714285714286
+      },
+      {
+        "age_days": 28,
+        "measure": "membership_countries",
+        "network": "all",
+        "n": 8,
+        "rho": 0.40476190476190477,
+        "leave_one_fixture_out_min": 0.10714285714285714,
+        "leave_one_fixture_out_max": 0.6785714285714286
+      },
+      {
+        "age_days": 28,
+        "measure": "membership_countries",
+        "network": "without_hosting",
+        "n": 8,
+        "rho": 0.40476190476190477,
+        "leave_one_fixture_out_min": 0.10714285714285714,
+        "leave_one_fixture_out_max": 0.6785714285714286
+      },
+      {
+        "age_days": 28,
+        "measure": "membership_countries",
+        "network": "without_vpn",
+        "n": 8,
+        "rho": 0.40476190476190477,
+        "leave_one_fixture_out_min": 0.10714285714285714,
+        "leave_one_fixture_out_max": 0.6785714285714286
+      }
+    ]
+  }
+}

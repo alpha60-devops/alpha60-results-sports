@@ -1,0 +1,55 @@
+{
+  "schema": "izzi.visualization/1",
+  "kind": "bar-graph",
+  "title": "US Spanish-language match audiences",
+  "description": "Nielsen / Adobe match-window Total Audience Delivery. Selected reported fixtures; streaming already included.",
+  "source": "../data/world-cup-broadcast/comparisons.json",
+  "x_label": "MILLION AVERAGE VIEWERS (TAD)",
+  "y_label": "FIXTURE",
+  "viewport": [
+    1280,
+    640
+  ],
+  "bars": [
+    [
+      "Spain–Argentina",
+      23.9
+    ],
+    [
+      "Mexico–England",
+      23.2
+    ],
+    [
+      "Mexico–Ecuador",
+      18.9
+    ],
+    [
+      "Brazil–Norway",
+      13.8
+    ],
+    [
+      "Norway–England",
+      13.0
+    ],
+    [
+      "USA–Belgium",
+      12.9
+    ],
+    [
+      "Argentina–Switzerland",
+      11.8
+    ]
+  ],
+  "renderer": {
+    "library": "Izzi",
+    "functions": [
+      "svg::emit_bar_graph"
+    ],
+    "commit": "1c7427b048bc90d3ee3589d4c9099aad7d2bfe37",
+    "bar_header_sha256": "6a064f6a7ce1ac8544684c1179bf2f40284ca253258d5f898bbe143b79135a5e",
+    "renderer_sha256": "abdc56a156258e5fd882b1637daf74a9d8936120ea82acc95199036e73cf97fb",
+    "wrapper_sha256": "c89b5c4a835d45799ad7772d62a20b7692227d70bc7c329f7af2d8ea2e4f59d3",
+    "axis_policy": "Native zero baseline and automatic maximum; shared across collections within each chart.",
+    "postprocessing": "Accessible metadata only; native bar geometry and numeric value labels retained."
+  }
+}
