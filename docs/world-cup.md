@@ -89,6 +89,12 @@ The catalog expands from **two torrents with a daily cache on June 29 to 416 on 
 
 The public files contain aggregated geography and content metadata. Unfiltered small-cell products and cached video fragments remain local; their checksums and review evidence support the analysis.
 
+## Archival Download
+
+<a href="../downloads/world-cup-results-20261111.pdf" download="world-cup-results-20261111.pdf">Download the World Cup results report — November 11, 2026 (PDF, 18.0 MB)</a>
+
+This 254-page edition includes the nine World Cup sports pages, the main sample/cache audit, and the Coda / Share appendix. Charts and maps use optimized raster images for easier viewing.
+
 ## Reuse and audit
 
 [Canonical torrent inventory](../data/world-cup-stage1/torrent-inventory.json.gz) · [All language indicators](../data/world-cup-stage1/torrent-language-indicators.csv) · [Country memberships by torrent](../data/world-cup-stage1/torrent-country-memberships.csv) · [Vendor evidence](../data/world-cup-stage1/vendor-attribution.csv) · [Validation summary](../data/world-cup-stage1/validation-summary.json) · [Source and calculation manifest](../data/world-cup-stage1/provenance.json)
