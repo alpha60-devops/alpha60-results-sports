@@ -1,0 +1,268 @@
+{
+  "schema": "alpha60-source-acquisition/1",
+  "records": [
+    {
+      "id": "E01",
+      "url": "https://digitalhub.fifa.com/m/af2cdbbd380d70c/original/FWC26-Media-Rights-Licensees-Overview.pdf",
+      "retrieved_utc": "2026-11-12T00:53:36.789995+00:00",
+      "status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://digitalhub.fifa.com/m/af2cdbbd380d70c/original/FWC26-Media-Rights-Licensees-Overview.pdf",
+      "file": "E01.pdf",
+      "bytes": 568654,
+      "sha256": "724a4afa9ad6cc5c60b4f7d6681af91d4e0ffba3437039ce2b3566270b08fde2"
+    },
+    {
+      "id": "E02",
+      "url": "https://www.presseportal.de/pm/7840/6318106",
+      "retrieved_utc": "2026-11-12T00:53:36.790694+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://www.presseportal.de/pm/7840/6318106",
+      "file": "E02.html",
+      "bytes": 77310,
+      "sha256": "b3fcb65925983396edbece5d0e3c392ee8aaaaf6f0c31cab55d14bb629cdbb8f"
+    },
+    {
+      "id": "E03",
+      "url": "https://centruminformacji.tvp.pl/94451477/mundial-2026-25-mln-widzow-i-rekordy-ogladalnosci-w-tvp",
+      "retrieved_utc": "2026-11-12T00:53:36.791237+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "final_url": "https://centruminformacji.tvp.pl/94451477/mundial-2026-25-mln-widzow-i-rekordy-ogladalnosci-w-tvp",
+      "file": "E03.html",
+      "bytes": 33219,
+      "sha256": "8d09e2ddafa5ff95a04e60c9d38d1cb93b11dac08c381ed18862147d4d34ef82"
+    },
+    {
+      "id": "E04",
+      "url": "https://www.ceskatelevize.cz/vse-o-ct/pro-media/fotbalove-mistrovstvi-sveta-zasahlo-na-ct-sport-pres-44-milionu-divaku/",
+      "retrieved_utc": "2026-11-12T00:53:36.791766+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://www.ceskatelevize.cz/vse-o-ct/pro-media/fotbalove-mistrovstvi-sveta-zasahlo-na-ct-sport-pres-44-milionu-divaku/",
+      "file": "E04.html",
+      "bytes": 1351470,
+      "sha256": "e939697958cc876fad293120445656508ad27986bb553e9c2e99db4d55691731"
+    },
+    {
+      "id": "E05",
+      "url": "https://over.nos.nl/nieuws/14-miljoen-volgen-het-wk-voetbal-bij-de-nos/",
+      "retrieved_utc": "2026-11-12T00:53:36.792236+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "final_url": "https://over.nos.nl/nieuws/14-miljoen-volgen-het-wk-voetbal-bij-de-nos/",
+      "file": "E05.html",
+      "bytes": 51752,
+      "sha256": "7067c15a09085e91b71dd328e12ec57cae513b418dc267627916b52091e0e77c"
+    },
+    {
+      "id": "E06",
+      "url": "https://www.vrt.be/nl/over-ons/nieuws-over-vrt/vlaanderen-beleefde-het-wk-bij-vrt-de-impact-in-10-cijfers",
+      "retrieved_utc": "2026-11-12T00:53:36.793252+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://www.vrt.be/nl/over-ons/nieuws-over-vrt/vlaanderen-beleefde-het-wk-bij-vrt-de-impact-in-10-cijfers",
+      "file": "E06.html",
+      "bytes": 204267,
+      "sha256": "cc761c46de79d5e54d66edb5121e854add871b24331fb8efb0d86fa3cc143d72"
+    },
+    {
+      "id": "E07",
+      "url": "https://yle.fi/a/74-20237158",
+      "retrieved_utc": "2026-11-12T00:53:37.833025+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://yle.fi/a/74-20237158",
+      "file": "E07.html",
+      "bytes": 297175,
+      "sha256": "3d69a589e0c76dff15855491cb004e689665d2efce6006d62c6c9063dd10d091"
+    },
+    {
+      "id": "E08",
+      "url": "https://www.svt.se/sport/fotboll/rekordmanga-sag-fotbolls-vm-2026-i-svt-play",
+      "retrieved_utc": "2026-11-12T00:53:37.843067+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://www.svt.se/sport/fotboll/rekordmanga-sag-fotbolls-vm-2026-i-svt-play",
+      "file": "E08.html",
+      "bytes": 207900,
+      "sha256": "c271bbfa1b9e95154db50fdc3eec6f215b08fc03afc5a011931c327d6233b8ea"
+    },
+    {
+      "id": "E09",
+      "url": "https://amp.rtve.es/rtve/20260722/mundial-2026-alcanza-3843-millones-espectadores-unicos-rtve/17165132.shtml",
+      "retrieved_utc": "2026-11-12T00:53:37.901719+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://amp.rtve.es/rtve/20260722/mundial-2026-alcanza-3843-millones-espectadores-unicos-rtve/17165132.shtml",
+      "file": "E09.html",
+      "bytes": 60107,
+      "sha256": "26a11611c1d65fbea18a3966bac214f611f183a898b45457b917d489f5923dbe"
+    },
+    {
+      "id": "E10",
+      "url": "https://www.groupem6.fr/fr/bilan-exceptionnel-pour-la-coupe-du-monde-2026-sur-m6-et-m6/",
+      "retrieved_utc": "2026-11-12T00:53:38.015816+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "final_url": "https://www.groupem6.fr/fr/bilan-exceptionnel-pour-la-coupe-du-monde-2026-sur-m6-et-m6/",
+      "file": "E10.html",
+      "bytes": 82820,
+      "sha256": "9821c19c605cadbda3a4e5897aff34d441dab8ff41a0cf22b89f50d3fd68b262"
+    },
+    {
+      "id": "E11",
+      "url": "https://amp.rtve.es/rtve/20250327/rtve-cierra-primer-trimestre-2025-equilibrio-presupuestario/16509660.shtml",
+      "retrieved_utc": "2026-11-12T00:53:38.324932+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://amp.rtve.es/rtve/20250327/rtve-cierra-primer-trimestre-2025-equilibrio-presupuestario/16509660.shtml",
+      "file": "E11.html",
+      "bytes": 59722,
+      "sha256": "142ab71c702d8b8432a0eb8f5d92f181540b8ff5a84a70b6a36c876b7f742ee9"
+    },
+    {
+      "id": "E12",
+      "url": "https://elpais.com/comunicacion/2026-03-27/choque-entre-las-televisiones-privadas-y-rtve-por-los-anuncios-durante-la-retransmision-del-mundial-de-futbol.html",
+      "retrieved_utc": "2026-11-12T00:53:38.328009+00:00",
+      "status": "unavailable",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "E13",
+      "url": "https://www.20minutes.fr/arts-stars/television/4235410-20260720-coupe-monde-2026-audiences-rentabilite-pari-reussi-m6",
+      "retrieved_utc": "2026-11-12T00:53:38.392444+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "final_url": "https://www.20minutes.fr/arts-stars/television/4235410-20260720-coupe-monde-2026-audiences-rentabilite-pari-reussi-m6",
+      "file": "E13.html",
+      "bytes": 725126,
+      "sha256": "eebe6d232293abde7d5e3809537ed4a3e7df49d53c1ec149fa08a20e78ebfa99"
+    },
+    {
+      "id": "E14",
+      "url": "https://www.groupem6.fr/app/uploads/sites/3/2026/11/cp-t3-2026-fr.pdf",
+      "retrieved_utc": "2026-11-12T00:53:38.518894+00:00",
+      "status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.groupem6.fr/app/uploads/sites/3/2026/11/cp-t3-2026-fr.pdf",
+      "file": "E14.pdf",
+      "bytes": 364011,
+      "sha256": "fb4fd27e500f4ecb8413cbdb893911e56766bab34799eae56b8e8bac22153ae4"
+    },
+    {
+      "id": "E15",
+      "url": "https://football-technology.fifa.com/tournament-organisation/commercial/fifa-tv/media-releases/unprecedented-broadcast-coverage-womens-world-cup-2027-europe",
+      "retrieved_utc": "2026-11-12T00:53:38.765558+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://football-technology.fifa.com/tournament-organisation/commercial/fifa-tv/media-releases/unprecedented-broadcast-coverage-womens-world-cup-2027-europe",
+      "file": "E15.html",
+      "bytes": 128267,
+      "sha256": "1ba9eda7fe5aaff6389f89ad0a7884363c9e19483c51d790b40a4717f823adc3"
+    },
+    {
+      "id": "E16",
+      "url": "https://inside.fifa.com/de/tournament-organisation/commercial/news/fussball-weltmeisterschaft-2026-frauen-weltmeisterschaft-2027-medienrechte-deutschland-telekom-magenta",
+      "retrieved_utc": "2026-11-12T00:53:38.777058+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://inside.fifa.com/de/tournament-organisation/commercial/news/fussball-weltmeisterschaft-2026-frauen-weltmeisterschaft-2027-medienrechte-deutschland-telekom-magenta",
+      "file": "E16.html",
+      "bytes": 119007,
+      "sha256": "5efb5f4560a5b12da7ad814f42e1767f050bf22273c9cf508210397c37d1ea40"
+    },
+    {
+      "id": "E17",
+      "url": "https://inside.fifa.com/fr/tournament-organisation/commercial/news/les-droits-media-en-clair-de-la-coupe-du-monde-26-ont-ete-attribues-au-groupe-m6",
+      "retrieved_utc": "2026-11-12T00:53:39.097167+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://inside.fifa.com/fr/tournament-organisation/commercial/news/les-droits-media-en-clair-de-la-coupe-du-monde-26-ont-ete-attribues-au-groupe-m6",
+      "file": "E17.html",
+      "bytes": 121153,
+      "sha256": "16a871fbf35fe08005412d2cf58f6befc7a8ac8264b6cb5d58e01ad32b4f9679"
+    },
+    {
+      "id": "E18",
+      "url": "https://ufficiostampa.rai.it/ufficiostampa/articoli/2026/02/Assegnati-in-Italia-i-diritti-di-trasmissione-in-chiaro-della-Coppa-del-Mondo-FIFA-2026-2b0eb7be-1dd0-424e-84a8-3f8a767ad696.html",
+      "retrieved_utc": "2026-11-12T00:53:39.130191+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "final_url": "https://ufficiostampa.rai.it/ufficiostampa/articoli/2026/02/Assegnati-in-Italia-i-diritti-di-trasmissione-in-chiaro-della-Coppa-del-Mondo-FIFA-2026-2b0eb7be-1dd0-424e-84a8-3f8a767ad696.html",
+      "file": "E18.html",
+      "bytes": 10967,
+      "sha256": "cd3f6d322df5b07966d2f34ded1dd084707f1687807a1f14747063ca4384a08c"
+    },
+    {
+      "id": "E19",
+      "url": "https://www.calcioefinanza.it/2026/02/28/mondiali-2026-spesa-diritti-tv-cifre/",
+      "retrieved_utc": "2026-11-12T00:53:39.635249+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "final_url": "https://www.calcioefinanza.it/2026/02/28/mondiali-2026-spesa-diritti-tv-cifre/",
+      "file": "E19.html",
+      "bytes": 69909,
+      "sha256": "8522d30c318fc57180b52a24e82eae8fc2db70a96baf69ae40508a9ad0cc8e11"
+    },
+    {
+      "id": "E20",
+      "url": "https://ufficiostampa.rai.it/ufficiostampa/articoli/2026/07/Flash-ascolti-tv-sabato-11-luglio-cc9ebce4-5a01-4ccc-8434-b2bf3eeb5109.html",
+      "retrieved_utc": "2026-11-12T00:53:39.804041+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "final_url": "https://ufficiostampa.rai.it/ufficiostampa/articoli/2026/07/Flash-ascolti-tv-sabato-11-luglio-cc9ebce4-5a01-4ccc-8434-b2bf3eeb5109.html",
+      "file": "E20.html",
+      "bytes": 11189,
+      "sha256": "c5dd10d888cbfda2d11ac1a873e40ef19113f894ba3018f657ec1cc9586b3691"
+    },
+    {
+      "id": "E21",
+      "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-julio-2026/",
+      "retrieved_utc": "2026-11-12T00:53:39.846117+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "final_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-julio-2026/",
+      "file": "E21.html",
+      "bytes": 146107,
+      "sha256": "3a3514ad141acdab34436a9a86328ff152032f46a8ad6ab835edd98db6e9b2c0"
+    },
+    {
+      "id": "E22",
+      "url": "https://www.ebu.ch/news/2026/04/ebu-secures-extensive-fifa-women-s-world-cup-2027TM-rights-across-18-european-territories",
+      "retrieved_utc": "2026-11-12T00:53:40.227450+00:00",
+      "status": "unavailable",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "E23",
+      "url": "https://bnt.bg/news/nad-300-chasa-efir-i-milionna-auditoriya-za-fifa-svetovno-parvenstvo-po-futbol-2026-po-bnt-350315news.html",
+      "retrieved_utc": "2026-11-12T00:53:40.240988+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "final_url": "https://bnt.bg/news/nad-300-chasa-efir-i-milionna-auditoriya-za-fifa-svetovno-parvenstvo-po-futbol-2026-po-bnt-350315news.html",
+      "file": "E23.html",
+      "bytes": 140465,
+      "sha256": "b8a6edfa599fdddedd82ea26efa71a59604e38128b0e89d55116a2cdb9d60798"
+    },
+    {
+      "id": "E24",
+      "url": "https://about.rte.ie/2026/07/16/fifa-world-cup-semi-finals-deliver-whopper-audiences-as-rte-player-surpasses-21-million-streams-across-the-tournament-to-date/",
+      "retrieved_utc": "2026-11-12T00:53:40.356484+00:00",
+      "status": "unavailable",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "E25",
+      "url": "https://der.orf.at/unternehmen/aktuell/marktanteile110.html",
+      "retrieved_utc": "2026-11-12T00:53:40.450403+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://der.orf.at/unternehmen/aktuell/marktanteile110.html",
+      "file": "E25.html",
+      "bytes": 24307,
+      "sha256": "145fb4d862d1ebce49f0ded4ed794fe3119093392c510c789287f0d61cf70932"
+    }
+  ]
+}

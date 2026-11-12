@@ -1,0 +1,7 @@
+{
+  "status": "EUR-27 unpriced",
+  "reason": "No verified EUR-27 2027 contract fee or country cash-flow model; men’s 2026 activity does not identify women’s 2027 value.",
+  "piracy_conversion": 0,
+  "piracy_conversion_note": "No assumed monetization adjustment; zero is a model assumption, not measured zero effect.",
+  "source": "E15"
+}

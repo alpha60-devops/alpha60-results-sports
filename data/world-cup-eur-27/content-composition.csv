@@ -1,0 +1,205 @@
+dimension,label,torrents,role,network,memberships,denominator,share
+audio,unknown,158,downloaders,all,3953181,14731098,0.26835616734068296
+audio,unknown,158,downloaders,without_hosting,3027508,11395910,0.2656661907649323
+audio,unknown,158,downloaders,without_vpn,3524233,13205219,0.26688182907076363
+audio,unknown,158,uploaders,all,36366,106938,0.3400662065869943
+audio,unknown,158,uploaders,without_hosting,18017,58597,0.3074730788265611
+audio,unknown,158,uploaders,without_vpn,23755,77178,0.3077949674777786
+audio,eng,188,downloaders,all,5462422,14731098,0.3708088833568278
+audio,eng,188,downloaders,without_hosting,4250072,11395910,0.3729471362971452
+audio,eng,188,downloaders,without_vpn,4906753,13205219,0.3715767985370027
+audio,eng,188,uploaders,all,36469,106938,0.34102938151078194
+audio,eng,188,uploaders,without_hosting,20399,58597,0.3481236240763179
+audio,eng,188,uploaders,without_vpn,26548,77178,0.34398403690170776
+audio,rus,110,downloaders,all,4061739,14731098,0.27572547545335724
+audio,rus,110,downloaders,without_hosting,3148301,11395910,0.2762658708255857
+audio,rus,110,downloaders,without_vpn,3650656,13205219,0.2764555438270278
+audio,rus,110,uploaders,all,27383,106938,0.25606426153472106
+audio,rus,110,uploaders,without_hosting,16960,58597,0.2894346126934826
+audio,rus,110,uploaders,without_vpn,22446,77178,0.290834175542253
+audio,bul,22,downloaders,all,648863,14731098,0.044047157924005396
+audio,bul,22,downloaders,without_hosting,500043,11395910,0.04387916366485871
+audio,bul,22,downloaders,without_vpn,583992,13205219,0.04422433281871357
+audio,bul,22,uploaders,all,2603,106938,0.024341207054554975
+audio,bul,22,uploaders,without_hosting,1618,58597,0.027612335102479648
+audio,bul,22,uploaders,without_vpn,2122,77178,0.027494881961180648
+audio,est,5,downloaders,all,154110,14731098,0.010461541970598526
+audio,est,5,downloaders,without_hosting,117864,11395910,0.010342658023799767
+audio,est,5,downloaders,without_vpn,137666,13205219,0.010425120552714802
+audio,est,5,uploaders,all,901,106938,0.008425442779928558
+audio,est,5,uploaders,without_hosting,375,58597,0.006399645033022168
+audio,est,5,uploaders,without_vpn,579,77178,0.007502137914949856
+audio,nld,5,downloaders,all,154110,14731098,0.010461541970598526
+audio,nld,5,downloaders,without_hosting,117864,11395910,0.010342658023799767
+audio,nld,5,downloaders,without_vpn,137666,13205219,0.010425120552714802
+audio,nld,5,uploaders,all,901,106938,0.008425442779928558
+audio,nld,5,uploaders,without_hosting,375,58597,0.006399645033022168
+audio,nld,5,uploaders,without_vpn,579,77178,0.007502137914949856
+audio,fra,2,downloaders,all,90800,14731098,0.006163831100709533
+audio,fra,2,downloaders,without_hosting,70384,11395910,0.006176250953192856
+audio,fra,2,downloaders,without_vpn,80530,13205219,0.00609834641894239
+audio,fra,2,uploaders,all,1001,106938,0.009360564065159251
+audio,fra,2,uploaders,without_hosting,453,58597,0.007730771199890779
+audio,fra,2,uploaders,without_vpn,601,77178,0.007787193241597347
+audio,deu,5,downloaders,all,167573,14731098,0.011375458910123332
+audio,deu,5,downloaders,without_hosting,128957,11395910,0.011316077434798975
+audio,deu,5,downloaders,without_vpn,149853,13205219,0.011348013236281807
+audio,deu,5,uploaders,all,1119,106938,0.010464007181731471
+audio,deu,5,uploaders,without_hosting,496,58597,0.00846459716367732
+audio,deu,5,uploaders,without_vpn,698,77178,0.009044028090906734
+audio,spa,7,downloaders,all,297614,14731098,0.020203110453816817
+audio,spa,7,downloaders,without_hosting,233770,11395910,0.02051350001886642
+audio,spa,7,downloaders,without_vpn,267384,13205219,0.020248357865174368
+audio,spa,7,uploaders,all,1767,106938,0.01652359311002637
+audio,spa,7,uploaders,without_hosting,884,58597,0.015086096557844259
+audio,spa,7,uploaders,without_vpn,1183,77178,0.015328202337453679
+audio,ukr,9,downloaders,all,306177,14731098,0.020784397741431086
+audio,ukr,9,downloaders,without_hosting,234420,11395910,0.02057053802636209
+audio,ukr,9,downloaders,without_vpn,272415,13205219,0.02062934359513462
+audio,ukr,9,uploaders,all,2025,106938,0.01893620602592156
+audio,ukr,9,uploaders,without_hosting,901,58597,0.015376213799341263
+audio,ukr,9,uploaders,without_vpn,1291,77178,0.016727564850086814
+audio,lit,1,downloaders,all,42347,14731098,0.002874666912133773
+audio,lit,1,downloaders,without_hosting,32599,11395910,0.0028605877020790793
+audio,lit,1,downloaders,without_vpn,37663,13205219,0.0028521299040932227
+audio,lit,1,uploaders,all,153,106938,0.0014307355664029625
+audio,lit,1,uploaders,without_hosting,52,58597,0.000887417444579074
+audio,lit,1,uploaders,without_vpn,91,77178,0.0011790924874964367
+audio,swe,1,downloaders,all,35694,14731098,0.0024230373051621814
+audio,swe,1,downloaders,without_hosting,27510,11395910,0.0024140239787783513
+audio,swe,1,downloaders,without_vpn,32063,13205219,0.0024280551500130364
+audio,swe,1,uploaders,all,103,106938,0.0009631749237876152
+audio,swe,1,uploaders,without_hosting,55,58597,0.0009386146048432514
+audio,swe,1,uploaders,without_vpn,91,77178,0.0011790924874964367
+vendor,unknown-or-conflicting,133,downloaders,all,2551501,14731098,0.17320507948558891
+vendor,unknown-or-conflicting,133,downloaders,without_hosting,1957964,11395910,0.1718128697050082
+vendor,unknown-or-conflicting,133,downloaders,without_vpn,2277810,13205219,0.17249316349846225
+vendor,unknown-or-conflicting,133,uploaders,all,21751,106938,0.20339823075052835
+vendor,unknown-or-conflicting,133,uploaders,without_hosting,10961,58597,0.18705735788521596
+vendor,unknown-or-conflicting,133,uploaders,without_vpn,14283,77178,0.18506569229573194
+vendor,BBC,46,downloaders,all,1539696,14731098,0.10452011112817253
+vendor,BBC,46,downloaders,without_hosting,1183948,11395910,0.1038923613822854
+vendor,BBC,46,downloaders,without_vpn,1375257,13205219,0.104144959655724
+vendor,BBC,46,uploaders,all,12014,106938,0.11234547120761562
+vendor,BBC,46,uploaders,without_hosting,6256,58597,0.10676314487089783
+vendor,BBC,46,uploaders,without_vpn,8051,77178,0.10431729249267926
+vendor,TSN,21,downloaders,all,809837,14731098,0.05497465294168839
+vendor,TSN,21,downloaders,without_hosting,634138,11395910,0.05564610461121578
+vendor,TSN,21,downloaders,without_vpn,728632,13205219,0.05517757789552752
+vendor,TSN,21,uploaders,all,3876,106938,0.036245301015541714
+vendor,TSN,21,uploaders,without_hosting,2160,58597,0.03686195539020769
+vendor,TSN,21,uploaders,without_vpn,2893,77178,0.03748477545414496
+vendor,Match TV,129,downloaders,all,4801071,14731098,0.3259139950056676
+vendor,Match TV,129,downloaders,without_hosting,3723570,11395910,0.3267461747240896
+vendor,Match TV,129,downloaders,without_vpn,4313526,13205219,0.3266531210122301
+vendor,Match TV,129,uploaders,all,36177,106938,0.33829882735790834
+vendor,Match TV,129,uploaders,without_hosting,21796,58597,0.37196443503933646
+vendor,Match TV,129,uploaders,without_vpn,28756,77178,0.372593226048874
+vendor,Antena / AntenaPlay,7,downloaders,all,56315,14731098,0.0038228650708860942
+vendor,Antena / AntenaPlay,7,downloaders,without_hosting,42779,11395910,0.0037538906502420605
+vendor,Antena / AntenaPlay,7,downloaders,without_vpn,50235,13205219,0.0038041777270032403
+vendor,Antena / AntenaPlay,7,uploaders,all,714,106938,0.0066767659765471585
+vendor,Antena / AntenaPlay,7,uploaders,without_hosting,341,58597,0.005819410550028158
+vendor,Antena / AntenaPlay,7,uploaders,without_vpn,476,77178,0.006167560703827515
+vendor,BNT,20,downloaders,all,591915,14731098,0.04018132253278065
+vendor,BNT,20,downloaders,without_hosting,456583,11395910,0.040065514732917334
+vendor,BNT,20,downloaders,without_vpn,532966,13205219,0.0403602545326965
+vendor,BNT,20,uploaders,all,2334,106938,0.021825730797284407
+vendor,BNT,20,uploaders,without_hosting,1437,58597,0.02452343976654095
+vendor,BNT,20,uploaders,without_vpn,1894,77178,0.024540672212288474
+vendor,ITV,20,downloaders,all,412916,14731098,0.028030225581283895
+vendor,ITV,20,downloaders,without_hosting,316430,11395910,0.027766979556700606
+vendor,ITV,20,downloaders,without_vpn,367836,13205219,0.02785535022175702
+vendor,ITV,20,uploaders,all,3746,106938,0.03502964334474181
+vendor,ITV,20,uploaders,without_hosting,1736,58597,0.029626090072870623
+vendor,ITV,20,uploaders,without_vpn,2340,77178,0.03031952110705123
+vendor,FOX,51,downloaders,all,1774951,14731098,0.12049006801801196
+vendor,FOX,51,downloaders,without_hosting,1394692,11395910,0.12238531192331284
+vendor,FOX,51,downloaders,without_vpn,1600990,13205219,0.12123918580979233
+vendor,FOX,51,uploaders,all,9745,106938,0.09112756924573118
+vendor,FOX,51,uploaders,without_hosting,5785,58597,0.09872519070942198
+vendor,FOX,51,uploaders,without_vpn,7609,77178,0.09859027183912514
+vendor,FUSSBALL.TV 1,9,downloaders,all,323090,14731098,0.021932513109341883
+vendor,FUSSBALL.TV 1,9,downloaders,without_hosting,254635,11395910,0.02234442005947748
+vendor,FUSSBALL.TV 1,9,downloaders,without_vpn,292424,13205219,0.022144577836990056
+vendor,FUSSBALL.TV 1,9,uploaders,all,1319,106938,0.012334249752192859
+vendor,FUSSBALL.TV 1,9,uploaders,without_hosting,572,58597,0.009761591890369814
+vendor,FUSSBALL.TV 1,9,uploaders,without_vpn,890,77178,0.011531783668921195
+vendor,ETV+,6,downloaders,all,186712,14731098,0.012674683177044916
+vendor,ETV+,6,downloaders,without_hosting,142868,11395910,0.012536778545987113
+vendor,ETV+,6,downloaders,without_vpn,166846,13205219,0.0126348529320112
+vendor,ETV+,6,uploaders,all,1036,106938,0.009687856514989995
+vendor,ETV+,6,uploaders,without_hosting,441,58597,0.00752598255883407
+vendor,ETV+,6,uploaders,without_vpn,681,77178,0.008823758065770038
+vendor,Sport TV (Cyrillic label),16,downloaders,all,524118,14731098,0.03557901793878501
+vendor,Sport TV (Cyrillic label),16,downloaders,without_hosting,401930,11395910,0.0352696713119005
+vendor,Sport TV (Cyrillic label),16,downloaders,without_vpn,468314,13205219,0.035464311496840754
+vendor,Sport TV (Cyrillic label),16,uploaders,all,2818,106938,0.02635171781780097
+vendor,Sport TV (Cyrillic label),16,uploaders,without_hosting,1431,58597,0.024421045446012594
+vendor,Sport TV (Cyrillic label),16,uploaders,without_vpn,1993,77178,0.025823421182202183
+vendor,TVRI,8,downloaders,all,214505,14731098,0.014561372139401965
+vendor,TVRI,8,downloaders,without_hosting,162463,11395910,0.014256255095029709
+vendor,TVRI,8,downloaders,without_vpn,191747,13205219,0.01452054676260954
+vendor,TVRI,8,uploaders,all,3295,106938,0.03081224634835138
+vendor,TVRI,8,uploaders,without_hosting,2130,58597,0.03634998378756592
+vendor,TVRI,8,uploaders,without_vpn,2373,77178,0.030747104097022467
+vendor,M6,4,downloaders,all,150712,14731098,0.010230873489538933
+vendor,M6,4,downloaders,without_hosting,114171,11395910,0.01001859439044359
+vendor,M6,4,downloaders,without_vpn,132322,13205219,0.010020432073106853
+vendor,M6,4,uploaders,all,1735,106938,0.016224354298752547
+vendor,M6,4,uploaders,without_hosting,755,58597,0.012884618666484632
+vendor,M6,4,uploaders,without_vpn,985,77178,0.012762704397626267
+vendor,DAZN,3,downloaders,all,92419,14731098,0.006273734653044871
+vendor,DAZN,3,downloaders,without_hosting,70601,11395910,0.006195292872618334
+vendor,DAZN,3,downloaders,without_vpn,82210,13205219,0.006225568845166445
+vendor,DAZN,3,uploaders,all,714,106938,0.0066767659765471585
+vendor,DAZN,3,uploaders,without_hosting,333,58597,0.005682884789323685
+vendor,DAZN,3,uploaders,without_vpn,453,77178,0.0058695483168778664
+vendor,MEGOGO,9,downloaders,all,306177,14731098,0.020784397741431086
+vendor,MEGOGO,9,downloaders,without_hosting,234420,11395910,0.02057053802636209
+vendor,MEGOGO,9,downloaders,without_vpn,272415,13205219,0.02062934359513462
+vendor,MEGOGO,9,uploaders,all,2025,106938,0.01893620602592156
+vendor,MEGOGO,9,uploaders,without_hosting,901,58597,0.015376213799341263
+vendor,MEGOGO,9,uploaders,without_vpn,1291,77178,0.016727564850086814
+vendor,RTVE,2,downloaders,all,93531,14731098,0.006349221218947834
+vendor,RTVE,2,downloaders,without_hosting,73233,11395910,0.006426252927585423
+vendor,RTVE,2,downloaders,without_vpn,83458,13205219,0.006320076933218601
+vendor,RTVE,2,uploaders,all,768,106938,0.007181731470571733
+vendor,RTVE,2,uploaders,without_hosting,317,58597,0.00540983326791474
+vendor,RTVE,2,uploaders,without_vpn,434,77178,0.005623364171136853
+vendor,Now TV,1,downloaders,all,7,14731098,4.751852170150521e-07
+vendor,Now TV,1,downloaders,without_hosting,0,11395910,0.0
+vendor,Now TV,1,downloaders,without_vpn,6,13205219,4.5436580794305646e-07
+vendor,Now TV,1,uploaders,all,6,106938,5.610727711384166e-05
+vendor,Now TV,1,uploaders,without_hosting,0,58597,0.0
+vendor,Now TV,1,uploaders,without_vpn,5,77178,6.478530151079323e-05
+vendor,Rai,3,downloaders,all,115650,14731098,0.007850738621112968
+vendor,Rai,3,downloaders,without_hosting,89529,11395910,0.007856239650892294
+vendor,Rai,3,downloaders,without_vpn,103352,13205219,0.007826602497088463
+vendor,Rai,3,uploaders,all,937,106938,0.008762086442611606
+vendor,Rai,3,uploaders,without_hosting,406,58597,0.006928682355752001
+vendor,Rai,3,uploaders,without_vpn,576,77178,0.00746326673404338
+vendor,SBS,2,downloaders,all,88031,14731098,0.005975861405578865
+vendor,SBS,2,downloaders,without_hosting,68119,11395910,0.005977495434765631
+vendor,SBS,2,downloaders,without_vpn,78340,13205219,0.005932502899043174
+vendor,SBS,2,uploaders,all,765,106938,0.007153677832014813
+vendor,SBS,2,uploaders,without_hosting,290,58597,0.004949058825537144
+vendor,SBS,2,uploaders,without_vpn,454,77178,0.005882505377180026
+vendor,ARD,1,downloaders,all,33373,14731098,0.002265479463920476
+vendor,ARD,1,downloaders,without_hosting,24630,11395910,0.0021613017301821444
+vendor,ARD,1,downloaders,without_vpn,28996,13205219,0.0021957984945194776
+vendor,ARD,1,uploaders,all,569,106938,0.005320840112962652
+vendor,ARD,1,uploaders,without_hosting,228,58597,0.003890984180077478
+vendor,ARD,1,uploaders,without_vpn,328,77178,0.004249915779108036
+vendor,NHK,1,downloaders,all,27666,14731098,0.0018780677448483473
+vendor,NHK,1,downloaders,without_hosting,21043,11395910,0.001846539679586799
+vendor,NHK,1,downloaders,without_vpn,24857,13205219,0.0018823618146734257
+vendor,NHK,1,uploaders,all,156,106938,0.0014587892049598833
+vendor,NHK,1,uploaders,without_hosting,121,58597,0.002064952130655153
+vendor,NHK,1,uploaders,without_vpn,146,77178,0.0018917308041151624
+vendor,ZDF,1,downloaders,all,36905,14731098,0.0025052443477057854
+vendor,ZDF,1,downloaders,without_hosting,28164,11395910,0.002471412989397073
+vendor,ZDF,1,downloaders,without_vpn,32680,13205219,0.002474779100596514
+vendor,ZDF,1,uploaders,all,438,106938,0.004095831229310442
+vendor,ZDF,1,uploaders,without_hosting,200,58597,0.003413144017611823
+vendor,ZDF,1,uploaders,without_vpn,267,77178,0.0034595351006763584

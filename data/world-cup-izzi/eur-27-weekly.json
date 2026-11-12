@@ -1,0 +1,575 @@
+{
+  "renderer": {
+    "library": "Izzi",
+    "default_layout": "izzi-standard",
+    "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+    "interaction": "izzi-weekly-graph-hover.js",
+    "commit": "1c7427b048bc90d3ee3589d4c9099aad7d2bfe37",
+    "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+    "renderer_sha256": "0bcb0bbb0b200ee5e9de63ad8c9d16b1e2b1f22525d9404ddbe6a1bd8c61f331",
+    "wrapper_sha256": "1c24a491e45d438e37bf706d19c06286df74e0e9167ce0c8100a8720782fcc51",
+    "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+    "functions": [
+      "svg::make_line_graph",
+      "svg::make_line_graph_annotations",
+      "svg::transform_to_graph_points",
+      "svg::make_marker_instance"
+    ]
+  },
+  "charts": {
+    "eur-27-weekly": {
+      "title": "EUR-27 · weekly activity and coverage",
+      "subtitle": "June 29–November 3, 2026",
+      "description": "Integer weeks. Week 19 has two dates; other weeks have seven. Counts are memberships, not people. Media-object names appear directly on their lines; no separate legend.",
+      "xlabel": "WEEKS",
+      "xmin": 1,
+      "xmax": 19,
+      "ticks": [
+        [
+          1,
+          "1"
+        ],
+        [
+          2,
+          "2"
+        ],
+        [
+          3,
+          "3"
+        ],
+        [
+          4,
+          "4"
+        ],
+        [
+          5,
+          "5"
+        ],
+        [
+          6,
+          "6"
+        ],
+        [
+          7,
+          "7"
+        ],
+        [
+          8,
+          "8"
+        ],
+        [
+          9,
+          "9"
+        ],
+        [
+          10,
+          "10"
+        ],
+        [
+          11,
+          "11"
+        ],
+        [
+          12,
+          "12"
+        ],
+        [
+          13,
+          "13"
+        ],
+        [
+          14,
+          "14"
+        ],
+        [
+          15,
+          "15"
+        ],
+        [
+          16,
+          "16"
+        ],
+        [
+          17,
+          "17"
+        ],
+        [
+          18,
+          "18"
+        ],
+        [
+          19,
+          "19"
+        ]
+      ],
+      "panels": [
+        {
+          "title": "EUR-27 weekly downloaders",
+          "unit": "count",
+          "ylabel": "DOWNLOADERS",
+          "series": [
+            {
+              "name": "EUR-27",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 148200,
+                  "tooltip": "Week 1 · 2026-06-29-to-2026-07-05-partial · 148,200 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 2,
+                  "y": 746456,
+                  "tooltip": "Week 2 · 2026-07-06-to-2026-07-12 · 746,456 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 3,
+                  "y": 1164805,
+                  "tooltip": "Week 3 · 2026-07-13-to-2026-07-19 · 1,164,805 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 4,
+                  "y": 1515494,
+                  "tooltip": "Week 4 · 2026-07-20-to-2026-07-26 · 1,515,494 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 5,
+                  "y": 1635738,
+                  "tooltip": "Week 5 · 2026-07-27-to-2026-08-02 · 1,635,738 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 6,
+                  "y": 1600310,
+                  "tooltip": "Week 6 · 2026-08-03-to-2026-08-09 · 1,600,310 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 7,
+                  "y": 1564132,
+                  "tooltip": "Week 7 · 2026-08-10-to-2026-08-16 · 1,564,132 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 8,
+                  "y": 1254574,
+                  "tooltip": "Week 8 · 2026-08-17-to-2026-08-23 · 1,254,574 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 9,
+                  "y": 1163896,
+                  "tooltip": "Week 9 · 2026-08-24-to-2026-08-30 · 1,163,896 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 10,
+                  "y": 1120788,
+                  "tooltip": "Week 10 · 2026-08-31-to-2026-09-06 · 1,120,788 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 11,
+                  "y": 1118826,
+                  "tooltip": "Week 11 · 2026-09-07-to-2026-09-13 · 1,118,826 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 12,
+                  "y": 1119321,
+                  "tooltip": "Week 12 · 2026-09-14-to-2026-09-20 · 1,119,321 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 13,
+                  "y": 1098278,
+                  "tooltip": "Week 13 · 2026-09-21-to-2026-09-27 · 1,098,278 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 14,
+                  "y": 1092526,
+                  "tooltip": "Week 14 · 2026-09-28-to-2026-10-04 · 1,092,526 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 15,
+                  "y": 1151216,
+                  "tooltip": "Week 15 · 2026-10-05-to-2026-10-11 · 1,151,216 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 16,
+                  "y": 1152915,
+                  "tooltip": "Week 16 · 2026-10-12-to-2026-10-18 · 1,152,915 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 17,
+                  "y": 1146402,
+                  "tooltip": "Week 17 · 2026-10-19-to-2026-10-25 · 1,146,402 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 18,
+                  "y": 1255565,
+                  "tooltip": "Week 18 · 2026-10-26-to-2026-11-01 · 1,255,565 downloaders memberships · 7 dates"
+                },
+                {
+                  "x": 19,
+                  "y": 348259,
+                  "tooltip": "Week 19 · 2026-11-02-to-2026-11-08-partial · 348,259 downloaders memberships · 2 dates"
+                }
+              ],
+              "collection_key": "EUR-27",
+              "line_label": "EUR-27"
+            }
+          ]
+        },
+        {
+          "title": "EUR-27 weekly uploaders",
+          "unit": "count",
+          "ylabel": "UPLOADERS",
+          "series": [
+            {
+              "name": "EUR-27",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 5385,
+                  "tooltip": "Week 1 · 2026-06-29-to-2026-07-05-partial · 5,385 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 2,
+                  "y": 14476,
+                  "tooltip": "Week 2 · 2026-07-06-to-2026-07-12 · 14,476 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 3,
+                  "y": 14655,
+                  "tooltip": "Week 3 · 2026-07-13-to-2026-07-19 · 14,655 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 4,
+                  "y": 15707,
+                  "tooltip": "Week 4 · 2026-07-20-to-2026-07-26 · 15,707 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 5,
+                  "y": 11911,
+                  "tooltip": "Week 5 · 2026-07-27-to-2026-08-02 · 11,911 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 6,
+                  "y": 9898,
+                  "tooltip": "Week 6 · 2026-08-03-to-2026-08-09 · 9,898 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 7,
+                  "y": 8642,
+                  "tooltip": "Week 7 · 2026-08-10-to-2026-08-16 · 8,642 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 8,
+                  "y": 8095,
+                  "tooltip": "Week 8 · 2026-08-17-to-2026-08-23 · 8,095 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 9,
+                  "y": 8001,
+                  "tooltip": "Week 9 · 2026-08-24-to-2026-08-30 · 8,001 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 10,
+                  "y": 7768,
+                  "tooltip": "Week 10 · 2026-08-31-to-2026-09-06 · 7,768 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 11,
+                  "y": 7908,
+                  "tooltip": "Week 11 · 2026-09-07-to-2026-09-13 · 7,908 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 12,
+                  "y": 7008,
+                  "tooltip": "Week 12 · 2026-09-14-to-2026-09-20 · 7,008 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 13,
+                  "y": 6087,
+                  "tooltip": "Week 13 · 2026-09-21-to-2026-09-27 · 6,087 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 14,
+                  "y": 6102,
+                  "tooltip": "Week 14 · 2026-09-28-to-2026-10-04 · 6,102 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 15,
+                  "y": 7008,
+                  "tooltip": "Week 15 · 2026-10-05-to-2026-10-11 · 7,008 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 16,
+                  "y": 7788,
+                  "tooltip": "Week 16 · 2026-10-12-to-2026-10-18 · 7,788 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 17,
+                  "y": 8126,
+                  "tooltip": "Week 17 · 2026-10-19-to-2026-10-25 · 8,126 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 18,
+                  "y": 8277,
+                  "tooltip": "Week 18 · 2026-10-26-to-2026-11-01 · 8,277 uploaders memberships · 7 dates"
+                },
+                {
+                  "x": 19,
+                  "y": 3003,
+                  "tooltip": "Week 19 · 2026-11-02-to-2026-11-08-partial · 3,003 uploaders memberships · 2 dates"
+                }
+              ],
+              "collection_key": "EUR-27",
+              "line_label": "EUR-27"
+            }
+          ]
+        },
+        {
+          "title": "Daily cached catalog range within each week",
+          "unit": "count",
+          "ylabel": "CACHED TORRENTS",
+          "series": [
+            {
+              "name": "Daily minimum",
+              "color": "#175b8c",
+              "dash": "",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 2,
+                  "tooltip": "Week 1 · Daily minimum: 2 torrents"
+                },
+                {
+                  "x": 2,
+                  "y": 223,
+                  "tooltip": "Week 2 · Daily minimum: 223 torrents"
+                },
+                {
+                  "x": 3,
+                  "y": 373,
+                  "tooltip": "Week 3 · Daily minimum: 373 torrents"
+                },
+                {
+                  "x": 4,
+                  "y": 469,
+                  "tooltip": "Week 4 · Daily minimum: 469 torrents"
+                },
+                {
+                  "x": 5,
+                  "y": 492,
+                  "tooltip": "Week 5 · Daily minimum: 492 torrents"
+                },
+                {
+                  "x": 6,
+                  "y": 493,
+                  "tooltip": "Week 6 · Daily minimum: 493 torrents"
+                },
+                {
+                  "x": 7,
+                  "y": 493,
+                  "tooltip": "Week 7 · Daily minimum: 493 torrents"
+                },
+                {
+                  "x": 8,
+                  "y": 493,
+                  "tooltip": "Week 8 · Daily minimum: 493 torrents"
+                },
+                {
+                  "x": 9,
+                  "y": 493,
+                  "tooltip": "Week 9 · Daily minimum: 493 torrents"
+                },
+                {
+                  "x": 10,
+                  "y": 493,
+                  "tooltip": "Week 10 · Daily minimum: 493 torrents"
+                },
+                {
+                  "x": 11,
+                  "y": 493,
+                  "tooltip": "Week 11 · Daily minimum: 493 torrents"
+                },
+                {
+                  "x": 12,
+                  "y": 493,
+                  "tooltip": "Week 12 · Daily minimum: 493 torrents"
+                },
+                {
+                  "x": 13,
+                  "y": 493,
+                  "tooltip": "Week 13 · Daily minimum: 493 torrents"
+                },
+                {
+                  "x": 14,
+                  "y": 493,
+                  "tooltip": "Week 14 · Daily minimum: 493 torrents"
+                },
+                {
+                  "x": 15,
+                  "y": 493,
+                  "tooltip": "Week 15 · Daily minimum: 493 torrents"
+                },
+                {
+                  "x": 16,
+                  "y": 493,
+                  "tooltip": "Week 16 · Daily minimum: 493 torrents"
+                },
+                {
+                  "x": 17,
+                  "y": 493,
+                  "tooltip": "Week 17 · Daily minimum: 493 torrents"
+                },
+                {
+                  "x": 18,
+                  "y": 493,
+                  "tooltip": "Week 18 · Daily minimum: 493 torrents"
+                },
+                {
+                  "x": 19,
+                  "y": 491,
+                  "tooltip": "Week 19 · Daily minimum: 491 torrents"
+                }
+              ],
+              "collection_key": "Daily minimum",
+              "line_label": "Daily minimum"
+            },
+            {
+              "name": "Daily maximum",
+              "color": "#9b4318",
+              "dash": "8 4",
+              "points": [
+                {
+                  "x": 1,
+                  "y": 193,
+                  "tooltip": "Week 1 · Daily maximum: 193 torrents"
+                },
+                {
+                  "x": 2,
+                  "y": 323,
+                  "tooltip": "Week 2 · Daily maximum: 323 torrents"
+                },
+                {
+                  "x": 3,
+                  "y": 416,
+                  "tooltip": "Week 3 · Daily maximum: 416 torrents"
+                },
+                {
+                  "x": 4,
+                  "y": 482,
+                  "tooltip": "Week 4 · Daily maximum: 482 torrents"
+                },
+                {
+                  "x": 5,
+                  "y": 493,
+                  "tooltip": "Week 5 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 6,
+                  "y": 493,
+                  "tooltip": "Week 6 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 7,
+                  "y": 493,
+                  "tooltip": "Week 7 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 8,
+                  "y": 493,
+                  "tooltip": "Week 8 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 9,
+                  "y": 493,
+                  "tooltip": "Week 9 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 10,
+                  "y": 493,
+                  "tooltip": "Week 10 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 11,
+                  "y": 493,
+                  "tooltip": "Week 11 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 12,
+                  "y": 493,
+                  "tooltip": "Week 12 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 13,
+                  "y": 493,
+                  "tooltip": "Week 13 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 14,
+                  "y": 493,
+                  "tooltip": "Week 14 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 15,
+                  "y": 493,
+                  "tooltip": "Week 15 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 16,
+                  "y": 493,
+                  "tooltip": "Week 16 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 17,
+                  "y": 493,
+                  "tooltip": "Week 17 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 18,
+                  "y": 493,
+                  "tooltip": "Week 18 · Daily maximum: 493 torrents"
+                },
+                {
+                  "x": 19,
+                  "y": 493,
+                  "tooltip": "Week 19 · Daily maximum: 493 torrents"
+                }
+              ],
+              "collection_key": "Daily maximum",
+              "line_label": "Daily maximum"
+            }
+          ]
+        }
+      ],
+      "reference_lines": [
+        {
+          "x": 3,
+          "label": "Final week"
+        }
+      ],
+      "footer": "Partial final week · independent y scales for counts and catalog coverage",
+      "allow_label_callouts": true,
+      "layout": "izzi-standard",
+      "columns": 1
+    }
+  },
+  "chart_renderers": {
+    "eur-27-weekly": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "1c7427b048bc90d3ee3589d4c9099aad7d2bfe37",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "0bcb0bbb0b200ee5e9de63ad8c9d16b1e2b1f22525d9404ddbe6a1bd8c61f331",
+      "wrapper_sha256": "1c24a491e45d438e37bf706d19c06286df74e0e9167ce0c8100a8720782fcc51",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    }
+  }
+}

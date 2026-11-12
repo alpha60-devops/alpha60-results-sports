@@ -1,0 +1,46 @@
+{
+  "base_file": "../../world-cup-broadcast/fixture-windows.json",
+  "base_sha256": "987b8673a325d35b027cc2e436d546ffcfd30177a6742be7b596fa9439e439d4",
+  "additional_file": "additional-fixture-windows.json",
+  "additional_sha256": "1230b18b56faac56731629ead6bcec295ffb78e57c649dae19ded20b1a7d85e4",
+  "base_provenance": {
+    "inventory_sha256": "f434f89a5c7c5e6c9e1d40742244aa03156e1a18bcf95bb20fe939809b670aa2",
+    "classifications_sha256": "8b222833a11ee8619bbe215728c3462060178336375d2d100a5fc994c57ac006",
+    "definitions_sha256": "bdf59c6c4c843002ea9964958ec2708535f21c58f63705256afcfb59dd848ef2",
+    "analyzer_sha256": "ca5993185a5827664a3984a9d9654a8003af4eed0213c3d18bf9742dfed7aa13",
+    "mmdb": {
+      "standard_location.mmdb": {
+        "sha256": "038a11d61822a80c92ee53f0bce7889a5ebee5bd5379006e847be50e8d939928",
+        "build_epoch": 1777968300
+      },
+      "standard_privacy.mmdb": {
+        "sha256": "5bf50f6ddd3b9a18de87a9fe76de6714dd30c58a901d98263ea0aca9a6f6fca9",
+        "build_epoch": 1777968755
+      }
+    }
+  },
+  "additional_provenance": {
+    "inventory_sha256": "f434f89a5c7c5e6c9e1d40742244aa03156e1a18bcf95bb20fe939809b670aa2",
+    "classifications_sha256": "8b222833a11ee8619bbe215728c3462060178336375d2d100a5fc994c57ac006",
+    "definitions_sha256": "e8adebd0e876adc7c28a57ba4e4a9f92278c52f00e0d22bd89fa132923b35da5",
+    "analyzer_sha256": "96e003ae529c14275b55a311f9f85ae36ea847f61f402c399e885d06b678b1b6",
+    "mmdb": {
+      "standard_location.mmdb": {
+        "sha256": "038a11d61822a80c92ee53f0bce7889a5ebee5bd5379006e847be50e8d939928",
+        "build_epoch": 1777968300
+      },
+      "standard_privacy.mmdb": {
+        "sha256": "5bf50f6ddd3b9a18de87a9fe76de6714dd30c58a901d98263ea0aca9a6f6fca9",
+        "build_epoch": 1777968755
+      }
+    }
+  },
+  "fixture_count": 21,
+  "torrent_count": 285,
+  "legacy_comparison_groups_unchanged": [
+    "US-Spanish",
+    "Canada",
+    "France",
+    "Russia"
+  ]
+}

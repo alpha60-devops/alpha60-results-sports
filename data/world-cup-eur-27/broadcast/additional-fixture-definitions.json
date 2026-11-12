@@ -1,0 +1,24 @@
+{
+  "schema": "alpha60-world-cup-extra-fixtures/1",
+  "base_definition_sha256": "bdf59c6c4c843002ea9964958ec2708535f21c58f63705256afcfb59dd848ef2",
+  "fixtures": [
+    {
+      "id": "GER-PAR-2026-06-29",
+      "name": "Germany\u2013Paraguay",
+      "date": "2026-06-29",
+      "teams": [
+        "GER",
+        "PAR"
+      ]
+    },
+    {
+      "id": "FRA-MAR-2026-07-09",
+      "name": "France\u2013Morocco",
+      "date": "2026-07-09",
+      "teams": [
+        "FRA",
+        "MAR"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "schema": "izzi.visualization/1",
+  "kind": "bar-graph",
+  "title": "First 14 observed dates · uploaders",
+  "description": "H3r5 and equal observed age for all four collections; different catalogs and calendar windows.",
+  "source": "../data/world-cup-eur-27/analysis.json",
+  "x_label": "EUR-27 share of worldwide membership-days (%)",
+  "y_label": "Media object",
+  "viewport": [
+    1280,
+    640
+  ],
+  "bars": [
+    [
+      "World Cup",
+      21.531299648256198
+    ],
+    [
+      "Crew Girl",
+      38.41185091150087
+    ],
+    [
+      "Dan Da Dan",
+      27.816486812790163
+    ],
+    [
+      "Kung Fu Soccer",
+      4.009188361408882
+    ]
+  ],
+  "observations": [
+    {
+      "label": "World Cup",
+      "collection": "World Cup",
+      "share": 0.21531299648256197,
+      "memberships": 31035,
+      "denominator": 144139
+    },
+    {
+      "label": "Crew Girl",
+      "collection": "Crew Girl",
+      "share": 0.3841185091150087,
+      "memberships": 41151,
+      "denominator": 107131
+    },
+    {
+      "label": "Dan Da Dan",
+      "collection": "Dan Da Dan",
+      "share": 0.27816486812790164,
+      "memberships": 111743,
+      "denominator": 401715
+    },
+    {
+      "label": "Kung Fu Soccer",
+      "collection": "Kung Fu Soccer",
+      "share": 0.04009188361408882,
+      "memberships": 3927,
+      "denominator": 97950
+    }
+  ],
+  "renderer": {
+    "library": "Izzi",
+    "functions": [
+      "svg::emit_bar_graph"
+    ],
+    "commit": "1c7427b048bc90d3ee3589d4c9099aad7d2bfe37",
+    "bar_header_sha256": "6a064f6a7ce1ac8544684c1179bf2f40284ca253258d5f898bbe143b79135a5e",
+    "renderer_sha256": "abdc56a156258e5fd882b1637daf74a9d8936120ea82acc95199036e73cf97fb",
+    "wrapper_sha256": "945ca09872a1bcdd789ea4528a74ebaa59dbcb9d0396a055203e696040fa3685",
+    "axis_policy": "Native zero baseline and automatic maximum; shared across collections within each chart.",
+    "postprocessing": "Accessible metadata, collection colors, and percentage precision; native geometry retained."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "currency": "EUR",
+  "status": "conditional budget illustration",
+  "assumption": "Assume the March 2025 RTVE per-match budget applies unchanged to its actual 33-match 2026 TV package. No realized fee or net sublicense allocation verified.",
+  "fee_source": "E11",
+  "audience_source": "E09",
+  "fee_per_match": 1203000,
+  "average_viewers": 4870000,
+  "matches": 33,
+  "implied_package_budget": 39699000,
+  "equal_match_audience_index": 160710000,
+  "cost_per_average_match_audience_unit": 0.24702258726899384,
+  "warning": "Not a settled rights fee, unique viewers, ad impressions, acquisition cost or profit; no piracy addition."
+}

@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "analysis_sha256": "eece31ff053d51740e4e0b00d7a35eaca666d494d77d64ceedb452e96f1ef0f3",
+  "countries": 27,
+  "city_buckets": 16794,
+  "retained_points": 17121,
+  "fixed_catalog": 412,
+  "checks": [
+    "Frozen preflight input hashes",
+    "All country/role/network totals independently recounted",
+    "All city buckets reconcile to every country/role/network",
+    "Exclusive vendor counts reconcile to per-torrent totals",
+    "Fixed catalog held constant across two seven-date weeks",
+    "Separate cumulative, per-torrent and membership-day grains"
+  ]
+}

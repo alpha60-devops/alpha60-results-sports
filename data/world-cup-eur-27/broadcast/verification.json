@@ -1,0 +1,90 @@
+{
+  "status": "passed",
+  "source_definitions_sha256": "1f3722cd4a31b05a9e33f246e0c2653604682b8a3853c2ade17fb45eca0c716d",
+  "builder_sha256": "ac704f8115461b50da024263bbb3e4b18f8b2fef4d15f17b035cdf48dcff5ab5",
+  "countries": 27,
+  "audience_rows": 19,
+  "new_fixture_count": 2,
+  "new_full_torrents": 15,
+  "new_missing_dates": 0,
+  "all_fixture_count": 21,
+  "all_full_torrents": 285,
+  "country_fixture_rows": 10206,
+  "legacy_comparisons_unchanged": [
+    "US-Spanish",
+    "Canada",
+    "France",
+    "Russia"
+  ],
+  "country_panels": {
+    "France": {
+      "age_days": 28,
+      "measure": "unique_ip_countries",
+      "network": "all",
+      "n": 2,
+      "rho": null,
+      "leave_one_fixture_out_min": null,
+      "leave_one_fixture_out_max": null
+    },
+    "Germany · ZDF TV": {
+      "age_days": 28,
+      "measure": "unique_ip_countries",
+      "network": "all",
+      "n": 3,
+      "rho": 0.5,
+      "leave_one_fixture_out_min": null,
+      "leave_one_fixture_out_max": null
+    },
+    "Poland · TVP TV": {
+      "age_days": 28,
+      "measure": "unique_ip_countries",
+      "network": "all",
+      "n": 3,
+      "rho": 1.0,
+      "leave_one_fixture_out_min": null,
+      "leave_one_fixture_out_max": null
+    },
+    "Czechia · ČT sport TV": {
+      "age_days": 28,
+      "measure": "unique_ip_countries",
+      "network": "all",
+      "n": 4,
+      "rho": 0.0,
+      "leave_one_fixture_out_min": -0.5,
+      "leave_one_fixture_out_max": 0.5
+    },
+    "Italy · Rai1 TV": {
+      "age_days": 28,
+      "measure": "unique_ip_countries",
+      "network": "all",
+      "n": 1,
+      "rho": null,
+      "leave_one_fixture_out_min": null,
+      "leave_one_fixture_out_max": null
+    },
+    "Bulgaria · BNT TV": {
+      "age_days": 28,
+      "measure": "unique_ip_countries",
+      "network": "all",
+      "n": 4,
+      "rho": 0.2,
+      "leave_one_fixture_out_min": -1.0,
+      "leave_one_fixture_out_max": 0.5
+    }
+  },
+  "conditional_fee_index": {
+    "currency": "EUR",
+    "status": "conditional budget illustration",
+    "assumption": "Assume the March 2025 RTVE per-match budget applies unchanged to its actual 33-match 2026 TV package. No realized fee or net sublicense allocation verified.",
+    "fee_source": "E11",
+    "audience_source": "E09",
+    "fee_per_match": 1203000,
+    "average_viewers": 4870000,
+    "matches": 33,
+    "implied_package_budget": 39699000,
+    "equal_match_audience_index": 160710000,
+    "cost_per_average_match_audience_unit": 0.24702258726899384,
+    "warning": "Not a settled rights fee, unique viewers, ad impressions, acquisition cost or profit; no piracy addition."
+  },
+  "source_access_note": "Web review and direct archive retrieval are separate. E12/E22 web evidence retained in source notes; RTÉ remains inaccessible. BNT full-page archive resolved its earlier access gap."
+}

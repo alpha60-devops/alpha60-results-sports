@@ -1,0 +1,299 @@
+{
+  "schema": "izzi.visualization/1",
+  "kind": "bar-graph",
+  "title": "EUR-27 · downloaders distribution",
+  "description": "Cumulative aggregate H3r8; all networks. Exact counts are available in the tooltips and table.",
+  "source": "../data/world-cup-eur-27/analysis.json",
+  "x_label": "Share of EUR-27 retained downloaders memberships (%)",
+  "y_label": "Country",
+  "viewport": [
+    1280,
+    1318
+  ],
+  "bars": [
+    [
+      "France",
+      15.630757784299515
+    ],
+    [
+      "Netherlands",
+      13.895672535516121
+    ],
+    [
+      "Spain",
+      10.422577351978308
+    ],
+    [
+      "Hungary",
+      9.362696854157598
+    ],
+    [
+      "Poland",
+      9.022068835971925
+    ],
+    [
+      "Italy",
+      7.270218650869284
+    ],
+    [
+      "Germany",
+      7.048774645297695
+    ],
+    [
+      "Romania",
+      3.2433604886550635
+    ],
+    [
+      "Sweden",
+      3.061846400754789
+    ],
+    [
+      "Portugal",
+      2.9623703662006644
+    ],
+    [
+      "Bulgaria",
+      2.815169330445767
+    ],
+    [
+      "Belgium",
+      2.7916923010089247
+    ],
+    [
+      "Greece",
+      1.805167577469761
+    ],
+    [
+      "Czechia",
+      1.7005886389410925
+    ],
+    [
+      "Slovenia",
+      1.4973535569045686
+    ],
+    [
+      "Slovakia",
+      1.2557304418509103
+    ],
+    [
+      "Lithuania",
+      1.0342374875601419
+    ],
+    [
+      "Denmark",
+      0.866771682064608
+    ],
+    [
+      "Finland",
+      0.830586341410586
+    ],
+    [
+      "Croatia",
+      0.804937212560119
+    ],
+    [
+      "Latvia",
+      0.665476193025603
+    ],
+    [
+      "Ireland",
+      0.6528351862972955
+    ],
+    [
+      "Austria",
+      0.6430576796410346
+    ],
+    [
+      "Estonia",
+      0.45030374209898844
+    ],
+    [
+      "Cyprus",
+      0.0958109992055011
+    ],
+    [
+      "Luxembourg",
+      0.08564190279579788
+    ],
+    [
+      "Malta",
+      0.08429581301834017
+    ]
+  ],
+  "observations": [
+    {
+      "label": "France",
+      "share": 0.15630757784299515,
+      "memberships": 2554634,
+      "denominator": 16343635
+    },
+    {
+      "label": "Netherlands",
+      "share": 0.1389567253551612,
+      "memberships": 2271058,
+      "denominator": 16343635
+    },
+    {
+      "label": "Spain",
+      "share": 0.10422577351978309,
+      "memberships": 1703428,
+      "denominator": 16343635
+    },
+    {
+      "label": "Hungary",
+      "share": 0.09362696854157597,
+      "memberships": 1530205,
+      "denominator": 16343635
+    },
+    {
+      "label": "Poland",
+      "share": 0.09022068835971925,
+      "memberships": 1474534,
+      "denominator": 16343635
+    },
+    {
+      "label": "Italy",
+      "share": 0.07270218650869284,
+      "memberships": 1188218,
+      "denominator": 16343635
+    },
+    {
+      "label": "Germany",
+      "share": 0.07048774645297695,
+      "memberships": 1152026,
+      "denominator": 16343635
+    },
+    {
+      "label": "Romania",
+      "share": 0.032433604886550636,
+      "memberships": 530083,
+      "denominator": 16343635
+    },
+    {
+      "label": "Sweden",
+      "share": 0.03061846400754789,
+      "memberships": 500417,
+      "denominator": 16343635
+    },
+    {
+      "label": "Portugal",
+      "share": 0.029623703662006645,
+      "memberships": 484159,
+      "denominator": 16343635
+    },
+    {
+      "label": "Bulgaria",
+      "share": 0.02815169330445767,
+      "memberships": 460101,
+      "denominator": 16343635
+    },
+    {
+      "label": "Belgium",
+      "share": 0.02791692301008925,
+      "memberships": 456264,
+      "denominator": 16343635
+    },
+    {
+      "label": "Greece",
+      "share": 0.01805167577469761,
+      "memberships": 295030,
+      "denominator": 16343635
+    },
+    {
+      "label": "Czechia",
+      "share": 0.017005886389410925,
+      "memberships": 277938,
+      "denominator": 16343635
+    },
+    {
+      "label": "Slovenia",
+      "share": 0.014973535569045687,
+      "memberships": 244722,
+      "denominator": 16343635
+    },
+    {
+      "label": "Slovakia",
+      "share": 0.012557304418509102,
+      "memberships": 205232,
+      "denominator": 16343635
+    },
+    {
+      "label": "Lithuania",
+      "share": 0.01034237487560142,
+      "memberships": 169032,
+      "denominator": 16343635
+    },
+    {
+      "label": "Denmark",
+      "share": 0.00866771682064608,
+      "memberships": 141662,
+      "denominator": 16343635
+    },
+    {
+      "label": "Finland",
+      "share": 0.008305863414105859,
+      "memberships": 135748,
+      "denominator": 16343635
+    },
+    {
+      "label": "Croatia",
+      "share": 0.00804937212560119,
+      "memberships": 131556,
+      "denominator": 16343635
+    },
+    {
+      "label": "Latvia",
+      "share": 0.00665476193025603,
+      "memberships": 108763,
+      "denominator": 16343635
+    },
+    {
+      "label": "Ireland",
+      "share": 0.006528351862972955,
+      "memberships": 106697,
+      "denominator": 16343635
+    },
+    {
+      "label": "Austria",
+      "share": 0.006430576796410346,
+      "memberships": 105099,
+      "denominator": 16343635
+    },
+    {
+      "label": "Estonia",
+      "share": 0.004503037420989884,
+      "memberships": 73596,
+      "denominator": 16343635
+    },
+    {
+      "label": "Cyprus",
+      "share": 0.000958109992055011,
+      "memberships": 15659,
+      "denominator": 16343635
+    },
+    {
+      "label": "Luxembourg",
+      "share": 0.0008564190279579788,
+      "memberships": 13997,
+      "denominator": 16343635
+    },
+    {
+      "label": "Malta",
+      "share": 0.0008429581301834017,
+      "memberships": 13777,
+      "denominator": 16343635
+    }
+  ],
+  "renderer": {
+    "library": "Izzi",
+    "functions": [
+      "svg::emit_bar_graph"
+    ],
+    "commit": "1c7427b048bc90d3ee3589d4c9099aad7d2bfe37",
+    "bar_header_sha256": "6a064f6a7ce1ac8544684c1179bf2f40284ca253258d5f898bbe143b79135a5e",
+    "renderer_sha256": "abdc56a156258e5fd882b1637daf74a9d8936120ea82acc95199036e73cf97fb",
+    "wrapper_sha256": "945ca09872a1bcdd789ea4528a74ebaa59dbcb9d0396a055203e696040fa3685",
+    "axis_policy": "Native zero baseline and automatic maximum; shared across collections within each chart.",
+    "postprocessing": "Accessible metadata, collection colors, and percentage precision; native geometry retained."
+  }
+}

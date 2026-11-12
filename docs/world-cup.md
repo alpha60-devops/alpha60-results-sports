@@ -2,7 +2,7 @@
 layout: default
 title: "World Cup 2026: distribution, languages, and sources"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
-description: "Eight reports share one canonical torrent inventory, IPinfo geography at H3 resolution 8, and inspectable evidence for every comparison."
+description: "Nine reports share one canonical torrent inventory, IPinfo geography at H3 resolution 8, and inspectable evidence for every comparison."
 ---
 
 <link rel="stylesheet" href="../resources/world-cup-stage1/report.css">
@@ -19,14 +19,14 @@ description: "Eight reports share one canonical torrent inventory, IPinfo geogra
 <div class="wc-callout" markdown="1">
 **Sampling began June 29, 2026 — Round of 32.** This snapshot runs through November 3. It describes observed peer-to-peer distribution during that window, including later circulation of older matches. It does not measure the full tournament's live audience.
 
-Eight reports share one canonical torrent inventory, IPinfo geography at H3 resolution 8, and inspectable evidence for every comparison.
+Nine reports share one canonical torrent inventory, IPinfo geography at H3 resolution 8, and inspectable evidence for every comparison.
 </div>
 
 ## Results
 
 [World Cup 2026 sample and cache audit](https://alpha60-devops.github.io/alpha60-results-2026/docs/itemized/world-cup-2026-sample-cache-audit.html)
 
-## Explore the eight reports
+## Explore the nine reports
 
 <div class="wc-card-grid">
 <div class="wc-card"><h3><a href="world-cup-swarm-media.html">Formats and resolution</a></h3><p>Video dimensions, codecs, encoder coverage and regional resolution mix.</p></div>
@@ -36,6 +36,7 @@ Eight reports share one canonical torrent inventory, IPinfo geography at H3 reso
 <div class="wc-card"><h3><a href="world-cup-ott-vendors.html">Broadcasters and services</a></h3><p>Evidence-based branding candidates and 22 native Cahill–Keyes maps.</p></div>
 <div class="wc-card"><h3><a href="world-cup-asia-28.html">Asia-28 and China</a></h3><p>Asia-28 rankings, temporal coverage, matched-age media comparisons and China hypotheses.</p></div>
 <div class="wc-card"><h3><a href="world-cup-southern.html">Latin America and South America</a></h3><p>Latin America and the Caribbean, with South America shown separately: places, networks, files and observation age.</p></div>
+<div class="wc-card"><h3><a href="world-cup-eur-27.html">EUR-27</a></h3><p>Country distribution, networks, observation age and European broadcast comparisons.</p></div>
 <div class="wc-card"><h3><a href="world-cup-2027-thoughts.html">Preparing for 2027</a></h3><p>What changes in Brazil, and a concrete sampling and analysis backlog.</p></div>
 </div>
 
