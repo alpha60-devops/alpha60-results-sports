@@ -1,46 +1,74 @@
 ---
 layout: default
-title: "World Cup 2026: distribution, languages, and sources"
+title: "World Cup 2026 · Research index"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
-description: "Nine reports share one canonical torrent inventory, IPinfo geography at H3 resolution 8, and inspectable evidence for every comparison."
+description: "Nine reports on World Cup recordings, regional swarms, broadcast audiences and rights, with a shared audit and downloadable evidence."
 ---
 
 <link rel="stylesheet" href="../resources/world-cup-stage1/report.css">
-<article class="wc-report" markdown="1">
+<link rel="stylesheet" href="../resources/world-cup-index.css">
+<article class="wc-report wc-index" id="top" markdown="1">
 
-[![Alpha60](../resources/a60-logo-block-gray.simple.svg)](world-cup.html)
-
-
-
-
-
-# World Cup 2026: distribution, languages, and sources
-
-<div class="wc-callout" markdown="1">
-**Sampling began June 29, 2026 — Round of 32.** This snapshot runs through November 3. It describes observed peer-to-peer distribution during that window, including later circulation of older matches. It does not measure the full tournament's live audience.
-
-Nine reports share one canonical torrent inventory, IPinfo geography at H3 resolution 8, and inspectable evidence for every comparison.
+<div class="wc-index-masthead">
+<a class="wc-index-brand" href="../index.html"><img src="../resources/a60-logo-block-gray.simple.svg" width="48" height="48" alt="Alpha60"><span>Sports research</span></a>
+<a class="wc-index-edition" href="#report-index">Research index <span class="wc-index-divider" aria-hidden="true">/</span><span class="wc-index-count">09 reports</span></a>
 </div>
 
-## Results
+<header class="wc-index-hero">
+<div><p class="wc-index-eyebrow">The tournament, in circulation</p><h1>World Cup <span>2026</span></h1></div>
+<div class="wc-index-intro"><p>Nine reports on tournament recordings in peer-to-peer networks: the files, the places, and their relationship to broadcast audiences.</p><a class="wc-index-text-link" href="#report-index">Explore the reports <span aria-hidden="true">↓</span></a></div>
+</header>
 
-[World Cup 2026 sample and cache audit](https://alpha60-devops.github.io/alpha60-results-2026/docs/itemized/world-cup-2026-sample-cache-audit.html)
+<dl class="wc-index-facts" aria-label="Collection scope">
+<div><dt>Canonical torrents</dt><dd>493</dd></div>
+<div><dt>Observed dates</dt><dd>128</dd></div>
+<div><dt>Sampling window · 2026</dt><dd class="wc-index-dates">June 29 <span aria-hidden="true">—</span><span class="wc-index-sr">to</span> November 3</dd></div>
+</dl>
 
-## Explore the nine reports
+<div class="wc-index-audit-wrap"><a class="wc-index-audit" href="https://alpha60-devops.github.io/alpha60-results-2026/docs/itemized/world-cup-2026-sample-cache-audit.html">
+<div><span class="wc-index-eyebrow">Start with the evidence</span><h2>Main results &amp; sample/cache audit</h2><p>Collection totals, sampling coverage and the torrent-level record behind the reports.</p></div><span class="wc-index-audit-arrow" aria-hidden="true">↗</span>
+</a></div>
 
-<div class="wc-card-grid">
-<div class="wc-card"><h3><a href="world-cup-swarm-media.html">Formats and resolution</a></h3><p>Video dimensions, codecs, encoder coverage and regional resolution mix.</p></div>
-<div class="wc-card"><h3><a href="world-cup-languages.html">Audio and subtitles</a></h3><p>English, Spanish and French counts; all 493 hashes; language combinations and packaging.</p></div>
-<div class="wc-card"><h3><a href="world-cup-distro-en-es-fr.html">Language and geography</a></h3><p>North American language distribution, census comparisons and their limits.</p></div>
-<div class="wc-card"><h3><a href="world-cup-distro-usa-mex.html">North America and matches</a></h3><p>Host-country totals, top upload/download locations, and equal-age match windows.</p></div>
-<div class="wc-card"><h3><a href="world-cup-ott-vendors.html">Broadcasters and services</a></h3><p>Evidence-based branding candidates and 22 native Cahill–Keyes maps.</p></div>
-<div class="wc-card"><h3><a href="world-cup-asia-28.html">Asia-28 and China</a></h3><p>Asia-28 rankings, temporal coverage, matched-age media comparisons and China hypotheses.</p></div>
-<div class="wc-card"><h3><a href="world-cup-southern.html">Latin America and South America</a></h3><p>Latin America and the Caribbean, with South America shown separately: places, networks, files and observation age.</p></div>
-<div class="wc-card"><h3><a href="world-cup-eur-27.html">EUR-27</a></h3><p>Country distribution, networks, observation age and European broadcast comparisons.</p></div>
-<div class="wc-card"><h3><a href="world-cup-2027-thoughts.html">Preparing for 2027</a></h3><p>What changes in Brazil, and a concrete sampling and analysis backlog.</p></div>
-</div>
+<section class="wc-index-contents" id="report-index" aria-labelledby="report-index-title">
+<div class="wc-index-section-head"><h2 id="report-index-title">Report index</h2><p>Nine ways into the same collection.</p></div>
+<nav class="wc-index-topics" aria-label="Report topics"><a href="#files-and-languages">Files &amp; languages <span>02</span></a><a href="#places-and-matches">Places &amp; matches <span>05</span></a><a href="#broadcast-and-2027">Broadcast &amp; 2027 <span>02</span></a></nav>
+<section class="wc-index-group" id="files-and-languages" aria-labelledby="files-and-languages-title">
+<div class="wc-index-group-heading"><p class="wc-index-eyebrow">What circulates</p><h3 id="files-and-languages-title">Files &amp; languages</h3><p>2 reports</p></div>
+<ol class="wc-index-list" start="1">
+<li><a class="wc-index-report" data-report="world-cup-swarm-media" href="world-cup-swarm-media.html"><span class="wc-index-number" aria-hidden="true">01</span><div><h4>Formats and resolution</h4><p>Video dimensions, codecs and encoding, with regional differences in resolution.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
+<li><a class="wc-index-report" data-report="world-cup-languages" href="world-cup-languages.html"><span class="wc-index-number" aria-hidden="true">02</span><div><h4>Audio and subtitles</h4><p>Audio, subtitles and language combinations, with the complete torrent inventory.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
+</ol>
+</section>
+<section class="wc-index-group" id="places-and-matches" aria-labelledby="places-and-matches-title">
+<div class="wc-index-group-heading"><p class="wc-index-eyebrow">Where it circulates</p><h3 id="places-and-matches-title">Places &amp; matches</h3><p>5 reports</p></div>
+<ol class="wc-index-list" start="3">
+<li><a class="wc-index-report" data-report="world-cup-distro-en-es-fr" href="world-cup-distro-en-es-fr.html"><span class="wc-index-number" aria-hidden="true">03</span><div><h4>Language and geography</h4><p>Spanish- and French-audio maps, FIFA venues and local swarms compared with national population rates.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
+<li><a class="wc-index-report" data-report="world-cup-distro-usa-mex" href="world-cup-distro-usa-mex.html"><span class="wc-index-number" aria-hidden="true">04</span><div><h4>North America and matches</h4><p>Canada, Mexico and the USA: downloader and uploader locations, network flags and matched observation windows.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
+<li><a class="wc-index-report" data-report="world-cup-asia-28" href="world-cup-asia-28.html"><span class="wc-index-number" aria-hidden="true">05</span><div><h4>Asia-28 and China</h4><p>Regional rankings, a closer look at China, and comparisons across media and observation periods.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
+<li><a class="wc-index-report" data-report="world-cup-southern" href="world-cup-southern.html"><span class="wc-index-number" aria-hidden="true">06</span><div><h4>Latin America and South America</h4><p>Latin America and the Caribbean, with South America examined separately by place, network and torrent.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
+<li><a class="wc-index-report" data-report="world-cup-eur-27" href="world-cup-eur-27.html"><span class="wc-index-number" aria-hidden="true">07</span><div><h4>EUR-27</h4><p>Twenty-seven European countries: geography, both swarm roles, network sensitivity and circulation over time.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
+</ol>
+</section>
+<section class="wc-index-group" id="broadcast-and-2027" aria-labelledby="broadcast-and-2027-title">
+<div class="wc-index-group-heading"><p class="wc-index-eyebrow">How to interpret it</p><h3 id="broadcast-and-2027-title">Broadcast &amp; 2027</h3><p>2 reports</p></div>
+<ol class="wc-index-list" start="8">
+<li><a class="wc-index-report" data-report="world-cup-ott-vendors" href="world-cup-ott-vendors.html"><span class="wc-index-number" aria-hidden="true">08</span><div><h4>Broadcasters and services</h4><p>Broadcast ratings, rights prices and torrent circulation across North America and Europe, plus 22 source-branding maps.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
+<li><a class="wc-index-report" data-report="world-cup-2027-thoughts" href="world-cup-2027-thoughts.html"><span class="wc-index-number" aria-hidden="true">09</span><div><h4>Preparing for 2027</h4><p>Sampling, discovery and language-metadata priorities for the next tournament in Brazil.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
+</ol>
+</section>
+</section>
+
+<section class="wc-index-snapshot" aria-labelledby="what-the-snapshot-establishes" markdown="1">
+<p class="wc-index-eyebrow">Read the numbers in context</p>
 
 ## What the snapshot establishes
+
+Sampling begins at the **Round of 32, on June 29**, and continues through
+November 3. It captures later circulation of earlier matches as well as
+activity during the tournament. Peer counts are **IP–torrent memberships**;
+they do not measure unique viewers, completed downloads or broadcast ratings.
+
+<details class="wc-index-coverage" markdown="1"><summary>Collection coverage at a glance</summary>
 
 <div class="wc-table-wrap" tabindex="0" role="region" aria-label="Measure">
 <table>
@@ -57,9 +85,26 @@ Nine reports share one canonical torrent inventory, IPinfo geography at H3 resol
 </div>
 The largest identified format is 1080-height AVC video. Language evidence is substantially stronger for English than Spanish or French. South Korea and China lead the observed Asia-28 distribution. The data do not establish individual listening choices, ethnic identity, national fandom, or a FOX–Telemundo audience crossover.
 
+</details>
+</section>
+
+<section class="wc-index-archive" aria-labelledby="archival-download">
+<div><p class="wc-index-eyebrow">Keep a copy</p><h2 id="archival-download">Archival Download</h2><p>The November 11, 2026 edition includes the eight original reports, this overview, the main audit and Coda / Share. It predates the venue analysis and EUR-27 additions.</p><p class="wc-index-file-meta">254 pages · 18.0 MB · Optimized raster figures</p></div>
+<a class="wc-index-download" href="../downloads/world-cup-results-20261111.pdf" download="world-cup-results-20261111.pdf"><span>Download the PDF</span><span class="wc-index-download-date">November 11, 2026 <span aria-hidden="true">↓</span></span></a>
+</section>
+
+<section class="wc-index-reuse" aria-labelledby="reuse-and-audit" markdown="1">
+
+## Reuse and audit
+
+The shared inventory, geography, source records and counting rules are available
+for inspection and reuse. Each report also carries its own evidence and downloads.
+
+<details class="wc-sources" markdown="1"><summary>Sources, downloads, and counting rules</summary>
+
 <a id="methods"></a>
 
-## Methods and coverage
+### Methods and coverage
 
 The [shared inventory builder](https://github.com/bdekoz/alpha60/blob/main/scripts/build-torrent-inventory.py) preserves original `.torrent` info-byte hashes, full v2 hashes and verified hybrid aliases. Filenames are content evidence and source references, not identity keys. The six initially unmatched media hashes are verified v1/v2 aliases; no unmatched media records remain. The one metadata variation is a zero versus nonzero cached-file-size reading, not conflicting language or codec values.
 
@@ -90,13 +135,19 @@ The catalog expands from **two torrents with a daily cache on June 29 to 416 on 
 
 The public files contain aggregated geography and content metadata. Unfiltered small-cell products and cached video fragments remain local; their checksums and review evidence support the analysis.
 
-## Archival Download
+### Counting rules and shared sources
 
-<a href="../downloads/world-cup-results-20261111.pdf" download="world-cup-results-20261111.pdf">Download the World Cup results report — November 11, 2026 (PDF, 18.0 MB)</a>
+[Source manifest](../data/world-cup-stage1/provenance.json) · [Validation summary](../data/world-cup-stage1/validation-summary.json)
 
-This 254-page edition includes the nine World Cup sports pages, the main sample/cache audit, and the Coda / Share appendix. Charts and maps use optimized raster images for easier viewing.
+All content joins use the [shared inventory](../data/world-cup-stage1/torrent-inventory.json.gz): **493 canonical BTIHA**, with verified hybrid-hash aliases. Alpha60 sampling began **June 29, 2026 — Round of 32**, and ends November 3 in this snapshot. Earlier-event media found later does not establish earlier sampling.
 
-## Reuse and audit
+Geographic counts are **IP–torrent memberships**, with an IP counted once per canonical torrent and role within the stated interval. They are not unique people, viewing choices, completed downloads, transferred bytes, or ratings. An address can occur in both roles. Daily sums count the same membership again on another day.
+
+Main geography uses **IPinfo and H3 resolution 8**, the highest resolution used here. The native minimum is **three downloaders per cell**; uploaders are retained only where that downloader threshold passes. Content comparisons filter each torrent separately. Overall country and city comparisons filter after aggregating torrents, so their totals differ. Country and city labels are representative locations within cells, and the finer grid does not improve IPinfo accuracy. Hosting, VPN, proxy and mobile flags overlap; each sensitivity exclusion is applied separately.
+
+See the [H3r8 manifest](../H3r8/manifest.json), [generation and validation evidence](../data/world-cup-stage1/validation-summary.json), [complete analytical reductions](../data/world-cup-stage1/analysis.json.gz), and [methods and coverage](world-cup.html#methods). Source hashes make the published snapshot inspectable.
+
+### Data and audit files
 
 [Canonical torrent inventory](../data/world-cup-stage1/torrent-inventory.json.gz) · [All language indicators](../data/world-cup-stage1/torrent-language-indicators.csv) · [Country memberships by torrent](../data/world-cup-stage1/torrent-country-memberships.csv) · [Vendor evidence](../data/world-cup-stage1/vendor-attribution.csv) · [Validation summary](../data/world-cup-stage1/validation-summary.json) · [Source and calculation manifest](../data/world-cup-stage1/provenance.json)
 
@@ -277,21 +328,9 @@ These links preserve the original research questions. Their television ratings a
 
 </details>
 
-
-
-<details class="wc-sources" markdown="1">
-<summary>Sources, downloads, and counting rules</summary>
-
-[Source manifest](../data/world-cup-stage1/provenance.json) · [Validation summary](../data/world-cup-stage1/validation-summary.json)
-
-All content joins use the [shared inventory](../data/world-cup-stage1/torrent-inventory.json.gz): **493 canonical BTIHA**, with verified hybrid-hash aliases. Alpha60 sampling began **June 29, 2026 — Round of 32**, and ends November 3 in this snapshot. Earlier-event media found later does not establish earlier sampling.
-
-Geographic counts are **IP–torrent memberships**, with an IP counted once per canonical torrent and role within the stated interval. They are not unique people, viewing choices, completed downloads, transferred bytes, or ratings. An address can occur in both roles. Daily sums count the same membership again on another day.
-
-Main geography uses **IPinfo and H3 resolution 8**, the highest resolution used here. The native minimum is **three downloaders per cell**; uploaders are retained only where that downloader threshold passes. Content comparisons filter each torrent separately. Overall country and city comparisons filter after aggregating torrents, so their totals differ. Country and city labels are representative locations within cells, and the finer grid does not improve IPinfo accuracy. Hosting, VPN, proxy and mobile flags overlap; each sensitivity exclusion is applied separately.
-
-See the [H3r8 manifest](../H3r8/manifest.json), [generation and validation evidence](../data/world-cup-stage1/validation-summary.json), [complete analytical reductions](../data/world-cup-stage1/analysis.json.gz), and [methods and coverage](world-cup.html#methods). Source hashes make the published snapshot inspectable.
-
 </details>
+</section>
 
+<footer class="wc-index-footer"><span>Alpha60 · World Cup 2026</span><a href="#top">Back to top <span aria-hidden="true">↑</span></a></footer>
 </article>
+<script src="../resources/world-cup-index.js" defer></script>
