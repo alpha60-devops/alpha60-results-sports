@@ -928,14 +928,14 @@ The 51 FOX assignments can be distinguished from unknown material using their re
 
 ## Native Cahill–Keyes maps
 
-Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keyes projection, and H3r8 cells from the assigned canonical torrent cohort. Retained counts are summed without inflating them to unfiltered swarm totals. Unknown and conflicting cases have a separate map.
+Each map shows **only the torrents attributed to that vendor**, using alpha60-carto-geo's native swarm rendering, the Cahill–Keyes projection, and retained H3r8 cells. Every torrent has its own overlapping geographic cloud. Retained counts are not inflated to unfiltered swarm totals. Unknown and conflicting cases have a separate map.
 
-**Legend:** blue marks show downloader memberships; green shows mobile flags; purple rings show hosting flags; pink rings show service flags; red triangles show satellite flags. Categories overlap. **Each map scales its marks independently**, including its network layers: compare geographic patterns within a map, and use numeric counts to compare vendors. Small marks and labels are easier to inspect in the downloadable SVG.
+**Legend:** yellow/orange clouds identify 2160-height torrents, pink/purple identifies 1080, blue identifies 720, green identifies lower resolutions, and gray identifies unknown resolution. Circle area follows retained downloader memberships, with 5% opacity so overlapping torrent swarms accumulate. The largest-location labels are retained where they fit without overlapping. Small marks are easier to inspect in the downloadable SVG, which includes its basemap.
 
 <details markdown="1">
 <summary>Match TV · 129 torrents · 17,154,428 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-match-tv.svg"><img src="../resources/world-cup-stage1/vendor-match-tv.webp" alt="Cahill–Keyes map of Match TV candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>Match TV. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-match-tv.svg"><img src="../resources/world-cup-stage1/vendor-match-tv.webp" alt="Cahill–Keyes swarm map of the 129 torrents attributed to Match TV at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>Match TV. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-match-tv.svg) · [Map data](../data/world-cup-stage1/vendor-match-tv.geojson.gz)
 
@@ -943,7 +943,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>FOX · 51 torrents · 6,346,065 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-fox.svg"><img src="../resources/world-cup-stage1/vendor-fox.webp" alt="Cahill–Keyes map of FOX candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>FOX. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-fox.svg"><img src="../resources/world-cup-stage1/vendor-fox.webp" alt="Cahill–Keyes swarm map of the 51 torrents attributed to FOX at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>FOX. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-fox.svg) · [Map data](../data/world-cup-stage1/vendor-fox.geojson.gz)
 
@@ -951,7 +951,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>BBC · 46 torrents · 5,477,453 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-bbc.svg"><img src="../resources/world-cup-stage1/vendor-bbc.webp" alt="Cahill–Keyes map of BBC candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>BBC. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-bbc.svg"><img src="../resources/world-cup-stage1/vendor-bbc.webp" alt="Cahill–Keyes swarm map of the 46 torrents attributed to BBC at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>BBC. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-bbc.svg) · [Map data](../data/world-cup-stage1/vendor-bbc.geojson.gz)
 
@@ -959,7 +959,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>TSN · 21 torrents · 2,891,497 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-tsn.svg"><img src="../resources/world-cup-stage1/vendor-tsn.webp" alt="Cahill–Keyes map of TSN candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>TSN. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-tsn.svg"><img src="../resources/world-cup-stage1/vendor-tsn.webp" alt="Cahill–Keyes swarm map of the 21 torrents attributed to TSN at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>TSN. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-tsn.svg) · [Map data](../data/world-cup-stage1/vendor-tsn.geojson.gz)
 
@@ -967,7 +967,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>BNT · 20 torrents · 2,030,496 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-bnt.svg"><img src="../resources/world-cup-stage1/vendor-bnt.webp" alt="Cahill–Keyes map of BNT candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>BNT. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-bnt.svg"><img src="../resources/world-cup-stage1/vendor-bnt.webp" alt="Cahill–Keyes swarm map of the 20 torrents attributed to BNT at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>BNT. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-bnt.svg) · [Map data](../data/world-cup-stage1/vendor-bnt.geojson.gz)
 
@@ -975,7 +975,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>ITV · 20 torrents · 1,476,594 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-itv.svg"><img src="../resources/world-cup-stage1/vendor-itv.webp" alt="Cahill–Keyes map of ITV candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>ITV. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-itv.svg"><img src="../resources/world-cup-stage1/vendor-itv.webp" alt="Cahill–Keyes swarm map of the 20 torrents attributed to ITV at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>ITV. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-itv.svg) · [Map data](../data/world-cup-stage1/vendor-itv.geojson.gz)
 
@@ -983,7 +983,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>Sport TV (Cyrillic label) · 16 torrents · 1,834,376 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-sport-tv-cyrillic-label.svg"><img src="../resources/world-cup-stage1/vendor-sport-tv-cyrillic-label.webp" alt="Cahill–Keyes map of Sport TV (Cyrillic label) candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>Sport TV (Cyrillic label). June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-sport-tv-cyrillic-label.svg"><img src="../resources/world-cup-stage1/vendor-sport-tv-cyrillic-label.webp" alt="Cahill–Keyes swarm map of the 16 torrents attributed to Sport TV (Cyrillic label) at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>Sport TV (Cyrillic label). June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-sport-tv-cyrillic-label.svg) · [Map data](../data/world-cup-stage1/vendor-sport-tv-cyrillic-label.geojson.gz)
 
@@ -991,7 +991,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>MagentaTV / FUSSBALL.TV 1 · 9 torrents · 1,118,998 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-fussball-tv-1.svg"><img src="../resources/world-cup-stage1/vendor-fussball-tv-1.webp" alt="Cahill–Keyes map of MagentaTV / FUSSBALL.TV 1 candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>MagentaTV / FUSSBALL.TV 1. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-fussball-tv-1.svg"><img src="../resources/world-cup-stage1/vendor-fussball-tv-1.webp" alt="Cahill–Keyes swarm map of the 9 torrents attributed to MagentaTV / FUSSBALL.TV 1 at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>MagentaTV / FUSSBALL.TV 1. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-fussball-tv-1.svg) · [Map data](../data/world-cup-stage1/vendor-fussball-tv-1.geojson.gz)
 
@@ -999,7 +999,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>MEGOGO · 9 torrents · 1,057,847 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-megogo.svg"><img src="../resources/world-cup-stage1/vendor-megogo.webp" alt="Cahill–Keyes map of MEGOGO candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>MEGOGO. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-megogo.svg"><img src="../resources/world-cup-stage1/vendor-megogo.webp" alt="Cahill–Keyes swarm map of the 9 torrents attributed to MEGOGO at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>MEGOGO. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-megogo.svg) · [Map data](../data/world-cup-stage1/vendor-megogo.geojson.gz)
 
@@ -1007,7 +1007,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>TVRI · 8 torrents · 797,782 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-tvri.svg"><img src="../resources/world-cup-stage1/vendor-tvri.webp" alt="Cahill–Keyes map of TVRI candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>TVRI. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-tvri.svg"><img src="../resources/world-cup-stage1/vendor-tvri.webp" alt="Cahill–Keyes swarm map of the 8 torrents attributed to TVRI at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>TVRI. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-tvri.svg) · [Map data](../data/world-cup-stage1/vendor-tvri.geojson.gz)
 
@@ -1015,7 +1015,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>Antena / AntenaPlay · 7 torrents · 197,223 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-antena-antenaplay.svg"><img src="../resources/world-cup-stage1/vendor-antena-antenaplay.webp" alt="Cahill–Keyes map of Antena / AntenaPlay candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>Antena / AntenaPlay. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-antena-antenaplay.svg"><img src="../resources/world-cup-stage1/vendor-antena-antenaplay.webp" alt="Cahill–Keyes swarm map of the 7 torrents attributed to Antena / AntenaPlay at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>Antena / AntenaPlay. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-antena-antenaplay.svg) · [Map data](../data/world-cup-stage1/vendor-antena-antenaplay.geojson.gz)
 
@@ -1023,7 +1023,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>ETV+ · 6 torrents · 648,766 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-etv.svg"><img src="../resources/world-cup-stage1/vendor-etv.webp" alt="Cahill–Keyes map of ETV+ candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>ETV+. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-etv.svg"><img src="../resources/world-cup-stage1/vendor-etv.webp" alt="Cahill–Keyes swarm map of the 6 torrents attributed to ETV+ at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>ETV+. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-etv.svg) · [Map data](../data/world-cup-stage1/vendor-etv.geojson.gz)
 
@@ -1031,7 +1031,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>M6 · 4 torrents · 538,403 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-m6.svg"><img src="../resources/world-cup-stage1/vendor-m6.webp" alt="Cahill–Keyes map of M6 candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>M6. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-m6.svg"><img src="../resources/world-cup-stage1/vendor-m6.webp" alt="Cahill–Keyes swarm map of the 4 torrents attributed to M6 at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>M6. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-m6.svg) · [Map data](../data/world-cup-stage1/vendor-m6.geojson.gz)
 
@@ -1039,7 +1039,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>DAZN · 3 torrents · 313,784 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-dazn.svg"><img src="../resources/world-cup-stage1/vendor-dazn.webp" alt="Cahill–Keyes map of DAZN candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>DAZN. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-dazn.svg"><img src="../resources/world-cup-stage1/vendor-dazn.webp" alt="Cahill–Keyes swarm map of the 3 torrents attributed to DAZN at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>DAZN. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-dazn.svg) · [Map data](../data/world-cup-stage1/vendor-dazn.geojson.gz)
 
@@ -1047,7 +1047,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>Rai · 3 torrents · 408,884 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-rai.svg"><img src="../resources/world-cup-stage1/vendor-rai.webp" alt="Cahill–Keyes map of Rai candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>Rai. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-rai.svg"><img src="../resources/world-cup-stage1/vendor-rai.webp" alt="Cahill–Keyes swarm map of the 3 torrents attributed to Rai at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>Rai. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-rai.svg) · [Map data](../data/world-cup-stage1/vendor-rai.geojson.gz)
 
@@ -1055,7 +1055,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>RTVE · 2 torrents · 334,583 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-rtve.svg"><img src="../resources/world-cup-stage1/vendor-rtve.webp" alt="Cahill–Keyes map of RTVE candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>RTVE. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-rtve.svg"><img src="../resources/world-cup-stage1/vendor-rtve.webp" alt="Cahill–Keyes swarm map of the 2 torrents attributed to RTVE at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>RTVE. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-rtve.svg) · [Map data](../data/world-cup-stage1/vendor-rtve.geojson.gz)
 
@@ -1063,7 +1063,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>SBS · 2 torrents · 311,241 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-sbs.svg"><img src="../resources/world-cup-stage1/vendor-sbs.webp" alt="Cahill–Keyes map of SBS candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>SBS. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-sbs.svg"><img src="../resources/world-cup-stage1/vendor-sbs.webp" alt="Cahill–Keyes swarm map of the 2 torrents attributed to SBS at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>SBS. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-sbs.svg) · [Map data](../data/world-cup-stage1/vendor-sbs.geojson.gz)
 
@@ -1071,7 +1071,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>ARD · 1 torrents · 116,292 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-ard.svg"><img src="../resources/world-cup-stage1/vendor-ard.webp" alt="Cahill–Keyes map of ARD candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>ARD. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-ard.svg"><img src="../resources/world-cup-stage1/vendor-ard.webp" alt="Cahill–Keyes swarm map of the 1 torrents attributed to ARD at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>ARD. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-ard.svg) · [Map data](../data/world-cup-stage1/vendor-ard.geojson.gz)
 
@@ -1079,7 +1079,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>NHK · 1 torrents · 93,516 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-nhk.svg"><img src="../resources/world-cup-stage1/vendor-nhk.webp" alt="Cahill–Keyes map of NHK candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>NHK. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-nhk.svg"><img src="../resources/world-cup-stage1/vendor-nhk.webp" alt="Cahill–Keyes swarm map of the 1 torrents attributed to NHK at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>NHK. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-nhk.svg) · [Map data](../data/world-cup-stage1/vendor-nhk.geojson.gz)
 
@@ -1087,7 +1087,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>Now TV · 1 torrents · 12 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-now-tv.svg"><img src="../resources/world-cup-stage1/vendor-now-tv.webp" alt="Cahill–Keyes map of Now TV candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>Now TV. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-now-tv.svg"><img src="../resources/world-cup-stage1/vendor-now-tv.webp" alt="Cahill–Keyes swarm map of the 1 torrents attributed to Now TV at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>Now TV. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-now-tv.svg) · [Map data](../data/world-cup-stage1/vendor-now-tv.geojson.gz)
 
@@ -1095,7 +1095,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>ZDF · 1 torrents · 129,017 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-zdf.svg"><img src="../resources/world-cup-stage1/vendor-zdf.webp" alt="Cahill–Keyes map of ZDF candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>ZDF. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-zdf.svg"><img src="../resources/world-cup-stage1/vendor-zdf.webp" alt="Cahill–Keyes swarm map of the 1 torrents attributed to ZDF at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>ZDF. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-zdf.svg) · [Map data](../data/world-cup-stage1/vendor-zdf.geojson.gz)
 
@@ -1103,7 +1103,7 @@ Each map uses **alpha60-carto-geo's current swarm rendering**, the Cahill–Keye
 <details markdown="1">
 <summary>Unknown or conflicting · 133 torrents · 9,056,183 downloader memberships</summary>
 
-<figure><a href="../resources/world-cup-stage1/vendor-unknown-or-conflicting.svg"><img src="../resources/world-cup-stage1/vendor-unknown-or-conflicting.webp" alt="Cahill–Keyes map of Unknown or conflicting candidate-source downloader distribution at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>Unknown or conflicting. June 29–November 3, 2026; per-torrent downloader threshold of three; relative native scaling within this map.</figcaption></figure>
+<figure><a href="../resources/world-cup-stage1/vendor-unknown-or-conflicting.svg"><img src="../resources/world-cup-stage1/vendor-unknown-or-conflicting.webp" alt="Cahill–Keyes swarm map of the 133 torrents attributed to Unknown or conflicting at H3 resolution 8" width="2112" height="1056" loading="lazy"></a><figcaption>Unknown or conflicting. June 29–November 3, 2026; per-torrent downloader threshold of three; native torrent clouds at 5% opacity.</figcaption></figure>
 
 [Vector map](../resources/world-cup-stage1/vendor-unknown-or-conflicting.svg) · [Map data](../data/world-cup-stage1/vendor-unknown-or-conflicting.geojson.gz)
 
