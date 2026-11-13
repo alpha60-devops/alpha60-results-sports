@@ -1,0 +1,13 @@
+{
+  "schema": "alpha60-world-cup-media-market-bundle/1",
+  "analysis_sha256": "9d47fdc8eb60688444b0811998adc251a771f50c214292be0c63a1268fc852cd",
+  "builder_sha256": "d8ba3cf4362de66b81c405747ede1498c89e7c8f46986c2f8307f43fa562e4d2",
+  "files": {
+    "analysis.json": "9d47fdc8eb60688444b0811998adc251a771f50c214292be0c63a1268fc852cd",
+    "metro-candidates.csv": "a12264ac4701426a0fe9ad2da5284e456a3b2b9f5d84d08e4e841b3bf243de9f",
+    "metro-top25.csv": "e47ec2239573de349711c6097d2cda7b06ac9418dd97927fde2f125d6adbee97",
+    "tvb-pro-sports-2025-26.pdf": "6b7b3c47409af22a0114efb21013ee9835d1c3fe135ee42fdf494d86309e845d",
+    "us-tv-markets.csv": "71bee7994b736b4b4abfb367a1bb996dcf10e83ce6cc1d7c860539075c9688a7",
+    "venue-crosswalk.csv": "977bec740d3b81e37726d99fe29e1f9dafff591461ca8d59b7f356163289df8f"
+  }
+}

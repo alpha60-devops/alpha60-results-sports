@@ -1,0 +1,46 @@
+rank,market,venue_ids,stadium_nfl_tenants
+1,New York,new-york-new-jersey,New York Giants
+2,Los Angeles,los-angeles,L.A. Chargers
+3,Chicago,,
+4,Dallas-Ft. Worth,dallas,Dallas Cowboys
+5,Philadelphia,philadelphia,Philadelphia Eagles
+6,Houston,houston,Houston Texans
+7,Atlanta,atlanta,Atlanta Falcons
+8,"Washington, DC (Hagrstwn)",,
+9,San Francisco-Oak-San Jose,san-francisco,San Francisco 49ers
+10,Boston (Manchester),boston,New England Patriots
+11,Tampa-St. Pete (Sarasota),,
+12,Phoenix (Prescott),,
+13,Seattle-Tacoma,seattle,Seattle Seahawks
+14,Detroit,,
+15,Orlando-Daytona Bch-Melbrn,,
+16,Minneapolis-St. Paul,,
+17,Denver,,
+18,Miami-Ft. Lauderdale,miami,Miami Dolphins
+19,Cleveland-Akron (Canton),,
+20,Sacramnto-Stkton-Modesto,,
+21,Charlotte,,
+22,Raleigh-Durham (Fayetville),,
+23,"Portland, OR",,
+24,St. Louis,,
+25,Nashville,,
+26,Indianapolis,,
+27,Salt Lake City,,
+28,Pittsburgh,,
+29,Baltimore,,
+30,San Diego,,
+31,San Antonio,,
+32,Austin,,
+33,Hartford & New Haven,,
+34,"Columbus, OH",,
+35,Kansas City,kansas-city,Kansas City Chiefs
+38,Cincinnati,,
+39,Milwaukee,,
+40,Las Vegas,,
+41,Jacksonville,,
+45,Oklahoma City,,
+46,Birmingham (Ann and Tusc),,
+50,New Orleans,,
+51,Memphis,,
+55,Buffalo,,
+68,Green Bay-Appleton,,

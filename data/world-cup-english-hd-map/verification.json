@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "map_count": 1,
+  "maps": [
+    {
+      "id": "english-hd-north-america",
+      "torrent_count": 178,
+      "cities": 2822,
+      "zero_downloader_members": [
+        56,
+        619
+      ],
+      "downloaders": 1842347,
+      "rendering": {
+        "file": "english-hd-north-america.svg",
+        "status": "passed",
+        "circles": 98515,
+        "area_weight": 1842346.991708166,
+        "vector_only": true,
+        "glyph_containment": true,
+        "audit_location_labels_checked": 10
+      }
+    }
+  ],
+  "manifest_sha256": "657052092e0ad9420b61732f8ca3fb7e20f0d866fc143f61bcaa241b411350bf",
+  "source_country_reconciliation": "selected plus excluded counts independently match original source",
+  "reference_map_geometry_frame_and_scale": true,
+  "reference_map_max_coordinate_delta": 1.000012161966879e-08,
+  "verified_audio_selection": true,
+  "excluded_geography_absent": true,
+  "city_csv_and_native_totals": true,
+  "shared_frame_and_area_scale": true,
+  "identical_country_geometry": true,
+  "stable_torrent_colors_and_per_color_weights": true,
+  "artifact_hashes": true
+}

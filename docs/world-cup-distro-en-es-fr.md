@@ -28,16 +28,95 @@ the Western Aleutians are excluded. City names are centered above the stadium do
 
 <figure data-venue-map="fifa-venues-2026"><a href="../resources/world-cup-venues/fifa-venues-2026.svg"><img src="../resources/world-cup-venues/fifa-venues-2026.webp" width="3200" height="4579" alt="FIFA Venues 2026: all sixteen stadiums, with city names above their dots. Guadalajara and Philadelphia are black group-stage-only dots; the other fourteen are larger red dots with black outlines for both stages."></a><figcaption>Black: group stage only. Larger red: Round of 32 only. Larger red with a 1 pt black outline: both. Guadalajara and Philadelphia hosted only the group stage; the other fourteen venues hosted both. There are no Round-of-32-only venues. <a href="../resources/world-cup-venues/fifa-venues-2026.svg">Full-size SVG</a> · <a href="../resources/world-cup-venues/fifa-venues-2026.png">PNG</a> · <a href="../resources/world-cup-venues/fifa-venues-2026.webp">WebP</a>.</figcaption></figure>
 
+<!-- BEGIN world-cup-media-markets -->
+
+### FIFA venues and major media markets
+
+**Read these as percentages of stadiums:**
+
+- **90.9% means ten of the eleven U.S. FIFA stadiums are in the
+  top twenty-five U.S. TV markets.** Kansas City is the exception. The five
+  Canadian and Mexican stadiums are excluded from this U.S. denominator.
+- **87.5% means fourteen of all sixteen FIFA stadiums are in the
+  top twenty-five metros by population across the USA, Canada and Mexico.**
+  This counts stadiums located in those metros, not the people living there.
+
+**Neither percentage measures population coverage. Population coverage has
+not been calculated.** The three-country metro comparison is a population
+proxy for market size, not a continental TV-market ranking.
+
+**Ten of the top twenty-five U.S. television markets contain a FIFA venue:
+40.0% of those markets, covering ten of the eleven U.S. stadiums
+(90.9%).** Kansas City is the U.S. exception, ranked 35 in TVB's
+2025–26 Nielsen table. These ranks measure TV-household market size, including
+broadband-only homes; the percentages count markets and stadiums, not viewers.
+
+The overlap is New York, Los Angeles, Dallas–Fort Worth, Philadelphia, Houston,
+Atlanta, San Francisco–Oakland–San Jose, Boston, Seattle–Tacoma and Miami.
+The fifteen other top-twenty-five U.S. TV markets have no tournament stadium.
+Canada and Mexico are outside this U.S. ranking's universe, rather than assigned
+low or zero U.S. market ranks.
+
+<div class="wc-table-wrap" tabindex="0" role="region" aria-label="Top 25 U.S. TV markets · Nielsen 2025–26 ranks via TVB"><table id="world-cup-tv-markets"><caption>Top 25 U.S. TV markets · Nielsen 2025–26 ranks via TVB</caption><thead><tr><th scope="col">TV-household rank</th><th scope="col">U.S. television market</th><th scope="col">FIFA host label</th></tr></thead><tbody><tr><td>1</td><td>New York</td><td>New York New Jersey</td></tr><tr><td>2</td><td>Los Angeles</td><td>Los Angeles</td></tr><tr><td>3</td><td>Chicago</td><td>No venue</td></tr><tr><td>4</td><td>Dallas-Ft. Worth</td><td>Dallas</td></tr><tr><td>5</td><td>Philadelphia</td><td>Philadelphia</td></tr><tr><td>6</td><td>Houston</td><td>Houston</td></tr><tr><td>7</td><td>Atlanta</td><td>Atlanta</td></tr><tr><td>8</td><td>Washington, DC (Hagrstwn)</td><td>No venue</td></tr><tr><td>9</td><td>San Francisco-Oak-San Jose</td><td>San Francisco</td></tr><tr><td>10</td><td>Boston (Manchester)</td><td>Boston</td></tr><tr><td>11</td><td>Tampa-St. Pete (Sarasota)</td><td>No venue</td></tr><tr><td>12</td><td>Phoenix (Prescott)</td><td>No venue</td></tr><tr><td>13</td><td>Seattle-Tacoma</td><td>Seattle</td></tr><tr><td>14</td><td>Detroit</td><td>No venue</td></tr><tr><td>15</td><td>Orlando-Daytona Bch-Melbrn</td><td>No venue</td></tr><tr><td>16</td><td>Minneapolis-St. Paul</td><td>No venue</td></tr><tr><td>17</td><td>Denver</td><td>No venue</td></tr><tr><td>18</td><td>Miami-Ft. Lauderdale</td><td>Miami</td></tr><tr><td>19</td><td>Cleveland-Akron (Canton)</td><td>No venue</td></tr><tr><td>20</td><td>Sacramnto-Stkton-Modesto</td><td>No venue</td></tr><tr><td>21</td><td>Charlotte</td><td>No venue</td></tr><tr><td>22</td><td>Raleigh-Durham (Fayetville)</td><td>No venue</td></tr><tr><td>23</td><td>Portland, OR</td><td>No venue</td></tr><tr><td>24</td><td>St. Louis</td><td>No venue</td></tr><tr><td>25</td><td>Nashville</td><td>No venue</td></tr></tbody></table></div>
+
+
+#### USA–Canada–Mexico: a separate population proxy
+
+**Fourteen of the twenty-five largest official metros in the three host countries
+contain a FIFA stadium: 56.0% metro coverage and fourteen of sixteen
+stadiums (87.5% venue coverage).** This is a metropolitan-population
+proxy for market size, not a verified North American TV-market ranking.
+The scope is the USA, Canada and Mexico.
+
+**Population dates differ: July 2025 estimates for the USA and Canada; the
+March 2020 census for Mexico.** The ranking uses all 520 candidate areas in
+the frozen official files, not only host cities. Metro definitions also differ
+between the countries. Vancouver is rank 25 at 3,088,036 residents; Orlando
+is rank 26 at 2,957,672. No 2026 population or audience estimate is inferred.
+On small screens, scroll the following table sideways to see the venue column.
+
+<div class="wc-table-wrap" tabindex="0" role="region" aria-label="Top 25 host-country metros by population · proxy, not television markets"><table id="world-cup-metro-markets" style="min-width:820px"><caption>Top 25 host-country metros by population · proxy, not television markets</caption><thead><tr><th scope="col">Rank</th><th scope="col">Country</th><th scope="col">Official metro</th><th scope="col">Residents</th><th scope="col">Population date</th><th scope="col">FIFA host label</th></tr></thead><tbody><tr><td>1</td><td>MEX</td><td>Ciudad de México</td><td>21,436,911</td><td>2020-03-15</td><td>Mexico City</td></tr><tr><td>2</td><td>USA</td><td>New York-Newark-Jersey City, NY-NJ</td><td>20,112,448</td><td>2025-07-01</td><td>New York New Jersey</td></tr><tr><td>3</td><td>USA</td><td>Los Angeles-Long Beach-Anaheim, CA</td><td>12,844,441</td><td>2025-07-01</td><td>Los Angeles</td></tr><tr><td>4</td><td>USA</td><td>Chicago-Naperville-Elgin, IL-IN</td><td>9,434,123</td><td>2025-07-01</td><td>No venue</td></tr><tr><td>5</td><td>USA</td><td>Dallas-Fort Worth-Arlington, TX</td><td>8,477,157</td><td>2025-07-01</td><td>Dallas</td></tr><tr><td>6</td><td>USA</td><td>Houston-Pasadena-The Woodlands, TX</td><td>7,904,627</td><td>2025-07-01</td><td>Houston</td></tr><tr><td>7</td><td>CAN</td><td>Toronto (CMA), Ontario</td><td>7,108,874</td><td>2025-07-01</td><td>Toronto</td></tr><tr><td>8</td><td>USA</td><td>Atlanta-Sandy Springs-Roswell, GA</td><td>6,482,182</td><td>2025-07-01</td><td>Atlanta</td></tr><tr><td>9</td><td>USA</td><td>Washington-Arlington-Alexandria, DC-VA-MD-WV</td><td>6,465,724</td><td>2025-07-01</td><td>No venue</td></tr><tr><td>10</td><td>USA</td><td>Miami-Fort Lauderdale-West Palm Beach, FL</td><td>6,391,072</td><td>2025-07-01</td><td>Miami</td></tr><tr><td>11</td><td>USA</td><td>Philadelphia-Camden-Wilmington, PA-NJ-DE-MD</td><td>6,329,118</td><td>2025-07-01</td><td>Philadelphia</td></tr><tr><td>12</td><td>MEX</td><td>Monterrey</td><td>5,322,117</td><td>2020-03-15</td><td>Monterrey</td></tr><tr><td>13</td><td>USA</td><td>Phoenix-Mesa-Chandler, AZ</td><td>5,228,938</td><td>2025-07-01</td><td>No venue</td></tr><tr><td>14</td><td>MEX</td><td>Guadalajara</td><td>5,110,617</td><td>2020-03-15</td><td>Guadalajara</td></tr><tr><td>15</td><td>USA</td><td>Boston-Cambridge-Newton, MA-NH</td><td>5,034,221</td><td>2025-07-01</td><td>Boston</td></tr><tr><td>16</td><td>USA</td><td>Riverside-San Bernardino-Ontario, CA</td><td>4,769,007</td><td>2025-07-01</td><td>No venue</td></tr><tr><td>17</td><td>USA</td><td>San Francisco-Oakland-Fremont, CA</td><td>4,630,041</td><td>2025-07-01</td><td>No venue</td></tr><tr><td>18</td><td>CAN</td><td>Montréal (CMA), Quebec</td><td>4,597,837</td><td>2025-07-01</td><td>No venue</td></tr><tr><td>19</td><td>USA</td><td>Detroit-Warren-Dearborn, MI</td><td>4,390,913</td><td>2025-07-01</td><td>No venue</td></tr><tr><td>20</td><td>USA</td><td>Seattle-Tacoma-Bellevue, WA</td><td>4,161,883</td><td>2025-07-01</td><td>Seattle</td></tr><tr><td>21</td><td>USA</td><td>Minneapolis-St. Paul-Bloomington, MN-WI</td><td>3,790,295</td><td>2025-07-01</td><td>No venue</td></tr><tr><td>22</td><td>USA</td><td>Tampa-St. Petersburg-Clearwater, FL</td><td>3,418,895</td><td>2025-07-01</td><td>No venue</td></tr><tr><td>23</td><td>USA</td><td>San Diego-Chula Vista-Carlsbad, CA</td><td>3,282,248</td><td>2025-07-01</td><td>No venue</td></tr><tr><td>24</td><td>USA</td><td>Denver-Aurora-Centennial, CO</td><td>3,092,037</td><td>2025-07-01</td><td>No venue</td></tr><tr><td>25</td><td>CAN</td><td>Vancouver (CMA), British Columbia</td><td>3,088,036</td><td>2025-07-01</td><td>Vancouver</td></tr></tbody></table></div>
+
+
+The two stadiums outside this proxy's top twenty-five are Kansas City
+(metro rank 39) and the San Francisco host venue in Santa Clara
+(San Jose–Sunnyvale–Santa Clara, rank 45). The San Francisco metro itself
+is rank 17 but does not contain the stadium. **The Bay Area TV market does
+include that venue:** the TV-market and metro definitions answer different
+questions. Toronto, Vancouver, Mexico City, Guadalajara and Monterrey are
+all inside the population proxy's top twenty-five.
+
+#### Check the population dates
+
+Using the same fixed metro definitions with 2020 population values for all
+three countries gives thirteen of twenty-five metros (52.0%) and
+thirteen of sixteen stadiums (81.3%); Vancouver falls to rank 28.
+The U.S. and Canadian 2020 values are July estimates and Mexico's census is
+from March. This sensitivity is not a projection or a confidence interval.
+The mixed population vintages therefore matter to the proxy's cutoff.
+
+[Ranked lists, stadium crosswalk, sources and calculation checks](#world-cup-media-market-sources).
+
+<!-- END world-cup-media-markets -->
+
 <!-- END world-cup-venues -->
 
 <!-- BEGIN world-cup-language-maps -->
 
-## Spanish- and French-audio maps
+<a id="spanish-and-french-audio-maps"></a>
+
+## English-, Spanish-, and French-audio maps
 
 USA, Canada and Mexico, excluding Alaska, Hawaii and the Western Aleutians.
 These plates select verified audio tracks and cover June 29–November 3, 2026.
 Circle area shows retained downloader IP–torrent memberships, including hosting
 networks; it does not measure viewers or which audio track was played.
+
+The English plate selects HD and UHD files at 720p, 1080p and 2160p; SD files are excluded. Spanish and French retain their existing selections.
+
+### English audio · HD + UHD
+
+<figure data-language-map="english-hd-north-america"><a href="../resources/world-cup-language-maps/english-hd-north-america.svg"><img src="../resources/world-cup-language-maps/english-hd-north-america.png" alt="English audio · HD + UHD: retained downloader memberships in the contiguous USA, Canada and Mexico." loading="lazy"></a><figcaption>178 verified English-audio torrents at 720p, 1080p and 2160p, combined in one map. SD files excluded. 1,842,347 memberships: USA 999,081, Canada 488,731, Mexico 354,535. <a href="../resources/world-cup-language-maps/english-hd-north-america.svg">Full-size SVG</a> · <a href="../resources/world-cup-language-maps/english-hd-north-america.png">PNG</a> · <a href="../data/world-cup-english-hd-map/english-hd-north-america-cities.csv">City counts</a> · <a href="../data/world-cup-english-hd-map/english-hd-north-america.geojson.gz">Selected geography</a></figcaption></figure>
 
 ### Spanish audio
 
@@ -46,6 +125,8 @@ networks; it does not measure viewers or which audio track was played.
 ### French audio
 
 <figure data-language-map="french-north-america"><a href="../resources/world-cup-language-maps/french-north-america.svg"><img src="../resources/world-cup-language-maps/french-north-america.png" alt="French audio: retained downloader memberships in the contiguous USA, Canada and Mexico." loading="lazy"></a><figcaption>Two verified French-audio torrents: South Africa–Canada and France–Sweden, both with M6 branding. 34,516 memberships: USA 18,513, Canada 9,467, Mexico 6,536. <a href="../resources/world-cup-language-maps/french-north-america.svg">Full-size SVG</a> · <a href="../resources/world-cup-language-maps/french-north-america.png">PNG</a> · <a href="../data/world-cup-language-maps/french-north-america-cities.csv">City counts</a> · <a href="../data/world-cup-language-maps/french-north-america.geojson.gz">Selected geography</a></figcaption></figure>
+
+[English selection and source hashes](../data/world-cup-english-hd-map/manifest.json) · [English map verification](../data/world-cup-english-hd-map/verification.json).
 
 The maps use the native Cahill–Keyes projection and country/city aggregates
 of H3r8 cells retained at a minimum of three downloaders per torrent. Suppressed
@@ -187,6 +268,55 @@ tested separately because they overlap.
 
 <details class="wc-sources" markdown="1">
 <summary>Sources, downloads, and counting rules</summary>
+
+<!-- BEGIN world-cup-media-market-sources -->
+
+<a id="world-cup-media-market-sources"></a>
+
+### FIFA venues and media markets: definitions and downloads
+
+[Complete comparison](../data/world-cup-media-markets/analysis.json) ·
+[Top 25 metro proxy (CSV)](../data/world-cup-media-markets/metro-top25.csv) ·
+[All 520 metro candidates (CSV)](../data/world-cup-media-markets/metro-candidates.csv) ·
+[U.S. television-market ranks (CSV)](../data/world-cup-media-markets/us-tv-markets.csv) ·
+[All sixteen stadium assignments (CSV)](../data/world-cup-media-markets/venue-crosswalk.csv) ·
+[Frozen TVB table (PDF)](../data/world-cup-media-markets/tvb-pro-sports-2025-26.pdf) ·
+[Manifest](../data/world-cup-media-markets/manifest.json) · [Verification](../data/world-cup-media-markets/verification.json)
+
+The U.S. benchmark uses the twenty-five highest-ranked TV markets in
+[TVB's Pro Sports Teams by DMA](https://www.tvb.org/wp-content/uploads/2021/06/Pro_Sports_by_DMA.pdf), labeled 2025–26.
+The same table includes rank 26 and Kansas City at 35. The table's Canadian
+team rows have no comparable household ranks; they are not appended to the
+U.S. rank order. [Nielsen defines DMA regions and household ranking](https://www.nielsen.com/insights/2025/what-is-a-dma-and-why-does-it-matter/).
+
+All eleven U.S. FIFA stadiums also have NFL tenants. Match
+[U.S. Soccer's stadium/tenant descriptions](https://www.ussoccer.com/stories/2026/05/usmnt/which-cities-are-hosting-2026-fifa-world-cup-usa-mexico-canada)
+to the corresponding NFL team in TVB's DMA table. The downloadable crosswalk
+records that join; it is not an exact-city-name match or an inferred DMA polygon.
+
+The independent three-country proxy ranks official metro resident populations,
+not TV households. It includes 387 U.S. MSAs, 41 Canadian CMAs, and 92 Mexican
+metropolises (48 metropolitan zones, 22 municipal metropolises and 22 conurbations).
+Do not combine Canada province-parts with complete CMAs, U.S. metro divisions
+with complete MSAs, or Mexican municipality rows with complete metropolises.
+The stadium-to-metro assignments reuse the verified stage-five polygon join
+and stadium coordinates. Ties are resolved by country-prefixed official area ID.
+
+Market/metro coverage equals `100 × distinct top-25 areas with a stadium / 25`.
+Venue coverage equals `100 × stadiums in those areas / eligible stadiums`,
+with eleven eligible U.S. venues for TV and sixteen for the three-country proxy.
+No household-weighted reach percentage is calculated.
+
+- [USA: official population source](https://www.census.gov/data/datasets/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html). 2025-07-01 estimate.
+- [CAN: official population source](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014801). 2025-07-01 estimate.
+- [MEX: official population source](https://www.datos.gob.mx/dataset/metropolis_mexico_2020). 2020-03-15 census.
+- [Frozen usa-metro-population.csv](https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/metro/totals/cbsa-est2025-alldata.csv); SHA-256 `bf6fad83753456413d047d1acebeb434bd067eba9d6d0be62b3f737ad1301852`.
+- [Frozen can-population.zip](https://www150.statcan.gc.ca/n1/tbl/csv/17100148-eng.zip); SHA-256 `7b007a0ff50bb1bad6a041093c3c71502c095f2516d20c961d9c26ed55b327d5`.
+- [Frozen mex-metro-population.csv](https://www.datos.gob.mx/dataset/da65ccd9-888c-4ce8-b3b5-6bd867be344d/resource/a345dcac-4e9c-461f-a8cf-1abb2e4d6567/download/metropolis_poblacion.csv); SHA-256 `d0150029e655bd2afdeae4b2b6c2466eecde0aab4e882f8236df111c36d2559d`.
+
+Sources inspected November 12, 2026.
+
+<!-- END world-cup-media-market-sources -->
 
 <!-- BEGIN world-cup-venue-swarm-sources -->
 

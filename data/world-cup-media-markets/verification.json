@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "manifest_sha256": "16780c9f257f15c2f0ed60c5b507829945089489857fa02a1886a705303c5005",
+  "metro_candidates": 520,
+  "tv_top25_complete": true,
+  "tv_cutoff_rank26_present": true,
+  "country_counts": {
+    "USA": 387,
+    "CAN": 41,
+    "MEX": 92
+  },
+  "venue_assignments": 16,
+  "archive_hash_and_stadium_join": true,
+  "unique_metros_and_no_join_multiplication": true,
+  "independent_sort_and_coverage_arithmetic": true,
+  "csvs_reconciled": true,
+  "tvb_pdf_rows_and_tenant_crosswalk": true,
+  "countries_outside_us_dma_not_zero": true,
+  "population_date_sensitivity": true,
+  "artifacts_hashed": true
+}

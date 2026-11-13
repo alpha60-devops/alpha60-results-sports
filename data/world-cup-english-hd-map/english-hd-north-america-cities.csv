@@ -1,0 +1,2823 @@
+country,city,retained_downloader_memberships,hosting_flagged_memberships
+CAN,Montréal,127385,38213
+MEX,Mexico City,109552,1443
+CAN,Toronto,93262,45506
+USA,Ashburn,89079,88083
+USA,New York City,79436,42797
+CAN,Vancouver,57271,14352
+USA,Los Angeles,53293,40674
+USA,Chicago,41572,30623
+USA,Dallas,28936,24391
+USA,Atlanta,25976,16780
+USA,Seattle,25495,17595
+USA,San Jose,22666,14367
+MEX,Guadalajara,20723,3
+USA,Miami,20651,17238
+USA,Denver,20210,13323
+USA,Phoenix,17411,6610
+MEX,Monterrey,17365,2
+USA,Leesburg,15559,14875
+USA,Houston,15444,5260
+USA,Fort Lauderdale,13798,0
+MEX,Ciudad Juárez,13636,0
+CAN,Beauharnois,12879,12819
+CAN,Edmonton,12409,47
+USA,Kansas City,11368,3679
+USA,Washington,11355,6685
+CAN,Calgary,10857,219
+MEX,Tijuana,10845,0
+USA,Philadelphia,9923,39
+USA,Portland,9379,1068
+USA,Buffalo,8482,6255
+MEX,San Luis Potosí,8480,0
+USA,Secaucus,8467,8309
+MEX,Chihuahua,8149,10
+USA,San Francisco,8146,1898
+USA,Salt Lake City,8061,2724
+MEX,Puebla,8043,0
+USA,Las Vegas,7951,2621
+USA,Boston,7915,6309
+MEX,Santiago de Querétaro,7788,1862
+MEX,Ciudad Apodaca,7276,0
+CAN,Winnipeg,7251,69
+CAN,Willowdale,6930,0
+USA,Austin,6858,80
+USA,Santa Clara,6459,5581
+MEX,Zapopan,6129,0
+CAN,Mississauga,6084,57
+MEX,Aguascalientes,6032,0
+CAN,Hamilton,5924,2
+USA,Minneapolis,5914,5
+USA,San Diego,5286,9
+MEX,Tuxtla,4876,0
+CAN,London,4834,2
+USA,Raleigh,4670,1094
+CAN,Ottawa,4586,7
+CAN,Brampton,4350,2
+MEX,Victoria de Durango,4305,0
+USA,Columbus,4283,1368
+MEX,Tonalá,4122,0
+CAN,Halifax,3987,96
+CAN,Québec,3954,3
+USA,Charlotte,3943,371
+USA,Boardman,3883,3853
+MEX,Hermosillo,3851,0
+MEX,Torreón,3823,0
+CAN,Windsor,3802,0
+CAN,Kitchener,3779,2
+USA,Detroit,3743,1228
+USA,San Antonio,3701,8
+USA,Indianapolis,3647,243
+USA,Sacramento,3548,39
+USA,Richmond,3503,1
+MEX,Culiacán,3501,0
+USA,Jersey City,3457,633
+MEX,Guadalupe,3422,0
+USA,Orlando,3376,22
+MEX,Mexicali,3350,0
+USA,St. Louis,3293,1959
+USA,Pittsburgh,3282,153
+MEX,Acapulco de Juárez,3239,1
+MEX,Veracruz,3186,0
+MEX,Cuauhtlamila,3147,0
+MEX,Ciudad General Escobedo,3145,0
+MEX,Cancún,3134,0
+MEX,León de los Aldama,3081,0
+CAN,Saskatoon,3036,1
+USA,Oakland,2943,0
+CAN,Gatineau,2921,0
+USA,Rochester,2907,0
+CAN,Markham,2904,1
+USA,Manassas,2877,2184
+MEX,Celaya,2869,0
+CAN,Laval,2843,0
+MEX,Reynosa,2837,0
+MEX,Villahermosa,2826,0
+CAN,Trois-Rivières,2768,0
+USA,Vancouver,2765,0
+MEX,Pachuca de Soto,2761,0
+USA,Omaha,2728,249
+USA,Reston,2726,1798
+MEX,Mérida,2674,1
+USA,Hialeah,2669,2199
+MEX,Cuernavaca,2659,0
+USA,Newark,2657,1110
+MEX,Ciudad Benito Juárez,2635,0
+USA,Jacksonville,2574,22
+MEX,Tampico,2479,0
+CAN,Surrey,2357,3
+USA,Kent,2340,378
+USA,Fort Worth,2339,3
+USA,Nashville,2339,471
+CAN,Richmond Hill,2317,0
+USA,North Bergen,2309,2026
+USA,Tampa,2270,136
+MEX,Ciudad Obregón,2253,0
+USA,Fremont,2240,1106
+MEX,Mazatlán,2226,0
+CAN,Regina,2205,0
+USA,Clifton,2151,1620
+USA,Providence,2130,0
+USA,Manchester,2130,0
+USA,Chattanooga,2128,10
+USA,Columbia,2117,17
+USA,Madison,2099,48
+USA,Colorado Springs,2065,0
+USA,Oklahoma City,2045,9
+MEX,Córdoba,2035,0
+USA,Arlington,2017,1
+USA,Cincinnati,2003,158
+MEX,Tepic,1986,0
+MEX,Nogales,1982,0
+USA,Norfolk,1972,0
+USA,Everett,1967,0
+CAN,Dartmouth,1960,0
+CAN,Moncton,1953,0
+USA,Cape Coral,1934,1
+MEX,Uruapan,1928,1
+CAN,Oshawa,1900,1
+USA,Tulsa,1887,0
+MEX,Los Mochis,1874,0
+USA,Fairfax,1873,0
+CAN,Saint-Jérôme,1864,1
+CAN,Drummondville,1842,0
+USA,Aurora,1834,0
+CAN,Vaughan,1821,0
+CAN,Nepean,1769,0
+USA,Albuquerque,1763,110
+MEX,Zamora de Hidalgo,1759,0
+USA,Louisville,1714,16
+USA,Boise,1686,1
+MEX,Morelia,1678,0
+USA,Springfield,1674,3
+USA,Milwaukee,1657,45
+CAN,Burlington,1642,0
+USA,Plano,1639,0
+USA,Long Beach,1634,0
+USA,Lincoln,1633,0
+CAN,Saint-Eustache,1624,0
+USA,Rancho Santa Margarita,1614,0
+CAN,Richmond,1603,42
+USA,Huntsville,1551,1
+MEX,Coatzacoalcos,1550,0
+USA,McAllen,1547,1415
+USA,Allentown,1542,26
+MEX,Saltillo,1530,0
+CAN,Longueuil,1528,0
+CAN,Greater Sudbury,1524,0
+CAN,Gloucester,1515,0
+CAN,Etobicoke,1510,5
+USA,Virginia Beach,1491,306
+USA,Orem,1488,646
+USA,Fresno,1479,0
+MEX,Xalapa de Enríquez,1465,0
+USA,Burbank,1457,0
+MEX,Poza Rica de Hidalgo,1446,0
+CAN,Fredericton,1424,0
+USA,Beaverton,1423,1
+USA,Spokane,1410,76
+USA,Redmond,1409,0
+USA,Wichita,1352,0
+USA,Nampa,1345,0
+USA,Fargo,1345,0
+CAN,Oakville,1338,1
+USA,Fort Wayne,1321,2
+USA,Piscataway,1317,1306
+USA,Wilmington,1302,318
+CAN,Sherbrooke,1290,0
+MEX,Ensenada,1278,0
+CAN,St. Catharines,1260,0
+CAN,Blainville,1260,0
+CAN,Barrie,1259,23
+MEX,San José del Cabo,1249,0
+USA,Trenton,1238,937
+MEX,Nuevo Laredo,1236,0
+CAN,Kingston,1221,0
+MEX,Puerto Vallarta,1199,0
+CAN,Saint-Hyacinthe,1196,0
+USA,Hillsboro,1192,245
+USA,Lynnwood,1187,0
+CAN,St. John's,1185,1
+USA,Centreville,1170,231
+CAN,Sydney,1165,0
+USA,Tacoma,1160,0
+USA,Lexington,1150,24
+CAN,Repentigny,1145,0
+CAN,Saint-Jean-sur-Richelieu,1140,0
+USA,Malden,1139,0
+USA,Alexandria,1139,0
+MEX,La Paz,1139,0
+CAN,Newmarket,1130,0
+USA,Sioux Falls,1129,2
+USA,Baton Rouge,1122,0
+USA,Knoxville,1114,0
+CAN,Burnaby,1112,0
+CAN,Milton,1103,0
+USA,Bothell,1090,0
+MEX,Ecatepec de Morelos,1080,0
+USA,Herndon,1075,15
+CAN,Welland,1067,0
+CAN,Ajax,1061,0
+MEX,Oaxaca,1055,0
+USA,Santa Ana,1046,0
+CAN,Terrebonne,1045,4
+MEX,Tehuacán,1032,0
+CAN,Shawinigan,1008,0
+MEX,Santa Catarina,999,0
+USA,Surprise,999,0
+USA,Marysville,994,0
+USA,St. Petersburg,992,17
+USA,Bloomington,972,0
+USA,Brandon,970,0
+CAN,Guelph,962,1
+USA,New Orleans,960,0
+USA,Laurel,960,0
+USA,Bend,957,580
+USA,Torrance,956,539
+CAN,Granby,952,0
+MEX,Irapuato,946,1
+USA,Sunnyvale,942,0
+USA,Cedar Rapids,932,0
+CAN,Saint John,928,0
+USA,Elk Grove Village,924,886
+CAN,Beauceville,921,0
+USA,Hartford,919,0
+USA,San Leandro,918,0
+USA,Toledo,918,0
+MEX,Chilpancingo,914,0
+USA,Rockville,908,1
+CAN,Sarnia,905,0
+USA,San Bernardino,896,0
+USA,Hidden Hills,890,0
+CAN,Niagara Falls,883,0
+USA,Memphis,876,1
+USA,Reno,873,1
+CAN,Saguenay,865,0
+USA,Gainesville,859,1
+USA,Monterey Park,848,0
+USA,New Haven,848,190
+USA,Marietta,846,390
+USA,Rocklin,845,0
+USA,El Paso,843,1
+MEX,Heroica Matamoros,841,0
+USA,Denton,840,0
+USA,Longmont,835,0
+USA,Dale City,831,0
+USA,Ontario,831,0
+CAN,Salaberry-de-Valleyfield,829,0
+USA,Middletown,827,1
+USA,Garland,827,1
+USA,Appleton,821,1
+USA,Saint Paul,819,0
+USA,Syracuse,812,0
+MEX,Zacatecas,811,0
+CAN,La Prairie,809,0
+MEX,San Nicolás de los Garza,808,1
+USA,Richardson,798,321
+CAN,Cornwall,796,0
+USA,Garden Grove,793,0
+CAN,Rimouski,786,0
+MEX,Salamanca,784,0
+MEX,Ciudad del Carmen,782,0
+MEX,Ciudad Victoria,782,0
+CAN,Victoria,763,0
+USA,Shirley,762,0
+USA,Brentwood,760,0
+USA,South Jordan,744,0
+USA,Johnson,741,0
+USA,Council Bluffs,735,723
+USA,Jackson,731,0
+USA,Cleveland,730,1
+USA,Durham,726,8
+MEX,Colima,725,0
+CAN,Thunder Bay,720,1
+USA,Anaheim,718,0
+CAN,Brantford,718,0
+USA,Federal Way,717,0
+CAN,Winkler,715,0
+USA,Gaithersburg,715,0
+USA,Silver Spring,713,0
+USA,Norwalk,710,0
+CAN,Cambridge,703,0
+USA,Yonkers,699,0
+USA,Germantown,698,0
+USA,Lawrence,695,0
+USA,Cheyenne,690,88
+USA,Newton,684,0
+USA,Lewisville,679,0
+USA,Grapevine,677,220
+USA,Mount Laurel,670,0
+CAN,Châteauguay,669,0
+CAN,Peterborough,666,0
+USA,Sun Prairie,662,0
+CAN,Maple Ridge,656,0
+CAN,Coquitlam,649,7
+USA,Lafayette,643,0
+CAN,Lévis,642,0
+USA,McKinney,635,2
+USA,The Dalles,634,579
+USA,Riverside,633,0
+USA,Wesley Chapel,633,0
+USA,Huntington Beach,633,0
+USA,Hickory,625,0
+MEX,Campeche,624,0
+USA,Birmingham,617,70
+CAN,Brossard,616,0
+MEX,Heroica Guaymas,616,0
+USA,Lancaster,616,1
+USA,New Berlin,613,0
+USA,Burlington,613,6
+USA,Alpharetta,609,0
+USA,Draper,606,36
+USA,Pensacola,605,1
+USA,Amarillo,604,0
+USA,Bakersfield,602,0
+CAN,Charlottetown,601,0
+USA,Greenville,600,1
+MEX,San Luis Río Colorado,597,0
+USA,Hyattsville,597,0
+USA,Carrollton,595,0
+CAN,Joliette,592,0
+USA,Charleston,589,1
+USA,Bellevue,587,1
+CAN,Pickering,584,0
+CAN,Sorel-Tracy,581,0
+USA,West Pasco,579,0
+CAN,Lower Sackville,575,2
+USA,Gresham,575,0
+USA,Chesapeake,572,0
+USA,Des Moines,567,16
+CAN,Thetford-Mines,566,0
+USA,Inwood,565,0
+USA,Tallahassee,565,0
+USA,Cedar Knolls,563,563
+USA,Dover,562,0
+USA,Hayward,555,0
+USA,Muskegon,552,0
+CAN,Whitby,552,0
+USA,Little Rock,551,0
+USA,Santa Clarita,548,1
+USA,College Station,547,0
+USA,Irving,546,0
+USA,North Las Vegas,544,0
+USA,Azusa,542,0
+CAN,Saint-Constant,539,0
+USA,Augusta,539,0
+USA,Elk Grove,535,0
+USA,Swansea,528,0
+USA,Akron,527,0
+USA,Roanoke,524,0
+USA,Tempe,524,0
+USA,East Peoria,523,0
+USA,Levittown,522,0
+USA,Kissimmee,520,0
+USA,Savannah,518,1
+USA,La Mirada,517,0
+USA,Moreno Valley,516,0
+MEX,Teziutlan,513,0
+USA,Inverness,513,0
+USA,Hicksville,511,0
+MEX,Ocotlán,508,0
+CAN,Saanich,508,0
+USA,Spring,507,55
+USA,Rockford,505,0
+USA,Palmdale,504,0
+CAN,Belleville,503,0
+USA,South Hill,501,0
+USA,Eagle Mountain,501,0
+USA,Clarksville,498,0
+USA,Easton,497,0
+USA,Conroe,494,0
+USA,Katy,492,0
+CAN,North Bay,490,0
+USA,Pomona,489,0
+USA,Stanton,487,0
+USA,Brea,486,0
+MEX,Naucalpan de Juárez,485,0
+USA,Hempstead,484,0
+USA,Dayton,483,1
+USA,Kathleen,479,0
+USA,Hacienda Heights,477,0
+USA,New Brunswick,477,0
+USA,Hickory Hills,474,0
+USA,Wylie,474,0
+CAN,Alma,473,0
+MEX,Orizaba,471,0
+USA,Lansing,470,0
+USA,Concord,470,1
+USA,Abilene,469,0
+USA,Saint George,469,1
+USA,Pawtucket,469,0
+USA,Round Rock,468,0
+USA,Macon,464,0
+USA,Port Orchard,463,0
+USA,Killeen,463,1
+MEX,Ciudad Lázaro Cárdenas,459,0
+USA,Floral Park,453,0
+MEX,Cuautla,447,0
+USA,Auburn,444,0
+MEX,Iguala de la Independencia,442,0
+USA,Kalamazoo,442,3
+USA,Cerritos,441,0
+USA,Fuquay-Varina,439,0
+MEX,Chalco,432,0
+USA,Lakewood,430,0
+USA,Bristol,430,0
+USA,Scranton,429,0
+USA,Town and Country,426,0
+USA,Tucson,426,0
+MEX,Piedras Negras,425,0
+USA,Fairfield,424,0
+CAN,Lindsay,422,0
+USA,Coon Rapids,421,0
+USA,Union City,421,0
+USA,Fayetteville,420,0
+USA,Westminster,417,0
+CAN,Daveluyville,416,0
+USA,Paxtonia,416,0
+USA,Clearwater,413,0
+USA,East Patchogue,412,0
+USA,Lubbock,412,0
+USA,Mill Creek,412,0
+CAN,Vaudreuil-Dorion,411,0
+USA,Rancho Cucamonga,410,0
+USA,Wenatchee,410,0
+USA,Champaign,409,0
+CAN,Halton Hills,409,0
+USA,Stockton,407,1
+CAN,Nanaimo,406,0
+USA,Bowie,405,0
+USA,Albany,404,2
+CAN,Kanata,403,0
+USA,Victorville,403,1
+USA,Freeport,399,0
+CAN,Acton Vale,398,0
+CAN,Sainte Catherine de la Jacques Cartier,398,0
+CAN,Kelowna,397,8
+USA,Homestead,397,0
+USA,Grand Rapids,396,36
+USA,Worcester,396,0
+USA,Newport News,396,0
+USA,Schenectady,394,0
+USA,Idaho Falls,394,0
+CAN,Wendake,392,0
+MEX,Ciudad López Mateos,392,0
+USA,Whittier,392,0
+USA,Royal Oak,390,0
+CAN,Dollard-Des Ormeaux,390,0
+USA,Vista,390,0
+USA,Sayreville,389,0
+USA,Euless,388,0
+USA,Arcola,385,0
+USA,Santa Barbara,383,0
+USA,Dorchester,383,0
+MEX,San Juan del Río,381,3
+USA,Georgetown,380,0
+CAN,Norfolk County,380,0
+MEX,Tlalpan,378,0
+USA,Ann Arbor,378,0
+USA,West Valley City,378,18
+USA,National City,377,0
+USA,Billings,376,0
+USA,Temecula,376,0
+MEX,Fresnillo,375,0
+CAN,Saint-Georges,375,0
+USA,Pembroke Pines,375,0
+CAN,Chatham,373,0
+MEX,Heroica Ciudad de Juchitán de Zaragoza,372,0
+USA,Edison,371,343
+MEX,Gómez Palacio,370,0
+USA,Erie,368,1
+CAN,Victoriaville,368,0
+USA,Chino Hills,367,0
+USA,League City,367,0
+USA,Chicopee,364,0
+MEX,Santa Anita,364,0
+USA,Youngstown,362,0
+USA,Corpus Christi,361,0
+MEX,Tlaxcala,361,0
+MEX,Peaña Nueva,361,0
+USA,Waldorf,359,0
+USA,Milford,359,0
+MEX,Tepatitlán de Morelos,359,0
+USA,Citrus Heights,359,0
+USA,Troy,358,0
+USA,Falls Church,356,0
+USA,Wheaton,356,21
+USA,Thornton,355,0
+USA,Trumbull,353,0
+USA,Bethesda,353,0
+USA,Bowling Green,353,0
+CAN,Montmagny,351,0
+USA,Saint Charles,350,2
+CAN,Ramsayville,350,0
+USA,Florissant,350,0
+USA,Pasadena,349,0
+CAN,Langley,348,0
+CAN,Lethbridge,346,0
+USA,Tigard,346,0
+USA,Plainfield,346,0
+USA,Hawthorne,345,1
+USA,San Mateo,345,1
+USA,Baltimore,345,1
+CAN,Lyttleton,342,0
+USA,West Jordan,341,0
+USA,Fontana,341,0
+USA,Odenton,340,0
+USA,Bel Air,340,0
+USA,Fredericksburg,338,0
+USA,Waco,336,0
+USA,Greensboro,336,0
+CAN,St. Thomas,336,0
+USA,Glen Burnie,336,0
+USA,West Des Moines,335,1
+USA,Lake Elsinore,334,0
+USA,Mountain View,334,97
+USA,Elizabethtown,333,0
+USA,Montgomery,333,25
+CAN,Corner Brook,333,0
+USA,Milpitas,331,0
+USA,Frisco,331,0
+USA,West Covina,329,0
+USA,Winston-Salem,328,0
+USA,High Point,327,0
+CAN,Red Deer,327,0
+MEX,Tulancingo,326,0
+CAN,Caledon,324,0
+CAN,Courtenay,320,0
+USA,Southfield,319,15
+USA,Coeur d'Alene,319,0
+MEX,Lagos de Moreno,319,0
+USA,White Plains,318,0
+USA,Santa Rosa,316,0
+USA,Elizabeth,315,14
+USA,Martinsburg,314,0
+USA,Marlton,312,0
+USA,Frederick,311,1
+USA,Rapid City,309,0
+USA,Davenport,309,0
+USA,Wake Forest,309,0
+USA,Edgewood,305,0
+USA,Williamsville,305,0
+USA,New City,305,0
+CAN,Oromocto,305,0
+USA,Brick,304,0
+CAN,New Westminster,304,0
+CAN,Nicolet,303,0
+USA,Roxana,302,0
+USA,Bangor,301,0
+USA,Johnson City,301,0
+USA,Hagerstown,299,0
+USA,Boulder,299,35
+USA,New Britain,299,0
+USA,Renton,299,1
+USA,Fitchburg,299,0
+USA,Largo,298,0
+MEX,Tapachula,298,0
+USA,Altoona,294,1
+USA,Compton,293,0
+USA,Greenfield,293,0
+USA,Clinton Township,293,0
+USA,Simpsonville,292,0
+USA,Centennial,291,0
+USA,Ventura,290,0
+CAN,Rouyn-Noranda,290,0
+CAN,L'Ancienne-Lorette,289,0
+USA,Huntington Station,288,0
+USA,Little Elm,288,0
+USA,Green Haven,287,0
+USA,Berkeley,287,1
+USA,Cookeville,286,0
+USA,Tullytown,286,0
+USA,Budd Lake,285,0
+CAN,Alliston,285,0
+USA,Spartanburg,284,0
+USA,Brownsville,284,0
+USA,College Park,281,0
+USA,Lynbrook,281,0
+CAN,Woodstock,280,0
+USA,Fullerton,280,112
+USA,Tyler,279,0
+USA,Westland,278,0
+USA,Mount Vernon,278,0
+USA,Fort Lee,278,0
+USA,Conway,277,0
+USA,Newburgh,277,0
+USA,Naperville,276,0
+USA,Waltham,275,87
+MEX,Huauchinango,274,0
+USA,Irvington,273,0
+USA,New Castle,273,0
+USA,Cedar Falls,272,0
+CAN,Quinte West,272,0
+USA,Batavia,271,0
+USA,Racine,270,0
+USA,Charlottesville,270,0
+USA,Santa Monica,270,15
+USA,Haymarket,266,0
+MEX,San Miguel Ajusco,264,0
+USA,Dedham,263,0
+MEX,Manzanillo,263,0
+USA,Roseville,263,0
+USA,Snohomish,261,0
+MEX,Tlaquepaque,260,0
+USA,Freehold,259,0
+USA,Palm Bay,259,0
+USA,Poughkeepsie,258,0
+USA,Metuchen,258,0
+USA,East Atlantic Beach,258,0
+USA,Murrieta,258,0
+USA,Glassboro,258,0
+USA,Catonsville,256,0
+USA,Fort Mill,254,16
+USA,Redlands,254,0
+USA,Hollywood,254,1
+USA,McLean,254,0
+USA,Brockton,253,0
+USA,Dormont,253,0
+USA,Lynchburg,251,0
+CAN,Bridgewater,251,0
+USA,Danbury,250,0
+USA,Kettering,250,0
+USA,Howard,249,0
+CAN,Saint-Agapit,249,0
+USA,Mansfield,249,0
+USA,Westfield,248,0
+USA,Vienna,248,0
+USA,Evansville,247,0
+USA,Miami Gardens,247,0
+CAN,Orillia,247,0
+USA,Monrovia,246,0
+USA,Melbourne,246,0
+USA,Silverton,246,0
+USA,Winchester,245,0
+USA,Jasmine Estates,244,0
+USA,Perris,243,0
+USA,Antioch,242,0
+USA,Hamilton,241,0
+MEX,Heróica Zitácuaro,241,0
+USA,Parkville,241,0
+USA,Ogden,240,202
+USA,Riverview,240,0
+USA,Wantagh,240,0
+USA,Perry Hall,240,0
+USA,Thousand Oaks,239,0
+USA,Haddonfield,239,0
+MEX,Playa del Carmen,238,0
+CAN,Tracadie-Sheila,237,0
+USA,New Concord,236,0
+USA,Hesperia,236,0
+USA,Linden,235,0
+USA,West Babylon,234,1
+USA,Franklin,234,0
+USA,Eugene,232,0
+USA,Sanford,232,0
+USA,Maple Grove,228,0
+USA,Stamford,228,0
+USA,Bayonne,228,0
+USA,Oxnard,227,16
+USA,Bismarck,226,0
+USA,Lowell,226,0
+CAN,Kamloops,226,0
+USA,Grand Junction,225,0
+USA,Hampton,225,0
+USA,Temple Terrace,225,0
+USA,Murray,224,0
+USA,Bridgeport,224,1
+USA,Hightstown,224,0
+USA,Joliet,224,0
+CAN,Pont-Rouge,224,0
+CAN,Waterloo,224,0
+USA,Town 'n' Country,223,0
+USA,The Woodlands,221,0
+CAN,Stratford,220,0
+USA,Athens,220,0
+USA,Livingston,220,0
+USA,Lawton,219,0
+USA,Wilkes-Barre,219,0
+CAN,Collingwood,218,0
+USA,Apex,218,0
+USA,Chapel Hill,218,0
+USA,Sammamish,217,0
+USA,West Torrington,217,0
+USA,Waite Park,216,0
+USA,Greeley,216,0
+USA,Corona,216,13
+USA,Westborough,216,0
+MEX,Soledad de Graciano Sánchez,215,0
+USA,Framingham,213,0
+CAN,Beloeil,213,0
+USA,Warren,213,0
+CAN,Port Elgin,211,0
+CAN,Abbotsford,210,0
+MEX,Monclova,210,0
+USA,Green Bay,210,0
+USA,Nashua,209,1
+MEX,Guamúchil,208,0
+USA,Pflugerville,208,0
+MEX,Ciudad Guzmán,207,0
+USA,Mount Juliet,207,0
+USA,Saginaw,207,0
+USA,Strongsville,207,0
+USA,Lansdowne,207,0
+USA,Citrus Ridge,206,0
+USA,Bellflower,206,0
+USA,Marlborough,206,0
+USA,Ronkonkoma,206,0
+CAN,Rosemère,206,0
+USA,Chesterfield,204,0
+USA,Sherman,204,0
+USA,Somerville,204,0
+USA,Ellenton,204,0
+USA,Wyoming,204,0
+USA,Grand Forks,203,0
+USA,New Bedford,203,0
+USA,Kansas,202,202
+USA,Passaic,202,0
+USA,Moline,201,0
+CAN,Lac-Lapierre,201,0
+USA,Bellingham,200,0
+USA,Lanham,199,0
+CAN,Bowmanville,199,0
+USA,Tukwila,198,57
+USA,Westerville,198,0
+USA,Vestal,198,0
+USA,Midlothian,198,0
+CAN,Grande Prairie,197,0
+USA,Marion,197,0
+CAN,Langford,196,0
+USA,Pekin,196,0
+USA,Lawrenceville,196,0
+USA,Arcadia,196,0
+USA,Kirkland,196,0
+MEX,Sahuayo de Morelos,196,0
+USA,Hillsdale,195,0
+USA,Yakima,195,0
+USA,San Angelo,195,0
+USA,Mission Hills,194,0
+USA,Orangeburg,194,84
+USA,Palisades Park,194,0
+CAN,Steinbach,193,0
+CAN,Chilliwack,193,0
+CAN,North Cowichan,193,0
+USA,Zionsville,193,0
+USA,Waterloo,192,0
+MEX,Tula de Allende,192,0
+USA,Camp Hill,191,0
+USA,Carlsbad,191,0
+CAN,Port Coquitlam,191,0
+USA,Urbandale,191,0
+USA,Holland,190,0
+USA,Indio,190,0
+USA,Statesboro,190,0
+USA,Woodstock,190,0
+USA,Missoula,189,0
+MEX,Toluca,187,0
+USA,Lake Havasu City,187,0
+USA,Lehi,187,0
+USA,Canton,186,0
+USA,Toms River,186,0
+USA,Kearny,185,0
+USA,Traverse City,185,0
+USA,Farmingdale,185,0
+USA,Essex,184,0
+USA,Hackensack,184,0
+CAN,Millbrook,184,0
+USA,Paterson,184,0
+USA,Montclair,183,0
+USA,Stafford,183,0
+CAN,Leamington,183,0
+USA,Bradenton,183,1
+USA,Florence,183,0
+CAN,Penticton,182,0
+USA,Anderson,182,0
+USA,Menifee,182,0
+CAN,Rawdon,181,0
+CAN,Sainte-Anne-des-Plaines,181,0
+USA,Wentzville,181,0
+USA,Beaumont,180,0
+USA,Chico,180,0
+USA,Wilkinsburg,180,0
+USA,East Hartford,180,0
+USA,Cedar Park,180,0
+USA,Mobile,180,1
+USA,Saratoga Springs,180,0
+CAN,Mont-Laurier,179,0
+USA,New Rochelle,179,0
+USA,Groveton,177,0
+USA,Wichita Falls,176,0
+USA,Eau Claire,176,0
+CAN,Sault Ste. Marie,176,0
+USA,Cassopolis,175,0
+CAN,Lachute,175,0
+USA,Occoquan,175,0
+USA,Cypress,174,0
+USA,Duluth,174,1
+USA,Allen,173,0
+USA,Wausau,172,0
+MEX,Navojoa,172,0
+USA,Mechanicsville,172,0
+USA,Binghamton,171,18
+USA,Fair Lawn,171,0
+USA,Buford,171,0
+USA,McMinnville,171,0
+USA,Oxford,171,0
+USA,Parker,170,0
+CAN,Mascouche,169,0
+USA,Lynn,169,5
+USA,Rowlett,168,0
+USA,Maryville,168,0
+USA,Buies Creek,168,0
+USA,Lansdale,168,0
+USA,Lake Stevens,167,0
+USA,Greenacres City,167,0
+USA,Bay City,167,0
+CAN,Pembroke,166,0
+USA,Brooksville,166,0
+USA,Kokomo,165,0
+USA,Princeton,165,0
+USA,Lacey,164,0
+USA,Coram,164,0
+USA,Ellicott City,164,0
+USA,Peshtigo,164,0
+USA,Ypsilanti,164,0
+USA,Taunton,164,0
+USA,Cullman,163,0
+USA,Haledon,163,0
+USA,McHenry,162,0
+USA,Sumter,162,0
+USA,Westbury,162,3
+CAN,Chambly,161,0
+CAN,North Vancouver,161,0
+USA,Randolph,161,0
+CAN,Roberval,161,0
+USA,Jefferson City,161,0
+USA,Xenia,160,0
+USA,Santa Cruz,160,18
+USA,Jonesboro,159,0
+USA,Spokane Valley,159,131
+USA,West Palm Beach,159,6
+USA,York,159,0
+USA,Rutherford,159,0
+USA,Shrewsbury,159,0
+USA,North Olmsted,158,0
+CAN,Val-des-Sources,157,0
+CAN,Sainte-Julie,157,0
+USA,Centereach,157,0
+USA,Moses Lake,157,46
+CAN,Moose Jaw,156,0
+CAN,St. Albert,156,0
+USA,Gardena,155,0
+USA,Amherst,155,1
+USA,Alameda,154,0
+USA,Chino,154,0
+USA,Woonsocket,153,0
+MEX,Los Reyes de Salgado,153,0
+USA,Doylestown,152,0
+USA,Apopka,152,0
+USA,Asheville,152,0
+USA,Mason,152,0
+USA,Norwich,152,0
+USA,Coral Springs,152,17
+USA,Palo Alto,150,0
+USA,Upper Marlboro,150,0
+CAN,Yarmouth,149,0
+USA,Joplin,149,0
+USA,Goshen,148,0
+USA,Camarillo,148,0
+USA,Vallejo,148,0
+USA,Pullman,147,0
+USA,Fort Collins,147,0
+USA,Redwood City,147,0
+USA,Onalaska,146,0
+USA,West Chester,146,0
+USA,Belmont,145,0
+USA,Murfreesboro,145,0
+USA,Cambridge,145,0
+USA,Hazleton,145,0
+USA,Elkridge,144,0
+MEX,Heroica Caborca,144,0
+USA,Olney,143,0
+USA,East Orange,143,0
+USA,Roxbury Crossing,142,0
+USA,Prescott,142,0
+USA,Hemet,141,0
+USA,Water Mill,141,0
+USA,South Bend,141,0
+USA,Princeton Junction,140,0
+USA,Wakefield,140,0
+USA,Independence,140,2
+USA,Lomita,140,0
+USA,Glasgow,140,0
+USA,Schertz,140,0
+USA,Opelika,140,0
+USA,La Plata,140,0
+CAN,Saint-Éphrem-de-Beauce,139,0
+MEX,Chetumal,138,0
+CAN,Prince George,138,0
+USA,Texarkana,138,0
+CAN,Sainte-Marie,138,0
+USA,San Rafael,137,0
+USA,Farmington Hills,137,0
+USA,Sterling Heights,137,0
+USA,Pueblo,137,0
+USA,Hilliard,136,0
+USA,Saint Peters,136,0
+USA,Bryan,136,0
+USA,Cicero,136,0
+USA,Odessa,136,0
+USA,Highlands Ranch,136,0
+USA,Loveland,135,0
+USA,Auburndale,135,0
+USA,Ocala,135,0
+USA,San Luis Obispo,134,0
+USA,Greenwood,134,0
+CAN,Quispamsis,134,0
+USA,Glens Falls,134,0
+USA,Eden Prairie,134,0
+MEX,Ciudad de Huajuapan de León,133,0
+CAN,L'Assomption,132,0
+USA,Seaford,132,0
+USA,Wooster,132,0
+MEX,Tultepec,132,0
+USA,Fort Washington,132,0
+USA,East Northport,132,0
+USA,Pike Creek Valley,132,0
+CAN,Valcourt,131,0
+USA,Palm Desert,131,0
+MEX,Dolores Hidalgo,131,0
+USA,Monroe,131,0
+MEX,Agua Prieta,130,0
+USA,Livermore,130,0
+USA,Summerville,130,0
+USA,Land O' Lakes,130,0
+USA,Stroudsburg,130,0
+USA,Woodbury,129,0
+USA,Weaverville,129,0
+CAN,Leduc,128,0
+USA,Smithtown,128,0
+USA,Pocatello,127,0
+USA,Modesto,127,0
+USA,West Warwick,127,0
+USA,Sicklerville,127,0
+CAN,Marieville,127,0
+CAN,Airdrie,127,0
+USA,New London,126,0
+MEX,Xtepén,126,0
+USA,Daly City,126,0
+USA,Westlake Village,125,0
+USA,Union,125,0
+CAN,L'Épiphanie,125,0
+USA,Arlington Heights,125,0
+USA,Burleson,124,0
+USA,South Orange,124,0
+USA,Carmel,124,0
+USA,Apple Valley,124,0
+USA,Lutz,123,0
+USA,Sycamore,123,0
+USA,Miami Beach,123,0
+USA,Huntington,123,0
+USA,Burlingame,123,0
+USA,Harrisonburg,122,0
+USA,Lenexa,122,0
+CAN,Selkirk,122,0
+USA,Rocky Mount,122,0
+MEX,Lázaro Cárdenas,122,0
+USA,Maricopa,122,0
+USA,Acton,121,0
+USA,Morristown,121,0
+USA,Bound Brook,120,0
+USA,Ambler,119,0
+USA,Ormond Beach,119,0
+USA,Willingboro,119,0
+USA,Johnstown,119,0
+CAN,Thorold,119,0
+USA,Bartlett,118,0
+USA,Myrtle Beach,118,0
+USA,Nutley,118,0
+USA,Pleasant Hills,118,0
+USA,Lake Saint Louis,117,0
+CAN,Glace Bay,117,0
+CAN,Medicine Hat,116,0
+USA,Suffolk,116,0
+USA,Pleasanton,116,0
+USA,Mechanicsburg,116,0
+CAN,Carleton Place,116,0
+USA,Lake Charles,116,0
+USA,Bethel Park,116,0
+USA,Garfield Heights,115,0
+USA,Aberdeen,115,0
+CAN,Sherwood Park,114,0
+USA,Bronxville,114,0
+USA,Grove City,113,0
+USA,Biloxi,113,0
+USA,Spanish Fork,113,0
+USA,Livonia,113,0
+USA,Flower Mound,113,13
+USA,Keyport,113,0
+USA,Decatur,113,0
+USA,Longview,112,0
+USA,Saint Joseph,112,0
+USA,Colonia,111,0
+USA,West View,111,0
+USA,Peekskill,111,0
+USA,Scarsdale,111,0
+USA,Gardner,110,0
+USA,Collingswood,109,0
+USA,Chester,109,0
+USA,Cleveland Heights,109,0
+CAN,Spruce Grove,109,0
+USA,Coraopolis,109,0
+USA,Laredo,108,0
+USA,Lakeland,108,0
+USA,Massapequa,107,0
+USA,Churchville,107,0
+USA,Davis,107,0
+USA,Smyrna,106,0
+USA,Fairport,106,0
+CAN,Lac-Mégantic,106,0
+MEX,Ciudad Acuña,106,0
+USA,Shelby,105,0
+USA,Blountville,105,0
+MEX,Tuxtepec,105,0
+USA,Norman,104,0
+USA,Pompano Beach,104,0
+USA,Flint,104,10
+USA,Watsonville,104,0
+USA,Westwood,104,0
+USA,Scarborough,104,0
+CAN,New Glasgow,104,0
+USA,Mount Pocono,103,0
+CAN,Midland,102,0
+USA,Manteca,102,0
+USA,Roselle,102,0
+CAN,Pointe-Claire,102,8
+USA,Massillon,102,0
+USA,Plymouth,101,0
+USA,Medford,101,2
+USA,New Braunfels,101,0
+USA,Pharr,100,0
+USA,Oak Lawn,100,0
+USA,Midland,100,0
+USA,Noblesville,100,1
+USA,Oshkosh,100,0
+USA,Overland,99,0
+USA,Walnut Creek,99,0
+USA,Flagstaff,99,0
+USA,Vineland,99,0
+USA,Waterbury,99,0
+USA,Redondo Beach,99,22
+CAN,Chibougamau,98,0
+USA,Sandusky,98,0
+USA,Thomasville,98,0
+MEX,Ciudad Valles,98,0
+USA,Harrisburg,98,0
+USA,Quincy,98,0
+USA,Clayton,97,0
+USA,Fishers,96,0
+USA,Delmar,96,0
+CAN,Dorval,96,0
+USA,Prairieville,96,0
+USA,Dublin,95,0
+USA,Trinity,95,0
+USA,Purcellville,95,0
+USA,Dalton,95,0
+CAN,Sainte-Agathe-des-Monts,95,0
+USA,North Canton,95,0
+CAN,Magog,95,0
+USA,Stoneham,95,0
+USA,Mount Pleasant,94,0
+USA,Catskill,93,0
+USA,Forney,93,0
+USA,Shelton,93,0
+USA,Mooresville,93,0
+USA,Twin Falls,93,0
+CAN,Orléans,93,0
+USA,Mankato,93,0
+CAN,Whitchurch-Stouffville,92,0
+USA,Bloomfield,91,0
+USA,Benton,91,0
+USA,Papillion,91,0
+USA,Sioux City,91,0
+USA,Hammond,90,0
+USA,Ardmore,90,0
+CAN,Kincardine,90,0
+USA,Clinton,90,0
+USA,Oviedo,89,0
+USA,Suwanee,89,0
+USA,Warwick,89,0
+USA,Dothan,89,0
+CAN,Timmins,89,0
+USA,Port Saint Lucie,89,0
+USA,Spring Valley,88,0
+USA,New Canaan,88,0
+CAN,Pincourt,88,0
+MEX,Cananea,88,0
+USA,Baldwin Park,88,0
+USA,East Providence,88,0
+USA,Simi Valley,88,0
+USA,Pontiac,88,0
+USA,Bear,87,0
+USA,Turtle Creek,87,0
+USA,Medina,87,0
+USA,Anniston,87,0
+USA,Grand Prairie,87,0
+USA,Covington,86,0
+USA,Perth Amboy,86,0
+USA,Bluffton,85,3
+USA,Rock Hill,85,0
+USA,Irvine,84,0
+USA,Newtown,84,0
+USA,Raeford,84,0
+USA,Ridgewood,84,0
+MEX,Ciudad Nezahualcoyotl,83,0
+USA,Waynesboro,83,0
+CAN,Les Coteaux,83,0
+MEX,Ixtapa-Zihuatanejo,83,0
+USA,Bethania,83,0
+USA,Vacaville,83,0
+USA,Ephrata,83,0
+USA,Beltsville,83,0
+USA,Ankeny,83,0
+USA,Boca Raton,82,0
+USA,Coconut Creek,82,0
+MEX,Guanajuato,82,0
+USA,Phoenixville,82,0
+CAN,Hawkesbury,82,0
+CAN,Brockville,81,0
+USA,Clovis,81,0
+CAN,Saint John West,81,0
+USA,Spotsylvania,81,0
+USA,Dearborn,80,0
+USA,Menomonee Falls,80,0
+USA,Towson,80,0
+USA,Salisbury,80,0
+USA,Costa Mesa,80,0
+USA,Overland Park,80,0
+USA,San Carlos,80,0
+USA,Haverhill,80,0
+CAN,Fort Erie,80,0
+CAN,Varennes,79,0
+USA,Cliffside Park,79,0
+USA,Vincennes,79,0
+MEX,Querétaro,79,79
+USA,Hamburg,79,0
+USA,Martinez,78,0
+USA,Adrian,78,0
+USA,Paoli,77,0
+USA,San Ramon,77,0
+USA,Withamsville,77,0
+USA,Eddington,77,0
+MEX,Guasave,77,0
+USA,Fond du Lac,77,0
+USA,Mount Repose,77,0
+USA,Normal,76,0
+USA,Wimauma,76,0
+USA,Cary,76,0
+USA,Great Falls,76,0
+USA,Billerica,76,0
+CAN,Goderich,75,0
+USA,Mexico,75,0
+CAN,Aylmer,75,0
+USA,Morgan Hill,75,0
+USA,Ardencroft,75,0
+USA,Cuyahoga Falls,75,0
+USA,Owings Mills,75,0
+USA,Yuma,75,1
+USA,Hampton Bays,74,0
+USA,Asbury Park,74,0
+USA,Janesville,74,0
+USA,Basking Ridge,74,0
+USA,Watertown,74,0
+USA,Pineville,74,0
+USA,Sarasota,74,0
+USA,New Albany,74,0
+USA,Owensboro,74,0
+USA,Newnan,74,0
+USA,Upland,73,0
+USA,Cocoa,73,0
+USA,Commack,73,0
+USA,Forest Grove,73,0
+MEX,San Miguel de Allende,73,6
+USA,Cape Girardeau,73,0
+MEX,Apan,73,0
+USA,La Porte,72,0
+USA,Shreveport,72,0
+CAN,Sept-Îles,72,0
+USA,Coppell,72,0
+CAN,Saint-Félix-de-Valois,72,0
+USA,Williamsport,71,0
+USA,McKenzie,71,0
+CAN,Brant,71,0
+USA,Hatboro,71,0
+USA,Hercules,71,0
+CAN,Summerside,71,0
+USA,Bay Shore,71,0
+USA,Milton,71,0
+USA,Owatonna,70,0
+MEX,La Barca,70,0
+USA,Jeffersonville,70,0
+USA,Woodlawn,70,0
+CAN,Berthierville,70,0
+USA,Coos Bay,70,0
+USA,Carrollwood Village,70,0
+USA,Millburn,70,0
+USA,El Segundo,70,35
+USA,Berlin,70,0
+USA,Deltona,70,0
+USA,McMurray,69,0
+USA,Dubuque,69,0
+CAN,Mont-Joli,69,0
+USA,Layton,69,0
+CAN,Vernon,69,0
+USA,Sienna Plantation,69,0
+USA,Olive Branch,68,0
+USA,Waxahachie,68,0
+MEX,Pánuco,68,0
+USA,Gloversville,68,0
+USA,Montevallo,68,0
+USA,Cumming,68,0
+USA,Yucaipa,67,0
+USA,Olympia,67,0
+USA,Capitol Heights,67,0
+USA,Norristown,67,0
+USA,Deer Park,67,0
+CAN,Rivière-du-Loup,66,0
+USA,East Los Angeles,66,60
+USA,Wetherington,66,0
+USA,Terre Haute,66,0
+USA,Wilson,66,0
+USA,SeaTac,66,54
+USA,Matthews,66,23
+USA,Minot,66,0
+CAN,Bracebridge,66,0
+CAN,Sainte-Adèle,65,0
+USA,Lorain,65,0
+USA,Walpole,65,0
+USA,De Pere,65,0
+CAN,Kemptville,65,0
+USA,Mineola,64,0
+USA,Cranston,64,0
+USA,Spring Lake,64,0
+USA,Stockbridge,64,0
+USA,New Bern,64,0
+CAN,Val-d'Or,64,0
+USA,Plant City,64,0
+USA,Severna Park,64,0
+USA,Kirkwood,64,0
+USA,Utica,64,0
+USA,Blaine,64,0
+USA,Brooklyn Park,64,0
+USA,Farmington,64,0
+USA,Briaroaks,63,0
+USA,Englewood,63,0
+USA,Waterford,63,0
+USA,Jupiter,63,0
+USA,O'Fallon,63,0
+USA,Verona,62,0
+USA,Holbrook,62,0
+USA,Emporia,62,0
+USA,Eldersburg,62,0
+USA,Slidell,62,0
+CAN,Duvernay-Est,62,0
+USA,Latham,61,0
+USA,Bozeman,61,0
+USA,Gilroy,61,0
+USA,Plantation,61,0
+USA,Portage,61,0
+USA,Langhorne,60,0
+USA,Fairview,60,0
+USA,Tucker,60,0
+USA,Clay,60,0
+USA,Ewing,60,0
+USA,Linwood,60,0
+USA,High Falls,60,0
+USA,Windsor,60,0
+USA,Mentor,59,0
+USA,Roswell,59,0
+USA,Prosper,59,0
+USA,Hattiesburg,59,0
+MEX,Nuevo Casas Grandes,59,0
+USA,Bradford,59,0
+USA,Bolingbrook,59,0
+USA,Snellville,58,0
+USA,Hopewell Junction,58,0
+USA,Oceanside,58,0
+USA,West Hartford,58,0
+CAN,Elliot Lake,58,0
+USA,Roseburg,58,0
+USA,Monroeville,58,0
+MEX,Ciudad Hidalgo,58,0
+USA,DeLand,58,0
+USA,Weslaco,58,0
+USA,West Bend,58,0
+USA,Plymouth Meeting,58,0
+USA,Kingsport,58,0
+CAN,Owen Sound,57,0
+USA,Rosenberg,57,0
+USA,West Richland,57,0
+USA,Shakopee,57,0
+USA,Porterville,57,0
+USA,Wendell,57,0
+USA,Lake Monticello,57,0
+USA,Armonk,57,0
+USA,Franklin Park,57,0
+USA,Midvale,57,0
+USA,Orland Park,56,0
+USA,Auburn Hills,56,0
+MEX,Palenque,56,0
+USA,Triangle,56,0
+USA,Mesquite,56,0
+USA,Leander,56,0
+USA,Saint Cloud,56,0
+USA,Fairmont,56,0
+USA,Anacortes,56,0
+USA,Glen Cove,56,0
+USA,Coatesville,56,0
+USA,Garner,55,0
+USA,Red Bank,55,0
+USA,Andover,55,0
+USA,Morganton,55,27
+USA,Kalispell,55,0
+USA,Attleboro,55,0
+USA,Atascadero,55,0
+USA,Reading,55,0
+USA,Kyle,55,0
+USA,Delaware,55,0
+USA,Iowa City,55,0
+USA,Wisconsin Rapids,54,0
+USA,Pikesville,54,0
+USA,Carson City,54,0
+USA,Spring Hill,54,0
+USA,Leeds,54,0
+USA,Mattoon,54,0
+USA,Lackawanna,54,0
+USA,Union Grove,54,0
+MEX,Magdalena de Kino,54,0
+USA,North Tonawanda,53,0
+USA,Fort Pierce,53,0
+USA,South San Francisco,53,0
+USA,Niagara Falls,53,1
+USA,Rolling Meadows,53,0
+USA,Inglewood,53,0
+USA,Lindenhurst,53,0
+CAN,Sainte-Béatrix,53,0
+USA,Palm Springs,53,0
+MEX,Cozumel,53,0
+USA,Cherry Hill,53,0
+CAN,Norwood,53,0
+USA,Wildomar,52,0
+USA,Turlock,52,0
+USA,East Syracuse,52,0
+USA,Englishtown,52,0
+USA,Sandston,52,8
+USA,Meridian,52,0
+USA,Grants Pass,52,0
+USA,Mays Landing,52,0
+USA,River Edge,52,0
+USA,Fort Thomas,52,0
+USA,Frankfort,51,0
+CAN,Cobourg,51,0
+USA,Ocoee,51,0
+CAN,Orangeville,51,0
+USA,Nolensville,50,0
+USA,Elmhurst,50,0
+CAN,Uxbridge,50,0
+CAN,Grand Falls-Windsor,50,0
+USA,Alhambra,50,0
+CAN,Stoney Point,50,0
+CAN,Saint-Zotique,50,0
+USA,Suffield Depot,50,0
+CAN,Vineland,50,0
+CAN,Brandon,50,0
+USA,Merchantville,50,0
+USA,Jenkintown,49,0
+USA,Rancho Cordova,49,0
+USA,Salem,49,0
+CAN,Aurora,49,0
+USA,Danvers,49,0
+USA,Yadkinville,49,0
+USA,Dundalk,49,0
+USA,Menands,49,0
+USA,Cockeysville,49,0
+USA,Elgin,49,0
+USA,Drexel Heights,49,0
+USA,Morrisville,49,0
+USA,Maplewood,49,0
+USA,Sheboygan,49,0
+USA,Acworth,49,0
+USA,Quakertown,48,0
+USA,Lima,48,0
+USA,Palm Coast,48,0
+USA,Henderson,48,4
+USA,Tamarac,48,0
+USA,Portsmouth,48,0
+USA,Valdosta,48,0
+MEX,San Cristóbal de las Casas,47,0
+USA,Rock Springs,47,0
+USA,Caldwell,47,0
+USA,Warrensburg,47,0
+MEX,Pátzcuaro,47,0
+USA,Wetumpka,46,0
+USA,Owosso,46,0
+USA,Victoria,46,0
+USA,Avon,46,0
+CAN,Linwood,46,0
+CAN,Prince Rupert,46,0
+USA,Yankton,46,0
+USA,California,46,0
+USA,Ithaca,46,0
+USA,Davie,46,0
+USA,Douglasville,46,15
+USA,Pleasantville,46,0
+USA,Reisterstown,46,0
+CAN,North Battleford,46,0
+USA,Fountain Hill,46,0
+CAN,West Vancouver,46,0
+USA,Pennington,45,0
+USA,Waukee,45,0
+USA,Pottstown,45,0
+CAN,Castlegar,45,0
+USA,Winter Park,45,0
+USA,Salinas,45,0
+USA,Middleville,45,0
+CAN,Perth,45,0
+USA,Santa Maria,45,0
+USA,Willow Grove,45,0
+USA,Glenolden,45,0
+USA,Leominster,44,0
+USA,Des Plaines,44,0
+USA,Walnut,44,0
+USA,Landover,44,0
+CAN,Baie-Comeau,44,0
+USA,Mount Carmel,44,0
+USA,Sharpsburg,44,0
+USA,Wynantskill,44,0
+USA,Great Neck,43,0
+USA,Glendora,43,0
+USA,Titusville,43,0
+USA,Annandale,43,0
+USA,Danville,43,0
+USA,Pittsburg,43,0
+USA,Keystone,43,0
+USA,Edinburg,43,0
+CAN,Thompson,43,0
+USA,Watauga,43,0
+USA,North Richland Hills,43,0
+USA,North Liberty,43,0
+USA,Ruskin,42,0
+USA,Little Ferry,42,0
+CAN,Clarence-Rockland,42,0
+USA,Muenster,42,0
+USA,Randallstown,42,0
+CAN,Harriston,42,0
+USA,Lockport,42,0
+CAN,Whitehorse,42,0
+USA,Vero Beach,42,0
+USA,San Dimas,42,0
+USA,Pearl River,42,0
+USA,Port Huron,42,0
+USA,Kendale Lakes,42,0
+USA,Robertsville,42,0
+USA,Yardley,42,0
+USA,Conshohocken,42,0
+CAN,Cantley,42,0
+MEX,Macuspana,42,0
+USA,Whitmore Lake,41,0
+USA,Webster,41,0
+USA,Calumet City,41,0
+CAN,Sainte-Thècle,41,0
+MEX,Nicolás Romero,41,0
+USA,Stevens Point,41,0
+USA,Sparta,41,0
+USA,Ames,41,0
+CAN,Arnprior,41,0
+CAN,Hanover,40,0
+USA,Munford,40,0
+USA,Waverly,40,0
+CAN,Elmvale,40,0
+USA,Clermont,40,0
+USA,Havertown,40,0
+USA,Winter Haven,40,0
+USA,West Orange,40,0
+USA,Westford,40,0
+USA,Brainerd,40,0
+USA,Babylon,40,0
+USA,East Falmouth,40,0
+USA,Dardenne Prairie,39,0
+USA,Rolla,39,0
+USA,Desert Hot Springs,39,0
+USA,New Market,39,0
+USA,The Villages,39,0
+CAN,Boucherville,39,1
+USA,Culpeper,39,0
+MEX,Minatitlán,39,0
+USA,Brunswick,39,0
+USA,Schaumburg,39,0
+USA,New Rome,38,0
+USA,Palmyra,38,0
+USA,Hendersonville,38,0
+MEX,Salina Cruz,38,0
+USA,Walla Walla,38,0
+CAN,Huron East,38,0
+USA,Yuba City,38,0
+USA,New Port Richey,38,0
+USA,Trooper,38,0
+USA,Perkasie,38,0
+CAN,Bécancour,38,0
+USA,Bartlesville,38,0
+USA,Annville,38,0
+USA,San Bruno,38,0
+USA,Fruitville,38,0
+USA,Fall River,37,0
+USA,Kernersville,37,0
+USA,Austintown,37,0
+USA,Pacifica,37,0
+USA,Monmouth,37,0
+USA,Rock Falls,37,0
+USA,Bedford,37,0
+USA,Algonquin,37,0
+USA,Wheeling,36,0
+CAN,Lac-Brome,36,0
+USA,West Lafayette,36,0
+CAN,Amherst,36,0
+CAN,Saint-Germain-de-Grantham,36,0
+USA,Rockwall,36,0
+CAN,Campbell River,36,0
+USA,Gambrills,36,0
+USA,Gary,36,1
+USA,Center Line,36,0
+USA,Bridgetown,36,0
+USA,Chamblee,36,0
+CAN,Fort McMurray,36,0
+USA,Pittsfield,36,0
+USA,Mount Holly,36,0
+USA,Keansburg,35,0
+USA,Sidney,35,0
+MEX,Apizaco,35,0
+USA,Clarksburg,35,0
+USA,Oswego,35,0
+USA,Broomfield,35,0
+CAN,Essex,35,0
+USA,Gonzales,35,0
+CAN,Cowansville,35,0
+USA,Macedonia,35,0
+USA,Hackettstown,35,0
+USA,Neenah,34,0
+USA,Hatfield,34,0
+USA,Tracy,34,0
+USA,Rosemount,34,0
+USA,Grafton,34,0
+USA,West Seneca,34,0
+USA,Vista Center,34,0
+CAN,Saint-Sauveur,34,0
+USA,Cedar City,34,0
+CAN,Hampton,34,0
+USA,Villa Hills,33,0
+USA,Waynesville,33,0
+USA,Harlingen,33,0
+USA,Williamstown,33,0
+USA,Palm Harbor,33,0
+USA,Hindman,33,0
+USA,Natick,33,0
+CAN,Fergus,33,0
+USA,Gastonia,33,0
+USA,Goldsboro,33,0
+USA,Ashland,32,0
+USA,Cape Saint Claire,32,0
+USA,El Dorado Hills,32,0
+CAN,Wasaga Beach,32,0
+USA,Exton,32,0
+USA,Fort Smith,32,0
+USA,Pikeville,32,0
+MEX,Misantla,32,0
+USA,Baldwinsville,32,0
+USA,Rio Grande City,32,0
+USA,Collegeville,32,0
+USA,Bemidji,32,0
+USA,Highpoint,32,0
+USA,Chambersburg,32,0
+USA,Long Branch,32,0
+MEX,Santa Ana Chiautempan,32,0
+USA,Carbondale,32,0
+USA,Creve Coeur,32,0
+USA,Molalla,31,0
+USA,New Baltimore,31,0
+USA,Oneida,31,0
+USA,Atoka,31,0
+USA,New Caney,31,0
+USA,Temple Hills,31,0
+MEX,Compostela,31,0
+USA,Downingtown,31,0
+USA,Kentwood,31,0
+USA,Edmond,31,0
+USA,Hornell,31,0
+USA,Manhattan Beach,30,0
+USA,Port Neches,30,0
+USA,Folsom,30,0
+USA,Sulphur Springs,30,0
+USA,Elkhart,30,0
+USA,North Port,30,0
+USA,Brookings,30,0
+USA,Cabot,30,0
+CAN,Saint-Elzéar,30,0
+USA,Gilbert,30,0
+CAN,Kentville,29,0
+USA,Chardon,29,0
+USA,Natchitoches,29,0
+USA,Arbutus,29,0
+CAN,Cobden,29,0
+USA,Meadow Oaks,29,0
+USA,Silverdale,29,0
+USA,Tunkhannock,29,0
+USA,Chandler,29,0
+MEX,Libres,29,0
+USA,Rahway,29,0
+USA,Lakeville,29,0
+USA,Maineville,29,0
+USA,Maynard,29,0
+USA,Allen Park,29,0
+USA,Lyndhurst,29,26
+USA,Negaunee,29,0
+USA,Parkesburg,29,0
+USA,West Milford,29,0
+USA,San Marcos,29,0
+USA,Skokie,28,0
+USA,Lewiston,28,0
+CAN,Smiths Falls,28,0
+USA,Millbury,28,0
+USA,Kennett Square,28,0
+USA,Cedarburg,28,0
+USA,Chagrin Falls,28,0
+CAN,Renfrew,28,0
+USA,Dobbs Ferry,28,0
+USA,Justin,28,0
+USA,Chelmsford,28,0
+USA,Lake Station,28,0
+USA,Delafield,28,0
+USA,Bryn Athyn,27,0
+USA,Brookline,27,0
+USA,Panama City,27,0
+USA,Sayville,27,0
+USA,Orange,27,0
+USA,Chevy Chase,27,0
+USA,Sudbury,27,0
+CAN,Millidgeville,27,0
+USA,Denville,27,0
+USA,Middlebury,27,0
+USA,Plumsteadville,27,0
+CAN,Prince Albert,27,0
+USA,Powell,27,0
+CAN,Parksville,27,0
+CAN,Mont-Tremblant,27,0
+USA,Live Oak,27,0
+USA,Paris,27,0
+CAN,Amherstburg,27,0
+USA,Carmichael,26,0
+CAN,Mirabel,26,0
+USA,Glenshaw,26,0
+USA,Eagan,26,0
+USA,Olivette,26,0
+USA,Mount Sterling,26,0
+USA,Mountain Home,26,0
+USA,Gibsonia,26,0
+USA,Crofton,26,0
+USA,Holyoke,26,0
+USA,Holly Ridge,26,0
+CAN,Dolbeau-Mistassini,26,0
+USA,Hot Springs,26,0
+USA,Wayne,26,0
+USA,Castro Valley,26,0
+USA,State College,26,0
+USA,North Prairie,26,0
+USA,Lake Zurich,26,0
+USA,Pottsville,26,0
+MEX,San Pedro Garza García,26,0
+USA,La Verne,26,0
+USA,Springs,25,0
+USA,Rome,25,0
+USA,Gretna,25,0
+USA,Mercerville,25,0
+USA,DeSoto,25,0
+USA,Gardendale,25,0
+USA,Blacksburg,25,0
+USA,Phenix City,25,0
+USA,Paramus,25,0
+USA,New Milford,25,0
+USA,Pascagoula,25,0
+USA,Irmo,25,0
+USA,Granger,25,0
+USA,Kingsland,25,0
+MEX,San Ildefonso,25,25
+USA,Weymouth,25,0
+USA,Batesville,25,0
+CAN,Sidney,25,0
+USA,Storrs,25,0
+USA,Bossier City,24,0
+USA,Carnegie,24,0
+USA,Bernardsville,24,0
+USA,Plainview,24,0
+USA,Crafton,24,0
+USA,Spencer,24,0
+USA,Los Gatos,24,0
+CAN,Delaware,24,0
+USA,Urbana,24,0
+USA,Brooklyn,24,0
+USA,Aiken,24,0
+USA,Shawnee,24,0
+USA,Davison,24,0
+USA,Belleville,24,0
+MEX,Valle de Bravo,24,0
+USA,Jamestown,24,0
+USA,Casper,24,0
+USA,Lehighton,23,0
+CAN,North Perth,23,0
+USA,Greenwich,23,0
+CAN,Lloydminster,23,0
+USA,Oklahoma,23,0
+MEX,Puerto Peñasco,23,0
+CAN,Greater Napanee,23,0
+USA,Waukesha,23,0
+USA,Greeneville,23,0
+USA,Lamont,23,0
+USA,West Haverstraw,23,0
+USA,Nassau,23,0
+CAN,Dryden,23,0
+USA,Palatine,23,0
+USA,Pahrump,23,0
+USA,La Grange,23,0
+CAN,Ingersoll,23,0
+USA,Shoreview,22,0
+USA,Beacon,22,0
+USA,Sylvania,22,0
+CAN,Huntsville,22,0
+CAN,St. Marys,22,0
+USA,Klamath Falls,22,0
+USA,Stillwater,22,0
+USA,Woodland,22,0
+USA,East Rochester,22,0
+USA,Tullahoma,22,0
+USA,Shrub Oak,22,0
+USA,Hermosa Beach,22,0
+USA,Warsaw,22,0
+USA,Meriden,22,0
+USA,Surfside Beach,22,0
+USA,Geneseo,22,0
+USA,Cranford,22,0
+USA,Closter,22,0
+USA,Tulare,22,0
+USA,Catalina Foothills,22,0
+USA,Woodmere,22,0
+USA,Bridgeville,21,0
+USA,Farmers Branch,21,0
+USA,South Whittier,21,0
+USA,Zephyrhills,21,0
+CAN,Boisbriand,21,15
+USA,Springdale,21,0
+USA,Guntersville,21,0
+USA,Barnstable,21,0
+CAN,La Sarre,21,0
+USA,Boynton Beach,21,0
+USA,Lakeland Highlands,21,0
+USA,Fairborn,21,0
+USA,Amelia,21,0
+USA,Hudson,21,0
+USA,Phelan,21,0
+USA,Visalia,21,0
+USA,Saint Louis Park,21,0
+CAN,Saint-Gabriel,21,0
+USA,Panama City Beach,21,0
+USA,Centerville,21,0
+CAN,Casselman,21,0
+USA,Camden,21,0
+USA,Bee Ridge,21,0
+CAN,Matane,21,0
+USA,Beaufort,21,0
+USA,Brigham City,21,0
+USA,Del Rio,20,0
+CAN,Grimsby,20,0
+USA,Port Orange,20,0
+MEX,García,20,0
+USA,Northborough,20,0
+USA,East Greenwich,20,0
+USA,Plainville,20,0
+USA,Niles,20,0
+CAN,Zephyr,20,0
+USA,Pooler,20,0
+USA,Poplar Bluff,20,0
+USA,Baytown,20,0
+CAN,Cochrane,20,0
+USA,Seguin,20,0
+USA,Issaquah,20,17
+CAN,Hudson,19,0
+USA,Grand Haven,19,0
+USA,Norwood,19,0
+CAN,Parry Sound,19,0
+USA,Blue Ash,19,0
+USA,Bayshore Gardens,19,0
+USA,Corinth,19,0
+CAN,Kingsville,19,0
+USA,Dearborn Heights,19,0
+USA,Delhi Hills,19,0
+USA,Garfield,19,0
+CAN,Saint-Augustin-de-Desmaures,19,0
+USA,Canandaigua,19,0
+USA,Henrietta,19,0
+USA,Prior Lake,19,0
+USA,Wyomissing,19,0
+USA,Belvidere,19,0
+USA,Port Angeles,19,0
+USA,Shamokin,19,0
+USA,Dickson,19,0
+USA,Paragould,19,0
+USA,Doral,19,0
+USA,Hutchinson,18,0
+CAN,Saint-Hippolyte,18,0
+USA,Douglas,18,0
+USA,Tupelo,18,0
+CAN,Mont-Saint-Hilaire,18,0
+USA,Willmar,18,0
+USA,Downers Grove,18,0
+USA,Taylorville,18,0
+USA,Parkersburg,18,0
+USA,Eagle Pass,18,0
+USA,Kennett,18,0
+CAN,Saint-Joseph-de-Beauce,18,0
+USA,Farragut,18,0
+USA,Forest Park,18,0
+USA,Storm Lake,18,0
+USA,Warrenton,18,0
+USA,Elyria,18,0
+USA,Kannapolis,18,0
+USA,Castle Rock,18,0
+USA,Plum,18,0
+USA,Woburn,18,0
+USA,Asheboro,18,0
+CAN,Val-des-Monts,18,0
+USA,Advance,18,0
+USA,Barbourville,18,0
+USA,Rochester Hills,18,0
+CAN,Tottenham,18,0
+USA,Milledgeville,18,0
+USA,Weatherford,17,0
+USA,Liberty Hill,17,0
+USA,Peoria,17,0
+USA,Fulton,17,0
+USA,Camillus,17,0
+CAN,Saint-Césaire,17,0
+USA,Lumberton,17,0
+USA,North Haven,17,0
+USA,Cornelia,16,0
+USA,Staatsburg,16,0
+CAN,Amqui,16,0
+USA,Mission,16,0
+USA,Francis,16,0
+USA,Petoskey,16,0
+USA,Tomball,16,0
+USA,Diamond Bar,16,0
+USA,Olathe,16,0
+USA,Marshfield,16,0
+CAN,Lavaltrie,16,0
+USA,Juneau,16,0
+USA,Parkland,16,0
+USA,Moncks Corner,16,0
+CAN,East Gwillimbury,16,0
+USA,Boone,16,0
+CAN,Baie-Saint-Paul,16,0
+USA,Spotswood,16,0
+USA,Bloomfield Hills,16,0
+USA,Kinston,16,0
+USA,Shallotte,16,0
+MEX,Tenosique,16,0
+USA,Edmonds,16,0
+USA,Metairie,16,0
+CAN,Cranbrook,16,0
+USA,Baraboo,16,0
+USA,La Puente,16,0
+USA,Bentonville,16,0
+USA,Altamonte Springs,16,0
+USA,Tarpon Springs,16,0
+USA,Murrells Inlet,16,0
+USA,Forked River,16,0
+USA,Hastings,16,0
+USA,New Philadelphia,15,0
+USA,Damascus,15,0
+USA,Starkville,15,0
+USA,Oak Forest,15,0
+USA,Waycross,15,0
+USA,Holliston,15,0
+USA,Starksboro,15,0
+USA,Bayonet Point,15,0
+USA,Hummelstown,15,0
+USA,Royersford,15,0
+USA,Wauseon,15,0
+USA,Media,15,0
+USA,Stephenville,15,0
+CAN,Terrace,15,0
+USA,Souderton,15,0
+USA,Findlay,15,0
+CAN,Port Hope,15,0
+USA,Eatonville,15,0
+USA,Zanesville,15,0
+USA,South Riding,15,14
+USA,Paramount,15,0
+USA,Port Clinton,15,0
+USA,Crowley,15,0
+USA,Lakeport,15,0
+USA,Revere,15,0
+USA,Durant,15,0
+USA,Manhattan,15,0
+CAN,Sharbot Lake,15,0
+USA,Fort George G Mead Junction,15,0
+USA,Village of Campton Hills,15,0
+USA,Roslyn,15,0
+CAN,Canmore,15,0
+USA,Keller,15,0
+USA,Kingston,15,0
+USA,Stanford,15,0
+USA,Dickinson,14,0
+USA,Canyon Lake,14,0
+USA,Logan,14,0
+USA,Hopkinton,14,0
+MEX,La Cofradía,14,0
+USA,Mishawaka,14,0
+USA,Beverly,14,0
+USA,Royal Palm Beach,14,0
+USA,West Haven,14,0
+USA,Merritt Island,14,0
+USA,Baxter,14,0
+CAN,Sainte-Marthe-sur-le-Lac,14,0
+USA,Vernal,14,0
+USA,Lufkin,14,0
+USA,Lebanon,14,0
+USA,Warm Beach,13,0
+CAN,Côte-Saint-Luc,13,4
+USA,Schofield,13,0
+USA,Oneonta,13,0
+CAN,Fossambault-sur-le-Lac,13,0
+USA,Michigan City,13,0
+USA,Willis,13,0
+USA,North Sea,13,0
+USA,Imperial,13,0
+USA,Rochelle Park,13,0
+USA,Maple Valley,13,0
+USA,Sullivan,13,0
+USA,Arvada,13,0
+USA,Tempe Junction,13,13
+USA,Kenosha,13,0
+USA,Climax,13,0
+USA,Nacogdoches,13,0
+USA,Staunton,13,0
+USA,East Stroudsburg,13,0
+MEX,Ciudad Constitución,13,0
+USA,Price,13,0
+CAN,Napanee,13,0
+USA,Brookfield,13,0
+USA,Medford Lakes,13,0
+USA,Enterprise,13,0
+USA,Escalon,13,0
+USA,Long Neck,13,0
+USA,North Little Rock,13,0
+USA,Glenville,13,0
+USA,Crystal Lake,13,0
+USA,Scottsbluff,13,0
+USA,McDonough,13,0
+USA,Rio Rancho,13,0
+CAN,Port Alberni,13,0
+USA,Presque Isle,13,0
+USA,Mitchell,13,0
+USA,Littleton,12,0
+USA,Port Washington,12,0
+USA,Neptune City,12,0
+USA,Walton,12,0
+USA,Fish Hawk,12,0
+USA,Portales,12,0
+USA,Huxley,12,0
+USA,Statesville,12,0
+USA,New Hope,12,0
+USA,Winona,12,0
+MEX,Las Pintitas,12,0
+USA,North Chicago,12,0
+USA,Mayo,12,0
+CAN,Coteau-du-Lac,12,0
+USA,La Quinta,12,0
+USA,Bridgeton,12,0
+USA,Villages of Oriole,12,0
+USA,Kennedale,12,0
+USA,Williston,12,0
+USA,Seven Fields,12,0
+MEX,Ciudad Serdán,12,0
+USA,Wareham Center,12,0
+USA,Morgan City,12,0
+USA,Fair Oaks,12,0
+USA,Kingman,12,0
+CAN,West Nipissing,12,0
+USA,Timber Pines,12,0
+USA,La Conner,12,0
+USA,Solana Beach,12,0
+USA,Marshall,12,0
+USA,South Lyon,12,0
+USA,Battle Ground,12,0
+USA,Duvall,12,0
+USA,Midwest City,12,0
+CAN,Oak Bay,12,0
+CAN,King,12,0
+USA,Luckey,12,0
+USA,Blue Springs,12,0
+CAN,Val-David,12,0
+USA,Reynolds,12,0
+USA,West Liberty,12,0
+USA,Moscow,12,0
+USA,South Old Bridge,12,0
+USA,Harrison,12,0
+USA,Ossining,12,0
+USA,Rustburg,12,0
+USA,Fort Myers,12,0
+USA,Cottage Grove,12,0
+MEX,Rioverde,12,0
+USA,Saraland,12,0
+MEX,San Francisco del Rincón,12,0
+CAN,Bancroft,12,0
+USA,Norton Shores,12,0
+USA,Bremerton,12,0
+CAN,Sooke,12,0
+MEX,Jiutepec,12,0
+MEX,La Capilla,12,0
+USA,Parma,12,0
+USA,Potsdam,12,0
+MEX,Huixtla,11,0
+CAN,Portage la Prairie,11,0
+USA,Brevard,11,0
+USA,Brownsburg,11,0
+CAN,Saint-Rémi,11,0
+USA,Jenks,11,0
+USA,Plattsburgh,11,0
+USA,Bradley,10,0
+USA,Casas Adobes,10,0
+USA,Fenton,10,0
+USA,Merced,10,0
+MEX,Santa Cruz Xoxocotlán,10,0
+USA,Marion Oaks,10,0
+CAN,Smithers,10,0
+USA,Petaluma,10,0
+USA,Riverhead,10,0
+USA,Herrin,10,0
+USA,Northville,10,0
+USA,Ojai,10,0
+USA,Ironton,10,0
+CAN,Kapuskasing,10,0
+USA,Brookland,10,0
+CAN,South Huron,10,0
+USA,Rhinelander,10,0
+CAN,Bathurst,10,0
+USA,Paducah,10,0
+MEX,San Juan de los Lagos,10,0
+USA,Moorpark,10,0
+USA,Mesa,10,0
+USA,Artondale,10,0
+CAN,Montréal-Est,10,0
+CAN,Osgoode,10,0
+CAN,Saint-Bruno-de-Montarville,10,0
+USA,Graham,10,0
+USA,Tustin,10,0
+USA,Patchogue,10,0
+USA,Seagrove,10,0
+USA,Chiefland,10,0
+USA,Cairo,10,0
+USA,Highland,10,0
+USA,Summit,10,0
+USA,Muscatine,10,0
+USA,Hopkinsville,10,0
+USA,East Wenatchee,10,0
+USA,Littleton Common,10,0
+MEX,Tejupilco de Hidalgo,10,0
+USA,Marinette,10,0
+USA,Perrysburg,9,0
+USA,Enid,9,0
+USA,Wasco,9,0
+USA,Sunbury,9,0
+CAN,West Kelowna,9,0
+CAN,Gananoque,9,0
+USA,Apache Junction,9,0
+USA,Amsterdam,9,0
+USA,Oakdale,9,0
+USA,Cobleskill,9,0
+USA,Ridgefield,9,0
+USA,DeKalb,9,0
+USA,Stayton,9,0
+USA,North Providence,9,0
+USA,Indian Trail,9,0
+CAN,Delta,9,0
+USA,Archdale,9,0
+USA,Suffern,9,0
+USA,Alexander City,9,0
+USA,Eagleview,9,0
+CAN,Haliburton Village,9,0
+USA,Wellesley,9,0
+CAN,Kenora,9,0
+USA,North Auburn,9,0
+USA,Delray Beach,9,0
+USA,Holly Springs,9,0
+CAN,Gravenhurst,9,0
+USA,Oskaloosa,9,0
+USA,Ken Caryl,9,0
+USA,Menlo Park,9,0
+USA,Broomall,9,0
+CAN,Dieppe,9,0
+USA,North Wilkesboro,9,0
+USA,Winter Garden,9,0
+USA,Bordentown,9,0
+CAN,Brooks,9,0
+USA,McAlester,9,0
+MEX,Cunduacán,9,0
+USA,Gurnee,9,0
+USA,Wentworth,9,0
+USA,Heath Springs,9,0
+USA,Three Rivers,9,0
+USA,Mancelona,9,0
+USA,Southaven,9,0
+USA,Newcastle,9,0
+USA,East Lexington,9,0
+USA,Naugatuck,9,0
+USA,Schlusser,9,0
+USA,Pleasant Hill,9,0
+USA,Seymour,9,0
+USA,Merton,9,0
+CAN,Coaticook,9,0
+USA,Grand Island,9,0
+USA,Mason City,9,0
+USA,Topeka,9,0
+USA,Chula Vista,9,0
+USA,Elkton,9,0
+USA,Deerfield Beach,9,0
+USA,Steelton,9,0
+USA,Galesburg,9,0
+CAN,Sainte-Anne-des-Monts,9,0
+USA,Succasunna,9,0
+USA,Cadillac,9,0
+USA,Winslow,9,0
+CAN,Saint-Lin-Laurentides,9,0
+USA,Ridgecrest,9,0
+USA,Buffalo Grove,9,0
+USA,Liberty Lake,9,9
+USA,Schwenksville,9,0
+MEX,San Luis de la Paz,9,0
+MEX,San Salvador Tizatlalli,9,0
+CAN,Happy Valley-Goose Bay,9,0
+USA,Due West,9,1
+USA,Port Chester,9,0
+USA,Tehachapi,9,0
+USA,Narragansett,9,0
+USA,Napa,9,0
+USA,Foley,9,0
+USA,Clarksdale,9,0
+USA,Syosset,9,0
+MEX,Magdalena Contreras,9,0
+USA,Bandera,9,0
+USA,Northampton,9,0
+USA,Needham,9,0
+USA,Lorton,9,0
+USA,Lehigh Acres,9,0
+USA,Muskogee,9,0
+USA,Holiday Shores,9,0
+USA,Canby,9,0
+USA,Rockland,9,0
+USA,Gainesboro,8,0
+CAN,Digby,8,0
+USA,Harker Heights,8,0
+CAN,Oliver,8,0
+USA,North Miami,8,0
+USA,Helena,8,0
+USA,Taylor,7,0
+USA,Altus,7,0
+USA,Defiance,7,0
+USA,Escondido,7,0
+USA,Oak Park,7,0
+USA,Spotsylvania Courthouse,7,0
+USA,Rantoul,7,0
+USA,Jasper,7,0
+USA,Mount Kisco,7,0
+USA,Chillicothe,7,0
+CAN,Trail,7,0
+CAN,St. Agatha,7,0
+USA,Carol Stream,7,0
+CAN,Port Colborne,7,0
+USA,Hermitage,7,0
+USA,Lakehills,7,0
+USA,Boca Del Mar,7,0
+USA,Banning,7,0
+USA,San Jacinto,7,0
+USA,Dumont,7,0
+USA,Marksville,7,0
+USA,Romulus,7,0
+USA,Winter Springs,7,0
+USA,Burien,7,0
+USA,Paw Paw,7,0
+USA,Kendall,7,0
+USA,Talladega,7,0
+USA,Stratford,7,0
+USA,San Luis,7,0
+USA,Las Cruces,7,0
+USA,Waterville,7,0
+USA,Hingham,7,0
+MEX,Tala,7,0
+USA,Bethel,7,0
+USA,Elizabeth City,7,0
+CAN,Kirkland Lake,7,0
+USA,Pleasant Grove,7,0
+USA,Northport,7,0
+USA,Boonville,7,0
+USA,Morehead City,7,0
+USA,Barberton,7,0
+USA,Crawfordsville,7,0
+USA,Lake Camelot,7,0
+CAN,Albanel,7,0
+USA,Anna,7,0
+CAN,Tillsonburg,7,0
+USA,McKeesport,7,0
+USA,New Providence,7,0
+USA,Chanhassen,7,0
+USA,Shark River Hills,7,0
+USA,St. Johns,7,0
+CAN,Yorkton,6,0
+USA,Hartsville,6,0
+USA,Chamberlain,6,0
+USA,Westlake,6,0
+USA,Desoto Lakes,6,0
+USA,Soddy-Daisy,6,0
+USA,Aliquippa,6,0
+USA,Benson,6,0
+USA,Wappingers Falls,6,0
+CAN,Bells Corners,6,0
+USA,Olean,6,0
+USA,Star Valley Ranch,6,0
+USA,Aubrey,6,0
+USA,Opelousas,6,0
+USA,Collegedale,6,0
+USA,Girard,6,0
+USA,Sheridan,6,1
+USA,Suitland,6,0
+USA,Oxon Hill,6,0
+USA,Farmville,6,0
+CAN,Cold Lake,6,0
+USA,Celina,6,0
+MEX,Tapalpa,6,0
+USA,Commerce City,6,0
+USA,Reedsburg,6,0
+USA,McKinleyville,6,0
+USA,Leesville,6,0
+USA,Monticello,6,0
+USA,The Pinehills,6,0
+USA,Kearney,6,0
+USA,North Kingstown,6,0
+MEX,Cárdenas,6,0
+USA,Steubenville,6,0
+USA,Hays,6,0
+USA,Exeter,6,0
+USA,Merrillville,6,0
+USA,West Sacramento,6,0
+USA,New Lenox,6,0
+USA,Branson,6,0
+USA,Lavon,6,0
+USA,Alpena,6,0
+USA,Tuckahoe,6,0
+CAN,La Tuque,6,0
+CAN,Saint-Anselme,6,0
+USA,Gonzalez,6,0
+MEX,Balancán,6,0
+USA,Naples,6,0
+USA,Dunlap,6,0
+USA,Bluffdale,6,0
+USA,North Bethesda,6,0
+USA,Stewartstown,6,0
+USA,Seminole,6,0
+USA,Burnsville,6,0
+USA,Valparaiso,6,0
+USA,Grand Blanc,6,0
+USA,Crescent City,6,0
+USA,Shingle Springs,6,0
+USA,Bethlehem,6,0
+USA,Lewes,6,2
+CAN,West Lorne,6,0
+USA,Pell City,6,0
+USA,Norcross,6,0
+MEX,Autlán de Navarro,6,0
+USA,Stansbury park,6,0
+USA,Trotwood,6,0
+USA,Hurley,6,0
+USA,Millvale,6,0
+USA,Hiawatha,6,0
+USA,Tuscola,6,0
+CAN,Pitt Meadows,6,0
+USA,Morgantown,6,0
+USA,Channahon,6,0
+USA,Brewster,6,0
+USA,Wytheville,6,0
+USA,La Mesa,6,0
+USA,Springboro,6,0
+USA,Beachwood,6,0
+USA,New Smyrna Beach,6,0
+USA,Rancho Palos Verdes,6,0
+USA,Tazewell,6,0
+USA,Whitehouse Station,6,0
+USA,Amery,6,0
+USA,Birdsboro,6,0
+USA,Ottawa,6,0
+USA,Uncasville,6,0
+CAN,Mount Brydges,6,0
+USA,Bessemer,6,0
+USA,Ashford,6,0
+USA,Freetown,6,0
+USA,Universal City,6,0
+CAN,Piedmont,6,0
+CAN,Russell,6,0
+CAN,Shelburne,6,0
+USA,Scottsville,6,0
+USA,Mapleton,6,0
+USA,Brighton,6,0
+USA,Tracyton,6,0
+USA,Hillsborough,6,0
+USA,Huber Heights,6,0
+USA,Tahlequah,6,0
+CAN,Stephenville,6,0
+USA,Arab,6,0
+USA,Cañon City,6,0
+USA,Hershey,6,0
+CAN,Sutton,6,0
+CAN,Lakefield,6,0
+USA,Chantilly,6,0
+CAN,Notre-Dame-de-l'Île-Perrot,6,0
+MEX,Uriangato,6,0
+MEX,Tizayuca,6,0
+USA,La Cañada Flintridge,6,0
+USA,Rusk,6,0
+USA,Ruthton,6,0
+USA,Eldorado,6,0
+CAN,Saint-Jacques,6,0
+USA,Schererville,6,0
+USA,Orchards,6,0
+USA,Waynesburg,6,0
+USA,West Henrietta,6,0
+CAN,Hampstead,6,0
+USA,Osage Beach,6,0
+USA,Morrison,6,0
+USA,Pepperell,6,0
+USA,Chester Heights,6,0
+USA,Edgewater,6,3
+USA,Mont Belvieu,6,0
+USA,Slatington,6,0
+USA,Wildwood,6,0
+USA,Stoughton,6,0
+USA,Booneville,6,0
+USA,Navarre,6,0
+MEX,Cuautitlán Izcalli,6,0
+USA,Gillette,6,0
+USA,Watford City,6,0
+USA,Cheshire,6,0
+CAN,Bluewater,6,0
+USA,Selma,6,0
+CAN,Niagara-on-the-Lake,6,0
+USA,Poplarville,6,0
+USA,Martinsville,6,0
+USA,South Hadley,6,0
+USA,Lexington Park,6,0
+USA,Detroit Lakes,6,0
+USA,Battle Creek,6,0
+USA,Bloomingdale,6,0
+USA,Lyme,6,0
+USA,Phelps,6,0
+USA,Dunkirk,6,0
+USA,McCormick,6,0
+USA,Hockessin,6,0
+USA,Coxsackie,6,0
+USA,Saint Robert,6,0
+MEX,La Piedad de Cabadas,6,0
+USA,Liberty,6,0
+CAN,Red Head,6,0
+USA,Matteson,6,0
+CAN,Rivière-Rouge,6,0
+USA,Sierra Vista,6,0
+USA,Flemington,6,0
+USA,Coventry,6,0
+USA,Russell,6,0
+CAN,Watford,6,0
+USA,Samoset,6,0
+CAN,Okotoks,6,0
+MEX,General Lázaro Cárdenas,5,5
+USA,Medway,5,0
+MEX,Taxco de Alarcón,5,0
+USA,Shoreline,5,0
+USA,River Ridge,5,0
+USA,Moulton,5,0
+USA,La Vergne,5,0
+USA,Worthington,5,0
+USA,Bainbridge,4,0
+USA,Blue Earth,4,0
+USA,Annapolis,4,0
+USA,Old Saybrook,4,0
+USA,Mahopac,4,0
+MEX,San Buenaventura,4,4
+CAN,Rigaud,4,0
+MEX,Peto,4,0
+USA,Susquehanna Trails,4,0
+USA,Butte,4,0
+MEX,Yurécuaro,4,0
+USA,Novato,4,0
+USA,Madison Heights,4,0
+MEX,Ameca,4,0
+USA,Minnetonka,4,0
+USA,East Lansing,4,0
+USA,Westvale,4,0
+USA,Elizabethton,4,0
+USA,Madisonville,4,0
+USA,Tripoli,4,0
+USA,Russell Springs,4,0
+USA,Lake in the Hills,4,0
+USA,McKenna,4,0
+CAN,Ormstown,4,0
+USA,Pace,4,0
+USA,Lilburn,4,0
+USA,Sanger,4,0
+USA,Nyack,4,0
+USA,Hamden,4,0
+USA,Prattville,4,0
+USA,Iselin,4,0
+USA,Smithfield,4,0
+CAN,Très-Saint-Rédempteur,4,0
+USA,North Charleston,4,2
+USA,Spring Mills,4,0
+USA,South Milwaukee,4,0
+USA,Stanwood,4,0
+USA,New Richmond,4,0
+USA,Ocean Acres,4,0
+MEX,Abasolo,4,0
+USA,Virginia,4,0
+CAN,St. Peters Bay,4,0
+USA,Margate,4,0
+USA,Montpelier,3,0
+USA,Berwyn,3,0
+USA,East Setauket,3,0
+CAN,Glovertown,3,0
+USA,Jamesburg,3,0
+USA,Peru,3,0
+USA,DeCordova,3,0
+USA,Tippecanoe,3,0
+CAN,Lanoraie,3,0
+CAN,Chertsey,3,0
+USA,Miami Springs,3,0
+USA,Strum,3,0
+USA,Boydton,3,3
+CAN,Morin-Heights,3,0
+USA,Park River,3,0
+USA,Wyandanch,3,0
+USA,Tyngsboro,3,0
+USA,South Haven,3,0
+USA,Isla Vista,3,0
+USA,Fostoria,3,0
+USA,Kendallville,3,0
+USA,South Euclid,3,0
+CAN,Saint-Norbert,3,0
+USA,Pearland,3,0
+USA,Russellville,3,0
+USA,Hugo,3,0
+USA,Vandercook Lake,3,0
+USA,Madera,3,0
+USA,Berwick,3,0
+USA,King of Prussia,3,0
+USA,Jefferson,3,0
+USA,Whitewater,3,0
+USA,Litchfield,3,0
+USA,Redford,3,0
+CAN,Conception Bay South,3,0
+USA,Sikeston,3,0
+USA,Blanchard,3,0
+USA,Balch Springs,3,0
+USA,Cloquet,3,0
+USA,Carlisle,3,0
+USA,Macedon,3,0
+USA,Brockport,3,0
+USA,Wauwatosa,3,0
+USA,Fort Dodge,3,0
+USA,Leavenworth,3,0
+USA,Park Ridge,3,0
+USA,Fortuna,3,0
+USA,Butler,3,0
+USA,Taylors,3,0
+MEX,Pijijiapan,3,0
+CAN,Gander,3,0
+USA,Fair Plain,3,0
+CAN,Esquimalt,3,0
+USA,Rockville Centre,3,0
+USA,South Portland,3,0
+CAN,Saint-Félicien,3,0
+USA,Cedartown,3,0
+USA,Yarmouth,3,0
+USA,Beavercreek,3,0
+CAN,Innisfil,3,0
+USA,Dresser,3,0
+USA,Monterey,3,0
+USA,Streator,3,0
+USA,Irondequoit,3,0
+USA,Half Moon Bay,3,0
+USA,The Meadows,3,0
+USA,Millbrook,3,0
+USA,Whippany,3,0
+USA,Tarrytown,3,0
+USA,Ocean Shores,3,0
+USA,Mamaroneck,3,0
+USA,East Haddam,3,0
+USA,Forestdale,3,0
+USA,Ashtabula,3,0
+CAN,LaSalle,3,0
+CAN,Trois Pistoles,3,0
+USA,Wyandotte,3,0
+USA,Belle Glade,3,0
+USA,Saco,3,0
+USA,Walnut Cove,3,0
+CAN,Saint-Élie-de-Caxton,3,0
+USA,Brownwood,3,0
+USA,White Bear Lake,3,0
+USA,Belfast,3,0
+CAN,Cartier,3,0
+USA,Gray,3,0
+USA,Luverne,3,0
+USA,Valencia,3,0
+USA,St. Charles,3,0
+USA,Ellwood City,3,0
+USA,Vineyard,3,0
+USA,Atlantic City,3,0
+USA,Wapakoneta,3,0
+USA,Dundas,3,0
+USA,Spearfish,3,0
+USA,Uniontown,3,0
+USA,Lauderdale Lakes,3,0
+USA,Clear Lake,3,0
+USA,Pico Rivera,3,0
+USA,Champlin,3,0
+CAN,Dauphin,3,0
+USA,Lodi,3,0
+USA,Millinocket,3,0
+USA,Sour Lake,3,0
+USA,Bunnell,3,0
+USA,Tinley Park,3,0
+USA,Ottumwa,3,0
+USA,Westmont,3,0
+USA,Puyallup,3,0
+USA,Groton,3,0
+USA,Ledyard,3,0
+USA,Van Wert,3,1
+USA,Proctorville,3,0
+USA,West Grove,3,0
+USA,Knightdale,3,0
+CAN,Prévost,3,0
+USA,Swainsboro,3,3
+USA,Richmond Hill,3,0
+USA,Alamogordo,3,0
+USA,Payson,3,3
+USA,Cassville,3,0
+USA,Glendale Heights,3,0
+USA,Woodbridge,3,0
+USA,Downsville,3,0
+USA,Wrightwood,3,0
+USA,Laconia,3,0
+USA,Hanover,3,0
+USA,East York,3,0
+USA,Woodmoor,3,0
+USA,New Lisbon,3,0
+MEX,Las Choapas,3,0
+USA,Brazil,3,0
+USA,Ada,3,0
+USA,Malad City,3,0
+USA,East La Mirada,3,0
+USA,North Bay Shore,3,0
+USA,Ansonia,3,0
+USA,Fishkill,3,0
+USA,Paxtang,3,0
+USA,Roanoke Rapids,3,0
+USA,Wilmette,3,0
+USA,Richfield,3,0
+CAN,Shawville,3,0
+USA,LaGrange,3,0
+CAN,Blairmore,3,0
+USA,Collierville,3,0
+USA,Ozark,3,0
+USA,North Kansas City,3,2
+USA,Tipton,3,0
+USA,Rialto,3,0
+USA,Rolling Hills,3,0
+USA,Wolcott,3,0
+USA,Topsfield,3,0
+USA,Basehor,3,0
+USA,Oakmont,3,0
+USA,Christiansburg,3,0
+USA,Coshocton,3,0
+USA,El Dorado,3,0
+USA,Marcus,3,0
+USA,Lake Stickney,3,0
+CAN,Gibsons,3,0
+USA,Oyster Bay,3,0
+USA,Petersburg,3,0
+CAN,Bonavista,3,0
+USA,Pierre,3,0
+USA,Oakville,3,0
+USA,Goodlettsville,3,0
+USA,Alamosa,3,0
+USA,Sunnyside,3,0
+USA,East Butler,3,0
+USA,Delphos,3,0
+USA,Pinson,3,0
+USA,Noonday,3,0
+USA,Wolverine Lake,3,0
+USA,Ceredo,3,0
+USA,Selinsgrove,3,0
+USA,Lincolnton,3,0
+USA,Mazomanie,3,0
+USA,Sherwood,3,0
+USA,Lake Mohegan,3,0
+USA,Geneva,3,0
+USA,Archbald,3,0
+MEX,Universidad,3,0
+USA,Kirksville,3,0
+USA,West Point,3,0
+USA,Four Corners,3,0
+USA,Bothell West,3,0
+USA,Freeland,3,0
+USA,Alden,3,0
+USA,Los Alamos,3,0
+CAN,Camrose,3,0
+CAN,Lewisporte,3,0
+USA,Lawrenceburg,3,0
+USA,Macomb,3,0
+USA,Tecumseh,3,0
+USA,Clearlake,3,0
+USA,Campbell,3,0
+USA,Rexburg,3,0
+USA,Snoqualmie,3,0
+USA,Morro Bay,3,0
+USA,Port Jefferson Station,3,0
+USA,Peabody,3,0
+USA,South Uniontown,3,0
+USA,Bloomsburg,3,0
+USA,Park Forest Village,3,0
+USA,Dunn,3,0
+CAN,Rockwood,3,0
+CAN,Saint-Bruno,3,0
+CAN,Saint-Marc-des-Carrières,3,0
+CAN,Portneuf,3,0
+USA,Carriere,3,0
+USA,Grenada,3,0
+USA,Country Club,3,0
+USA,Poinciana,3,0
+USA,Dandridge,3,0
+MEX,Huimanguillo,3,0
+MEX,Comalcalco,3,0
+MEX,Comitán,3,0
+USA,Kensington,3,0
+USA,Duncanville,3,0
+USA,Dracut,3,0
+USA,Venice,3,0
+USA,Big Rapids,3,0
+USA,Okemos,3,0
+USA,Glendale,3,0
+USA,New Prague,3,0
+USA,Ferguson,3,0
+USA,Lee's Summit,3,0
+USA,Wanatah,3,0
+USA,Thief River Falls,3,0
+USA,Alsea,3,0
+CAN,Sechelt,3,0
+USA,Bergenfield,3,0
+USA,Little Falls,3,0
+USA,Lake Ronkonkoma,3,0
+USA,Finesville,3,0
+USA,Buzzards Bay,3,0
+USA,Bon Air,3,0
+USA,Oak Hill,3,0
+CAN,Saint-Mathieu-de-Rioux,3,0
+CAN,Ville-Marie,3,0
+USA,Scottsboro,3,0
+USA,Temple,3,0
+USA,Avondale,3,0
+USA,Carthage,3,0
+USA,Lagrange,3,0
+USA,Mount Prospect,3,0
+USA,Muskego,3,0
+USA,Thompson Falls,3,0
+USA,Hawley,3,0
+USA,Parole,3,0
+USA,Pulaski,3,0
+USA,Sterling,3,0
+USA,Black Diamond,3,0
+USA,Mayfield,3,0
+USA,Cordova,3,0
+USA,Redding,3,0
+USA,Pennsauken,3,0
+USA,Monmouth Junction,3,0
+USA,Ipswich,3,0
+USA,Charles Town,3,0
+CAN,Mississauga Beach,3,0
+USA,Lecanto,3,0
+USA,Daytona Beach,3,0
+USA,Lakeway,3,0
+MEX,Jesús María,3,0
+USA,Onaway,3,0
+USA,Sharon,3,0
+USA,Clarkesville,3,0
+USA,Southern Pines,3,0
+USA,West Islip,3,0
+CAN,Labrador City,3,0
+CAN,Lake Country,3,0
+USA,Louisburg,3,0
+USA,Moore,3,0
+USA,Colby,3,0
+CAN,Swift Current,3,0
+USA,North Highlands,3,0
+USA,Galt,3,0
+USA,Sheffield Lake,3,0
+CAN,Corunna,3,0
+USA,Reserve,3,0
+MEX,Santa María Ixtiyucán,3,0
+MEX,Santa Teresa,3,0
+USA,Bourbonnais,3,0
+USA,Junction City,3,0
+USA,Delavan,3,0
+USA,Antelope,3,0
+USA,Gardnerville,3,0
+USA,Oakhurst,3,0
+USA,Manhasset,3,0
+USA,Phillipsburg,3,0
+USA,Berea,3,0
+USA,Hallowell,3,0
+CAN,Angus,3,0
+USA,Thibodaux,3,0
+USA,Lake Lorraine,3,0
+USA,Crossville,3,0
+USA,Toccoa,3,1
+USA,Santa Fe,3,0
+CAN,Chestermere,3,0
+CAN,Salmon Arm,3,0
+USA,Austell,3,0
+MEX,Puerto Escondido,3,0
+CAN,Breslau,3,0
+USA,Theodore,3,0
+USA,Kingfisher,3,0
+USA,Rice Lake,3,0
+USA,Wyckoff,3,0
+USA,North Pembroke,3,0
+USA,Whitesburg,3,0
+USA,Rutland,3,0
+USA,Show Low,3,0
+MEX,Crucecita,3,0
+USA,Sandpoint,3,0
+USA,Milford Mill,3,0
+USA,Lake Ridge,3,0
+USA,Lantana,3,0
+USA,Mesick,3,0
+USA,Southbridge,3,0
+USA,Wrentham,3,0
+CAN,Gaspé,3,0
+CAN,Deux-Montagnes,3,0
+USA,Guyton,3,0
+USA,Meridianville,3,0
+USA,Van,3,0
+CAN,Niverville,3,0
+USA,Baileys Harbor,3,0
+USA,Oscoda,3,0
+USA,Sisters,3,0
+USA,Covina,3,0
+USA,Towanda,3,0
+CAN,Petawawa,3,0
+USA,Blue Ridge,3,0
+USA,Shell Point,3,0
+MEX,San José Iturbide,3,0
+MEX,Miguel Hidalgo,3,0
+USA,Elburn,3,0
+CAN,Bay Roberts,3,0
+USA,Marshalltown,3,0
+USA,Fountain,3,0
+USA,Monument,3,0
+USA,Ukiah,3,0
+USA,Mercer Island,3,0
+USA,Carson,3,0
+USA,Lake Arrowhead,3,0
+USA,Atlantic Highlands,3,0
+USA,Fernway,3,0
+USA,Swissvale,3,0
+USA,Union Dale,3,0
+USA,Bull Run,3,0
+USA,Brogden,3,0
+USA,Essex Junction,3,0
+USA,Marco Island,3,0
+USA,Denham Springs,3,0
+USA,Cape Canaveral,3,0
+USA,Huntersville,3,0
+USA,Monahans,3,0
+USA,Manor,3,0
+USA,Marana,3,0
+USA,Morris Plains,3,1
+USA,Ellijay,3,0
+USA,Citrus Springs,3,0
+USA,Hindsville,3,0
+USA,Belfair,3,0
+USA,Lyman,3,0
+USA,Lenoir,3,0

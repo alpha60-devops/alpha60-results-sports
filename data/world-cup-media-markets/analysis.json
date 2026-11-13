@@ -1,0 +1,1012 @@
+{
+  "schema": "alpha60-world-cup-media-markets/1",
+  "date": "2026-11-12",
+  "scope": [
+    "USA",
+    "CAN",
+    "MEX"
+  ],
+  "counting_unit": "markets and stadiums, not audience reach",
+  "tv": {
+    "overlapping_markets": 10,
+    "top_market_count": 25,
+    "market_coverage_pct": 40.0,
+    "covered_venues": 10,
+    "eligible_venues": 11,
+    "venue_coverage_pct": 90.9090909090909,
+    "outside_venue_ids": [
+      "kansas-city"
+    ]
+  },
+  "proxy": {
+    "overlapping_markets": 14,
+    "top_market_count": 25,
+    "market_coverage_pct": 56.0,
+    "covered_venues": 14,
+    "eligible_venues": 16,
+    "venue_coverage_pct": 87.5,
+    "outside_venue_ids": [
+      "kansas-city",
+      "san-francisco"
+    ]
+  },
+  "sensitivity_2020": {
+    "overlapping_markets": 13,
+    "top_market_count": 25,
+    "market_coverage_pct": 52.0,
+    "covered_venues": 13,
+    "eligible_venues": 16,
+    "venue_coverage_pct": 81.25,
+    "outside_venue_ids": [
+      "kansas-city",
+      "san-francisco",
+      "vancouver"
+    ]
+  },
+  "proxy_top25": [
+    {
+      "area_id": "MEX:09.1.01",
+      "country": "MEX",
+      "area": "Ciudad de México",
+      "population": 21436911,
+      "population_2020": 21436911,
+      "population_date": "2020-03-15",
+      "definition": "Zona metropolitana",
+      "source": "mex-metro-population.csv",
+      "rank": 1,
+      "rank_2020": 1,
+      "venue_ids": [
+        "mexico-city"
+      ]
+    },
+    {
+      "area_id": "USA:35620",
+      "country": "USA",
+      "area": "New York-Newark-Jersey City, NY-NJ",
+      "population": 20112448,
+      "population_2020": 19999993,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 2,
+      "rank_2020": 2,
+      "venue_ids": [
+        "new-york-new-jersey"
+      ]
+    },
+    {
+      "area_id": "USA:31080",
+      "country": "USA",
+      "area": "Los Angeles-Long Beach-Anaheim, CA",
+      "population": 12844441,
+      "population_2020": 13182677,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 3,
+      "rank_2020": 3,
+      "venue_ids": [
+        "los-angeles"
+      ]
+    },
+    {
+      "area_id": "USA:16980",
+      "country": "USA",
+      "area": "Chicago-Naperville-Elgin, IL-IN",
+      "population": 9434123,
+      "population_2020": 9435971,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 4,
+      "rank_2020": 4,
+      "venue_ids": []
+    },
+    {
+      "area_id": "USA:19100",
+      "country": "USA",
+      "area": "Dallas-Fort Worth-Arlington, TX",
+      "population": 8477157,
+      "population_2020": 7667416,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 5,
+      "rank_2020": 5,
+      "venue_ids": [
+        "dallas"
+      ]
+    },
+    {
+      "area_id": "USA:26420",
+      "country": "USA",
+      "area": "Houston-Pasadena-The Woodlands, TX",
+      "population": 7904627,
+      "population_2020": 7169284,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 6,
+      "rank_2020": 6,
+      "venue_ids": [
+        "houston"
+      ]
+    },
+    {
+      "area_id": "CAN:535",
+      "country": "CAN",
+      "area": "Toronto (CMA), Ontario",
+      "population": 7108874,
+      "population_2020": 6491939,
+      "population_date": "2025-07-01",
+      "definition": "2021 Census Metropolitan Area",
+      "source": "can-population.zip",
+      "rank": 7,
+      "rank_2020": 7,
+      "venue_ids": [
+        "toronto"
+      ]
+    },
+    {
+      "area_id": "USA:12060",
+      "country": "USA",
+      "area": "Atlanta-Sandy Springs-Roswell, GA",
+      "population": 6482182,
+      "population_2020": 6120770,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 8,
+      "rank_2020": 11,
+      "venue_ids": [
+        "atlanta"
+      ]
+    },
+    {
+      "area_id": "USA:47900",
+      "country": "USA",
+      "area": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+      "population": 6465724,
+      "population_2020": 6260638,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 9,
+      "rank_2020": 8,
+      "venue_ids": []
+    },
+    {
+      "area_id": "USA:33100",
+      "country": "USA",
+      "area": "Miami-Fort Lauderdale-West Palm Beach, FL",
+      "population": 6391072,
+      "population_2020": 6133159,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 10,
+      "rank_2020": 10,
+      "venue_ids": [
+        "miami"
+      ]
+    },
+    {
+      "area_id": "USA:37980",
+      "country": "USA",
+      "area": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+      "population": 6329118,
+      "population_2020": 6242164,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 11,
+      "rank_2020": 9,
+      "venue_ids": [
+        "philadelphia"
+      ]
+    },
+    {
+      "area_id": "MEX:19.1.01",
+      "country": "MEX",
+      "area": "Monterrey",
+      "population": 5322117,
+      "population_2020": 5322117,
+      "population_date": "2020-03-15",
+      "definition": "Zona metropolitana",
+      "source": "mex-metro-population.csv",
+      "rank": 12,
+      "rank_2020": 12,
+      "venue_ids": [
+        "monterrey"
+      ]
+    },
+    {
+      "area_id": "USA:38060",
+      "country": "USA",
+      "area": "Phoenix-Mesa-Chandler, AZ",
+      "population": 5228938,
+      "population_2020": 4875256,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 13,
+      "rank_2020": 15,
+      "venue_ids": []
+    },
+    {
+      "area_id": "MEX:14.1.01",
+      "country": "MEX",
+      "area": "Guadalajara",
+      "population": 5110617,
+      "population_2020": 5110617,
+      "population_date": "2020-03-15",
+      "definition": "Zona metropolitana",
+      "source": "mex-metro-population.csv",
+      "rank": 14,
+      "rank_2020": 13,
+      "venue_ids": [
+        "guadalajara"
+      ]
+    },
+    {
+      "area_id": "USA:14460",
+      "country": "USA",
+      "area": "Boston-Cambridge-Newton, MA-NH",
+      "population": 5034221,
+      "population_2020": 4921409,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 15,
+      "rank_2020": 14,
+      "venue_ids": [
+        "boston"
+      ]
+    },
+    {
+      "area_id": "USA:40140",
+      "country": "USA",
+      "area": "Riverside-San Bernardino-Ontario, CA",
+      "population": 4769007,
+      "population_2020": 4607646,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 16,
+      "rank_2020": 17,
+      "venue_ids": []
+    },
+    {
+      "area_id": "USA:41860",
+      "country": "USA",
+      "area": "San Francisco-Oakland-Fremont, CA",
+      "population": 4630041,
+      "population_2020": 4745853,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 17,
+      "rank_2020": 16,
+      "venue_ids": []
+    },
+    {
+      "area_id": "CAN:462",
+      "country": "CAN",
+      "area": "Montréal (CMA), Quebec",
+      "population": 4597837,
+      "population_2020": 4356853,
+      "population_date": "2025-07-01",
+      "definition": "2021 Census Metropolitan Area",
+      "source": "can-population.zip",
+      "rank": 18,
+      "rank_2020": 19,
+      "venue_ids": []
+    },
+    {
+      "area_id": "USA:19820",
+      "country": "USA",
+      "area": "Detroit-Warren-Dearborn, MI",
+      "population": 4390913,
+      "population_2020": 4385353,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 19,
+      "rank_2020": 18,
+      "venue_ids": []
+    },
+    {
+      "area_id": "USA:42660",
+      "country": "USA",
+      "area": "Seattle-Tacoma-Bellevue, WA",
+      "population": 4161883,
+      "population_2020": 4027814,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 20,
+      "rank_2020": 20,
+      "venue_ids": [
+        "seattle"
+      ]
+    },
+    {
+      "area_id": "USA:33460",
+      "country": "USA",
+      "area": "Minneapolis-St. Paul-Bloomington, MN-WI",
+      "population": 3790295,
+      "population_2020": 3694131,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 21,
+      "rank_2020": 21,
+      "venue_ids": []
+    },
+    {
+      "area_id": "USA:45300",
+      "country": "USA",
+      "area": "Tampa-St. Petersburg-Clearwater, FL",
+      "population": 3418895,
+      "population_2020": 3187831,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 22,
+      "rank_2020": 23,
+      "venue_ids": []
+    },
+    {
+      "area_id": "USA:41740",
+      "country": "USA",
+      "area": "San Diego-Chula Vista-Carlsbad, CA",
+      "population": 3282248,
+      "population_2020": 3301110,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 23,
+      "rank_2020": 22,
+      "venue_ids": []
+    },
+    {
+      "area_id": "USA:19740",
+      "country": "USA",
+      "area": "Denver-Aurora-Centennial, CO",
+      "population": 3092037,
+      "population_2020": 2970099,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 24,
+      "rank_2020": 24,
+      "venue_ids": []
+    },
+    {
+      "area_id": "CAN:933",
+      "country": "CAN",
+      "area": "Vancouver (CMA), British Columbia",
+      "population": 3088036,
+      "population_2020": 2750966,
+      "population_date": "2025-07-01",
+      "definition": "2021 Census Metropolitan Area",
+      "source": "can-population.zip",
+      "rank": 25,
+      "rank_2020": 28,
+      "venue_ids": [
+        "vancouver"
+      ]
+    }
+  ],
+  "tv_top25": [
+    {
+      "rank": 1,
+      "market": "New York",
+      "venue_ids": [
+        "new-york-new-jersey"
+      ],
+      "stadium_nfl_tenants": [
+        "New York Giants"
+      ]
+    },
+    {
+      "rank": 2,
+      "market": "Los Angeles",
+      "venue_ids": [
+        "los-angeles"
+      ],
+      "stadium_nfl_tenants": [
+        "L.A. Chargers"
+      ]
+    },
+    {
+      "rank": 3,
+      "market": "Chicago",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 4,
+      "market": "Dallas-Ft. Worth",
+      "venue_ids": [
+        "dallas"
+      ],
+      "stadium_nfl_tenants": [
+        "Dallas Cowboys"
+      ]
+    },
+    {
+      "rank": 5,
+      "market": "Philadelphia",
+      "venue_ids": [
+        "philadelphia"
+      ],
+      "stadium_nfl_tenants": [
+        "Philadelphia Eagles"
+      ]
+    },
+    {
+      "rank": 6,
+      "market": "Houston",
+      "venue_ids": [
+        "houston"
+      ],
+      "stadium_nfl_tenants": [
+        "Houston Texans"
+      ]
+    },
+    {
+      "rank": 7,
+      "market": "Atlanta",
+      "venue_ids": [
+        "atlanta"
+      ],
+      "stadium_nfl_tenants": [
+        "Atlanta Falcons"
+      ]
+    },
+    {
+      "rank": 8,
+      "market": "Washington, DC (Hagrstwn)",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 9,
+      "market": "San Francisco-Oak-San Jose",
+      "venue_ids": [
+        "san-francisco"
+      ],
+      "stadium_nfl_tenants": [
+        "San Francisco 49ers"
+      ]
+    },
+    {
+      "rank": 10,
+      "market": "Boston (Manchester)",
+      "venue_ids": [
+        "boston"
+      ],
+      "stadium_nfl_tenants": [
+        "New England Patriots"
+      ]
+    },
+    {
+      "rank": 11,
+      "market": "Tampa-St. Pete (Sarasota)",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 12,
+      "market": "Phoenix (Prescott)",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 13,
+      "market": "Seattle-Tacoma",
+      "venue_ids": [
+        "seattle"
+      ],
+      "stadium_nfl_tenants": [
+        "Seattle Seahawks"
+      ]
+    },
+    {
+      "rank": 14,
+      "market": "Detroit",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 15,
+      "market": "Orlando-Daytona Bch-Melbrn",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 16,
+      "market": "Minneapolis-St. Paul",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 17,
+      "market": "Denver",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 18,
+      "market": "Miami-Ft. Lauderdale",
+      "venue_ids": [
+        "miami"
+      ],
+      "stadium_nfl_tenants": [
+        "Miami Dolphins"
+      ]
+    },
+    {
+      "rank": 19,
+      "market": "Cleveland-Akron (Canton)",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 20,
+      "market": "Sacramnto-Stkton-Modesto",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 21,
+      "market": "Charlotte",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 22,
+      "market": "Raleigh-Durham (Fayetville)",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 23,
+      "market": "Portland, OR",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 24,
+      "market": "St. Louis",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    },
+    {
+      "rank": 25,
+      "market": "Nashville",
+      "venue_ids": [],
+      "stadium_nfl_tenants": []
+    }
+  ],
+  "venues": [
+    {
+      "venue_id": "atlanta",
+      "country": "USA",
+      "host_city": "Atlanta",
+      "municipality": "Atlanta",
+      "area_id": "USA:12060",
+      "metro": "Atlanta-Sandy Springs-Roswell, GA",
+      "proxy_rank": 8,
+      "proxy_rank_2020": 11,
+      "proxy_top25": true,
+      "dma_rank": 7,
+      "dma_market": "Atlanta",
+      "dma_top25": true,
+      "dma_join_method": "Same stadium NFL tenant; U.S. Soccer to TVB"
+    },
+    {
+      "venue_id": "boston",
+      "country": "USA",
+      "host_city": "Boston",
+      "municipality": "Foxborough",
+      "area_id": "USA:14460",
+      "metro": "Boston-Cambridge-Newton, MA-NH",
+      "proxy_rank": 15,
+      "proxy_rank_2020": 14,
+      "proxy_top25": true,
+      "dma_rank": 10,
+      "dma_market": "Boston (Manchester)",
+      "dma_top25": true,
+      "dma_join_method": "Same stadium NFL tenant; U.S. Soccer to TVB"
+    },
+    {
+      "venue_id": "dallas",
+      "country": "USA",
+      "host_city": "Dallas",
+      "municipality": "Arlington",
+      "area_id": "USA:19100",
+      "metro": "Dallas-Fort Worth-Arlington, TX",
+      "proxy_rank": 5,
+      "proxy_rank_2020": 5,
+      "proxy_top25": true,
+      "dma_rank": 4,
+      "dma_market": "Dallas-Ft. Worth",
+      "dma_top25": true,
+      "dma_join_method": "Same stadium NFL tenant; U.S. Soccer to TVB"
+    },
+    {
+      "venue_id": "guadalajara",
+      "country": "MEX",
+      "host_city": "Guadalajara",
+      "municipality": "Zapopan",
+      "area_id": "MEX:14.1.01",
+      "metro": "Guadalajara",
+      "proxy_rank": 14,
+      "proxy_rank_2020": 13,
+      "proxy_top25": true,
+      "dma_rank": null,
+      "dma_market": null,
+      "dma_top25": null,
+      "dma_join_method": "Outside U.S. DMA universe"
+    },
+    {
+      "venue_id": "houston",
+      "country": "USA",
+      "host_city": "Houston",
+      "municipality": "Houston",
+      "area_id": "USA:26420",
+      "metro": "Houston-Pasadena-The Woodlands, TX",
+      "proxy_rank": 6,
+      "proxy_rank_2020": 6,
+      "proxy_top25": true,
+      "dma_rank": 6,
+      "dma_market": "Houston",
+      "dma_top25": true,
+      "dma_join_method": "Same stadium NFL tenant; U.S. Soccer to TVB"
+    },
+    {
+      "venue_id": "kansas-city",
+      "country": "USA",
+      "host_city": "Kansas City",
+      "municipality": "Kansas City",
+      "area_id": "USA:28140",
+      "metro": "Kansas City, MO-KS",
+      "proxy_rank": 39,
+      "proxy_rank_2020": 39,
+      "proxy_top25": false,
+      "dma_rank": 35,
+      "dma_market": "Kansas City",
+      "dma_top25": false,
+      "dma_join_method": "Same stadium NFL tenant; U.S. Soccer to TVB"
+    },
+    {
+      "venue_id": "los-angeles",
+      "country": "USA",
+      "host_city": "Los Angeles",
+      "municipality": "Inglewood",
+      "area_id": "USA:31080",
+      "metro": "Los Angeles-Long Beach-Anaheim, CA",
+      "proxy_rank": 3,
+      "proxy_rank_2020": 3,
+      "proxy_top25": true,
+      "dma_rank": 2,
+      "dma_market": "Los Angeles",
+      "dma_top25": true,
+      "dma_join_method": "Same stadium NFL tenant; U.S. Soccer to TVB"
+    },
+    {
+      "venue_id": "mexico-city",
+      "country": "MEX",
+      "host_city": "Mexico City",
+      "municipality": "Mexico City",
+      "area_id": "MEX:09.1.01",
+      "metro": "Ciudad de México",
+      "proxy_rank": 1,
+      "proxy_rank_2020": 1,
+      "proxy_top25": true,
+      "dma_rank": null,
+      "dma_market": null,
+      "dma_top25": null,
+      "dma_join_method": "Outside U.S. DMA universe"
+    },
+    {
+      "venue_id": "miami",
+      "country": "USA",
+      "host_city": "Miami",
+      "municipality": "Miami Gardens",
+      "area_id": "USA:33100",
+      "metro": "Miami-Fort Lauderdale-West Palm Beach, FL",
+      "proxy_rank": 10,
+      "proxy_rank_2020": 10,
+      "proxy_top25": true,
+      "dma_rank": 18,
+      "dma_market": "Miami-Ft. Lauderdale",
+      "dma_top25": true,
+      "dma_join_method": "Same stadium NFL tenant; U.S. Soccer to TVB"
+    },
+    {
+      "venue_id": "monterrey",
+      "country": "MEX",
+      "host_city": "Monterrey",
+      "municipality": "Guadalupe",
+      "area_id": "MEX:19.1.01",
+      "metro": "Monterrey",
+      "proxy_rank": 12,
+      "proxy_rank_2020": 12,
+      "proxy_top25": true,
+      "dma_rank": null,
+      "dma_market": null,
+      "dma_top25": null,
+      "dma_join_method": "Outside U.S. DMA universe"
+    },
+    {
+      "venue_id": "new-york-new-jersey",
+      "country": "USA",
+      "host_city": "New York New Jersey",
+      "municipality": "East Rutherford",
+      "area_id": "USA:35620",
+      "metro": "New York-Newark-Jersey City, NY-NJ",
+      "proxy_rank": 2,
+      "proxy_rank_2020": 2,
+      "proxy_top25": true,
+      "dma_rank": 1,
+      "dma_market": "New York",
+      "dma_top25": true,
+      "dma_join_method": "Same stadium NFL tenant; U.S. Soccer to TVB"
+    },
+    {
+      "venue_id": "philadelphia",
+      "country": "USA",
+      "host_city": "Philadelphia",
+      "municipality": "Philadelphia",
+      "area_id": "USA:37980",
+      "metro": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+      "proxy_rank": 11,
+      "proxy_rank_2020": 9,
+      "proxy_top25": true,
+      "dma_rank": 5,
+      "dma_market": "Philadelphia",
+      "dma_top25": true,
+      "dma_join_method": "Same stadium NFL tenant; U.S. Soccer to TVB"
+    },
+    {
+      "venue_id": "san-francisco",
+      "country": "USA",
+      "host_city": "San Francisco",
+      "municipality": "Santa Clara",
+      "area_id": "USA:41940",
+      "metro": "San Jose-Sunnyvale-Santa Clara, CA",
+      "proxy_rank": 45,
+      "proxy_rank_2020": 45,
+      "proxy_top25": false,
+      "dma_rank": 9,
+      "dma_market": "San Francisco-Oak-San Jose",
+      "dma_top25": true,
+      "dma_join_method": "Same stadium NFL tenant; U.S. Soccer to TVB"
+    },
+    {
+      "venue_id": "seattle",
+      "country": "USA",
+      "host_city": "Seattle",
+      "municipality": "Seattle",
+      "area_id": "USA:42660",
+      "metro": "Seattle-Tacoma-Bellevue, WA",
+      "proxy_rank": 20,
+      "proxy_rank_2020": 20,
+      "proxy_top25": true,
+      "dma_rank": 13,
+      "dma_market": "Seattle-Tacoma",
+      "dma_top25": true,
+      "dma_join_method": "Same stadium NFL tenant; U.S. Soccer to TVB"
+    },
+    {
+      "venue_id": "toronto",
+      "country": "CAN",
+      "host_city": "Toronto",
+      "municipality": "Toronto",
+      "area_id": "CAN:535",
+      "metro": "Toronto (CMA), Ontario",
+      "proxy_rank": 7,
+      "proxy_rank_2020": 7,
+      "proxy_top25": true,
+      "dma_rank": null,
+      "dma_market": null,
+      "dma_top25": null,
+      "dma_join_method": "Outside U.S. DMA universe"
+    },
+    {
+      "venue_id": "vancouver",
+      "country": "CAN",
+      "host_city": "Vancouver",
+      "municipality": "Vancouver",
+      "area_id": "CAN:933",
+      "metro": "Vancouver (CMA), British Columbia",
+      "proxy_rank": 25,
+      "proxy_rank_2020": 28,
+      "proxy_top25": true,
+      "dma_rank": null,
+      "dma_market": null,
+      "dma_top25": null,
+      "dma_join_method": "Outside U.S. DMA universe"
+    }
+  ],
+  "candidate_counts": {
+    "USA": 387,
+    "CAN": 41,
+    "MEX": 92
+  },
+  "cutoff": [
+    {
+      "area_id": "CAN:933",
+      "country": "CAN",
+      "area": "Vancouver (CMA), British Columbia",
+      "population": 3088036,
+      "population_2020": 2750966,
+      "population_date": "2025-07-01",
+      "definition": "2021 Census Metropolitan Area",
+      "source": "can-population.zip",
+      "rank": 25,
+      "rank_2020": 28,
+      "venue_ids": [
+        "vancouver"
+      ]
+    },
+    {
+      "area_id": "USA:36740",
+      "country": "USA",
+      "area": "Orlando-Kissimmee-Sanford, FL",
+      "population": 2957672,
+      "population_2020": 2680430,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 26,
+      "rank_2020": 29,
+      "venue_ids": []
+    },
+    {
+      "area_id": "USA:16740",
+      "country": "USA",
+      "area": "Charlotte-Concord-Gastonia, NC-SC",
+      "population": 2938830,
+      "population_2020": 2668342,
+      "population_date": "2025-07-01",
+      "definition": "Metropolitan Statistical Area",
+      "source": "usa-metro-population.csv",
+      "rank": 27,
+      "rank_2020": 30,
+      "venue_ids": []
+    }
+  ],
+  "population_vintages": {
+    "USA": "2025-07-01 estimate",
+    "CAN": "2025-07-01 estimate",
+    "MEX": "2020-03-15 census"
+  },
+  "limitations": [
+    "The three-country ranking is an official-metro population proxy, not a continental TV-market ranking.",
+    "Metro definitions differ between countries; they do not reproduce television-market boundaries.",
+    "Mexico uses 2020 census values; the USA and Canada use 2025 estimates. No 2026 population is estimated.",
+    "The 2020 sensitivity uses July 1 estimates for USA/Canada and March 15 census counts for Mexico, with the same fixed geographic definitions.",
+    "Nielsen ranks TV households including broadband-only homes. Market counts do not measure actual broadcast reach or audiences."
+  ],
+  "sources": [
+    {
+      "file": "usa-metro-population.csv",
+      "url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/metro/totals/cbsa-est2025-alldata.csv",
+      "final_url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/metro/totals/cbsa-est2025-alldata.csv",
+      "bytes": 827252,
+      "sha256": "bf6fad83753456413d047d1acebeb434bd067eba9d6d0be62b3f737ad1301852",
+      "content_type": "text/csv",
+      "status": "acquired"
+    },
+    {
+      "file": "can-population.zip",
+      "url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100148-eng.zip",
+      "final_url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100148-eng.zip",
+      "bytes": 22688780,
+      "sha256": "7b007a0ff50bb1bad6a041093c3c71502c095f2516d20c961d9c26ed55b327d5",
+      "content_type": "application/zip",
+      "status": "acquired"
+    },
+    {
+      "file": "mex-metro-population.csv",
+      "url": "https://www.datos.gob.mx/dataset/da65ccd9-888c-4ce8-b3b5-6bd867be344d/resource/a345dcac-4e9c-461f-a8cf-1abb2e4d6567/download/metropolis_poblacion.csv",
+      "final_url": "https://www.datos.gob.mx/dataset/da65ccd9-888c-4ce8-b3b5-6bd867be344d/resource/a345dcac-4e9c-461f-a8cf-1abb2e4d6567/download/metropolis_poblacion.csv",
+      "bytes": 9531,
+      "sha256": "d0150029e655bd2afdeae4b2b6c2466eecde0aab4e882f8236df111c36d2559d",
+      "content_type": "text/csv",
+      "status": "acquired"
+    }
+  ],
+  "source_metadata": {
+    "schema": "alpha60-world-cup-media-market-input/1",
+    "as_of": "2026-11-12",
+    "scope": [
+      "USA",
+      "CAN",
+      "MEX"
+    ],
+    "approved_comparisons": [
+      "US television-market ranking",
+      "three-country metro-population proxy"
+    ],
+    "tvb_url": "https://www.tvb.org/wp-content/uploads/2021/06/Pro_Sports_by_DMA.pdf",
+    "tvb_sha256": "6b7b3c47409af22a0114efb21013ee9835d1c3fe135ee42fdf494d86309e845d",
+    "tvb_season": "2025-26",
+    "stadium_team_source": "https://www.ussoccer.com/stories/2026/05/usmnt/which-cities-are-hosting-2026-fifa-world-cup-usa-mexico-canada",
+    "stadium_team_source_date": "2026-05-14",
+    "dma_definition_url": "https://www.nielsen.com/insights/2025/what-is-a-dma-and-why-does-it-matter/",
+    "population_source_pages": {
+      "USA": "https://www.census.gov/data/datasets/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html",
+      "CAN": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014801",
+      "MEX": "https://www.datos.gob.mx/dataset/metropolis_mexico_2020"
+    },
+    "venue_dma_crosswalk": [
+      {
+        "venue_id": "atlanta",
+        "rank": 7,
+        "nfl_team": "Atlanta Falcons"
+      },
+      {
+        "venue_id": "boston",
+        "rank": 10,
+        "nfl_team": "New England Patriots"
+      },
+      {
+        "venue_id": "dallas",
+        "rank": 4,
+        "nfl_team": "Dallas Cowboys"
+      },
+      {
+        "venue_id": "houston",
+        "rank": 6,
+        "nfl_team": "Houston Texans"
+      },
+      {
+        "venue_id": "kansas-city",
+        "rank": 35,
+        "nfl_team": "Kansas City Chiefs"
+      },
+      {
+        "venue_id": "los-angeles",
+        "rank": 2,
+        "nfl_team": "L.A. Chargers"
+      },
+      {
+        "venue_id": "miami",
+        "rank": 18,
+        "nfl_team": "Miami Dolphins"
+      },
+      {
+        "venue_id": "new-york-new-jersey",
+        "rank": 1,
+        "nfl_team": "New York Giants"
+      },
+      {
+        "venue_id": "philadelphia",
+        "rank": 5,
+        "nfl_team": "Philadelphia Eagles"
+      },
+      {
+        "venue_id": "san-francisco",
+        "rank": 9,
+        "nfl_team": "San Francisco 49ers"
+      },
+      {
+        "venue_id": "seattle",
+        "rank": 13,
+        "nfl_team": "Seattle Seahawks"
+      }
+    ]
+  },
+  "inputs": {
+    "archive_sha256": "937f106d918903d95bc54ebcce2c39c282adc4c2d728aa86079024de09fb6a3b",
+    "venue_metro_analysis_sha256": "d5683f34a738cbf6aca3ef76aae73a532a696d2d3d470ee1ef010f7e5603b9f1",
+    "venues_sha256": "423bf995b25c111fd570adbae35bb42ba22f3b8e890dfab2006f8cc6a9e48e0d",
+    "config_sha256": "b1acbfac13ce0ca86877eae0cb29a87b98327b2db37c23afa4e7a382612295f6",
+    "tvb_pdf_sha256": "6b7b3c47409af22a0114efb21013ee9835d1c3fe135ee42fdf494d86309e845d"
+  }
+}
