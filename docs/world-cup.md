@@ -58,6 +58,8 @@ description: "Nine reports on World Cup recordings, regional swarms, broadcast a
 </section>
 </section>
 
+<p class="wc-index-intro"><a class="wc-index-text-link" href="world-cup-2027-uswnt-license-strategy.html">The USWNT and 2027 broadcast rights · Executive briefing</a></p>
+
 <section class="wc-index-snapshot" aria-labelledby="what-the-snapshot-establishes" markdown="1">
 <p class="wc-index-eyebrow">Read the numbers in context</p>
 
