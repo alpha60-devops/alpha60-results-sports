@@ -2,7 +2,7 @@
 layout: default
 title: "World Cup 2026 · Research index"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
-description: "Nine reports on World Cup recordings, regional swarms, broadcast audiences and rights, with a shared audit and downloadable evidence."
+description: "Eleven reports on World Cup recordings, regional swarms, broadcast audiences and rights, with a shared audit and downloadable evidence."
 ---
 
 <link rel="stylesheet" href="../resources/world-cup-stage1/report.css">
@@ -11,12 +11,12 @@ description: "Nine reports on World Cup recordings, regional swarms, broadcast a
 
 <div class="wc-index-masthead">
 <a class="wc-index-brand" href="../index.html"><img src="../resources/a60-logo-block-gray.simple.svg" width="48" height="48" alt="Alpha60"><span>Sports research</span></a>
-<a class="wc-index-edition" href="#report-index">Research index <span class="wc-index-divider" aria-hidden="true">/</span><span class="wc-index-count">09 reports</span></a>
+<a class="wc-index-edition" href="#report-index">Research index <span class="wc-index-divider" aria-hidden="true">/</span><span class="wc-index-count">11 reports</span></a>
 </div>
 
 <header class="wc-index-hero">
 <div><p class="wc-index-eyebrow">The tournament, in circulation</p><h1>World Cup <span>2026</span></h1></div>
-<div class="wc-index-intro"><p>Nine reports on tournament recordings in peer-to-peer networks: the files, the places, and their relationship to broadcast audiences.</p><a class="wc-index-text-link" href="#report-index">Explore the reports <span aria-hidden="true">↓</span></a></div>
+<div class="wc-index-intro"><p>Eleven reports trace how World Cup recordings circulate, compare broadcast audiences and examine rights for 2027.</p><a class="wc-index-text-link" href="#report-index">Explore the reports <span aria-hidden="true">↓</span></a></div>
 </header>
 
 <dl class="wc-index-facts" aria-label="Collection scope">
@@ -30,8 +30,8 @@ description: "Nine reports on World Cup recordings, regional swarms, broadcast a
 </a></div>
 
 <section class="wc-index-contents" id="report-index" aria-labelledby="report-index-title">
-<div class="wc-index-section-head"><h2 id="report-index-title">Report index</h2><p>Nine ways into the same collection.</p></div>
-<nav class="wc-index-topics" aria-label="Report topics"><a href="#files-and-languages">Files &amp; languages <span>02</span></a><a href="#places-and-matches">Places &amp; matches <span>05</span></a><a href="#broadcast-and-2027">Broadcast &amp; 2027 <span>02</span></a></nav>
+<div class="wc-index-section-head"><h2 id="report-index-title">Report index</h2><p>Eleven ways into the same collection.</p></div>
+<nav class="wc-index-topics" aria-label="Report topics"><a href="#files-and-languages">Files &amp; languages <span>02</span></a><a href="#places-and-matches">Places &amp; matches <span>05</span></a><a href="#broadcast-and-2027">Broadcast &amp; 2027 <span>04</span></a></nav>
 <section class="wc-index-group" id="files-and-languages" aria-labelledby="files-and-languages-title">
 <div class="wc-index-group-heading"><p class="wc-index-eyebrow">What circulates</p><h3 id="files-and-languages-title">Files &amp; languages</h3><p>2 reports</p></div>
 <ol class="wc-index-list" start="1">
@@ -50,15 +50,15 @@ description: "Nine reports on World Cup recordings, regional swarms, broadcast a
 </ol>
 </section>
 <section class="wc-index-group" id="broadcast-and-2027" aria-labelledby="broadcast-and-2027-title">
-<div class="wc-index-group-heading"><p class="wc-index-eyebrow">How to interpret it</p><h3 id="broadcast-and-2027-title">Broadcast &amp; 2027</h3><p>2 reports</p></div>
+<div class="wc-index-group-heading"><p class="wc-index-eyebrow">How to interpret it</p><h3 id="broadcast-and-2027-title">Broadcast &amp; 2027</h3><p>4 reports</p></div>
 <ol class="wc-index-list" start="8">
 <li><a class="wc-index-report" data-report="world-cup-ott-vendors" href="world-cup-ott-vendors.html"><span class="wc-index-number" aria-hidden="true">08</span><div><h4>Broadcasters and services</h4><p>Broadcast ratings, rights prices and torrent circulation across North America and Europe, plus 22 source-branding maps.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
-<li><a class="wc-index-report" data-report="world-cup-2027-thoughts" href="world-cup-2027-thoughts.html"><span class="wc-index-number" aria-hidden="true">09</span><div><h4>Preparing for 2027</h4><p>Sampling, discovery and language-metadata priorities for the next tournament in Brazil.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
+<li><a class="wc-index-report" data-report="world-cup-emergent-iptv" href="world-cup-emergent-iptv.html"><span class="wc-index-number" aria-hidden="true">09</span><div><h4>emergent IPTV</h4><p>How live feeds become replay files and what stream listings, torrents and file hosts can tell us about a match.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
+<li><a class="wc-index-report" data-report="world-cup-2027-uswnt-license-strategy" href="world-cup-2027-uswnt-license-strategy.html"><span class="wc-index-number" aria-hidden="true">10</span><div><h4>USWNT and 2027 broadcast rights</h4><p>Broadcast rights for the 2027 Women’s World Cup and a licensing strategy for NWSL club programming featuring USWNT players.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
+<li><a class="wc-index-report" data-report="world-cup-2027-thoughts" href="world-cup-2027-thoughts.html"><span class="wc-index-number" aria-hidden="true">11</span><div><h4>Preparing for 2027</h4><p>Sampling, discovery and language-metadata priorities for the next tournament in Brazil.</p></div><span class="wc-index-row-arrow" aria-hidden="true">↗</span></a></li>
 </ol>
 </section>
 </section>
-
-<p class="wc-index-intro"><a class="wc-index-text-link" href="world-cup-2027-uswnt-license-strategy.html">The USWNT and 2027 broadcast rights · Executive briefing</a></p>
 
 <section class="wc-index-snapshot" aria-labelledby="what-the-snapshot-establishes" markdown="1">
 <p class="wc-index-eyebrow">Read the numbers in context</p>

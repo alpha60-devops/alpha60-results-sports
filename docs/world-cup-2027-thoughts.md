@@ -82,28 +82,9 @@ For material available to the study, run `ffprobe` on every relevant file and au
 Track **fixtures with at least one verified Spanish audio asset**, **fixtures with at least one verified Portuguese audio asset**, distinct assets per language, discovery delay, source overlap, unmatched identities, unknown-language share and successful query coverage. Use the same observed fixtures and follow-up period for language comparisons. Report each source’s incremental canonical discoveries and verified-language yield, including its zero-result and inaccessible strata. A large number of versions of one match should not hide missing matches.
 
 <a id="streaming-torrents-and-other-sources"></a>
-## Streaming, IPTV, torrents and downloadable files
+<a id="streaming-iptv-torrents-and-downloadable-files"></a>
 
-**They are different distribution paths that can carry related recordings.** IPTV describes delivery of television over IP; it includes licensed services as well as unauthorized redistribution. Web streaming may carry a live match or an on-demand replay. BitTorrent exchanges file pieces among peers, while a file host serves a downloadable object. “Streaming” alone does not determine whether the delivery is licensed.
-
-The technical boundary is also less sharp than “stream versus file” suggests. For example, HLS delivers playlists and media segments and can advertise alternative audio renditions. Record language metadata for each rendition where available, rather than assuming the video has only one commentary track. [HTTP Live Streaming specification](https://www.rfc-editor.org/rfc/rfc8216.html#section-2).
-
-A plausible supply chain is: broadcast or OTT feed → live restream and/or recorded asset → remuxes and re-encodes → torrent releases, direct-download mirrors and on-demand streams. Some branches can start independently from the same broadcast, and a torrent file can later become a streaming replay. This is a hypothesis to test per asset, not an established lineage for the current World Cup collection. A logo can identify a feed family; it cannot prove which intermediary supplied a later copy. Use dated observations and content fingerprints, keeping first observed time distinct from true publication time.
-
-<div class="wc-table-wrap wc-prose-table" tabindex="0" role="region" aria-label="Discovery comparison" markdown="1">
-
-| Delivery path | Useful observable unit | What Alpha60 can infer |
-| --- | --- | --- |
-| BitTorrent | Canonical torrent, observed peer membership and interval | Sampled file-distribution geography, with discovery, role, threshold and IPinfo limitations. |
-| Live web/IPTV delivery | Channel or event listing, timestamped availability check, manifest or stream metadata when accessible to the study | Availability and infrastructure. A server IP locates infrastructure; it does not reveal the viewers. |
-| File host / cloud download | Listing or object ID, observed file metadata, content hash when available | Persistence, mirrors and language supply. Published download counters require independent validation. |
-| On-demand video platform | Video ID, upload time, duration, metadata and exposed counters | Platform-specific availability and reported engagement; these are not unique cross-platform viewers. |
-
-</div>
-
-**Do not add these measures into a single “piracy audience.”** A torrent peer, a site visit, a file listing, a stream endpoint and a concurrent-viewer estimate have different denominators. The same recording or person may appear in several channels. Low torrent activity alongside widespread streaming listings is compatible with a channel shift, a discovery gap, or low demand; those data alone do not distinguish the explanations.
-
-EUIPO’s cross-channel research explicitly treats visits to IPTV registration websites as a proxy for interest and models possible users separately. This is a useful methodological precedent: a registration-page visit is not an observed live match view. Its European aggregate results should not be transferred directly to Brazil, China, or a particular World Cup. [EUIPO study and methodology](https://www.euipo.europa.eu/es/publications/online-copyright-infringement-in-the-european-union-films-music-publications-software-and-tv-2017-2023).
+The [emergent IPTV report](world-cup-emergent-iptv.html) explains how live feeds can become replay files and what each delivery path lets the study measure.
 
 ## Non-torrent sources for the 2027 study
 
