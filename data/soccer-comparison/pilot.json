@@ -1,0 +1,1749 @@
+{
+  "schema": "alpha60.soccer-fixture-coverage.v1",
+  "as_of": "2026-11-24",
+  "summary": {
+    "MLS": {
+      "selected": 12,
+      "searched": 11,
+      "pending": 1,
+      "verified_metainfo": 2,
+      "listing_only": 0,
+      "verified_full_match_duration": 0,
+      "us_ratings": 0,
+      "paired_release_and_rating": 0,
+      "observed_swarms": 0,
+      "reported_match_length": 2,
+      "release_notes_only": 5,
+      "torrent_listing_with_or_without_verified_metainfo": 2
+    },
+    "NWSL": {
+      "selected": 12,
+      "searched": 12,
+      "pending": 0,
+      "verified_metainfo": 0,
+      "listing_only": 0,
+      "verified_full_match_duration": 0,
+      "us_ratings": 2,
+      "paired_release_and_rating": 0,
+      "observed_swarms": 0,
+      "reported_match_length": 0,
+      "release_notes_only": 0,
+      "torrent_listing_with_or_without_verified_metainfo": 0
+    }
+  },
+  "method": {
+    "unit": "One scheduled 2026 senior first-team club fixture. Dollar, audience and torrent metrics in the parent study have different units.",
+    "selection": "Frozen before searching the named fixtures. For March, May, July and October in each league, take the earliest and latest regular-season kickoff within seven calendar days starting with that month’s first regular-season fixture. Use US Eastern dates and break ties by home then away name in lexicographic order. MLS adds both Wild Cards, the first Round One game and MLS Cup. NWSL adds the earliest quarterfinal, both semifinals and the championship. Both leagues’ official schedule data independently reproduced the eight regular-season selections in each league.",
+    "carriers": "All eleven played MLS selections list Apple TV in the USA. March 7 and July 16 are league-confirmed simulcasts on TSN and RDS in Canada. The separate July 17 MLS FOX control supplies a U.S. broadcast example. U.S. NWSL carriage spans broadcast, cable and streaming services. Carriage records establish where a match was offered.",
+    "release_search": "Internet Archive Advanced Search across title aliases for both teams, moving-image records, public metadata from the fixture’s Eastern calendar date through November 24, limit 100. A general and an index-targeted web search, followed by two public Torrentela first-page searches per played fixture (up to 50 records each). Resolve candidates by both teams and the event date. Follow matching records to public torrent metadata and compare the SHA-1 of the original bencoded info dictionary with the advertised v1 identifier. Count each fixture once across aliases and listings. The release-note archive srrDB was also searched by league, season and both teams for every played fixture and both controls. For every unpaired date-and-club candidate, check the exact release name against the public Torrentela and YourBittorrent catalog pages and a web search. A technical release note establishes a documented recording and cannot alone verify BitTorrent distribution.",
+    "ratings_search": "Two public search queries per fixture using both teams, date and broadcast measurement terms or outlet. Accept attributable average U.S. match viewership for the fixture. Unpublished figures, weekly league totals, program reach, stadium attendance and highlight plays cannot supply that value. Where a broadcaster publishes a match average without its detailed panel definition, record the limits.",
+    "swarm_search": "The reviewed Alpha60 collection inventory and local filename search identified no MLS or NWSL match-sampling collection. The three confirmed pilot/control identities were also checked against the local swarm metadata JSON and published sports inventory. A listing’s current seed count cannot establish a historical Alpha60 observation.",
+    "limits": "This schedule-based pilot does not estimate release prevalence in either league. It includes two NWSL semifinal telecasts and all U.S. played MLS selections were on Apple TV. A null rating, release or swarm is unresolved in the inspected sources, not a measured zero. The future MLS final is excluded from searched denominators. Both controls are excluded from all primary counts.",
+    "date": "Fixture dates are the local date in US Eastern time. All primary metadata and ratings searches were run on November 24, 2026. The Archive public-date filter uses UTC calendar-day bounds. The endpoints and exact search terms are recorded below.",
+    "outcomes": "Verified metainfo identifies a match video in parsed public BitTorrent metadata. The reported match-length column counts verified torrents with a duration consistent with a complete game in the archived release notes. Coverage from kickoff to full time requires additional footage evidence. Additional torrent listings require a public fixture-specific torrent record but lack parsed metadata. Release-notes-only fixtures have identified recordings with archived technical descriptions and unresolved torrent distribution. Empty audience or historical swarm fields mark no attributable observation in the searches.",
+    "catalog_search_endpoint": "Submit the recorded search term as the q parameter at https://torrentela.com/ with qq=1. Internet Archive Advanced Search uses q for the recorded expression and output=json."
+  },
+  "sources": {
+    "initial_regular_season_schedules": [
+      "https://fixturedownload.com/feed/json/mls-2026",
+      "https://fixturedownload.com/feed/json/nwsl-2026"
+    ],
+    "league_regular_season_schedules": [
+      "https://www.mlssoccer.com/news/mls-announces-2026-regular-season-schedule",
+      "https://www.nwslsoccer.com/schedule/regular-season",
+      "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches?locale=en-US&startDate=2026-03-01&endDate=2026-11-24",
+      "https://stats-api.mlssoccer.com/matches/seasons/MLS-SEA-0001KA?competition_id=MLS-COM-000001&match_date%5Bgte%5D=2026-02-01&match_date%5Blte%5D=2026-11-10&per_page=1000"
+    ],
+    "league_playoff_schedules": [
+      "https://www.mlssoccer.com/news/audi-2026-mls-cup-playoffs-round-one-wild-card-matchups",
+      "https://www.mlssoccer.com/news/major-league-soccer-announces-audi-2026-mls-cup-playoffs-schedule",
+      "https://www.nwslsoccer.com/news/quarterfinal-round-set-ahead-of-2026-nwsl-playoffs-presented-by-google-pixel",
+      "https://www.nwslsoccer.com/news/semifinal-round-set-for-2026-nwsl-playoffs-presented-by-google-pixel"
+    ],
+    "canadian_carriage": "https://www.mlssoccer.com/news/mls-announces-tsn-and-rds-broadcast-schedules-for-the-2026-mls-regular-season",
+    "nwsl_semifinal_audiences": "https://frontofficesports.com/article/nwsl-tv-ratings-soccer-cbs-abc/",
+    "archive_search_endpoint": "https://archive.org/advancedsearch.php",
+    "catalog_search_endpoint": "https://torrentela.com/",
+    "additional_orlando_listing": "https://yourbittorrent2.com/torrent/47870186/mls-2026-11-19-orlando-city-vs-fc-cincinnati-1080p-web-h264-billie.html",
+    "archive_metainfo_documentation": "https://help.archive.org/help/archive-bittorrents/",
+    "release_notes": [
+      "https://www.srrdb.com/release/details/MLS.2026.11.19.Orlando.City.vs.FC.Cincinnati.1080p.WEB.h264-BILLIE",
+      "https://www.srrdb.com/release/details/MLS.2026.11.21.New.England.Revolution.vs.Philadelphia.Union.1080p.WEB.h264-BILLIE"
+    ],
+    "release_note_search_endpoint": "https://api.srrdb.com/v1/search/",
+    "exact_name_torrent_catalog": "https://yourbittorrent2.com/"
+  },
+  "fixtures": [
+    {
+      "league": "MLS",
+      "date": "2026-03-01",
+      "stage": "Regular season",
+      "home": "Austin FC",
+      "away": "D.C. United",
+      "status": "searched",
+      "fixture_id": "atxvsdc-03-01-2026",
+      "fixture_url": "https://www.mlssoccer.com/competitions/mls-regular-season/2026/matches/atxvsdc-03-01-2026/",
+      "broadcaster_event_id": "761465",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/761465/dc-united-austin-fc",
+      "us_carriers": [
+        "Apple TV"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Austin FC",
+            "Austin"
+          ],
+          [
+            "D.C. United",
+            "DC United"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Austin FC\" OR \"Austin\") AND title:(\"D.C. United\" OR \"DC United\") AND publicdate:[2026-03-01T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "MLS 2026 Austin DC United",
+          "MLS 2026 03 01 Austin"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "MLS \"Austin FC\" \"D.C. United\" 2026 03 01 match torrent 1080p 720p soccer release",
+          "MLS 2026 03 01 Austin D.C. United (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "MLS Austin FC D.C. United March 1, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Austin D.C. United 2026-03-01 Apple TV \"viewership\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/MLS/2026/Austin/United",
+          "candidates": 2
+        },
+        "release_note_followup": {
+          "query": "MLS 2026 03 01 Austin FC vs DC United 1080p WEB h264-BILLIE",
+          "torrentela_url": "https://torrentela.com/?qq=1&q=MLS%202026%2003%2001%20Austin%20FC%20vs%20DC%20United%201080p%20WEB%20h264-BILLIE",
+          "yourbittorrent_url": "https://yourbittorrent2.com/?q=MLS%202026%2003%2001%20Austin%20FC%20vs%20DC%20United%201080p%20WEB%20h264-BILLIE",
+          "outcome": "No qualifying torrent listing or metainfo located by either exact-name catalog search or the web search of the release name."
+        }
+      },
+      "official_match_id": "MLS-MAT-0009BI",
+      "release_note_only": {
+        "title": "MLS.2026.03.01.Austin.FC.vs.DC.United.1080p.WEB.h264-BILLIE",
+        "source": "https://www.srrdb.com/release/details/MLS.2026.03.01.Austin.FC.vs.DC.United.1080p.WEB.h264-BILLIE",
+        "release_note_file": "https://www.srrdb.com/download/file/MLS.2026.03.01.Austin.FC.vs.DC.United.1080p.WEB.h264-BILLIE/mls.2026.03.01.austin.fc.vs.dc.united.1080p.web.h264-billie.nfo",
+        "release_note_crc32": "327DC1AB",
+        "release_note_file_bytes": 436,
+        "reported_release_date": "2026-03-11",
+        "reported_video_bytes": 9402881557,
+        "reported_runtime_minutes": 107,
+        "reported_audio": "English AC-3 384 kb/s @ 6 channels (Dolby Digital)",
+        "classification": "Release group technical notes and a file inventory identify an encoding of the fixture. The searched torrent catalogs yielded no matching listing or verified torrent metainfo."
+      }
+    },
+    {
+      "league": "MLS",
+      "date": "2026-03-07",
+      "stage": "Regular season",
+      "home": "Portland Timbers",
+      "away": "Vancouver Whitecaps",
+      "status": "searched",
+      "fixture_id": "porvsvan-03-07-2026",
+      "fixture_url": "https://www.mlssoccer.com/competitions/mls-regular-season/2026/matches/porvsvan-03-07-2026/",
+      "broadcaster_event_id": "761481",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/761481/vancouver-whitecaps-portland-timbers",
+      "us_carriers": [
+        "Apple TV"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Portland Timbers",
+            "Timbers"
+          ],
+          [
+            "Vancouver Whitecaps",
+            "Whitecaps"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Portland Timbers\" OR \"Timbers\") AND title:(\"Vancouver Whitecaps\" OR \"Whitecaps\") AND publicdate:[2026-03-07T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "MLS 2026 Timbers Whitecaps",
+          "MLS 2026 03 07 Timbers"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "MLS \"Portland Timbers\" \"Vancouver Whitecaps FC\" 2026 03 07 match torrent 1080p 720p soccer release",
+          "MLS 2026 03 07 Portland Vancouver (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "MLS Portland Timbers Vancouver Whitecaps FC March 7, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Portland Vancouver 2026-03-07 Apple TV TSN \"viewership\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/MLS/2026/Portland/Vancouver",
+          "candidates": 1
+        },
+        "release_note_followup": {
+          "query": "MLS 2026 03 08 Portland Timbers vs Vancouver Whitecaps FC 1080p WEB h264-BILLIE",
+          "torrentela_url": "https://torrentela.com/?qq=1&q=MLS%202026%2003%2008%20Portland%20Timbers%20vs%20Vancouver%20Whitecaps%20FC%201080p%20WEB%20h264-BILLIE",
+          "yourbittorrent_url": "https://yourbittorrent2.com/?q=MLS%202026%2003%2008%20Portland%20Timbers%20vs%20Vancouver%20Whitecaps%20FC%201080p%20WEB%20h264-BILLIE",
+          "outcome": "No qualifying torrent listing or metainfo located by either exact-name catalog search or the web search of the release name."
+        }
+      },
+      "canadian_linear": {
+        "confirmed_outlets": [
+          "TSN",
+          "RDS"
+        ],
+        "source": "https://www.mlssoccer.com/news/mls-announces-tsn-and-rds-broadcast-schedules-for-the-2026-mls-regular-season"
+      },
+      "official_match_id": "MLS-MAT-0009CB",
+      "release_note_only": {
+        "title": "MLS.2026.03.08.Portland.Timbers.vs.Vancouver.Whitecaps.FC.1080p.WEB.h264-BILLIE",
+        "source": "https://www.srrdb.com/release/details/MLS.2026.03.08.Portland.Timbers.vs.Vancouver.Whitecaps.FC.1080p.WEB.h264-BILLIE",
+        "release_note_file": "https://www.srrdb.com/download/file/MLS.2026.03.08.Portland.Timbers.vs.Vancouver.Whitecaps.FC.1080p.WEB.h264-BILLIE/mls.2026.03.08.portland.timbers.vs.vancouver.whitecaps.fc.1080p.web.h264-billie.nfo",
+        "release_note_crc32": "82AA993F",
+        "release_note_file_bytes": 463,
+        "reported_release_date": "2026-03-12",
+        "reported_video_bytes": 9615501249,
+        "reported_runtime_minutes": 110,
+        "reported_audio": "English AC-3 384 kb/s @ 6 channels (Dolby Digital)",
+        "classification": "Release group technical notes and a file inventory identify an encoding of the fixture. The searched torrent catalogs yielded no matching listing or verified torrent metainfo.",
+        "date_match": "The release uses March 8 UTC. The official kickoff was March 7 at 10:30 p.m. US Eastern time (March 8 at 03:30 UTC)."
+      }
+    },
+    {
+      "league": "MLS",
+      "date": "2026-05-02",
+      "stage": "Regular season",
+      "home": "Toronto FC",
+      "away": "San Jose Earthquakes",
+      "status": "searched",
+      "fixture_id": "torvssj-05-02-2026",
+      "fixture_url": "https://www.mlssoccer.com/competitions/mls-regular-season/2026/matches/torvssj-05-02-2026/",
+      "broadcaster_event_id": "761597",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/761597/san-jose-earthquakes-toronto-fc",
+      "us_carriers": [
+        "Apple TV"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Toronto FC",
+            "Toronto"
+          ],
+          [
+            "San Jose Earthquakes",
+            "Earthquakes"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Toronto FC\" OR \"Toronto\") AND title:(\"San Jose Earthquakes\" OR \"Earthquakes\") AND publicdate:[2026-05-02T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "MLS 2026 Toronto Earthquakes",
+          "MLS 2026 05 02 Toronto"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "MLS \"Toronto FC\" \"San Jose Earthquakes\" 2026 05 02 match torrent 1080p 720p soccer release",
+          "MLS 2026 05 02 Toronto San Jose (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "MLS Toronto FC San Jose Earthquakes May 2, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Toronto San Jose 2026-05-02 Apple TV TSN \"viewership\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/MLS/2026/Toronto/Jose",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "MLS-MAT-0009FH",
+      "release_note_only": null
+    },
+    {
+      "league": "MLS",
+      "date": "2026-05-03",
+      "stage": "Regular season",
+      "home": "Austin FC",
+      "away": "St. Louis CITY SC",
+      "status": "searched",
+      "fixture_id": "atxvsstl-05-03-2026",
+      "fixture_url": "https://www.mlssoccer.com/competitions/mls-regular-season/2026/matches/atxvsstl-05-03-2026/",
+      "broadcaster_event_id": "761599",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/761599/st-louis-city-sc-austin-fc",
+      "us_carriers": [
+        "Apple TV"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Austin FC",
+            "Austin"
+          ],
+          [
+            "St. Louis City",
+            "St Louis City"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Austin FC\" OR \"Austin\") AND title:(\"St. Louis City\" OR \"St Louis City\") AND publicdate:[2026-05-03T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "MLS 2026 Austin Louis City",
+          "MLS 2026 05 03 Austin"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "MLS \"Austin FC\" \"St. Louis CITY SC\" 2026 05 03 match torrent 1080p 720p soccer release",
+          "MLS 2026 05 03 Austin St Louis (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "MLS Austin FC St. Louis CITY SC May 3, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Austin St Louis 2026-05-03 Apple TV \"viewership\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/MLS/2026/Austin/Louis",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "MLS-MAT-0009FI",
+      "release_note_only": null
+    },
+    {
+      "league": "MLS",
+      "date": "2026-07-16",
+      "stage": "Regular season",
+      "home": "CF Montréal",
+      "away": "Toronto FC",
+      "status": "searched",
+      "fixture_id": "mtlvstor-07-16-2026",
+      "fixture_url": "https://www.mlssoccer.com/competitions/mls-regular-season/2026/matches/mtlvstor-07-16-2026/",
+      "broadcaster_event_id": "761659",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/761659/toronto-fc-cf-montreal",
+      "us_carriers": [
+        "Apple TV"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "CF Montréal",
+            "CF Montreal",
+            "Montreal"
+          ],
+          [
+            "Toronto FC",
+            "Toronto"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"CF Montréal\" OR \"CF Montreal\" OR \"Montreal\") AND title:(\"Toronto FC\" OR \"Toronto\") AND publicdate:[2026-07-16T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 1,
+        "catalog_queries": [
+          "MLS 2026 Montreal Toronto",
+          "MLS 2026 07 16 Montreal"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "MLS \"CF Montréal\" \"Toronto FC\" 2026 07 16 match torrent 1080p 720p soccer release",
+          "MLS 2026 07 16 Montreal Toronto (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "MLS CF Montréal Toronto FC July 16, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Montreal Toronto 2026-07-16 Apple TV TSN RDS \"viewership\" ratings audience soccer"
+        ],
+        "excluded_archive_items": [
+          {
+            "url": "https://archive.org/details/le-hockey-des-canadiens-toronto-c.-montreal-match-preparatoire",
+            "reason": "Hockey preseason broadcast."
+          }
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/MLS/2026/Montreal/Toronto",
+          "candidates": 1
+        }
+      },
+      "canadian_linear": {
+        "confirmed_outlets": [
+          "TSN",
+          "RDS"
+        ],
+        "source": "https://www.mlssoccer.com/news/mls-announces-tsn-and-rds-broadcast-schedules-for-the-2026-mls-regular-season"
+      },
+      "official_match_id": "MLS-MAT-0009H8",
+      "release_note_only": null
+    },
+    {
+      "league": "MLS",
+      "date": "2026-07-22",
+      "stage": "Regular season",
+      "home": "San Jose Earthquakes",
+      "away": "Orlando City SC",
+      "status": "searched",
+      "fixture_id": "sjvsorl-07-22-2026",
+      "fixture_url": "https://www.mlssoccer.com/competitions/mls-regular-season/2026/matches/sjvsorl-07-22-2026/",
+      "broadcaster_event_id": "761676",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/761676/orlando-city-sc-san-jose-earthquakes",
+      "us_carriers": [
+        "Apple TV"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "San Jose Earthquakes",
+            "Earthquakes"
+          ],
+          [
+            "Orlando City",
+            "Orlando"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"San Jose Earthquakes\" OR \"Earthquakes\") AND title:(\"Orlando City\" OR \"Orlando\") AND publicdate:[2026-07-22T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "MLS 2026 Earthquakes Orlando",
+          "MLS 2026 07 22 Earthquakes"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "MLS \"San Jose Earthquakes\" \"Orlando City\" 2026 07 22 match torrent 1080p 720p soccer release",
+          "MLS 2026 07 22 San Jose Orlando (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "MLS San Jose Earthquakes Orlando City July 22, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "San Jose Orlando 2026-07-22 Apple TV \"viewership\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/MLS/2026/Jose/Orlando",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "MLS-MAT-0009HR",
+      "release_note_only": null
+    },
+    {
+      "league": "MLS",
+      "date": "2026-10-01",
+      "stage": "Regular season",
+      "home": "Seattle Sounders FC",
+      "away": "Sporting Kansas City",
+      "status": "searched",
+      "fixture_id": "seavsskc-10-01-2026",
+      "fixture_url": "https://www.mlssoccer.com/competitions/mls-regular-season/2026/matches/seavsskc-10-01-2026/",
+      "broadcaster_event_id": "761798",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/761798/sporting-kansas-city-seattle-sounders-fc",
+      "us_carriers": [
+        "Apple TV"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Seattle Sounders",
+            "Sounders"
+          ],
+          [
+            "Sporting Kansas City",
+            "Sporting KC"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Seattle Sounders\" OR \"Sounders\") AND title:(\"Sporting Kansas City\" OR \"Sporting KC\") AND publicdate:[2026-10-01T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "MLS 2026 Sounders Sporting Kansas",
+          "MLS 2026 10 01 Sounders"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "MLS \"Seattle Sounders FC\" \"Sporting Kansas City\" 2026 10 01 match torrent 1080p 720p soccer release",
+          "MLS 2026 10 01 Seattle Sporting Kansas City (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "MLS Seattle Sounders FC Sporting Kansas City October 1, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Seattle Sporting Kansas City 2026-10-01 Apple TV \"viewership\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/MLS/2026/Seattle/Kansas",
+          "candidates": 1
+        },
+        "release_note_followup": {
+          "query": "MLS 2026 10 01 Seattle Sounders FC vs Sporting Kansas City 1080p WEB h264-BILLIE",
+          "torrentela_url": "https://torrentela.com/?qq=1&q=MLS%202026%2010%2001%20Seattle%20Sounders%20FC%20vs%20Sporting%20Kansas%20City%201080p%20WEB%20h264-BILLIE",
+          "yourbittorrent_url": "https://yourbittorrent2.com/?q=MLS%202026%2010%2001%20Seattle%20Sounders%20FC%20vs%20Sporting%20Kansas%20City%201080p%20WEB%20h264-BILLIE",
+          "outcome": "No qualifying torrent listing or metainfo located by either exact-name catalog search or the web search of the release name."
+        }
+      },
+      "official_match_id": "MLS-MAT-0009L1",
+      "release_note_only": {
+        "title": "MLS.2026.10.01.Seattle.Sounders.FC.vs.Sporting.Kansas.City.1080p.WEB.h264-BILLIE",
+        "source": "https://www.srrdb.com/release/details/MLS.2026.10.01.Seattle.Sounders.FC.vs.Sporting.Kansas.City.1080p.WEB.h264-BILLIE",
+        "release_note_file": "https://www.srrdb.com/download/file/MLS.2026.10.01.Seattle.Sounders.FC.vs.Sporting.Kansas.City.1080p.WEB.h264-BILLIE/mls.2026.10.01.seattle.sounders.fc.vs.sporting.kansas.city.1080p.web.h264-billie.nfo",
+        "release_note_crc32": "0277D3AC",
+        "release_note_file_bytes": 449,
+        "reported_release_date": "2026-10-03",
+        "reported_video_bytes": 9334197298,
+        "reported_runtime_minutes": 106,
+        "reported_audio": "English AC-3 384 kb/s @ 6 channels (Dolby Digital)",
+        "classification": "Release group technical notes and a file inventory identify an encoding of the fixture. The searched torrent catalogs yielded no matching listing or verified torrent metainfo."
+      }
+    },
+    {
+      "league": "MLS",
+      "date": "2026-10-06",
+      "stage": "Regular season",
+      "home": "Chicago Fire FC",
+      "away": "Vancouver Whitecaps",
+      "status": "searched",
+      "fixture_id": "chivsvan-10-06-2026",
+      "fixture_url": "https://www.mlssoccer.com/competitions/mls-regular-season/2026/matches/chivsvan-10-06-2026/",
+      "broadcaster_event_id": "761660",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/761660/vancouver-whitecaps-chicago-fire-fc",
+      "us_carriers": [
+        "Apple TV"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Chicago Fire"
+          ],
+          [
+            "Vancouver Whitecaps",
+            "Whitecaps"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Chicago Fire\") AND title:(\"Vancouver Whitecaps\" OR \"Whitecaps\") AND publicdate:[2026-10-06T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "MLS 2026 Chicago Fire Whitecaps",
+          "MLS 2026 10 06 Chicago Fire"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "MLS \"Chicago Fire FC\" \"Vancouver Whitecaps FC\" 2026 10 06 match torrent 1080p 720p soccer release",
+          "MLS 2026 10 06 Chicago Vancouver (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "MLS Chicago Fire FC Vancouver Whitecaps FC October 6, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Chicago Vancouver 2026-10-06 Apple TV \"viewership\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/MLS/2026/Chicago/Vancouver",
+          "candidates": 1
+        },
+        "release_note_followup": {
+          "query": "MLS 2026 10 06 Chicago Fire FC vs Vancouver Whitecaps FC 1080p WEB h264-BILLIE",
+          "torrentela_url": "https://torrentela.com/?qq=1&q=MLS%202026%2010%2006%20Chicago%20Fire%20FC%20vs%20Vancouver%20Whitecaps%20FC%201080p%20WEB%20h264-BILLIE",
+          "yourbittorrent_url": "https://yourbittorrent2.com/?q=MLS%202026%2010%2006%20Chicago%20Fire%20FC%20vs%20Vancouver%20Whitecaps%20FC%201080p%20WEB%20h264-BILLIE",
+          "outcome": "No qualifying torrent listing or metainfo located by either exact-name catalog search or the web search of the release name."
+        }
+      },
+      "official_match_id": "MLS-MAT-0009H7",
+      "release_note_only": {
+        "title": "MLS.2026.10.06.Chicago.Fire.FC.vs.Vancouver.Whitecaps.FC.1080p.WEB.h264-BILLIE",
+        "source": "https://www.srrdb.com/release/details/MLS.2026.10.06.Chicago.Fire.FC.vs.Vancouver.Whitecaps.FC.1080p.WEB.h264-BILLIE",
+        "release_note_file": "https://www.srrdb.com/download/file/MLS.2026.10.06.Chicago.Fire.FC.vs.Vancouver.Whitecaps.FC.1080p.WEB.h264-BILLIE/mls.2026.10.06.chicago.fire.fc.vs.vancouver.whitecaps.fc.1080p.web.h264-billie.nfo",
+        "release_note_crc32": "1D7B11FF",
+        "release_note_file_bytes": 461,
+        "reported_release_date": "2026-10-09",
+        "reported_video_bytes": 9651068505,
+        "reported_runtime_minutes": 111,
+        "reported_audio": "English AC-3 384 kb/s @ 6 channels (Dolby Digital)",
+        "classification": "Release group technical notes and a file inventory identify an encoding of the fixture. The searched torrent catalogs yielded no matching listing or verified torrent metainfo."
+      }
+    },
+    {
+      "league": "MLS",
+      "date": "2026-11-19",
+      "stage": "Wild Card",
+      "home": "Orlando City SC",
+      "away": "FC Cincinnati",
+      "status": "searched",
+      "fixture_id": "orlvscin-11-19-2026",
+      "fixture_url": "https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/orlvscin-11-19-2026/",
+      "broadcaster_event_id": "401933535",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401933535/fc-cincinnati-orlando-city-sc",
+      "us_carriers": [
+        "Apple TV"
+      ],
+      "release": {
+        "source": "https://torrentela.com/torrent/36888696/mls-2026-11-19-orlando-city-vs-fc-cincinnati-1080p-web-h264-billie.html",
+        "v1_infohash": "856f80a8e65a37718b630c265e37908af80e9f0a",
+        "metainfo_sha256": "cb21794a4c607047e23bd0e55ea70cf956c1b8866b5d49dc12958745ff0b09b8",
+        "title": "MLS 2026-11-19 Orlando City vs FC Cincinnati 1080p WEB h264-BILLIE",
+        "video_filename": "MLS.2026.11.19.Orlando.City.vs.FC.Cincinnati.1080p.WEB.h264-BILLIE.mkv",
+        "video_bytes": 9787156284,
+        "file_list_entries": 7,
+        "runtime_minutes": 112,
+        "catalog_language": "English",
+        "audio_language_verified": false,
+        "classification": "Verified BitTorrent metainfo and independently archived release notes identify a match-length 1080p recording. The release notes report its duration and audio. Coverage from kickoff through full time is unverified.",
+        "files": [
+          {
+            "path": "MLS.2026.11.19.Orlando.City.vs.FC.Cincinnati.1080p.WEB.h264-BILLIE.mkv",
+            "bytes": 9787156284
+          },
+          {
+            "path": "mls.2026.11.19.orlando.city.vs.fc.cincinnati.1080p.web.h264-billie.nfo",
+            "bytes": 450
+          },
+          {
+            "path": "Screens/screen0001.jpg",
+            "bytes": 267917
+          },
+          {
+            "path": "Screens/screen0002.jpg",
+            "bytes": 264313
+          },
+          {
+            "path": "Screens/screen0003.jpg",
+            "bytes": 392456
+          },
+          {
+            "path": "Screens/screen0004.jpg",
+            "bytes": 337824
+          },
+          {
+            "path": "Torrent Downloaded From     UIndex.org      .txt",
+            "bytes": 127
+          }
+        ],
+        "catalog_publication_date": "2026-11-21",
+        "runtime_evidence": "Release group’s archived technical note. The stated MKV byte count matches the independent BitTorrent file list.",
+        "audio_evidence": "Release group reports English AC-3, six channels. The recording itself was not inspected.",
+        "caption_languages_reported": [
+          "English",
+          "Spanish"
+        ],
+        "release_note_source": "https://www.srrdb.com/release/details/MLS.2026.11.19.Orlando.City.vs.FC.Cincinnati.1080p.WEB.h264-BILLIE",
+        "release_note_file": "https://www.srrdb.com/download/file/MLS.2026.11.19.Orlando.City.vs.FC.Cincinnati.1080p.WEB.h264-BILLIE/mls.2026.11.19.orlando.city.vs.fc.cincinnati.1080p.web.h264-billie.nfo",
+        "release_note_crc32": "DD7E8F52",
+        "full_match_visually_corroborated": false
+      },
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Orlando City",
+            "Orlando"
+          ],
+          [
+            "FC Cincinnati",
+            "Cincinnati"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Orlando City\" OR \"Orlando\") AND title:(\"FC Cincinnati\" OR \"Cincinnati\") AND publicdate:[2026-11-19T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "MLS 2026 Orlando Cincinnati",
+          "MLS 2026 11 19 Orlando"
+        ],
+        "catalog_rows_examined": [
+          1,
+          1
+        ],
+        "release_web_queries": [
+          "MLS \"Orlando City\" \"FC Cincinnati\" 2026 11 19 match torrent 1080p 720p soccer release",
+          "MLS 2026 11 19 Orlando Cincinnati (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "MLS Orlando City FC Cincinnati November 19, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Orlando Cincinnati 2026-11-19 Apple TV \"viewership\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/MLS/2026/Orlando/Cincinnati",
+          "candidates": 2
+        }
+      },
+      "official_match_id": "MLS-MAT-000ACQ",
+      "release_note_only": null
+    },
+    {
+      "league": "MLS",
+      "date": "2026-11-19",
+      "stage": "Wild Card",
+      "home": "Seattle Sounders FC",
+      "away": "Real Salt Lake",
+      "status": "searched",
+      "fixture_id": "seavsrsl-11-19-2026",
+      "fixture_url": "https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/seavsrsl-11-19-2026/",
+      "broadcaster_event_id": "401933555",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401933555/real-salt-lake-seattle-sounders-fc",
+      "us_carriers": [
+        "Apple TV"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Seattle Sounders",
+            "Sounders"
+          ],
+          [
+            "Real Salt Lake",
+            "RSL"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Seattle Sounders\" OR \"Sounders\") AND title:(\"Real Salt Lake\" OR \"RSL\") AND publicdate:[2026-11-19T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "MLS 2026 Sounders Salt Lake",
+          "MLS 2026 11 19 Sounders"
+        ],
+        "catalog_rows_examined": [
+          1,
+          50
+        ],
+        "release_web_queries": [
+          "MLS \"Seattle Sounders FC\" \"Real Salt Lake\" 2026 11 19 match torrent 1080p 720p soccer release",
+          "MLS 2026 11 19 Seattle Salt Lake (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "MLS Seattle Sounders FC Real Salt Lake November 19, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Seattle Salt Lake 2026-11-19 Apple TV \"viewership\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/MLS/2026/Seattle/Salt",
+          "candidates": 3
+        },
+        "release_note_followup": {
+          "query": "MLS 2026 11 19 Seattle Sounders FC vs Real Salt Lake 1080p WEB h264-BILLIE",
+          "torrentela_url": "https://torrentela.com/?qq=1&q=MLS%202026%2011%2019%20Seattle%20Sounders%20FC%20vs%20Real%20Salt%20Lake%201080p%20WEB%20h264-BILLIE",
+          "yourbittorrent_url": "https://yourbittorrent2.com/?q=MLS%202026%2011%2019%20Seattle%20Sounders%20FC%20vs%20Real%20Salt%20Lake%201080p%20WEB%20h264-BILLIE",
+          "outcome": "No qualifying torrent listing or metainfo located by either exact-name catalog search or the web search of the release name."
+        }
+      },
+      "official_match_id": "MLS-MAT-000ACP",
+      "release_note_only": {
+        "title": "MLS.2026.11.19.Seattle.Sounders.FC.vs.Real.Salt.Lake.1080p.WEB.h264-BILLIE",
+        "source": "https://www.srrdb.com/release/details/MLS.2026.11.19.Seattle.Sounders.FC.vs.Real.Salt.Lake.1080p.WEB.h264-BILLIE",
+        "release_note_file": "https://www.srrdb.com/download/file/MLS.2026.11.19.Seattle.Sounders.FC.vs.Real.Salt.Lake.1080p.WEB.h264-BILLIE/mls.2026.11.19.seattle.sounders.fc.vs.real.salt.lake.1080p.web.h264-billie.nfo",
+        "release_note_crc32": "D0158DAC",
+        "release_note_file_bytes": 459,
+        "reported_release_date": "2026-11-22",
+        "reported_video_bytes": 11520646007,
+        "reported_runtime_minutes": 132,
+        "reported_audio": "English AC-3 384 kb/s @ 6 channels (Dolby Digital)",
+        "classification": "Release group technical notes and a file inventory identify an encoding of the fixture. The searched torrent catalogs yielded no matching listing or verified torrent metainfo."
+      }
+    },
+    {
+      "league": "MLS",
+      "date": "2026-11-21",
+      "stage": "Round One",
+      "home": "New England Revolution",
+      "away": "Philadelphia Union",
+      "status": "searched",
+      "fixture_id": "nevsphi-11-21-2026",
+      "fixture_url": "https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/nevsphi-11-21-2026/",
+      "broadcaster_event_id": "401933733",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401933733/philadelphia-union-new-england-revolution",
+      "us_carriers": [
+        "Apple TV"
+      ],
+      "release": {
+        "source": "https://torrentela.com/torrent/36927380/mls-2026-11-21-new-england-revolution-vs-philadelphia-union-1080p-web-h264-billie.html",
+        "v1_infohash": "5a0bb10f9b05f95466322f5b2d70083c02b5877d",
+        "metainfo_sha256": "802f0b5b8bbf321f6a61523bf79e931796cd97d88f818ebfeb012217ca72e23e",
+        "title": "MLS 2026-11-21 New England Revolution vs Philadelphia Union 1080p WEB h264-BILLIE",
+        "video_filename": "MLS.2026.11.21.New.England.Revolution.vs.Philadelphia.Union.1080p.WEB.h264-BILLIE.mkv",
+        "video_bytes": 9335311922,
+        "file_list_entries": 7,
+        "runtime_minutes": 107,
+        "catalog_language": "English",
+        "audio_language_verified": false,
+        "classification": "Verified BitTorrent metainfo and independently archived release notes identify a match-length 1080p recording. The release notes report its duration and audio. Coverage from kickoff through full time is unverified.",
+        "files": [
+          {
+            "path": "MLS.2026.11.21.New.England.Revolution.vs.Philadelphia.Union.1080p.WEB.h264-BILLIE.mkv",
+            "bytes": 9335311922
+          },
+          {
+            "path": "mls.2026.11.21.new.england.revolution.vs.philadelphia.union.1080p.web.h264-billie.nfo",
+            "bytes": 455
+          },
+          {
+            "path": "Screens/screen0001.jpg",
+            "bytes": 288085
+          },
+          {
+            "path": "Screens/screen0002.jpg",
+            "bytes": 182353
+          },
+          {
+            "path": "Screens/screen0003.jpg",
+            "bytes": 335388
+          },
+          {
+            "path": "Screens/screen0004.jpg",
+            "bytes": 322247
+          },
+          {
+            "path": "Torrent Downloaded From     UIndex.org      .txt",
+            "bytes": 127
+          }
+        ],
+        "catalog_publication_date": "2026-11-24",
+        "runtime_evidence": "Release group’s archived technical note. The stated MKV byte count matches the independent BitTorrent file list.",
+        "audio_evidence": "Release group reports English AC-3, six channels. The recording itself was not inspected.",
+        "caption_languages_reported": [],
+        "release_note_source": "https://www.srrdb.com/release/details/MLS.2026.11.21.New.England.Revolution.vs.Philadelphia.Union.1080p.WEB.h264-BILLIE",
+        "release_note_file": "https://www.srrdb.com/download/file/MLS.2026.11.21.New.England.Revolution.vs.Philadelphia.Union.1080p.WEB.h264-BILLIE/mls.2026.11.21.new.england.revolution.vs.philadelphia.union.1080p.web.h264-billie.nfo",
+        "release_note_crc32": "2D4BE231",
+        "full_match_visually_corroborated": false
+      },
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "New England Revolution",
+            "Revolution"
+          ],
+          [
+            "Philadelphia Union",
+            "Union"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"New England Revolution\" OR \"Revolution\") AND title:(\"Philadelphia Union\" OR \"Union\") AND publicdate:[2026-11-21T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "MLS 2026 New England Philadelphia Union",
+          "MLS 2026 11 21 New England"
+        ],
+        "catalog_rows_examined": [
+          1,
+          1
+        ],
+        "release_web_queries": [
+          "MLS \"New England Revolution\" \"Philadelphia Union\" 2026 11 21 match torrent 1080p 720p soccer release",
+          "MLS 2026 11 21 New England Philadelphia (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "MLS New England Revolution Philadelphia Union November 21, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "New England Philadelphia 2026-11-21 Apple TV \"viewership\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/MLS/2026/England/Philadelphia",
+          "candidates": 2
+        }
+      },
+      "official_match_id": "MLS-MAT-000ADE",
+      "release_note_only": null
+    },
+    {
+      "league": "MLS",
+      "date": "2026-12-18",
+      "stage": "Final",
+      "home": null,
+      "away": null,
+      "status": "pending",
+      "fixture_id": null,
+      "fixture_url": "https://www.mlssoccer.com/news/major-league-soccer-announces-audi-2026-mls-cup-playoffs-schedule",
+      "broadcaster_event_id": null,
+      "broadcaster_fixture_url": null,
+      "us_carriers": [
+        "FOX",
+        "Apple TV"
+      ],
+      "canadian_linear": {
+        "confirmed_outlets": [
+          "TSN",
+          "RDS"
+        ],
+        "source": "https://www.mlssoccer.com/news/major-league-soccer-announces-audi-2026-mls-cup-playoffs-schedule"
+      },
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": null,
+      "official_match_id": null,
+      "release_note_only": null
+    },
+    {
+      "league": "NWSL",
+      "date": "2026-03-13",
+      "stage": "Regular season",
+      "home": "Washington Spirit",
+      "away": "Portland Thorns FC",
+      "status": "searched",
+      "fixture_id": "834675f37cea4328bece6743d94c7d2d",
+      "fixture_url": "https://www.nwslsoccer.com/match/834675f37cea4328bece6743d94c7d2d/washington-spirit-vs-portland-thorns-fc",
+      "broadcaster_event_id": "401853857",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401853857/portland-thorns-fc-washington-spirit",
+      "us_carriers": [
+        "Prime Video"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Washington Spirit",
+            "Spirit"
+          ],
+          [
+            "Portland Thorns",
+            "Thorns"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Washington Spirit\" OR \"Spirit\") AND title:(\"Portland Thorns\" OR \"Thorns\") AND publicdate:[2026-03-13T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "NWSL 2026 Washington Spirit Portland Thorns",
+          "NWSL 2026 03 13 Washington Spirit"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "NWSL \"Washington Spirit\" \"Portland Thorns\" 2026 03 13 match torrent 1080p 720p soccer release",
+          "NWSL 2026 03 13 Washington Portland (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "NWSL Washington Spirit Portland Thorns March 13, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Washington Portland 2026-03-13 Prime Video \"viewers\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/NWSL/2026/Washington/Portland",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "nwsl::Football_Match::834675f37cea4328bece6743d94c7d2d",
+      "league_lineup_url": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::834675f37cea4328bece6743d94c7d2d/lineups?locale=en-US",
+      "release_note_only": null
+    },
+    {
+      "league": "NWSL",
+      "date": "2026-03-15",
+      "stage": "Regular season",
+      "home": "Angel City FC",
+      "away": "Chicago Stars FC",
+      "status": "searched",
+      "fixture_id": "49defb2be0664b1e9f9b5ac09f4040a5",
+      "fixture_url": "https://www.nwslsoccer.com/match/49defb2be0664b1e9f9b5ac09f4040a5/angel-city-fc-vs-chicago-stars-fc",
+      "broadcaster_event_id": "401853862",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401853862/chicago-stars-fc-angel-city-fc",
+      "us_carriers": [
+        "Victory+"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Angel City",
+            "ACFC"
+          ],
+          [
+            "Chicago Stars",
+            "Chicago Red Stars"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Angel City\" OR \"ACFC\") AND title:(\"Chicago Stars\" OR \"Chicago Red Stars\") AND publicdate:[2026-03-15T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "NWSL 2026 Angel City Chicago",
+          "NWSL 2026 03 15 Angel City"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "NWSL \"Angel City\" \"Chicago Stars\" 2026 03 15 match torrent 1080p 720p soccer release",
+          "NWSL 2026 03 15 Angel City Chicago (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "NWSL Angel City Chicago Stars March 15, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Angel City Chicago 2026-03-15 Victory+ \"viewers\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/NWSL/2026/Angel/Chicago",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "nwsl::Football_Match::49defb2be0664b1e9f9b5ac09f4040a5",
+      "league_lineup_url": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::49defb2be0664b1e9f9b5ac09f4040a5/lineups?locale=en-US",
+      "release_note_only": null
+    },
+    {
+      "league": "NWSL",
+      "date": "2026-05-01",
+      "stage": "Regular season",
+      "home": "Houston Dash",
+      "away": "Seattle Reign FC",
+      "status": "searched",
+      "fixture_id": "a135330bf54743fb92529e9d6dd2441d",
+      "fixture_url": "https://www.nwslsoccer.com/match/a135330bf54743fb92529e9d6dd2441d/houston-dash-vs-seattle-reign-fc",
+      "broadcaster_event_id": "401853894",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401853894/seattle-reign-fc-houston-dash",
+      "us_carriers": [
+        "Victory+"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Houston Dash",
+            "Dash"
+          ],
+          [
+            "Seattle Reign",
+            "Reign"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Houston Dash\" OR \"Dash\") AND title:(\"Seattle Reign\" OR \"Reign\") AND publicdate:[2026-05-01T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "NWSL 2026 Houston Dash Seattle Reign",
+          "NWSL 2026 05 01 Houston Dash"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "NWSL \"Houston Dash\" \"Seattle Reign\" 2026 05 01 match torrent 1080p 720p soccer release",
+          "NWSL 2026 05 01 Houston Seattle (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "NWSL Houston Dash Seattle Reign May 1, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Houston Seattle 2026-05-01 Victory+ \"viewers\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/NWSL/2026/Houston/Seattle",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "nwsl::Football_Match::a135330bf54743fb92529e9d6dd2441d",
+      "league_lineup_url": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::a135330bf54743fb92529e9d6dd2441d/lineups?locale=en-US",
+      "release_note_only": null
+    },
+    {
+      "league": "NWSL",
+      "date": "2026-05-06",
+      "stage": "Regular season",
+      "home": "Utah Royals FC",
+      "away": "Houston Dash",
+      "status": "searched",
+      "fixture_id": "c6fb70ead63643ceac5aecc6bb4f652d",
+      "fixture_url": "https://www.nwslsoccer.com/match/c6fb70ead63643ceac5aecc6bb4f652d/utah-royals-fc-vs-houston-dash",
+      "broadcaster_event_id": "401853901",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401853901/houston-dash-utah-royals",
+      "us_carriers": [
+        "CBS Sports Network"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Utah Royals",
+            "Royals"
+          ],
+          [
+            "Houston Dash",
+            "Dash"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Utah Royals\" OR \"Royals\") AND title:(\"Houston Dash\" OR \"Dash\") AND publicdate:[2026-05-06T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "NWSL 2026 Utah Royals Houston Dash",
+          "NWSL 2026 05 06 Utah Royals"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "NWSL \"Utah Royals\" \"Houston Dash\" 2026 05 06 match torrent 1080p 720p soccer release",
+          "NWSL 2026 05 06 Utah Houston (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "NWSL Utah Royals Houston Dash May 6, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Utah Houston 2026-05-06 CBS Sports Network \"viewers\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/NWSL/2026/Utah/Houston",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "nwsl::Football_Match::c6fb70ead63643ceac5aecc6bb4f652d",
+      "league_lineup_url": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::c6fb70ead63643ceac5aecc6bb4f652d/lineups?locale=en-US",
+      "release_note_only": null
+    },
+    {
+      "league": "NWSL",
+      "date": "2026-07-03",
+      "stage": "Regular season",
+      "home": "Washington Spirit",
+      "away": "Houston Dash",
+      "status": "searched",
+      "fixture_id": "6576393993da4f0786f4a2a53b87ca8e",
+      "fixture_url": "https://www.nwslsoccer.com/match/6576393993da4f0786f4a2a53b87ca8e/washington-spirit-vs-houston-dash",
+      "broadcaster_event_id": "401853928",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401853928/houston-dash-washington-spirit",
+      "us_carriers": [
+        "Victory+"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Washington Spirit",
+            "Spirit"
+          ],
+          [
+            "Houston Dash",
+            "Dash"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Washington Spirit\" OR \"Spirit\") AND title:(\"Houston Dash\" OR \"Dash\") AND publicdate:[2026-07-03T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "NWSL 2026 Washington Spirit Houston Dash",
+          "NWSL 2026 07 03 Washington Spirit"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "NWSL \"Washington Spirit\" \"Houston Dash\" 2026 07 03 match torrent 1080p 720p soccer release",
+          "NWSL 2026 07 03 Washington Houston (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "NWSL Washington Spirit Houston Dash July 3, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Washington Houston 2026-07-03 Victory+ \"viewers\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/NWSL/2026/Washington/Houston",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "nwsl::Football_Match::6576393993da4f0786f4a2a53b87ca8e",
+      "league_lineup_url": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::6576393993da4f0786f4a2a53b87ca8e/lineups?locale=en-US",
+      "release_note_only": null
+    },
+    {
+      "league": "NWSL",
+      "date": "2026-07-05",
+      "stage": "Regular season",
+      "home": "Portland Thorns FC",
+      "away": "Racing Louisville FC",
+      "status": "searched",
+      "fixture_id": "51daec146700426fb6d0ae139b352449",
+      "fixture_url": "https://www.nwslsoccer.com/match/51daec146700426fb6d0ae139b352449/portland-thorns-fc-vs-racing-louisville-fc",
+      "broadcaster_event_id": "401853933",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401853933/racing-louisville-fc-portland-thorns-fc",
+      "us_carriers": [
+        "Victory+"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Portland Thorns",
+            "Thorns"
+          ],
+          [
+            "Racing Louisville",
+            "Louisville"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Portland Thorns\" OR \"Thorns\") AND title:(\"Racing Louisville\" OR \"Louisville\") AND publicdate:[2026-07-05T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "NWSL 2026 Portland Thorns Racing Louisville",
+          "NWSL 2026 07 05 Portland Thorns"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "NWSL \"Portland Thorns\" \"Racing Louisville\" 2026 07 05 match torrent 1080p 720p soccer release",
+          "NWSL 2026 07 05 Portland Louisville (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "NWSL Portland Thorns Racing Louisville July 5, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Portland Louisville 2026-07-05 Victory+ \"viewers\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/NWSL/2026/Portland/Louisville",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "nwsl::Football_Match::51daec146700426fb6d0ae139b352449",
+      "league_lineup_url": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::51daec146700426fb6d0ae139b352449/lineups?locale=en-US",
+      "release_note_only": null
+    },
+    {
+      "league": "NWSL",
+      "date": "2026-10-02",
+      "stage": "Regular season",
+      "home": "Orlando Pride",
+      "away": "San Diego Wave FC",
+      "status": "searched",
+      "fixture_id": "ebba373c52b345638106b556d564573a",
+      "fixture_url": "https://www.nwslsoccer.com/match/ebba373c52b345638106b556d564573a/orlando-pride-vs-san-diego-wave-fc",
+      "broadcaster_event_id": "401854015",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401854015/san-diego-wave-fc-orlando-pride",
+      "us_carriers": [
+        "Prime Video"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Orlando Pride",
+            "Pride"
+          ],
+          [
+            "San Diego Wave",
+            "Wave"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Orlando Pride\" OR \"Pride\") AND title:(\"San Diego Wave\" OR \"Wave\") AND publicdate:[2026-10-02T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "NWSL 2026 Orlando Pride San Diego Wave",
+          "NWSL 2026 10 02 Orlando Pride"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "NWSL \"Orlando Pride\" \"San Diego Wave\" 2026 10 02 match torrent 1080p 720p soccer release",
+          "NWSL 2026 10 02 Orlando San Diego (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "NWSL Orlando Pride San Diego Wave October 2, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Orlando San Diego 2026-10-02 Amazon Prime Video \"viewers\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/NWSL/2026/Orlando/Diego",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "nwsl::Football_Match::ebba373c52b345638106b556d564573a",
+      "league_lineup_url": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::ebba373c52b345638106b556d564573a/lineups?locale=en-US",
+      "release_note_only": null
+    },
+    {
+      "league": "NWSL",
+      "date": "2026-10-04",
+      "stage": "Regular season",
+      "home": "Houston Dash",
+      "away": "Washington Spirit",
+      "status": "searched",
+      "fixture_id": "9dae366cd55b408394886b5a75df15a8",
+      "fixture_url": "https://www.nwslsoccer.com/match/9dae366cd55b408394886b5a75df15a8/houston-dash-vs-washington-spirit",
+      "broadcaster_event_id": "401854020",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401854020/washington-spirit-houston-dash",
+      "us_carriers": [
+        "Roku Sports Channel"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Houston Dash",
+            "Dash"
+          ],
+          [
+            "Washington Spirit",
+            "Spirit"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Houston Dash\" OR \"Dash\") AND title:(\"Washington Spirit\" OR \"Spirit\") AND publicdate:[2026-10-04T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "NWSL 2026 Houston Dash Washington Spirit",
+          "NWSL 2026 10 04 Houston Dash"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "NWSL \"Houston Dash\" \"Washington Spirit\" 2026 10 04 match torrent 1080p 720p soccer release",
+          "NWSL 2026 10 04 Houston Washington (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "NWSL Houston Dash Washington Spirit October 4, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Houston Washington 2026-10-04 Roku \"viewers\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/NWSL/2026/Houston/Washington",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "nwsl::Football_Match::9dae366cd55b408394886b5a75df15a8",
+      "league_lineup_url": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::9dae366cd55b408394886b5a75df15a8/lineups?locale=en-US",
+      "release_note_only": null
+    },
+    {
+      "league": "NWSL",
+      "date": "2026-11-06",
+      "stage": "Quarterfinal",
+      "home": "San Diego Wave FC",
+      "away": "Utah Royals FC",
+      "status": "searched",
+      "fixture_id": "ab44c399908d43bbb941b1bfd719f4b1",
+      "fixture_url": "https://www.nwslsoccer.com/match/ab44c399908d43bbb941b1bfd719f4b1/san-diego-wave-fc-vs-utah-royals-fc",
+      "broadcaster_event_id": "401932959",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401932959/utah-royals-san-diego-wave-fc",
+      "us_carriers": [
+        "Prime Video"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "San Diego Wave",
+            "Wave"
+          ],
+          [
+            "Utah Royals",
+            "Royals"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"San Diego Wave\" OR \"Wave\") AND title:(\"Utah Royals\" OR \"Royals\") AND publicdate:[2026-11-06T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "NWSL 2026 San Diego Wave Utah Royals",
+          "NWSL 2026 11 06 San Diego Wave"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "NWSL \"San Diego Wave\" \"Utah Royals\" 2026 11 06 match torrent 1080p 720p soccer release",
+          "NWSL 2026 11 06 San Diego Utah (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "NWSL San Diego Wave Utah Royals November 6, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "San Diego Utah 2026-11-06 Prime Video \"viewers\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/NWSL/2026/Diego/Utah",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "nwsl::Football_Match::ab44c399908d43bbb941b1bfd719f4b1",
+      "league_lineup_url": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::ab44c399908d43bbb941b1bfd719f4b1/lineups?locale=en-US",
+      "release_note_only": null
+    },
+    {
+      "league": "NWSL",
+      "date": "2026-11-14",
+      "stage": "Semifinal",
+      "home": "Washington Spirit",
+      "away": "Utah Royals FC",
+      "status": "searched",
+      "fixture_id": "c733f201115343e7b349fde6d0191abc",
+      "fixture_url": "https://www.nwslsoccer.com/match/c733f201115343e7b349fde6d0191abc/washington-spirit-vs-utah-royals-fc",
+      "broadcaster_event_id": "401933734",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401933734/utah-royals-washington-spirit",
+      "us_carriers": [
+        "CBS",
+        "Paramount+"
+      ],
+      "release": null,
+      "rating": {
+        "average_viewers": 560000,
+        "territory": "USA",
+        "outlet": "CBS",
+        "provider": "Nielsen, as attributed in Front Office Sports’ playoff comparison",
+        "source": "https://frontofficesports.com/article/nwsl-tv-ratings-soccer-cbs-abc/",
+        "method_detail": "The article does not specify the panel product, age universe or streaming inclusion for this fixture."
+      },
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Washington Spirit",
+            "Spirit"
+          ],
+          [
+            "Utah Royals",
+            "Royals"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Washington Spirit\" OR \"Spirit\") AND title:(\"Utah Royals\" OR \"Royals\") AND publicdate:[2026-11-14T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "NWSL 2026 Washington Spirit Utah Royals",
+          "NWSL 2026 11 14 Washington Spirit"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "NWSL \"Washington Spirit\" \"Utah Royals\" 2026 11 14 match torrent 1080p 720p soccer release",
+          "NWSL 2026 11 14 Washington Utah (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "NWSL Washington Spirit Utah Royals November 14, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Washington Utah 2026-11-14 CBS \"viewers\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/NWSL/2026/Washington/Utah",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "nwsl::Football_Match::c733f201115343e7b349fde6d0191abc",
+      "league_lineup_url": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::c733f201115343e7b349fde6d0191abc/lineups?locale=en-US",
+      "release_note_only": null
+    },
+    {
+      "league": "NWSL",
+      "date": "2026-11-15",
+      "stage": "Semifinal",
+      "home": "Gotham FC",
+      "away": "Kansas City Current",
+      "status": "searched",
+      "fixture_id": "ea9afae6c16144fdb57d009eb0122761",
+      "fixture_url": "https://www.nwslsoccer.com/match/ea9afae6c16144fdb57d009eb0122761/gotham-fc-vs-kansas-city-current",
+      "broadcaster_event_id": "401933740",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401933740/kansas-city-current-gotham-fc",
+      "us_carriers": [
+        "ABC",
+        "ESPN App",
+        "ESPN Deportes"
+      ],
+      "release": null,
+      "rating": {
+        "average_viewers": 512000,
+        "territory": "USA",
+        "outlet": "ABC",
+        "provider": "Nielsen, as attributed in Front Office Sports’ playoff comparison",
+        "source": "https://frontofficesports.com/article/nwsl-tv-ratings-soccer-cbs-abc/",
+        "method_detail": "The article does not specify the panel product, age universe or streaming inclusion for this fixture."
+      },
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Gotham FC",
+            "Gotham"
+          ],
+          [
+            "Kansas City Current",
+            "KC Current"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Gotham FC\" OR \"Gotham\") AND title:(\"Kansas City Current\" OR \"KC Current\") AND publicdate:[2026-11-15T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "NWSL 2026 Gotham Kansas City Current",
+          "NWSL 2026 11 15 Gotham"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "NWSL \"Gotham FC\" \"Kansas City Current\" 2026 11 15 match torrent 1080p 720p soccer release",
+          "NWSL 2026 11 15 Gotham Kansas City (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "NWSL Gotham FC Kansas City Current November 15, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Gotham Kansas City 2026-11-15 ABC \"viewers\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/NWSL/2026/Gotham/Kansas",
+          "candidates": 0
+        }
+      },
+      "official_match_id": "nwsl::Football_Match::ea9afae6c16144fdb57d009eb0122761",
+      "league_lineup_url": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::ea9afae6c16144fdb57d009eb0122761/lineups?locale=en-US",
+      "release_note_only": null
+    },
+    {
+      "league": "NWSL",
+      "date": "2026-11-21",
+      "stage": "Final",
+      "home": "Washington Spirit",
+      "away": "Kansas City Current",
+      "status": "searched",
+      "fixture_id": "2fd8ff59c8774f53a590ce6db625bd12",
+      "fixture_url": "https://www.nwslsoccer.com/match/2fd8ff59c8774f53a590ce6db625bd12/washington-spirit-vs-kansas-city-current",
+      "broadcaster_event_id": "401934232",
+      "broadcaster_fixture_url": "https://www.espn.com/soccer/match/_/gameId/401934232/kansas-city-current-washington-spirit",
+      "us_carriers": [
+        "CBS",
+        "Paramount+"
+      ],
+      "release": null,
+      "rating": null,
+      "swarm": null,
+      "search": {
+        "team_aliases": [
+          [
+            "Washington Spirit",
+            "Spirit"
+          ],
+          [
+            "Kansas City Current",
+            "KC Current"
+          ]
+        ],
+        "archive_query": "mediatype:movies AND title:(\"Washington Spirit\" OR \"Spirit\") AND title:(\"Kansas City Current\" OR \"KC Current\") AND publicdate:[2026-11-21T00:00:00Z TO 2026-11-24T23:59:59Z]",
+        "archive_candidates": 0,
+        "catalog_queries": [
+          "NWSL 2026 Washington Spirit Kansas City Current",
+          "NWSL 2026 11 21 Washington Spirit"
+        ],
+        "catalog_rows_examined": [
+          50,
+          50
+        ],
+        "release_web_queries": [
+          "NWSL \"Washington Spirit\" \"Kansas City Current\" 2026 11 21 match torrent 1080p 720p soccer release",
+          "NWSL 2026 11 21 Washington Kansas City (site:ext.to OR site:torrentela.com OR site:yourbittorrent2.com OR site:bt4gprx.com)"
+        ],
+        "audience_web_queries": [
+          "NWSL Washington Spirit Kansas City Current November 21, 2026 TV viewership viewers Nielsen ratings audience match broadcast",
+          "Washington Kansas City 2026-11-21 CBS Paramount+ \"viewers\" ratings audience soccer"
+        ],
+        "date": "2026-11-24",
+        "release_note_index": {
+          "url": "https://api.srrdb.com/v1/search/NWSL/2026/Washington/Kansas",
+          "candidates": 0
+        }
+      },
+      "rating_note": "The November 23 account said CBS planned to release a figure on November 24. A current-season number for this final could not be verified at this check.",
+      "official_match_id": "nwsl::Football_Match::2fd8ff59c8774f53a590ce6db625bd12",
+      "league_lineup_url": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::2fd8ff59c8774f53a590ce6db625bd12/lineups?locale=en-US",
+      "release_note_only": null
+    }
+  ],
+  "positive_control": {
+    "league": "NWSL",
+    "date": "2026-07-12",
+    "stage": "Regular season",
+    "home": "Seattle Reign FC",
+    "away": "Portland Thorns FC",
+    "fixture_id": "98d379faee114d39858e722fdfab2e83",
+    "fixture_url": "https://www.nwslsoccer.com/match/98d379faee114d39858e722fdfab2e83/seattle-reign-fc-vs-portland-thorns-fc",
+    "us_carriers": [
+      "ESPN",
+      "ESPN Deportes",
+      "ESPN App"
+    ],
+    "source": "Stage 10 research identified this match before primary fixture selection. The same Archive query returned exactly one item.",
+    "release": {
+      "source": "https://archive.org/details/portland-thorns-vs-seattle-reign",
+      "v1_infohash": "5c045be695a81b63e07fced04e8eeb31316f6f16",
+      "metadata_source": "https://archive.org/metadata/portland-thorns-vs-seattle-reign",
+      "video_filename": "portland thorns vs seattle reign.mp4",
+      "video_bytes": 6311793403,
+      "runtime_minutes": 192.1,
+      "classification": "Verified archive metainfo, recording duration and published frames from both halves matched to the official fixture.",
+      "metainfo_sha256": "c1bb318c9378dee8e58eaee08ae1f4cba7ebf69641c5b855f08e81b3be871a52",
+      "files": [
+        {
+          "path": "__ia_thumb.jpg",
+          "bytes": 8985
+        },
+        {
+          "path": ".____padding_file/3",
+          "bytes": 4185319
+        },
+        {
+          "path": "portland thorns vs seattle reign.ia.mp4",
+          "bytes": 6311793403
+        },
+        {
+          "path": ".____padding_file/4",
+          "bytes": 634117
+        },
+        {
+          "path": "portland thorns vs seattle reign.mp4",
+          "bytes": 6311793403
+        },
+        {
+          "path": ".____padding_file/0",
+          "bytes": 634117
+        },
+        {
+          "path": "portland-thorns-vs-seattle-reign_meta.sqlite",
+          "bytes": 20480
+        },
+        {
+          "path": ".____padding_file/1",
+          "bytes": 4173824
+        },
+        {
+          "path": "portland-thorns-vs-seattle-reign_meta.xml",
+          "bytes": 901
+        },
+        {
+          "path": ".____padding_file/2",
+          "bytes": 4193403
+        }
+      ],
+      "file_list_entries": 10,
+      "catalog_publication_utc": "2026-07-13T00:02:09Z",
+      "catalog_language": null,
+      "audio_language_verified": false,
+      "preview_first_half": "https://archive.org/download/portland-thorns-vs-seattle-reign/portland-thorns-vs-seattle-reign.thumbs/portland%20thorns%20vs%20seattle%20reign_005760.jpg",
+      "preview_second_half": "https://archive.org/download/portland-thorns-vs-seattle-reign/portland-thorns-vs-seattle-reign.thumbs/portland%20thorns%20vs%20seattle%20reign_008640.jpg",
+      "match_recap": "https://www.reignfc.com/news/match-recap-seattle-reign-fc-beats-portland-2-0-in-front-of-fourth-largest-crowd-in-club-history"
+    },
+    "rating": {
+      "average_viewers": 372000,
+      "territory": "USA",
+      "outlet": "ESPN",
+      "provider": "ESPN reporting. Measurement vendor, product and feed split unspecified.",
+      "source": "https://www.nytimes.com/athletic/7739039/2026/10/31/espn-nwsl-decision-day-program/",
+      "syndicated_source": "https://sports.yahoo.com/articles/espn-capitalizing-nwsl-biggest-decision-100105096.html"
+    },
+    "swarm": null,
+    "search": {
+      "archive_query": "mediatype:movies AND title:(\"Seattle Reign\" OR \"Reign\") AND title:(\"Portland Thorns\" OR \"Thorns\") AND publicdate:[2026-07-12T00:00:00Z TO 2026-11-24T23:59:59Z]",
+      "archive_candidates": 1,
+      "catalog_queries": [
+        "NWSL 2026 Seattle Reign Portland Thorns",
+        "NWSL 2026 07 12 Seattle Reign"
+      ],
+      "date": "2026-11-24",
+      "release_note_index": {
+        "url": "https://api.srrdb.com/v1/search/NWSL/2026/Seattle/Portland",
+        "candidates": 0
+      }
+    },
+    "official_match_id": "nwsl::Football_Match::98d379faee114d39858e722fdfab2e83",
+    "league_lineup_url": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::98d379faee114d39858e722fdfab2e83/lineups?locale=en-US",
+    "release_note_only": null
+  },
+  "us_linear_control": {
+    "league": "MLS",
+    "date": "2026-07-17",
+    "stage": "Regular season",
+    "home": "Nashville SC",
+    "away": "Atlanta United FC",
+    "fixture_id": "nshvsatl-07-17-2026",
+    "fixture_url": "https://www.mlssoccer.com/competitions/mls-regular-season/2026/matches/nshvsatl-07-17-2026/",
+    "us_carriers": [
+      "FOX",
+      "Apple TV"
+    ],
+    "selection": "Known U.S. linear ratings example in the approved Stage 10 brief. Outside the pilot and all coverage rates.",
+    "release": null,
+    "rating": {
+      "average_viewers": 587000,
+      "territory": "USA",
+      "outlet": "FOX",
+      "provider": "MLS reporting. The release does not identify the measurement vendor, panel product or audience age universe for this figure.",
+      "source": "https://www.mlssoccer.com/news/historic-attendance-surging-viewership-and-record-digital-engagement-highlight-2026-mls-regular-season"
+    },
+    "swarm": null,
+    "search": {
+      "archive_query": "mediatype:movies AND title:(\"Nashville SC\" OR \"Nashville\") AND title:(\"Atlanta United\" OR \"Atlanta\") AND publicdate:[2026-07-17T00:00:00Z TO 2026-11-24T23:59:59Z]",
+      "archive_candidates": 0,
+      "catalog_queries": [
+        "MLS 2026 Nashville Atlanta",
+        "MLS 2026 07 17 Nashville"
+      ],
+      "date": "2026-11-24",
+      "release_note_index": {
+        "url": "https://api.srrdb.com/v1/search/MLS/2026/Nashville/Atlanta",
+        "candidates": 1
+      }
+    },
+    "official_match_id": "MLS-MAT-0009HC",
+    "release_note_only": null
+  }
+}

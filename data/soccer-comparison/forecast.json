@@ -1,0 +1,2001 @@
+{
+  "schema": "alpha60-stage10-kickoff-forecast/1",
+  "methods": {
+    "time": "Kickoff calendar date is day one. Freeze at the end of date seven (offset six). The daily data do not resolve kickoff hour or local timezone differences.",
+    "cohort": "Selected 21 Stage 4/6 fixtures. Retain only canonical full-match releases with a daily cache by the cutoff. Freeze the same releases for both windows. Match tagging is retrospective. Deduplicate raw aliases and IPs across all selected releases within a fixture.",
+    "outcome": "For each fixture, early is distinct observed downloader IPs on days 1–7. Added is the IP union on days 8–28 minus the early set. Unknown countries stay in the world denominator. Repeated IPs across fixtures can contribute to each fixture.",
+    "network": "Published Stage 4 frozen country and privacy lookups. Remove hosting and VPN addresses separately, recalculating national and worldwide counts for each exclusion.",
+    "sample": "A complete observation requires archive coverage on all 28 calendar dates and daily observations for every frozen release from first discovery onward. R32 is specific to the 48-team format. The common-round sample comprises R16, QF, SF and F.",
+    "fixed_rules": "At day seven, predict each national share of future additions from that fixture’s own early share. A constant-new-arrival pace predicts three times the first-week unique count over the next 21 days. These rules require no fitted labels. MAE weights fixtures equally; volume-weighted MAE weights by later worldwide additions.",
+    "training": "Require the preceding round and outcome_end on or before the forecast cutoff for an operational baseline. The separate earlier-round hindcast uses only earlier-round fixtures, but intentionally allows outcomes that matured after the cutoff. For volume it estimates prior total additions per release or per early IP. For share it uses the unweighted mean of earlier fixture shares.",
+    "scenarios": "Low, base and high are empirical 25th, 50th and 75th percentiles of individual complete 2026 common-round fixtures. They are descriptive transfer scenarios, not predictive intervals or evidence of 2027 demand. National percentiles are calculated independently."
+  },
+  "source_sha256": {
+    "world-cup-broadcast/fixture-windows.json": "987b8673a325d35b027cc2e436d546ffcfd30177a6742be7b596fa9439e439d4",
+    "world-cup-eur-27/broadcast/additional-fixture-windows.json": "1230b18b56faac56731629ead6bcec295ffb78e57c649dae19ded20b1a7d85e4",
+    "world-cup-broadcast/cache-source-hashes.json.gz": "186f742127da327f0778e8f09ccc439aab004931af72a8e2f48f81e44154e15f",
+    "world-cup-eur-27/broadcast/additional-cache-source-hashes.json.gz": "d539d6e2ebc8c7edbdb0acfc5f1dcc39de431040b566eaf131698403a977dc75",
+    "world-cup-stage1/torrent-inventory.json.gz": "268b6a25a63acf703f284cc23c668db4dc32931989a3cc7455a5953b997ac616",
+    "world-cup-stage1/daily-catalog-coverage.json": "8a650245d5b3c1f48ae4aec3be164dc0179e357a753160d7ff2b938687722041",
+    "world-cup-eur-27/broadcast/fixture-lineage.json": "55d97cca3c1e32a7f4b786d9032eaaa0a3d46d9cab06b055d83ffa76226c8b0b",
+    "inventory_uncompressed": "f434f89a5c7c5e6c9e1d40742244aa03156e1a18bcf95bb20fe939809b670aa2",
+    "standard_location.mmdb": "038a11d61822a80c92ee53f0bce7889a5ebee5bd5379006e847be50e8d939928",
+    "standard_privacy.mmdb": "5bf50f6ddd3b9a18de87a9fe76de6714dd30c58a901d98263ea0aca9a6f6fca9"
+  },
+  "coverage": {
+    "fixtures": 21,
+    "complete_fixtures": 20,
+    "common_round_fixtures": 13,
+    "eventual_releases": 285,
+    "frozen_releases": 264,
+    "release_discovery_lag_days": {
+      "0": 8,
+      "1": 128,
+      "2": 71,
+      "3": 43,
+      "4": 9,
+      "5": 4,
+      "6": 1,
+      "7": 4,
+      "8": 7,
+      "9": 1,
+      "10": 1,
+      "11": 2,
+      "12": 1,
+      "15": 1,
+      "16": 2,
+      "22": 1,
+      "24": 1
+    },
+    "raw_files": 8243
+  },
+  "fixtures": [
+    {
+      "id": "CAN-RSA-2026-06-28",
+      "teams": [
+        "CAN",
+        "RSA"
+      ],
+      "round": "R32",
+      "kickoff_date": "2026-06-28",
+      "forecast_cutoff": "2026-07-04",
+      "outcome_end": "2026-07-25",
+      "complete": false,
+      "missing_archive_dates": [
+        "2026-06-28"
+      ],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 11,
+      "frozen_releases": 9,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 24,
+      "raw_cache_files": 232,
+      "cache_files_sha256": "e7dd1fa70ceb7092d95ad7f3662e04ad0defc682a259f2535e7b241f6d9719f1",
+      "early": {
+        "all": {
+          "world": 48544,
+          "USA": 3529,
+          "CAN": 1530,
+          "MEX": 599,
+          "BRA": 1262,
+          "CHN": 5155
+        },
+        "without_hosting": {
+          "world": 40903,
+          "USA": 1997,
+          "CAN": 1075,
+          "MEX": 581,
+          "BRA": 1241,
+          "CHN": 4838
+        },
+        "without_vpn": {
+          "world": 44207,
+          "USA": 2589,
+          "CAN": 1095,
+          "MEX": 581,
+          "BRA": 1245,
+          "CHN": 5040
+        }
+      },
+      "added": {
+        "all": {
+          "world": 189496,
+          "USA": 12681,
+          "CAN": 5702,
+          "MEX": 3186,
+          "BRA": 7772,
+          "CHN": 17293
+        },
+        "without_hosting": {
+          "world": 168785,
+          "USA": 8132,
+          "CAN": 4592,
+          "MEX": 3142,
+          "BRA": 7661,
+          "CHN": 16400
+        },
+        "without_vpn": {
+          "world": 175946,
+          "USA": 9779,
+          "CAN": 4539,
+          "MEX": 3138,
+          "BRA": 7729,
+          "CHN": 16794
+        }
+      }
+    },
+    {
+      "id": "BRA-JPN-2026-06-29",
+      "teams": [
+        "BRA",
+        "JPN"
+      ],
+      "round": "R32",
+      "kickoff_date": "2026-06-29",
+      "forecast_cutoff": "2026-07-05",
+      "outcome_end": "2026-07-26",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 4,
+      "frozen_releases": 3,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 11,
+      "raw_cache_files": 81,
+      "cache_files_sha256": "8c6e760459b422fa79bb7530f41f5276aa375c42a1407ba4f119e78d45fe9e2e",
+      "early": {
+        "all": {
+          "world": 24628,
+          "USA": 2236,
+          "CAN": 819,
+          "MEX": 299,
+          "BRA": 587,
+          "CHN": 2519
+        },
+        "without_hosting": {
+          "world": 20430,
+          "USA": 1223,
+          "CAN": 575,
+          "MEX": 284,
+          "BRA": 574,
+          "CHN": 2400
+        },
+        "without_vpn": {
+          "world": 22236,
+          "USA": 1566,
+          "CAN": 609,
+          "MEX": 284,
+          "BRA": 575,
+          "CHN": 2463
+        }
+      },
+      "added": {
+        "all": {
+          "world": 47959,
+          "USA": 3430,
+          "CAN": 1357,
+          "MEX": 846,
+          "BRA": 1804,
+          "CHN": 4154
+        },
+        "without_hosting": {
+          "world": 41404,
+          "USA": 1918,
+          "CAN": 1019,
+          "MEX": 837,
+          "BRA": 1789,
+          "CHN": 3913
+        },
+        "without_vpn": {
+          "world": 44252,
+          "USA": 2658,
+          "CAN": 1040,
+          "MEX": 835,
+          "BRA": 1793,
+          "CHN": 4042
+        }
+      }
+    },
+    {
+      "id": "GER-PAR-2026-06-29",
+      "teams": [
+        "GER",
+        "PAR"
+      ],
+      "round": "R32",
+      "kickoff_date": "2026-06-29",
+      "forecast_cutoff": "2026-07-05",
+      "outcome_end": "2026-07-26",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 6,
+      "frozen_releases": 5,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 7,
+      "raw_cache_files": 129,
+      "cache_files_sha256": "c39d7a8eb832f2a46fe7ad024a157da4bcb09634366e314d1b4a6da0cb6bcf77",
+      "early": {
+        "all": {
+          "world": 18433,
+          "USA": 1538,
+          "CAN": 514,
+          "MEX": 242,
+          "BRA": 453,
+          "CHN": 1710
+        },
+        "without_hosting": {
+          "world": 15062,
+          "USA": 675,
+          "CAN": 330,
+          "MEX": 232,
+          "BRA": 446,
+          "CHN": 1628
+        },
+        "without_vpn": {
+          "world": 16506,
+          "USA": 1024,
+          "CAN": 342,
+          "MEX": 232,
+          "BRA": 445,
+          "CHN": 1669
+        }
+      },
+      "added": {
+        "all": {
+          "world": 77153,
+          "USA": 5549,
+          "CAN": 2193,
+          "MEX": 1219,
+          "BRA": 2792,
+          "CHN": 7044
+        },
+        "without_hosting": {
+          "world": 66770,
+          "USA": 3186,
+          "CAN": 1674,
+          "MEX": 1202,
+          "BRA": 2751,
+          "CHN": 6623
+        },
+        "without_vpn": {
+          "world": 71298,
+          "USA": 4320,
+          "CAN": 1702,
+          "MEX": 1201,
+          "BRA": 2779,
+          "CHN": 6859
+        }
+      }
+    },
+    {
+      "id": "CIV-NOR-2026-06-30",
+      "teams": [
+        "CIV",
+        "NOR"
+      ],
+      "round": "R32",
+      "kickoff_date": "2026-06-30",
+      "forecast_cutoff": "2026-07-06",
+      "outcome_end": "2026-07-27",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 9,
+      "frozen_releases": 9,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 6,
+      "raw_cache_files": 253,
+      "cache_files_sha256": "1021e01b171199e764572d83817580bb055c6506f29770e1a02c3b65b15ca4be",
+      "early": {
+        "all": {
+          "world": 34802,
+          "USA": 2412,
+          "CAN": 942,
+          "MEX": 524,
+          "BRA": 1025,
+          "CHN": 4043
+        },
+        "without_hosting": {
+          "world": 29575,
+          "USA": 1378,
+          "CAN": 654,
+          "MEX": 512,
+          "BRA": 1003,
+          "CHN": 3852
+        },
+        "without_vpn": {
+          "world": 31923,
+          "USA": 1759,
+          "CAN": 676,
+          "MEX": 510,
+          "BRA": 1017,
+          "CHN": 3957
+        }
+      },
+      "added": {
+        "all": {
+          "world": 170273,
+          "USA": 10616,
+          "CAN": 4934,
+          "MEX": 3025,
+          "BRA": 7313,
+          "CHN": 16722
+        },
+        "without_hosting": {
+          "world": 151916,
+          "USA": 6924,
+          "CAN": 3956,
+          "MEX": 2997,
+          "BRA": 7208,
+          "CHN": 15903
+        },
+        "without_vpn": {
+          "world": 158689,
+          "USA": 8258,
+          "CAN": 3986,
+          "MEX": 2996,
+          "BRA": 7273,
+          "CHN": 16262
+        }
+      }
+    },
+    {
+      "id": "FRA-SWE-2026-06-30",
+      "teams": [
+        "FRA",
+        "SWE"
+      ],
+      "round": "R32",
+      "kickoff_date": "2026-06-30",
+      "forecast_cutoff": "2026-07-06",
+      "outcome_end": "2026-07-27",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 11,
+      "frozen_releases": 11,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 3,
+      "raw_cache_files": 312,
+      "cache_files_sha256": "44de31daf7ad1a3c9979840360cca978a110a527bea600b3c80a41c8c77cdcab",
+      "early": {
+        "all": {
+          "world": 41854,
+          "USA": 2874,
+          "CAN": 1119,
+          "MEX": 497,
+          "BRA": 1059,
+          "CHN": 4123
+        },
+        "without_hosting": {
+          "world": 35130,
+          "USA": 1525,
+          "CAN": 782,
+          "MEX": 477,
+          "BRA": 1033,
+          "CHN": 3888
+        },
+        "without_vpn": {
+          "world": 38042,
+          "USA": 2057,
+          "CAN": 823,
+          "MEX": 477,
+          "BRA": 1044,
+          "CHN": 4015
+        }
+      },
+      "added": {
+        "all": {
+          "world": 247644,
+          "USA": 15628,
+          "CAN": 7119,
+          "MEX": 4794,
+          "BRA": 11431,
+          "CHN": 20903
+        },
+        "without_hosting": {
+          "world": 223056,
+          "USA": 10553,
+          "CAN": 5789,
+          "MEX": 4752,
+          "BRA": 11269,
+          "CHN": 19766
+        },
+        "without_vpn": {
+          "world": 231859,
+          "USA": 12451,
+          "CAN": 5777,
+          "MEX": 4743,
+          "BRA": 11354,
+          "CHN": 20270
+        }
+      }
+    },
+    {
+      "id": "MEX-ECU-2026-06-30",
+      "teams": [
+        "MEX",
+        "ECU"
+      ],
+      "round": "R32",
+      "kickoff_date": "2026-06-30",
+      "forecast_cutoff": "2026-07-06",
+      "outcome_end": "2026-07-27",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 12,
+      "frozen_releases": 12,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 5,
+      "raw_cache_files": 309,
+      "cache_files_sha256": "51bc02822172b61c6f2ae52b28e979824555fd05c8c9b477e0ea2e2e3a5e20c7",
+      "early": {
+        "all": {
+          "world": 53167,
+          "USA": 3449,
+          "CAN": 1382,
+          "MEX": 876,
+          "BRA": 1405,
+          "CHN": 4918
+        },
+        "without_hosting": {
+          "world": 45274,
+          "USA": 2012,
+          "CAN": 978,
+          "MEX": 845,
+          "BRA": 1376,
+          "CHN": 4622
+        },
+        "without_vpn": {
+          "world": 48927,
+          "USA": 2579,
+          "CAN": 1038,
+          "MEX": 845,
+          "BRA": 1387,
+          "CHN": 4789
+        }
+      },
+      "added": {
+        "all": {
+          "world": 192139,
+          "USA": 11961,
+          "CAN": 5425,
+          "MEX": 3965,
+          "BRA": 8801,
+          "CHN": 16054
+        },
+        "without_hosting": {
+          "world": 172799,
+          "USA": 8032,
+          "CAN": 4422,
+          "MEX": 3922,
+          "BRA": 8696,
+          "CHN": 15156
+        },
+        "without_vpn": {
+          "world": 179704,
+          "USA": 9378,
+          "CAN": 4404,
+          "MEX": 3917,
+          "BRA": 8753,
+          "CHN": 15602
+        }
+      }
+    },
+    {
+      "id": "ESP-AUT-2026-07-02",
+      "teams": [
+        "ESP",
+        "AUT"
+      ],
+      "round": "R32",
+      "kickoff_date": "2026-07-02",
+      "forecast_cutoff": "2026-07-08",
+      "outcome_end": "2026-07-29",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 14,
+      "frozen_releases": 13,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 12,
+      "raw_cache_files": 393,
+      "cache_files_sha256": "0950ebed4a620b285ce69353ad0fd699795a2ef0e08267618594836b5a51884c",
+      "early": {
+        "all": {
+          "world": 55173,
+          "USA": 4014,
+          "CAN": 1592,
+          "MEX": 723,
+          "BRA": 1538,
+          "CHN": 5960
+        },
+        "without_hosting": {
+          "world": 46730,
+          "USA": 2238,
+          "CAN": 1130,
+          "MEX": 700,
+          "BRA": 1498,
+          "CHN": 5648
+        },
+        "without_vpn": {
+          "world": 50309,
+          "USA": 2868,
+          "CAN": 1161,
+          "MEX": 699,
+          "BRA": 1518,
+          "CHN": 5831
+        }
+      },
+      "added": {
+        "all": {
+          "world": 213511,
+          "USA": 13501,
+          "CAN": 6090,
+          "MEX": 4110,
+          "BRA": 9845,
+          "CHN": 19268
+        },
+        "without_hosting": {
+          "world": 191931,
+          "USA": 8860,
+          "CAN": 5005,
+          "MEX": 4071,
+          "BRA": 9699,
+          "CHN": 18284
+        },
+        "without_vpn": {
+          "world": 199461,
+          "USA": 10501,
+          "CAN": 4968,
+          "MEX": 4070,
+          "BRA": 9789,
+          "CHN": 18738
+        }
+      }
+    },
+    {
+      "id": "POR-CRO-2026-07-02",
+      "teams": [
+        "POR",
+        "CRO"
+      ],
+      "round": "R32",
+      "kickoff_date": "2026-07-02",
+      "forecast_cutoff": "2026-07-08",
+      "outcome_end": "2026-07-29",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 14,
+      "frozen_releases": 13,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 7,
+      "raw_cache_files": 393,
+      "cache_files_sha256": "0cd49183c8793315e439f33dd8e02b74174857335b67b50e2f52549e654658c7",
+      "early": {
+        "all": {
+          "world": 82171,
+          "USA": 4963,
+          "CAN": 2209,
+          "MEX": 963,
+          "BRA": 2066,
+          "CHN": 9212
+        },
+        "without_hosting": {
+          "world": 70768,
+          "USA": 3020,
+          "CAN": 1588,
+          "MEX": 945,
+          "BRA": 2030,
+          "CHN": 8768
+        },
+        "without_vpn": {
+          "world": 75758,
+          "USA": 3602,
+          "CAN": 1615,
+          "MEX": 943,
+          "BRA": 2050,
+          "CHN": 9032
+        }
+      },
+      "added": {
+        "all": {
+          "world": 230244,
+          "USA": 14269,
+          "CAN": 6678,
+          "MEX": 4200,
+          "BRA": 10117,
+          "CHN": 22722
+        },
+        "without_hosting": {
+          "world": 208068,
+          "USA": 10067,
+          "CAN": 5477,
+          "MEX": 4160,
+          "BRA": 9958,
+          "CHN": 21738
+        },
+        "without_vpn": {
+          "world": 215152,
+          "USA": 11142,
+          "CAN": 5448,
+          "MEX": 4154,
+          "BRA": 10035,
+          "CHN": 22090
+        }
+      }
+    },
+    {
+      "id": "CAN-MAR-2026-07-04",
+      "teams": [
+        "CAN",
+        "MAR"
+      ],
+      "round": "R16",
+      "kickoff_date": "2026-07-04",
+      "forecast_cutoff": "2026-07-10",
+      "outcome_end": "2026-07-31",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 11,
+      "frozen_releases": 11,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 2,
+      "raw_cache_files": 323,
+      "cache_files_sha256": "b50883edd1b1e3026b59c1dfe716a6107543fc1febe972430da1610835c0285a",
+      "early": {
+        "all": {
+          "world": 86468,
+          "USA": 5712,
+          "CAN": 2442,
+          "MEX": 1237,
+          "BRA": 2637,
+          "CHN": 9230
+        },
+        "without_hosting": {
+          "world": 74842,
+          "USA": 3717,
+          "CAN": 1772,
+          "MEX": 1213,
+          "BRA": 2596,
+          "CHN": 8732
+        },
+        "without_vpn": {
+          "world": 79747,
+          "USA": 4413,
+          "CAN": 1795,
+          "MEX": 1211,
+          "BRA": 2622,
+          "CHN": 8993
+        }
+      },
+      "added": {
+        "all": {
+          "world": 251789,
+          "USA": 14806,
+          "CAN": 7253,
+          "MEX": 5407,
+          "BRA": 12830,
+          "CHN": 21898
+        },
+        "without_hosting": {
+          "world": 229446,
+          "USA": 10507,
+          "CAN": 6025,
+          "MEX": 5369,
+          "BRA": 12670,
+          "CHN": 20931
+        },
+        "without_vpn": {
+          "world": 236320,
+          "USA": 11624,
+          "CAN": 5989,
+          "MEX": 5360,
+          "BRA": 12763,
+          "CHN": 21259
+        }
+      }
+    },
+    {
+      "id": "BRA-NOR-2026-07-05",
+      "teams": [
+        "BRA",
+        "NOR"
+      ],
+      "round": "R16",
+      "kickoff_date": "2026-07-05",
+      "forecast_cutoff": "2026-07-11",
+      "outcome_end": "2026-08-01",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 11,
+      "frozen_releases": 11,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 2,
+      "raw_cache_files": 428,
+      "cache_files_sha256": "6f43549b7b1fecfe191174fe14dbeef8cc5251ae7c5bde2fcf5d4c451ad2868b",
+      "early": {
+        "all": {
+          "world": 77508,
+          "USA": 4763,
+          "CAN": 1917,
+          "MEX": 875,
+          "BRA": 1851,
+          "CHN": 7522
+        },
+        "without_hosting": {
+          "world": 66614,
+          "USA": 2818,
+          "CAN": 1403,
+          "MEX": 856,
+          "BRA": 1813,
+          "CHN": 7138
+        },
+        "without_vpn": {
+          "world": 71586,
+          "USA": 3495,
+          "CAN": 1460,
+          "MEX": 854,
+          "BRA": 1833,
+          "CHN": 7333
+        }
+      },
+      "added": {
+        "all": {
+          "world": 246373,
+          "USA": 15148,
+          "CAN": 7530,
+          "MEX": 4455,
+          "BRA": 10753,
+          "CHN": 23588
+        },
+        "without_hosting": {
+          "world": 222220,
+          "USA": 10398,
+          "CAN": 6211,
+          "MEX": 4411,
+          "BRA": 10617,
+          "CHN": 22533
+        },
+        "without_vpn": {
+          "world": 230299,
+          "USA": 11885,
+          "CAN": 6168,
+          "MEX": 4408,
+          "BRA": 10686,
+          "CHN": 22942
+        }
+      }
+    },
+    {
+      "id": "MEX-ENG-2026-07-05",
+      "teams": [
+        "MEX",
+        "ENG"
+      ],
+      "round": "R16",
+      "kickoff_date": "2026-07-05",
+      "forecast_cutoff": "2026-07-11",
+      "outcome_end": "2026-08-01",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 14,
+      "frozen_releases": 12,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 15,
+      "raw_cache_files": 454,
+      "cache_files_sha256": "32907ae9f98be94a744f0b93101986cc59b0e10761c162876e10663b83adfc56",
+      "early": {
+        "all": {
+          "world": 82253,
+          "USA": 5456,
+          "CAN": 2146,
+          "MEX": 958,
+          "BRA": 1854,
+          "CHN": 7890
+        },
+        "without_hosting": {
+          "world": 69692,
+          "USA": 3114,
+          "CAN": 1523,
+          "MEX": 920,
+          "BRA": 1811,
+          "CHN": 7445
+        },
+        "without_vpn": {
+          "world": 74901,
+          "USA": 3867,
+          "CAN": 1575,
+          "MEX": 919,
+          "BRA": 1830,
+          "CHN": 7706
+        }
+      },
+      "added": {
+        "all": {
+          "world": 239341,
+          "USA": 14757,
+          "CAN": 6913,
+          "MEX": 4347,
+          "BRA": 10391,
+          "CHN": 22545
+        },
+        "without_hosting": {
+          "world": 215866,
+          "USA": 9977,
+          "CAN": 5690,
+          "MEX": 4305,
+          "BRA": 10276,
+          "CHN": 21537
+        },
+        "without_vpn": {
+          "world": 223719,
+          "USA": 11435,
+          "CAN": 5685,
+          "MEX": 4302,
+          "BRA": 10337,
+          "CHN": 21934
+        }
+      }
+    },
+    {
+      "id": "POR-ESP-2026-07-06",
+      "teams": [
+        "POR",
+        "ESP"
+      ],
+      "round": "R16",
+      "kickoff_date": "2026-07-06",
+      "forecast_cutoff": "2026-07-12",
+      "outcome_end": "2026-08-02",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 18,
+      "frozen_releases": 17,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 8,
+      "raw_cache_files": 646,
+      "cache_files_sha256": "7f6b7caf94298dcfaf37e2683991834b37c213db76dfecd6617dfba57aad3f99",
+      "early": {
+        "all": {
+          "world": 98413,
+          "USA": 6647,
+          "CAN": 2806,
+          "MEX": 1328,
+          "BRA": 2906,
+          "CHN": 9181
+        },
+        "without_hosting": {
+          "world": 84692,
+          "USA": 4093,
+          "CAN": 2059,
+          "MEX": 1305,
+          "BRA": 2853,
+          "CHN": 8637
+        },
+        "without_vpn": {
+          "world": 90564,
+          "USA": 4998,
+          "CAN": 2131,
+          "MEX": 1303,
+          "BRA": 2880,
+          "CHN": 8941
+        }
+      },
+      "added": {
+        "all": {
+          "world": 319010,
+          "USA": 20182,
+          "CAN": 9315,
+          "MEX": 6489,
+          "BRA": 15912,
+          "CHN": 26055
+        },
+        "without_hosting": {
+          "world": 290524,
+          "USA": 13934,
+          "CAN": 7830,
+          "MEX": 6439,
+          "BRA": 15717,
+          "CHN": 24922
+        },
+        "without_vpn": {
+          "world": 299716,
+          "USA": 16000,
+          "CAN": 7739,
+          "MEX": 6429,
+          "BRA": 15800,
+          "CHN": 25308
+        }
+      }
+    },
+    {
+      "id": "USA-BEL-2026-07-06",
+      "teams": [
+        "USA",
+        "BEL"
+      ],
+      "round": "R16",
+      "kickoff_date": "2026-07-06",
+      "forecast_cutoff": "2026-07-12",
+      "outcome_end": "2026-08-02",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 17,
+      "frozen_releases": 15,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 16,
+      "raw_cache_files": 506,
+      "cache_files_sha256": "a7dfe3e6b2abd365b1429c4e6eda33ff1dd8e03f2fc4f1c9286ac3668f507d3e",
+      "early": {
+        "all": {
+          "world": 95094,
+          "USA": 6280,
+          "CAN": 2705,
+          "MEX": 1241,
+          "BRA": 2640,
+          "CHN": 8700
+        },
+        "without_hosting": {
+          "world": 81549,
+          "USA": 3910,
+          "CAN": 2000,
+          "MEX": 1215,
+          "BRA": 2579,
+          "CHN": 8214
+        },
+        "without_vpn": {
+          "world": 87270,
+          "USA": 4710,
+          "CAN": 2065,
+          "MEX": 1215,
+          "BRA": 2619,
+          "CHN": 8470
+        }
+      },
+      "added": {
+        "all": {
+          "world": 243994,
+          "USA": 15476,
+          "CAN": 7124,
+          "MEX": 4981,
+          "BRA": 11702,
+          "CHN": 19580
+        },
+        "without_hosting": {
+          "world": 220610,
+          "USA": 10518,
+          "CAN": 5921,
+          "MEX": 4940,
+          "BRA": 11586,
+          "CHN": 18615
+        },
+        "without_vpn": {
+          "world": 228156,
+          "USA": 12056,
+          "CAN": 5830,
+          "MEX": 4929,
+          "BRA": 11635,
+          "CHN": 19013
+        }
+      }
+    },
+    {
+      "id": "ARG-EGY-2026-07-07",
+      "teams": [
+        "ARG",
+        "EGY"
+      ],
+      "round": "R16",
+      "kickoff_date": "2026-07-07",
+      "forecast_cutoff": "2026-07-13",
+      "outcome_end": "2026-08-03",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 18,
+      "frozen_releases": 18,
+      "first_discovery_lag_days": 0,
+      "last_discovery_lag_days": 3,
+      "raw_cache_files": 595,
+      "cache_files_sha256": "62e3446f9e5a0b37a21abd81b1d871cd67ffbb144b29f8fbe06e1b0a0e8af06e",
+      "early": {
+        "all": {
+          "world": 133856,
+          "USA": 8860,
+          "CAN": 3700,
+          "MEX": 1673,
+          "BRA": 3802,
+          "CHN": 11685
+        },
+        "without_hosting": {
+          "world": 115766,
+          "USA": 5635,
+          "CAN": 2836,
+          "MEX": 1639,
+          "BRA": 3727,
+          "CHN": 11006
+        },
+        "without_vpn": {
+          "world": 123098,
+          "USA": 6449,
+          "CAN": 2858,
+          "MEX": 1637,
+          "BRA": 3754,
+          "CHN": 11420
+        }
+      },
+      "added": {
+        "all": {
+          "world": 336250,
+          "USA": 20983,
+          "CAN": 9620,
+          "MEX": 7291,
+          "BRA": 17685,
+          "CHN": 25790
+        },
+        "without_hosting": {
+          "world": 308542,
+          "USA": 15112,
+          "CAN": 8114,
+          "MEX": 7246,
+          "BRA": 17494,
+          "CHN": 24734
+        },
+        "without_vpn": {
+          "world": 316750,
+          "USA": 16588,
+          "CAN": 8072,
+          "MEX": 7231,
+          "BRA": 17600,
+          "CHN": 24997
+        }
+      }
+    },
+    {
+      "id": "FRA-MAR-2026-07-09",
+      "teams": [
+        "FRA",
+        "MAR"
+      ],
+      "round": "QF",
+      "kickoff_date": "2026-07-09",
+      "forecast_cutoff": "2026-07-15",
+      "outcome_end": "2026-08-05",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 9,
+      "frozen_releases": 9,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 3,
+      "raw_cache_files": 229,
+      "cache_files_sha256": "942781dd4b2541f13946aaf6f469b7114047a3449c4edbe5f05efd017af977a0",
+      "early": {
+        "all": {
+          "world": 37611,
+          "USA": 2466,
+          "CAN": 1053,
+          "MEX": 459,
+          "BRA": 1045,
+          "CHN": 3697
+        },
+        "without_hosting": {
+          "world": 31425,
+          "USA": 1394,
+          "CAN": 722,
+          "MEX": 451,
+          "BRA": 1031,
+          "CHN": 3522
+        },
+        "without_vpn": {
+          "world": 34291,
+          "USA": 1821,
+          "CAN": 747,
+          "MEX": 452,
+          "BRA": 1035,
+          "CHN": 3634
+        }
+      },
+      "added": {
+        "all": {
+          "world": 163336,
+          "USA": 10221,
+          "CAN": 4917,
+          "MEX": 3353,
+          "BRA": 7313,
+          "CHN": 14651
+        },
+        "without_hosting": {
+          "world": 145872,
+          "USA": 6851,
+          "CAN": 3977,
+          "MEX": 3322,
+          "BRA": 7212,
+          "CHN": 13934
+        },
+        "without_vpn": {
+          "world": 152250,
+          "USA": 8037,
+          "CAN": 3958,
+          "MEX": 3317,
+          "BRA": 7265,
+          "CHN": 14277
+        }
+      }
+    },
+    {
+      "id": "ESP-BEL-2026-07-10",
+      "teams": [
+        "ESP",
+        "BEL"
+      ],
+      "round": "QF",
+      "kickoff_date": "2026-07-10",
+      "forecast_cutoff": "2026-07-16",
+      "outcome_end": "2026-08-06",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 19,
+      "frozen_releases": 17,
+      "first_discovery_lag_days": 2,
+      "last_discovery_lag_days": 11,
+      "raw_cache_files": 480,
+      "cache_files_sha256": "a024c342b9962a8152bdacc4b2c2e6e16f811415667472aa1dd39a7f19559e87",
+      "early": {
+        "all": {
+          "world": 93552,
+          "USA": 6069,
+          "CAN": 2920,
+          "MEX": 1354,
+          "BRA": 3176,
+          "CHN": 9812
+        },
+        "without_hosting": {
+          "world": 79876,
+          "USA": 3678,
+          "CAN": 2178,
+          "MEX": 1338,
+          "BRA": 3106,
+          "CHN": 9291
+        },
+        "without_vpn": {
+          "world": 85643,
+          "USA": 4536,
+          "CAN": 2200,
+          "MEX": 1337,
+          "BRA": 3143,
+          "CHN": 9580
+        }
+      },
+      "added": {
+        "all": {
+          "world": 306493,
+          "USA": 19358,
+          "CAN": 8802,
+          "MEX": 6337,
+          "BRA": 14704,
+          "CHN": 25178
+        },
+        "without_hosting": {
+          "world": 279539,
+          "USA": 13548,
+          "CAN": 7428,
+          "MEX": 6296,
+          "BRA": 14534,
+          "CHN": 24087
+        },
+        "without_vpn": {
+          "world": 288508,
+          "USA": 15597,
+          "CAN": 7367,
+          "MEX": 6284,
+          "BRA": 14612,
+          "CHN": 24480
+        }
+      }
+    },
+    {
+      "id": "ARG-SUI-2026-07-11",
+      "teams": [
+        "ARG",
+        "SUI"
+      ],
+      "round": "QF",
+      "kickoff_date": "2026-07-11",
+      "forecast_cutoff": "2026-07-17",
+      "outcome_end": "2026-08-07",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 17,
+      "frozen_releases": 15,
+      "first_discovery_lag_days": 2,
+      "last_discovery_lag_days": 9,
+      "raw_cache_files": 516,
+      "cache_files_sha256": "8478bdc962c5c2807475a8b5fc065048fdd7f51796969f690aebd6c50fb6b0cb",
+      "early": {
+        "all": {
+          "world": 117159,
+          "USA": 6935,
+          "CAN": 3231,
+          "MEX": 1787,
+          "BRA": 4034,
+          "CHN": 10390
+        },
+        "without_hosting": {
+          "world": 101037,
+          "USA": 4308,
+          "CAN": 2462,
+          "MEX": 1761,
+          "BRA": 3971,
+          "CHN": 9797
+        },
+        "without_vpn": {
+          "world": 108053,
+          "USA": 5192,
+          "CAN": 2518,
+          "MEX": 1762,
+          "BRA": 4007,
+          "CHN": 10158
+        }
+      },
+      "added": {
+        "all": {
+          "world": 313900,
+          "USA": 19886,
+          "CAN": 9428,
+          "MEX": 6719,
+          "BRA": 15845,
+          "CHN": 25190
+        },
+        "without_hosting": {
+          "world": 286956,
+          "USA": 14145,
+          "CAN": 7996,
+          "MEX": 6666,
+          "BRA": 15658,
+          "CHN": 24088
+        },
+        "without_vpn": {
+          "world": 295414,
+          "USA": 15859,
+          "CAN": 7927,
+          "MEX": 6660,
+          "BRA": 15751,
+          "CHN": 24399
+        }
+      }
+    },
+    {
+      "id": "NOR-ENG-2026-07-11",
+      "teams": [
+        "NOR",
+        "ENG"
+      ],
+      "round": "QF",
+      "kickoff_date": "2026-07-11",
+      "forecast_cutoff": "2026-07-17",
+      "outcome_end": "2026-08-07",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 18,
+      "frozen_releases": 17,
+      "first_discovery_lag_days": 2,
+      "last_discovery_lag_days": 10,
+      "raw_cache_files": 518,
+      "cache_files_sha256": "6d6448a518c431c71f08b6bc2fa8ccfdf20c558172ac270acaa0ec4ee6249ac6",
+      "early": {
+        "all": {
+          "world": 96370,
+          "USA": 5937,
+          "CAN": 2728,
+          "MEX": 1280,
+          "BRA": 2898,
+          "CHN": 9454
+        },
+        "without_hosting": {
+          "world": 82136,
+          "USA": 3475,
+          "CAN": 2012,
+          "MEX": 1256,
+          "BRA": 2843,
+          "CHN": 8934
+        },
+        "without_vpn": {
+          "world": 88030,
+          "USA": 4320,
+          "CAN": 2060,
+          "MEX": 1255,
+          "BRA": 2870,
+          "CHN": 9247
+        }
+      },
+      "added": {
+        "all": {
+          "world": 324564,
+          "USA": 21190,
+          "CAN": 9613,
+          "MEX": 7234,
+          "BRA": 16198,
+          "CHN": 25829
+        },
+        "without_hosting": {
+          "world": 295539,
+          "USA": 14928,
+          "CAN": 8019,
+          "MEX": 7159,
+          "BRA": 16019,
+          "CHN": 24680
+        },
+        "without_vpn": {
+          "world": 305075,
+          "USA": 17027,
+          "CAN": 7996,
+          "MEX": 7148,
+          "BRA": 16097,
+          "CHN": 25036
+        }
+      }
+    },
+    {
+      "id": "ESP-FRA-2026-07-14",
+      "teams": [
+        "ESP",
+        "FRA"
+      ],
+      "round": "SF",
+      "kickoff_date": "2026-07-14",
+      "forecast_cutoff": "2026-07-20",
+      "outcome_end": "2026-08-10",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 7,
+      "frozen_releases": 7,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 4,
+      "raw_cache_files": 225,
+      "cache_files_sha256": "2eaae60a23bec779e4388f0aeaaf7e3856df124ee30181d4c31996d6f94797cc",
+      "early": {
+        "all": {
+          "world": 46408,
+          "USA": 2965,
+          "CAN": 1473,
+          "MEX": 645,
+          "BRA": 1345,
+          "CHN": 5641
+        },
+        "without_hosting": {
+          "world": 38816,
+          "USA": 1590,
+          "CAN": 1041,
+          "MEX": 627,
+          "BRA": 1327,
+          "CHN": 5411
+        },
+        "without_vpn": {
+          "world": 42123,
+          "USA": 2148,
+          "CAN": 1077,
+          "MEX": 629,
+          "BRA": 1337,
+          "CHN": 5551
+        }
+      },
+      "added": {
+        "all": {
+          "world": 96275,
+          "USA": 6526,
+          "CAN": 3004,
+          "MEX": 1848,
+          "BRA": 3859,
+          "CHN": 10799
+        },
+        "without_hosting": {
+          "world": 85053,
+          "USA": 3972,
+          "CAN": 2352,
+          "MEX": 1825,
+          "BRA": 3795,
+          "CHN": 10348
+        },
+        "without_vpn": {
+          "world": 89557,
+          "USA": 5206,
+          "CAN": 2350,
+          "MEX": 1824,
+          "BRA": 3831,
+          "CHN": 10557
+        }
+      }
+    },
+    {
+      "id": "ARG-ENG-2026-07-15",
+      "teams": [
+        "ARG",
+        "ENG"
+      ],
+      "round": "SF",
+      "kickoff_date": "2026-07-15",
+      "forecast_cutoff": "2026-07-21",
+      "outcome_end": "2026-08-11",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 17,
+      "frozen_releases": 17,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 5,
+      "raw_cache_files": 441,
+      "cache_files_sha256": "c886e7fbecaeee79b26cb19f802ed3110987cdd4412eae9038b045d3466b2f54",
+      "early": {
+        "all": {
+          "world": 56603,
+          "USA": 3809,
+          "CAN": 1741,
+          "MEX": 592,
+          "BRA": 1431,
+          "CHN": 7619
+        },
+        "without_hosting": {
+          "world": 47280,
+          "USA": 1845,
+          "CAN": 1227,
+          "MEX": 564,
+          "BRA": 1382,
+          "CHN": 7347
+        },
+        "without_vpn": {
+          "world": 51235,
+          "USA": 2580,
+          "CAN": 1248,
+          "MEX": 564,
+          "BRA": 1402,
+          "CHN": 7505
+        }
+      },
+      "added": {
+        "all": {
+          "world": 177403,
+          "USA": 12031,
+          "CAN": 5181,
+          "MEX": 3679,
+          "BRA": 7636,
+          "CHN": 18532
+        },
+        "without_hosting": {
+          "world": 158436,
+          "USA": 7314,
+          "CAN": 4188,
+          "MEX": 3643,
+          "BRA": 7556,
+          "CHN": 17808
+        },
+        "without_vpn": {
+          "world": 166064,
+          "USA": 9679,
+          "CAN": 4151,
+          "MEX": 3637,
+          "BRA": 7589,
+          "CHN": 18156
+        }
+      }
+    },
+    {
+      "id": "ESP-ARG-2026-07-19",
+      "teams": [
+        "ESP",
+        "ARG"
+      ],
+      "round": "F",
+      "kickoff_date": "2026-07-19",
+      "forecast_cutoff": "2026-07-25",
+      "outcome_end": "2026-08-15",
+      "complete": true,
+      "missing_archive_dates": [],
+      "missing_frozen_release_days": 0,
+      "catalog_releases": 28,
+      "frozen_releases": 23,
+      "first_discovery_lag_days": 1,
+      "last_discovery_lag_days": 8,
+      "raw_cache_files": 780,
+      "cache_files_sha256": "fd0c944fdeae9b9f216e4bcc737e05b3ec4b56d8b8b8d88c743d9c0daa54cf97",
+      "early": {
+        "all": {
+          "world": 148441,
+          "USA": 9264,
+          "CAN": 4374,
+          "MEX": 2528,
+          "BRA": 5765,
+          "CHN": 11996
+        },
+        "without_hosting": {
+          "world": 128823,
+          "USA": 5836,
+          "CAN": 3324,
+          "MEX": 2477,
+          "BRA": 5681,
+          "CHN": 11305
+        },
+        "without_vpn": {
+          "world": 136912,
+          "USA": 6880,
+          "CAN": 3395,
+          "MEX": 2474,
+          "BRA": 5722,
+          "CHN": 11699
+        }
+      },
+      "added": {
+        "all": {
+          "world": 410511,
+          "USA": 26674,
+          "CAN": 12091,
+          "MEX": 9202,
+          "BRA": 20661,
+          "CHN": 32166
+        },
+        "without_hosting": {
+          "world": 376665,
+          "USA": 19019,
+          "CAN": 10437,
+          "MEX": 9138,
+          "BRA": 20439,
+          "CHN": 30991
+        },
+        "without_vpn": {
+          "world": 387687,
+          "USA": 21600,
+          "CAN": 10383,
+          "MEX": 9116,
+          "BRA": 20534,
+          "CHN": 31261
+        }
+      }
+    }
+  ],
+  "scenario_anchors": {
+    "fixtures": 13,
+    "percentiles": [
+      25,
+      50,
+      75
+    ],
+    "network": {
+      "all": {
+        "world_new_ips": [
+          239341.0,
+          251789,
+          319010.0
+        ],
+        "country_new_ips": {
+          "USA": [
+            14757.0,
+            15476,
+            20182.0
+          ],
+          "CAN": [
+            6913.0,
+            7530,
+            9428.0
+          ],
+          "MEX": [
+            4347.0,
+            5407,
+            6719.0
+          ],
+          "BRA": [
+            10391.0,
+            12830,
+            15912.0
+          ],
+          "CHN": [
+            19580.0,
+            23588,
+            25790.0
+          ]
+        },
+        "country_share_pct": {
+          "USA": [
+            6.2403,
+            6.3264,
+            6.4978
+          ],
+          "CAN": [
+            2.8883,
+            2.9205,
+            3.0035
+          ],
+          "MEX": [
+            2.0341,
+            2.0676,
+            2.1474
+          ],
+          "BRA": [
+            4.3645,
+            4.7975,
+            5.033
+          ],
+          "CHN": [
+            8.0248,
+            8.2149,
+            9.4196
+          ]
+        },
+        "historical_reference_for_2027": {
+          "added_ips_per_frozen_release": 18144.1217,
+          "added_ips_per_early_ip": 2.93164,
+          "mean_fixture_share_pct": {
+            "USA": 6.3538,
+            "CAN": 2.9507,
+            "MEX": 2.057,
+            "BRA": 4.7311,
+            "CHN": 8.7861
+          }
+        }
+      },
+      "without_hosting": {
+        "world_new_ips": [
+          215866.0,
+          229446,
+          290524.0
+        ],
+        "country_new_ips": {
+          "USA": [
+            9977.0,
+            10518,
+            14145.0
+          ],
+          "CAN": [
+            5690.0,
+            6211,
+            7996.0
+          ],
+          "MEX": [
+            4305.0,
+            5369,
+            6666.0
+          ],
+          "BRA": [
+            10276.0,
+            12670,
+            15717.0
+          ],
+          "CHN": [
+            18615.0,
+            22533,
+            24680.0
+          ]
+        },
+        "country_share_pct": {
+          "USA": [
+            4.67,
+            4.7677,
+            4.8979
+          ],
+          "CAN": [
+            2.6433,
+            2.6951,
+            2.7653
+          ],
+          "MEX": [
+            2.2163,
+            2.2773,
+            2.34
+          ],
+          "BRA": [
+            4.7777,
+            5.2518,
+            5.4263
+          ],
+          "CHN": [
+            8.3943,
+            8.6167,
+            9.977
+          ]
+        },
+        "historical_reference_for_2027": {
+          "added_ips_per_frozen_release": 16482.8995,
+          "added_ips_per_early_ip": 3.10735,
+          "mean_fixture_share_pct": {
+            "USA": 4.7847,
+            "CAN": 2.7022,
+            "MEX": 2.2515,
+            "BRA": 5.1592,
+            "CHN": 9.2939
+          }
+        }
+      },
+      "without_vpn": {
+        "world_new_ips": [
+          223719.0,
+          236320,
+          299716.0
+        ],
+        "country_new_ips": {
+          "USA": [
+            11435.0,
+            12056,
+            16000.0
+          ],
+          "CAN": [
+            5685.0,
+            6168,
+            7927.0
+          ],
+          "MEX": [
+            4302.0,
+            5360,
+            6660.0
+          ],
+          "BRA": [
+            10337.0,
+            12763,
+            15800.0
+          ],
+          "CHN": [
+            19013.0,
+            22942,
+            24997.0
+          ]
+        },
+        "country_share_pct": {
+          "USA": [
+            5.2369,
+            5.3384,
+            5.5715
+          ],
+          "CAN": [
+            2.5484,
+            2.5821,
+            2.624
+          ],
+          "MEX": [
+            2.145,
+            2.1787,
+            2.2681
+          ],
+          "BRA": [
+            4.6401,
+            5.0996,
+            5.2965
+          ],
+          "CHN": [
+            8.2593,
+            8.485,
+            9.8043
+          ]
+        },
+        "historical_reference_for_2027": {
+          "added_ips_per_frozen_release": 17034.4709,
+          "added_ips_per_early_ip": 2.99921,
+          "mean_fixture_share_pct": {
+            "USA": 5.3768,
+            "CAN": 2.5922,
+            "MEX": 2.1712,
+            "BRA": 5.0137,
+            "CHN": 9.1187
+          }
+        }
+      }
+    }
+  },
+  "backtest": {
+    "date_safe": {
+      "fixed_rules": {
+        "all": {
+          "all_complete": {
+            "fixtures": 20,
+            "world_mae_ips_at_constant_daily_arrivals": 36330.6,
+            "share_mae_pp": {
+              "USA": 0.49596,
+              "CAN": 0.18091,
+              "MEX": 0.64855,
+              "BRA": 1.74623,
+              "CHN": 1.22941
+            },
+            "share_volume_weighted_mae_pp": {
+              "USA": 0.4023,
+              "CAN": 0.16721,
+              "MEX": 0.67628,
+              "BRA": 1.80163,
+              "CHN": 1.21604
+            }
+          },
+          "common_rounds": {
+            "fixtures": 13,
+            "world_mae_ips_at_constant_daily_arrivals": 30306.53846,
+            "share_mae_pp": {
+              "USA": 0.32439,
+              "CAN": 0.16975,
+              "MEX": 0.72707,
+              "BRA": 1.79299,
+              "CHN": 1.20409
+            },
+            "share_volume_weighted_mae_pp": {
+              "USA": 0.32851,
+              "CAN": 0.16368,
+              "MEX": 0.72222,
+              "BRA": 1.80965,
+              "CHN": 1.16691
+            }
+          }
+        },
+        "without_hosting": {
+          "all_complete": {
+            "fixtures": 20,
+            "world_mae_ips_at_constant_daily_arrivals": 33159.95,
+            "share_mae_pp": {
+              "USA": 0.39812,
+              "CAN": 0.29577,
+              "MEX": 0.65398,
+              "BRA": 1.75553,
+              "CHN": 1.87899
+            },
+            "share_volume_weighted_mae_pp": {
+              "USA": 0.36184,
+              "CAN": 0.28854,
+              "MEX": 0.67606,
+              "BRA": 1.80026,
+              "CHN": 1.81652
+            }
+          },
+          "common_rounds": {
+            "fixtures": 13,
+            "world_mae_ips_at_constant_daily_arrivals": 26762.92308,
+            "share_mae_pp": {
+              "USA": 0.3753,
+              "CAN": 0.26977,
+              "MEX": 0.72951,
+              "BRA": 1.78593,
+              "CHN": 1.82238
+            },
+            "share_volume_weighted_mae_pp": {
+              "USA": 0.36728,
+              "CAN": 0.26954,
+              "MEX": 0.71904,
+              "BRA": 1.7959,
+              "CHN": 1.73283
+            }
+          }
+        },
+        "without_vpn": {
+          "all_complete": {
+            "fixtures": 20,
+            "world_mae_ips_at_constant_daily_arrivals": 33752.1,
+            "share_mae_pp": {
+              "USA": 0.35543,
+              "CAN": 0.2872,
+              "MEX": 0.67752,
+              "BRA": 1.80055,
+              "CHN": 1.57653
+            },
+            "share_volume_weighted_mae_pp": {
+              "USA": 0.32832,
+              "CAN": 0.27962,
+              "MEX": 0.70298,
+              "BRA": 1.85215,
+              "CHN": 1.55059
+            }
+          },
+          "common_rounds": {
+            "fixtures": 13,
+            "world_mae_ips_at_constant_daily_arrivals": 27428.76923,
+            "share_mae_pp": {
+              "USA": 0.35936,
+              "CAN": 0.26195,
+              "MEX": 0.75307,
+              "BRA": 1.83915,
+              "CHN": 1.55233
+            },
+            "share_volume_weighted_mae_pp": {
+              "USA": 0.34704,
+              "CAN": 0.26334,
+              "MEX": 0.74592,
+              "BRA": 1.85293,
+              "CHN": 1.49827
+            }
+          }
+        }
+      },
+      "mature_earlier_round_training_counts": {
+        "CAN-MAR-2026-07-04": 0,
+        "BRA-NOR-2026-07-05": 0,
+        "MEX-ENG-2026-07-05": 0,
+        "POR-ESP-2026-07-06": 0,
+        "USA-BEL-2026-07-06": 0,
+        "ARG-EGY-2026-07-07": 0,
+        "FRA-MAR-2026-07-09": 0,
+        "ESP-BEL-2026-07-10": 0,
+        "ARG-SUI-2026-07-11": 0,
+        "NOR-ENG-2026-07-11": 0,
+        "ESP-FRA-2026-07-14": 0,
+        "ARG-ENG-2026-07-15": 0,
+        "ESP-ARG-2026-07-19": 0
+      },
+      "common_rounds_with_mature_training": 0
+    },
+    "earlier_round_hindcast": {
+      "common_round_fixtures": 13,
+      "network": {
+        "all": {
+          "volume_mae_ips": {
+            "release_count_rate": 32686.69131,
+            "early_ip_rate": 60358.46049
+          },
+          "prior_mean_share_mae_pp": {
+            "USA": 0.25272,
+            "CAN": 0.07311,
+            "MEX": 0.18092,
+            "BRA": 0.45518,
+            "CHN": 0.94666
+          },
+          "prior_mean_share_volume_weighted_mae_pp": {
+            "USA": 0.22793,
+            "CAN": 0.06241,
+            "MEX": 0.20205,
+            "BRA": 0.48451,
+            "CHN": 0.88891
+          }
+        },
+        "without_hosting": {
+          "volume_mae_ips": {
+            "release_count_rate": 31086.28161,
+            "early_ip_rate": 55165.42742
+          },
+          "prior_mean_share_mae_pp": {
+            "USA": 0.14034,
+            "CAN": 0.10187,
+            "MEX": 0.17851,
+            "BRA": 0.42234,
+            "CHN": 1.10576
+          },
+          "prior_mean_share_volume_weighted_mae_pp": {
+            "USA": 0.16364,
+            "CAN": 0.10339,
+            "MEX": 0.19786,
+            "BRA": 0.45051,
+            "CHN": 1.03667
+          }
+        },
+        "without_vpn": {
+          "volume_mae_ips": {
+            "release_count_rate": 31028.96194,
+            "early_ip_rate": 56768.52303
+          },
+          "prior_mean_share_mae_pp": {
+            "USA": 0.25342,
+            "CAN": 0.10449,
+            "MEX": 0.18375,
+            "BRA": 0.45654,
+            "CHN": 1.04989
+          },
+          "prior_mean_share_volume_weighted_mae_pp": {
+            "USA": 0.23,
+            "CAN": 0.10899,
+            "MEX": 0.2046,
+            "BRA": 0.48411,
+            "CHN": 0.9918
+          }
+        }
+      },
+      "training_fixtures_by_round": {
+        "R16": 7,
+        "QF": 13,
+        "SF": 17,
+        "F": 19
+      }
+    }
+  }
+}

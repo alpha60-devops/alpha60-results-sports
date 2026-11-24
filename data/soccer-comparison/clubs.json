@@ -1,0 +1,256 @@
+{
+  "schema": "alpha60-stage10-club-comparison/1",
+  "research_cutoff": "2026-11-24",
+  "regular_season_players_2026": {
+    "MLS": {
+      "unique_players": 879,
+      "player_club_pairs": 916,
+      "multiple_club_players": 37,
+      "starts": 11220,
+      "appearances": 15745,
+      "regular_season_fixtures": 510,
+      "clubs": {
+        "Atlanta": 35,
+        "Austin": 28,
+        "Charlotte": 26,
+        "Chicago": 32,
+        "Cincinnati": 29,
+        "Colorado": 32,
+        "Columbus": 33,
+        "D.C. United": 27,
+        "Dallas": 28,
+        "Houston": 27,
+        "Kansas City": 30,
+        "LA Galaxy": 30,
+        "LAFC": 34,
+        "Miami": 29,
+        "Minnesota": 30,
+        "Montréal": 32,
+        "Nashville": 24,
+        "New England": 32,
+        "New York": 34,
+        "New York City": 30,
+        "Orlando": 31,
+        "Philadelphia": 30,
+        "Portland": 26,
+        "Salt Lake": 35,
+        "San Diego": 33,
+        "San Jose": 29,
+        "Seattle": 32,
+        "St. Louis": 32,
+        "Toronto": 34,
+        "Vancouver": 32
+      },
+      "player_appearance_ledger_sha256": "187d4aa9bb13e7a714634310ec35f988ba13c8dbff7153c5341bdf63a0b2e86d",
+      "definition": "Distinct Sportec player_id with matches_played above zero in MLS-COM-000001 and MLS-SEA-0001KA. Sum separate club rows for a transferred player.",
+      "source_rows": 1053,
+      "zero_appearance_rows": 137,
+      "local_match_dates": [
+        "2026-02-21",
+        "2026-11-07"
+      ],
+      "sources": [
+        "mls-stats-page",
+        "mls-stats-api",
+        "mls-season-id",
+        "mls-fixtures-api",
+        "mls-rules"
+      ]
+    },
+    "NWSL": {
+      "unique_players": 404,
+      "player_club_pairs": 420,
+      "multiple_club_players": 16,
+      "starts": 5280,
+      "appearances": 7401,
+      "regular_season_fixtures": 240,
+      "clubs": {
+        "Angel City FC": 24,
+        "Bay FC": 28,
+        "Boston Legacy FC": 27,
+        "Chicago Stars FC": 28,
+        "Denver Summit FC": 22,
+        "Gotham FC": 31,
+        "Houston Dash": 26,
+        "Kansas City Current": 26,
+        "North Carolina Courage": 29,
+        "Orlando Pride": 28,
+        "Portland Thorns FC": 28,
+        "Racing Louisville FC": 23,
+        "San Diego Wave FC": 27,
+        "Seattle Reign FC": 23,
+        "Utah Royals FC": 26,
+        "Washington Spirit": 24
+      },
+      "player_appearance_ledger_sha256": "3f0d04308337c1bab40625bbfec7c6f198ca15ceac8df638fe6e5d0d774fb5f7",
+      "definition": "Union of starting players and entrants in completed regular-season Matchday fixtures. Resolve both sides of substitutions to the persistent Opta providerId. Unused substitutes and playoff fixtures are excluded.",
+      "local_match_dates": [
+        "2026-03-13",
+        "2026-11-01"
+      ],
+      "postseason_fixtures_checked": 7,
+      "postseason_appearances": 204,
+      "postseason_only_players": 1,
+      "season_leaderboard_appearances_including_playoffs": 7605,
+      "validation": "Every player's regular and playoff appearance sum reconciles to the league season leaderboard. One name can have multiple league player IDs.",
+      "sources": [
+        "nwsl-stats-page",
+        "nwsl-fixtures-api",
+        "nwsl-lineup-api",
+        "nwsl-stats-api"
+      ]
+    }
+  },
+  "club_revenue_2025": {
+    "MLS": {
+      "season": 2025,
+      "unit": "USD millions",
+      "rounding": "nearest million, per club",
+      "clubs_covered": 30,
+      "median": 75.0,
+      "minimum": 46,
+      "maximum": 200,
+      "sum_of_club_estimates": 2464,
+      "by_club": {
+        "Atlanta United FC": 105,
+        "Austin FC": 94,
+        "CF Montréal": 48,
+        "Charlotte FC": 85,
+        "Chicago Fire FC": 64,
+        "Colorado Rapids": 50,
+        "Columbus Crew": 80,
+        "D.C. United": 99,
+        "FC Cincinnati": 82,
+        "FC Dallas": 59,
+        "Houston Dynamo FC": 72,
+        "Inter Miami CF": 200,
+        "LA Galaxy": 106,
+        "LAFC": 167,
+        "Minnesota United FC": 68,
+        "Nashville SC": 70,
+        "New England Revolution": 60,
+        "New York City FC": 90,
+        "New York Red Bulls": 75,
+        "Orlando City SC": 50,
+        "Philadelphia Union": 80,
+        "Portland Timbers": 69,
+        "Real Salt Lake": 54,
+        "San Diego FC": 93,
+        "San Jose Earthquakes": 68,
+        "Seattle Sounders FC": 100,
+        "Sporting Kansas City": 81,
+        "St. Louis City SC": 75,
+        "Toronto FC": 74,
+        "Vancouver Whitecaps FC": 46
+      },
+      "published": "2026-02-13",
+      "scope": "All 30 clubs active in 2025, including expansion club San Diego. Forbes excludes playoffs, competitions with no guaranteed participation, player transfers and shared MLS distributions.",
+      "source": "mls-forbes"
+    },
+    "NWSL": {
+      "season": 2025,
+      "unit": "USD millions",
+      "rounding": "nearest million, per club",
+      "clubs_covered": 14,
+      "median": 15.0,
+      "minimum": 7,
+      "maximum": 38,
+      "sum_of_club_estimates": 253,
+      "by_club": {
+        "Angel City FC": 38,
+        "Bay FC": 23,
+        "Chicago Stars FC": 7,
+        "Gotham FC": 11,
+        "Houston Dash": 10,
+        "Kansas City Current": 38,
+        "North Carolina Courage": 12,
+        "Orlando Pride": 11,
+        "Portland Thorns": 24,
+        "Racing Louisville FC": 10,
+        "San Diego Wave FC": 24,
+        "Seattle Reign FC": 18,
+        "Utah Royals": 9,
+        "Washington Spirit": 18
+      },
+      "published": "2026-04-22",
+      "scope": "All 14 clubs active in 2025. Forbes excludes playoffs, non-league games and player transfers. Boston and Denver began play in 2026. The article does not state a separate treatment of shared league distributions.",
+      "source": "nwsl-forbes"
+    }
+  },
+  "league_office_revenue_2025": {
+    "MLS": null,
+    "NWSL": null,
+    "scope": "Comparable league-office totals were not disclosed by the sources used here. The club rows measure team revenue and the reported media packages include only particular rights and services.",
+    "nwsl_cba_basis": "Section 8.14 deducts the value of promotion and broadcast production expenses from gross national and international media income. For the team revenue share, combine that amount with adjusted sponsorship income, take ten percent, and divide by the applicable team count.",
+    "source": "nwslpa-cba"
+  },
+  "other_competitions": [
+    {
+      "competition": "2026 MLS Cup Playoffs",
+      "mls_clubs": 18,
+      "source": "mls-playoffs"
+    },
+    {
+      "competition": "2026 Leagues Cup",
+      "mls_clubs": 18,
+      "liga_mx_clubs": 18,
+      "source": "leagues-cup"
+    },
+    {
+      "competition": "2026 U.S. Open Cup",
+      "mls_clubs": 16,
+      "source": "open-cup"
+    },
+    {
+      "competition": "2026 Concacaf Champions Cup",
+      "mls_clubs": 9,
+      "source": "concacaf-cup"
+    },
+    {
+      "competition": "2026 NWSL Playoffs",
+      "nwsl_clubs": 8,
+      "fixtures": 7,
+      "source": "nwsl-footprint"
+    },
+    {
+      "competition": "2026 NWSL Challenge Cup",
+      "nwsl_clubs": 2,
+      "fixtures": 1,
+      "teams": [
+        "Gotham FC",
+        "Kansas City Current"
+      ],
+      "source": "challenge-cup"
+    }
+  ],
+  "federation_finances": {
+    "entity": "United States Soccer Federation, Inc. and subsidiaries",
+    "line_item": "Sponsorships, licensing and fan engagement",
+    "unit": "USD",
+    "year_ended_2026_03_31": 167664629,
+    "year_ended_2025_03_31": 121056791,
+    "scope": "Consolidated, audited. Note 2 includes broadcast licensing in a category that also covers sponsorships, licensing, royalties and fan engagement. No separate USMNT or USWNT fee is stated.",
+    "source": "ussf-audit"
+  },
+  "sources": {
+    "mls-forbes": "https://www.forbes.com/sites/justinbirnbaum/2026/02/13/the-most-valuable-mls-teams-2026/",
+    "nwsl-forbes": "https://www.forbes.com/sites/brettknight/2026/04/22/the-nwsls-most-valuable-teams-2026/",
+    "mls-stats-page": "https://www.mlssoccer.com/stats/players/",
+    "mls-season-id": "https://dapi.mlssoccer.com/v2/content/en-us/seasons/mls-regular-season-2026",
+    "mls-stats-api": "https://sportapi.mlssoccer.com/api/stats/players/competition/MLS-COM-000001/season/MLS-SEA-0001KA/order/matches_played/desc?pageSize=1000&page=1",
+    "mls-fixtures-api": "https://stats-api.mlssoccer.com/matches/seasons/MLS-SEA-0001KA?competition_id=MLS-COM-000001&match_date%5Bgte%5D=2026-02-01&match_date%5Blte%5D=2026-11-10&per_page=1000",
+    "mls-rules": "https://www.mlssoccer.com/news/2026-mls-competition-guidelines",
+    "nwsl-stats-page": "https://www.nwslsoccer.com/stats/players/all",
+    "nwsl-fixtures-api": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/multipleSeasonMatches?locale=en-US&seasonIds=nwsl::Football_Season::0b6761e4701749f593690c0f338da74c&startDate=01/01/2026&endDate=11/23/2026",
+    "nwsl-stats-api": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/stats/players?locale=en-US&category=general&role=all&direction=desc&page=1&pageNumElement=1000",
+    "nwsl-lineup-api": "https://api-sdp.nwslsoccer.com/v1/nwsl/football/seasons/nwsl::Football_Season::0b6761e4701749f593690c0f338da74c/matches/nwsl::Football_Match::834675f37cea4328bece6743d94c7d2d/lineups?locale=en-US",
+    "mls-playoffs": "https://www.mlssoccer.com/news/every-team-qualified-audi-2026-mls-cup-playoffs",
+    "leagues-cup": "https://www.mlssoccer.com/news/leagues-cup-2026-which-mls-teams-will-compete",
+    "open-cup": "https://www.mlssoccer.com/news/2026-us-open-cup-which-mls-teams-will-compete",
+    "concacaf-cup": "https://www.mlssoccer.com/competitions/concacaf-champions-cup/news/concacaf-champions-cup-2026-which-teams-have-qualified-key-dates",
+    "nwsl-footprint": "https://www.nwslsoccer.com/news/nwsl-announces-2026-schedule-footprint",
+    "challenge-cup": "https://www.nwslsoccer.com/news/gotham-fc-win-nwsl-challenge-cup-presented-by-e-l-f-behind-goals-from-esther-gonzalez-jordynn-dudley",
+    "ussf-audit": "https://cdn.sanity.io/files/oyf3dba6/production/ff663ede1fc4ea4281b94f2d5c9a47902cf57fe1.pdf",
+    "nwslpa-cba": "https://www.nwslplayers.com/_files/ugd/84dade_0b675d2ffb2048f8b89257555a35f231.pdf"
+  }
+}
