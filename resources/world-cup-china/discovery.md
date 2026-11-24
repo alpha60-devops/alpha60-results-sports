@@ -48,7 +48,7 @@ Track **fixtures with at least one verified Spanish audio asset**, **fixtures wi
 <a id="streaming-torrents-and-other-sources"></a>
 <a id="streaming-iptv-torrents-and-downloadable-files"></a>
 
-The [emergent IPTV report](world-cup-emergent-iptv.html) explains how live feeds can become replay files and what each delivery path lets the study measure.
+[IPTV Emergent](world-cup-emergent-iptv.html) explains how live feeds can become replay files and what each delivery path lets the study measure.
 
 ## Non-torrent sources for the 2027 study
 

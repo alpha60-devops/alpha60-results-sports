@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "EUR-27 and World Cup distribution"
+title: "EUR-27 And World Cup Distribution"
 ---
 
 <link rel="stylesheet" href="../resources/world-cup-stage1/report.css">
@@ -8,11 +8,11 @@ title: "EUR-27 and World Cup distribution"
 <link rel="stylesheet" href="../resources/world-cup-eur-27.css">
 <article class="wc-report" markdown="1">
 
-<nav class="wc-nav" aria-label="World Cup reports"><a href="world-cup.html">Overview</a><a href="world-cup-swarm-media.html">Formats and resolution</a><a href="world-cup-languages.html">Audio and subtitles</a><a href="world-cup-distro-en-es-fr.html">Language and geography</a><a href="world-cup-distro-usa-mex.html">North America and matches</a><a href="world-cup-ott-vendors.html">Broadcasters and services</a><a href="world-cup-asia-28.html">Asia-28 and China</a><a href="world-cup-southern.html">Latin America and South America</a><a href="world-cup-eur-27.html" aria-current="page">EUR-27</a><a href="world-cup-2027-thoughts.html">Preparing for 2027</a></nav>
+<nav class="wc-nav" aria-label="World Cup reports"><a href="world-cup.html">Overview</a><a href="world-cup-swarm-media.html">Formats And Resolution</a><a href="world-cup-languages.html">Audio And Subtitles</a><a href="world-cup-distro-en-es-fr.html">Language And Geography</a><a href="world-cup-distro-usa-mex.html">North America And Matches</a><a href="world-cup-ott-vendors.html">Broadcasters And Services</a><a href="world-cup-asia-28.html">Asia-28 And China</a><a href="world-cup-southern.html">Latin America And South America</a><a href="world-cup-eur-27.html" aria-current="page">EUR-27</a><a href="world-cup-2027-thoughts.html">Preparing For 2027</a></nav>
 
 <p class="wc-kicker">World Cup 2026 · EUR-27 · November 11, 2026</p>
 
-# EUR-27 and World Cup distribution
+# EUR-27 And World Cup Distribution
 
 **EUR-27 accounts for 16,343,635 retained downloader memberships (28.97% of the world total)
 and 111,970 uploader memberships (20.75%).** France leads downloader counts;

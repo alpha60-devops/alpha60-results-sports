@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "emergent IPTV"
+title: "IPTV Emergent"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
 description: "How live World Cup feeds can become replay files, and what stream listings, torrent peers and file hosts can tell us about a match."
 ---
@@ -11,9 +11,11 @@ description: "How live World Cup feeds can become replay files, and what stream 
 
 [![Alpha60](../resources/a60-logo-block-gray.simple.svg)](world-cup.html)
 
-<nav class="wc-nav" aria-label="World Cup research"><a href="world-cup.html#broadcast-and-2027">World Cup research index</a><a href="world-cup-ott-vendors.html">Broadcasters and services</a></nav>
+<nav class="wc-nav" aria-label="World Cup research"><a href="world-cup.html#broadcast-and-2027">World Cup research index</a><a href="world-cup-ott-vendors.html">Broadcasters And Services</a></nav>
 
-# emergent IPTV
+<a id="emergent-iptv"></a>
+
+# IPTV Emergent
 
 Internet Protocol television (IPTV) delivers television over IP networks. Licensed services and unauthorized restreamers both use it. A World Cup match can circulate as a live stream, a downloadable file and an on-demand replay. Each leaves a different record of where and when the match was available.
 
@@ -42,6 +44,6 @@ Many stream listings alongside little torrent activity could reflect a shift to 
 
 The European Union Intellectual Property Office uses visits to IPTV registration websites as a measure of interest and models possible user counts separately. Applying its European estimates to a particular World Cup match, or to viewers in Brazil or China, would require match- and territory-specific evidence. [EUIPO study and methodology](https://www.euipo.europa.eu/es/publications/online-copyright-infringement-in-the-european-union-films-music-publications-software-and-tv-2017-2023)
 
-The proposed 2027 pilot pairs live availability checks with later observations of replay files for the same fixtures. [Preparing for 2027](world-cup-2027-thoughts.html#non-torrent-sources-for-the-2027-study)
+The proposed 2027 pilot pairs live availability checks with later observations of replay files for the same fixtures. [Preparing For 2027](world-cup-2027-thoughts.html#non-torrent-sources-for-the-2027-study)
 
 </article>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Preparing for the 2027 World Cup"
+title: "Preparing For The 2027 World Cup"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
 description: "Begin before the opening match, track discovery and sampling coverage, and probe languages per file and track. Treat the 2026 findings as design evidence rather than a forecast of 2027 viewers."
 ---
@@ -10,11 +10,11 @@ description: "Begin before the opening match, track discovery and sampling cover
 
 [![Alpha60](../resources/a60-logo-block-gray.simple.svg)](world-cup.html)
 
-<nav class="wc-nav" aria-label="World Cup reports"><a href="world-cup.html">Overview</a><a href="world-cup-swarm-media.html">Formats and resolution</a><a href="world-cup-languages.html">Audio and subtitles</a><a href="world-cup-distro-en-es-fr.html">Language and geography</a><a href="world-cup-distro-usa-mex.html">North America and matches</a><a href="world-cup-ott-vendors.html">Broadcasters and services</a><a href="world-cup-asia-28.html">Asia-28 and China</a><a href="world-cup-southern.html">Latin America and South America</a><a href="world-cup-eur-27.html">EUR-27</a><a href="world-cup-2027-thoughts.html" aria-current="page">Preparing for 2027</a></nav>
+<nav class="wc-nav" aria-label="World Cup reports"><a href="world-cup.html">Overview</a><a href="world-cup-swarm-media.html">Formats And Resolution</a><a href="world-cup-languages.html">Audio And Subtitles</a><a href="world-cup-distro-en-es-fr.html">Language And Geography</a><a href="world-cup-distro-usa-mex.html">North America And Matches</a><a href="world-cup-ott-vendors.html">Broadcasters And Services</a><a href="world-cup-asia-28.html">Asia-28 And China</a><a href="world-cup-southern.html">Latin America And South America</a><a href="world-cup-eur-27.html">EUR-27</a><a href="world-cup-2027-thoughts.html" aria-current="page">Preparing For 2027</a></nav>
 
 <p class="wc-kicker">World Cup 2026 · Stage one · November 6, 2026</p>
 
-# Preparing for the 2027 World Cup
+# Preparing For The 2027 World Cup
 
 Begin before the opening match, track discovery and sampling coverage, and probe languages per file and track. Treat the 2026 findings as design evidence rather than a forecast of 2027 viewers.
 
@@ -84,7 +84,7 @@ Track **fixtures with at least one verified Spanish audio asset**, **fixtures wi
 <a id="streaming-torrents-and-other-sources"></a>
 <a id="streaming-iptv-torrents-and-downloadable-files"></a>
 
-The [emergent IPTV report](world-cup-emergent-iptv.html) explains how live feeds can become replay files and what each delivery path lets the study measure.
+[IPTV Emergent](world-cup-emergent-iptv.html) explains how live feeds can become replay files and what each delivery path lets the study measure.
 
 ## Non-torrent sources for the 2027 study
 
