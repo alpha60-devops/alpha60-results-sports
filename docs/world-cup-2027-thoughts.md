@@ -84,9 +84,11 @@ Track **fixtures with at least one verified Spanish audio asset**, **fixtures wi
 <a id="streaming-torrents-and-other-sources"></a>
 <a id="streaming-iptv-torrents-and-downloadable-files"></a>
 
-The Round of 32 case shows how to distinguish a live channel listing, a hosted replay and a file delivered from a debrid cache. [Emergent Pirate Forms](world-cup-emergent-iptv.html)
-
 ## Non-torrent sources for the 2027 study
+
+Two France–Sweden replays show the same pre-match walkout with different marks, ITV1 and AntenaPLAY LIVE. The archive identifies both broadcaster editions. Their IPTorrents channel entries remain unknown. [Emergent Pirate Forms](world-cup-emergent-iptv.html#broadcaster-marks-in-the-round-of-32-replays)
+
+For the 2027 pilot, save the lineup at kickoff with the fixture, territory and time. For each channel observed, record its menu label and a frame at a known match moment. A capture log or an overlay unique to that entry can link it to a later replay. For a cyberlocker, compare whole-file hashes. For a debrid service, record when the matching file was confirmed in its cache. [Evidence to collect for each service](world-cup-emergent-iptv.html#what-to-record-in-2027)
 
 <div class="wc-table-wrap wc-prose-table" tabindex="0" role="region" aria-label="Discovery comparison" markdown="1">
 
@@ -112,7 +114,7 @@ Create one observation ledger keyed by source record and timestamp, linked to fi
 
 The pilot succeeds when every scheduled query has a success/error record, all candidate identities are either joined or explicitly unresolved, language decisions carry evidence, and the report exposes incremental discoveries by source and missing fixtures by language. If a source adds no verified assets, report that result rather than assuming its catalog is comprehensive. Add a separate event-time availability panel for streaming and a replay-distribution panel for files; join their content evidence without merging their audience denominators.
 
-These are implementation recommendations and documented source candidates as of November 6, 2026. No new tracker account, paid dataset, private-group access or non-torrent collection has been acquired as part of this page update.
+The November 6, 2026 access review used public documentation and lists private and paid sources as candidates for future collection. The November 25 update adds the France–Sweden replay comparison and the proposed match-time checks for 2027.
 
 [Source-check record and access limitations](../data/world-cup-china/discovery-research-sources.json).
 
