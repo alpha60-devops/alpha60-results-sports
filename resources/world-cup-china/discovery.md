@@ -48,7 +48,7 @@ Track **fixtures with at least one verified Spanish audio asset**, **fixtures wi
 <a id="streaming-torrents-and-other-sources"></a>
 <a id="streaming-iptv-torrents-and-downloadable-files"></a>
 
-The Round of 32 case shows how to distinguish a live channel listing, a hosted replay and a file delivered from a debrid cache. [World Cup Piracy Beyond BitTorrent](world-cup-emergent-iptv.html)
+The Round of 32 case shows how to distinguish a live channel listing, a hosted replay and a file delivered from a debrid cache. [Emergent Pirate Forms](world-cup-emergent-iptv.html)
 
 ## Non-torrent sources for the 2027 study
 
